@@ -26,46 +26,40 @@ Dreadwinter is an imposing yew longbow bound in iron bands that never rust, its 
 ## Properties
 
 ### Passive: Frozen Heart
-The bow is always cold to the touch. Carrying it grants resistance to cold damage and advantage on saves against fear effects.
+The bow is always cold to the touch. Carrying it grants protection against cold and courage in the face of fear — the wielder feels no chill and cannot be shaken by cold or dread.
 
 ### Passive: Never Thaw
-Arrows fired from Dreadwinter leave wounds that fester with unnatural cold. Creatures hit by the bow cannot regain hit points for 1 hour, and any healing magic is reduced by half.
+Arrows fired from Dreadwinter leave wounds that reject warmth. A creature struck by the bow cannot be healed by ordinary medicine or natural recovery for hours afterward — only magic or time measured in days, not hours, can mend what Dreadwinter tears.
 
-### Active: Frostshot (3/day)
-Channel winter itself into a single shot. On hit, the target must make a DC 17 Constitution save or be **paralyzed** for 1 round as ice crystallizes in their muscles. On a successful save, they are **slowed** for 1 round instead.
+### Active: Frostshot
+Three times per day, the wielder may draw an arrow that crystallizes the air around it. On impact, the cold spreads through the target's muscles — those who survive speak of a terrible stiffness, as if their very sinews had turned to ice.
 
-### Active: Blizzard Arrow (1/day)
-For the next minute, every shot from Dreadwinter detonates on impact in a 10-foot radius, dealing 2d8 cold damage. Targets in the radius must make a DC 15 Dexterity save or be knocked **prone**.
+### Active: Blizzard Arrow
+Once per day, the wielder may unleash the bow's full fury. For a brief span — no longer than a few breaths — every arrow fired explodes on impact in a storm of freezing wind and ice, catching nearby foes in a sudden squall.
 
 ## History
 
-Legend holds that Dreadwinter was carved from the rib of **Karak the Hollow**, an ancient frost giant who wandered into the mortal realm during the Everwinter of the Third Age. The bowyer who claimed his bones supposedly worked for seven years to hollow them into limbs, binding the giant's dying breath into the wood.
+Legend holds that Dreadwinter was carved from the rib of **Karak the Hollow**, an ancient frost titan who wandered into the mortal realm during the Everwinter of the Third Age. The bowyer who claimed his bones supposedly worked for seven years to hollow them into limbs, binding the titan's dying breath into the wood.
 
-The bow changed hands many times, always in the depths of winter, always leaving behind frozen corpses and towns that reported endless cold for years after.
+The bow changed hands many times, always in the depths of winter, always leaving behind frozen corpses and villages that reported an endless cold for years afterward.
 
 ## For the GM
 
-Dreadwinter's true danger is its passive **Never Thaw** — in a world without modern medicine, a wound that blocks healing for an hour can be a death sentence. This makes it excellent for creating recurring antagonists who survived an encounter, or for horror scenarios where a single arrow changes everything.
+Dreadwinter's true danger is its **Never Thaw** — in a world without reliable healing magic, a wound from this bow can be a death sentence even if the target escapes. This makes it excellent for:
+
+- Recurring antagonists who survived an encounter with the party
+- Horror scenarios where a single arrow changes everything
+- Campaigns where medicine and natural healing are unreliable
 
 ### Hooks
 
-- A village has been suffering an unnatural cold snap for generations. The source: a bandit buried with Dreadwinter in the local cemetery.
-- An archer seeks the bow to kill a creature that regenerates, not knowing its healing will be blocked either.
-- The Soul Keeper Brotherhood once tried to destroy Dreadwinter and failed — it's hidden in a vault beneath the coldest mountain in the world.
-
-## DMG Reference
-
-| Property | Value |
-|----------|-------|
-| Attunement | Yes (by a creature proficient in martial weapons) |
-| Rarity | Legendary |
-| Damage | 1d8 + DEX piercing + 1d6 cold |
-| Range | 150/600 ft. |
-| Weight | 3 lb. |
+- A village has suffered an unnatural cold snap for generations. The source: a bandit buried with Dreadwinter in the local cemetery.
+- An archer seeks the bow to kill a creature that regenerates, unaware that its healing will be blocked too.
+- The Soul Keeper Brotherhood once tried to destroy Dreadwinter and failed. It now rests in a vault beneath the coldest mountain in the world.
 
 ---
 
 ## TODO
 
 - [ ] Add to worldbuilding items index
-- [ ] Decide if Dreadwinter should have a lesser-known "corruption" mechanic (cold-touched wielders grow distant, stop feeling warmth)
+- [ ] Decide if Dreadwinter should have a minor corruption effect — wielders slowly stop feeling warmth, grow distant and cold in temperament
