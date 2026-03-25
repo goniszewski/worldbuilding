@@ -33,6 +33,11 @@
 - [The Unbound](factions/the-unbound.md) — Rogue binders
 - [The Merchant Tides](factions/merchant-tides.md) — Trade network
 
+### Creatures
+| Creature | Danger | Notes |
+|----------|--------|-------|
+| [Yazghur](creatures/yazghur.md) | Deadly | Shadow-stalking apex predator |
+
 ### Adventures
 | Adventure | Level | Summary |
 |-----------|-------|---------|
