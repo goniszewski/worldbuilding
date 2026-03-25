@@ -1,0 +1,28 @@
+# Gwenn Youkto Imah Vueten
+
+*Protagonist, Eridann*
+
+## Basics
+
+| Field | Value |
+|-------|-------|
+| Race | Ludzie (Humans) |
+| Sex | Female |
+| Age | 29 |
+
+## Description
+
+Black-skinned human mercenary with strange, green eyes. Pleasant but calculating, helpful but distant. Avoids conversations about her past, which is why she doesn't inspire trust—though she doesn't care about that anyway. Hard to surprise or embarrass.
+
+## Equipment
+
+- A short sword made from a strange metal alloy and ore, unusually light and elegant
+
+## Combat
+
+Combat comes easily to her; fatigue is practically invisible on her. This is especially true because she's in a trance-like state of complete focus during fights. Angar suspects she uses magic in combat, but Damara says it's impossible because she doesn't sense anything magical from Gwenn.
+
+## Notes
+
+- Elements of her attire indicate a traveling past to distant, lesser-known, and nearly undescribed lands
+- The source of her combat ability and strange sword remains mysterious

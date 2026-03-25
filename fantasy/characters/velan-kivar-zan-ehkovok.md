@@ -1,0 +1,56 @@
+# Velan Kivar Zan Ehko'vok
+
+*Protagonist, Eridann*
+
+## Basics
+
+| Field | Value |
+|-------|-------|
+| Race | Naterianie |
+| Sex | Male |
+| Age | 25 |
+| Height | 174 cm |
+
+## Description
+
+Male, typical rogue (short swords, daggers, smoke screens, etc.), later revealed to also be capable of using magic. Charming, audacious, reckless—similar to Isabela from Dragon Age 2. He fled his country after his father's death, resisting arrest (to avoid his abilities being exploited by his rulers) and betraying generally accepted principles of his people.
+
+## Skills
+
+- **Combat**: Short swords, daggers, stealth
+- **Music**: Plays two instruments (better at one, worse at the other)—flute, guitar, or lute
+- **Magic**: Hidden, untrained, deeply shamed
+
+## The Truth About His Exile
+
+Velan's true origin is tragic and layered:
+
+1. His parents wanted him to follow in his father's footsteps as a high-ranking military officer
+2. Magic abilities manifested in him over time, which they desperately tried to hide
+3. They subjected him to difficult training and various methods to suppress and hide his magic, believing it was for his own good
+4. Velan believed his parents didn't love him for who he truly was and eventually fled, joining an underground movement fighting mage segregation
+5. He was captured and imprisoned, disgracing his parents who were forced to publicly disown him to avoid being sent to labor camps
+6. His parents secretly bribed his captors to release him, but it cost them almost their entire fortune and placed them in debt to dangerous people
+7. Velan believes it was his underground "friends" who freed him (they actually forgot about him)
+8. His parents now live as shadows of their former selves, under the thumb of those who helped them
+9. This creates a powerful moment: the player can help save his parents or ignore them
+
+## Relationship with Magic
+
+- Sees magic as the root cause of what happened to him
+- Criticized Damara early on for what he considered reckless use of magic (he has no proper training)
+- Later apologizes to Damara and admits he was wrong about her
+- Under Damara's offer, begins learning to control his abilities in his free time
+- Develops a close bond with Damara (romantic if player doesn't romance either)
+- Eventually overcomes his shame and fear of magic
+
+## Relationships
+
+- **Damara Lo'Ehen** — Teaches him magic; potential romance
+- **Erin Telion z Mert** — Wary protective dynamic regarding Damara
+- **Parents** — Complicated; can potentially save them or condemn them
+
+## Notes
+
+- His combat style combines rogue techniques with untrained magical bursts
+- He doesn't understand why he can sense nothing from Gwenn despite Angar's suspicions about her using magic
