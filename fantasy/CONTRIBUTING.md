@@ -30,6 +30,7 @@ worldbuilding/fantasy/
 ├── characters/      # Named individuals (NPCs, protagonists)
 ├── factions/        # Organizations, guilds, governments
 ├── places/          # Locations (cities, regions, landmarks)
+├── items/           # Equipment, artifacts, weapons, tools
 ├── lore/            # History, mythology, magic systems, concepts
 ├── adventures/      # Quests, campaigns, storylines
 └── _index.md        # Category indexes (auto-generated navigation)
@@ -292,6 +293,53 @@ summary: "[One sentence overview]"
 
 ---
 
+### `item`
+
+**Category:** `items`
+
+**Subcategories:** `weapons`, `armor`, `artifacts`, `consumables`, `tools`
+
+**Frontmatter:**
+```yaml
+name: [Item name]
+type: item
+category: items
+tags: [type, rarity, material, tag4]
+related:
+  - creator-character
+  - owner-character
+  - related-item
+summary: "[One sentence describing what it is]"
+```
+
+**Required Sections:**
+1. Overview table (type, rarity, origin, value)
+2. Description (appearance, history, significance)
+3. Properties (stats, abilities, effects)
+4. Lore (background, related stories)
+5. Notes (GM info, acquisition, weaknesses)
+
+**Overview Table Fields:**
+| Field | Value |
+|-------|-------|
+| **Category** | Item |
+| **Type** | Weapon / Armor / Artifact / Consumable / Tool |
+| **Rarity** | Common / Uncommon / Rare / Very Rare / Legendary |
+| **Origin** | Created by / Found in / Era |
+| **Value** | Gold equivalent |
+| **Attunement** | Required / Optional / None |
+
+**Item Subtype Tags:**
+| Subtype | Examples |
+|---------|----------|
+| `weapons` | Sword, Bow, Dagger, Polearm |
+| `armor` | Chain, Plate, Shield, Helmet |
+| `artifacts` | Relics, Sentient items, Ancient objects |
+| `consumables` | Potions, Scrolls, Reagents, Food |
+| `tools` | Instruments, Containers, Keys, Maps |
+
+---
+
 ## Section Templates
 
 ### Overview Table (All Types)
@@ -374,6 +422,7 @@ summary: "[One sentence overview]"
 | Character | Full name, hyphens | `velan-kivar-zan-ehkovok.md` |
 | Faction | Short name | `silver-compact.md` |
 | Location | Common name | `torrs-gate.md` |
+| Item | Item name, hyphens | `spirit-blade.md` |
 | Lore | Topic name | `magic-systems.md` |
 
 **No:**
@@ -483,5 +532,6 @@ The [[pierwsi|Pierwsi]] are ancient.
 | `CONTRIBUTING.md` | This file - technical reference |
 | `races/_index.md` | Race category index |
 | `creatures/_index.md` | Creature category index |
+| `items/_index.md` | Item category index |
 | `_index.md` | Master wiki index |
 

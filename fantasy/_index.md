@@ -38,6 +38,11 @@
 |----------|--------|-------|
 | [Yazghur](creatures/yazghur.md) | Deadly | Shadow-stalking apex predator |
 
+### Items
+| Item | Type | Rarity | Notes |
+|------|------|--------|-------|
+| [Spirit Blade](items/artifacts/spirit-blade.md) | Weapon | Legendary | Bonds with Storm Binder |
+
 ### Adventures
 | Adventure | Level | Summary |
 |-----------|-------|---------|
