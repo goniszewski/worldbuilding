@@ -1,3 +1,23 @@
+---
+name: Damara Lo'Ehen
+type: character
+category: characters
+role: protagonist
+status: alive
+age: 30
+race: elfy
+occupation: Mage, Priest
+tags:
+  - protagonist
+  - eridann
+  - elf
+  - priest
+related:
+  - characters/velan-kivar-zan-ehkovok
+  - characters/martin-guecventrak
+summary: "Elven mage and priest, devout with extensive knowledge of her faith. Sent to convert others, treats hero as a bodyguard during her missions."
+---
+
 # Damara Lo'Ehen
 
 *Protagonist, Eridann*

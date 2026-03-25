@@ -1,3 +1,24 @@
+---
+name: Velan Kivar Zan Ehko'vok
+type: character
+category: characters
+role: protagonist
+status: alive
+age: 25
+height: 174 cm
+race: naterianie
+occupation: Rogue, Wandering Mage
+tags:
+  - protagonist
+  - eridann
+  - naterian
+related:
+  - characters/damara-loehen
+  - characters/angar
+  - characters/gwenn-youkto-imah-vueten
+summary: "Charming, audacious Naterian rogue with hidden magical abilities. Fled his homeland after discovering his arcane talents."
+---
+
 # Velan Kivar Zan Ehko'vok
 
 *Protagonist, Eridann*

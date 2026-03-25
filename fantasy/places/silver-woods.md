@@ -1,12 +1,15 @@
 ---
 name: The Silver Woods
 type: location
-region: Central Realm
-tags: [forest, sacred, compact, mysterious]
+category: places
+tags:
+  - forest
+  - sacred
+  - compact
+  - mysterious
 related:
-  - the-silver-compact
-  - silver-compact-headquarters
-  - whisperer-shrine
+  - factions/silver-compact
+  - places/whisperer-shrine
 summary: "Ancient forest of silver-leafed trees. Sacred ground and Compact HQ. Magic feels different here."
 ---
 

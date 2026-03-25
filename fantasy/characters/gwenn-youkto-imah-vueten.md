@@ -1,3 +1,23 @@
+---
+name: Gwenn Youkto Imah Vueten
+type: character
+category: characters
+role: protagonist
+status: alive
+age: 29
+race: ludzie
+occupation: Mercenary
+tags:
+  - protagonist
+  - eridann
+  - human
+  - mercenary
+related:
+  - characters/angar
+  - characters/damara-loehen
+summary: "Black-skinned human mercenary with strange, green eyes. Pleasant but calculating. Avoids conversations about her past."
+---
+
 # Gwenn Youkto Imah Vueten
 
 *Protagonist, Eridann*

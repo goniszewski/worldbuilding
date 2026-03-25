@@ -1,15 +1,16 @@
 ---
 name: The Silver Compact
 type: faction
-influence: governmental (monopoly)
-leader: Archon Vael
-headquarters: The Silver Woods, Clearing of Unmaking
-founded: 100 years Post-Sundering
-tags: [magical, political, authoritarian, monopoly]
+category: factions
+tags:
+  - magical
+  - political
+  - authoritarian
+  - monopoly
 related:
-  - archon-vael
-  - spirit-binding
-  - the-unbound
+  - characters/archon-vael
+  - lore/magic-systems
+  - factions/the-unbound
 summary: "Arcanocratic organization controlling all legal spirit binding. Maintains order through magical monopoly. Not evil, but increasingly oppressive."
 ---
 

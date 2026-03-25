@@ -26,12 +26,12 @@ Unlike the sapient races, creatures operate on instinct rather than reason. Some
 
 | Creature | Danger | Type | Notes |
 |----------|--------|------|-------|
-| [[yazghur\|Yazghur]] | **Deadly** | Spirit-Touched | Apex predator with Shadow Shroud |
+| [[creatures/yazghur\|Yazghur]] | **Deadly** | Spirit-Touched | Apex predator with Shadow Shroud |
 
 ## By Danger Level
 
 ### Deadly
-- [[yazghur|Yazghur]] — Shadow-stalking apex predator
+- [[creatures/yazghur|Yazghur]] — Shadow-stalking apex predator
 
 ### High
 - *(None documented)*
@@ -47,7 +47,7 @@ Unlike the sapient races, creatures operate on instinct rather than reason. Some
 Creatures affected by the Veil often display unusual abilities. The most common manifestation is the **Hollowing**—a process where proximity to the Veil corrupts natural creatures.
 
 ### Known Spirit-Touched
-- [[yazghur|Yazghur]] — Shadow manipulation, prey sense
+- [[creatures/yazghur|Yazghur]] — Shadow manipulation, prey sense
 
 ## GM Resources
 
@@ -65,9 +65,9 @@ Most creatures carry valuables only through accumulation:
 
 ## Related Topics
 
-- [[lore:magic-systems|Spirit Binding]] — The Veil's effect on creatures
-- [[races:pierwsi|Pierwsi]] — Possible creators of some creatures
-- [[places:ash-wastes|The Ash Wastes]] — High creature concentration
+- [[lore/magic-systems|Spirit Binding]] — The Veil's effect on creatures
+- [[races/pierwsi|Pierwsi]] — Possible creators of some creatures
+- [[places/ash-wastes|The Ash Wastes]] — High creature concentration
 
 ## TODO
 

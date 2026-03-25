@@ -2,11 +2,15 @@
 name: Naterians
 type: sapient-race
 category: races
-tags: [humanoids, distinctive, tentacle-appendages, socialist]
+tags:
+  - humanoids
+  - distinctive
+  - tentacle-appendages
+  - socialist
 related:
-  - ludzie
-  - kharatar
-  - torrs-gate
+  - races/ludzie
+  - characters/velan-kivar-zan-ehkovok
+  - places/torrs-gate
 summary: "Tall humanoids with tentacle-like appendages and scale-like skin. The most diverse-looking race."
 ---
 

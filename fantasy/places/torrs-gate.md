@@ -1,10 +1,11 @@
 ---
-title: Torr's Gate
+name: Torr's Gate
 type: location
-category: description
+category: places
 tags:
   - torrs-gate
-  - torr
+  - mountains
+  - natural-fortress
 related:
   - factions/human-kingdom
   - factions/nater-hegemony

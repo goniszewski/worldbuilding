@@ -1,3 +1,23 @@
+---
+name: Angar
+type: character
+category: characters
+role: protagonist
+status: alive
+age: 32
+height: 165 cm
+race: ludzie
+occupation: Brotherhood of the Soul Breaker
+tags:
+  - protagonist
+  - eridann
+  - human
+related:
+  - characters/damara-loehen
+  - characters/velan-kivar-zan-ehkovok
+summary: "Black-skinned member of the Brotherhood of the Soul Breaker. Honorable and steadfast, carrying the cursed sword Łamacz Dusz."
+---
+
 # Angar
 
 *Protagonist, Eridann*

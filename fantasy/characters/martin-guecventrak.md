@@ -1,3 +1,23 @@
+---
+name: Martin Guecventrak
+type: character
+category: characters
+role: protagonist
+status: alive
+age: 64
+height: 136 cm
+race: krasnoludy
+occupation: Inventor, Swordsman
+tags:
+  - protagonist
+  - eridann
+  - dwarf
+  - inventor
+related:
+  - characters/damara-loehen
+summary: "Dwarven inventor and decent swordsman. Pragmatic solutions. Main translator of scientific concepts, uses technical methodology."
+---
+
 # Martin Guecventrak
 
 *Protagonist, Eridann*

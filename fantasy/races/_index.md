@@ -63,6 +63,6 @@ All modern races evolved from the extinct **[[Pierwsi (The First Ones)|Pierwsi]]
 
 ## Related Topics
 
-- [[lore:evolution|Evolution]] — Academic understanding of race origins
-- [[lore:początek|The Beginning]] — Creation myths
-- [[Torrs Gate (Brama Torra)|Torr's Gate]] — Physical and political divide
+- [[lore/evolution|Evolution]] — Academic understanding of race origins
+- [[lore/początek|The Beginning]] — Creation myths
+- [[places/torrs-gate|Torr's Gate]] — Physical and political divide
