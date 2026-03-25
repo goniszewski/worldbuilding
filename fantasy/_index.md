@@ -32,6 +32,7 @@
 - [The Silver Compact](factions/silver-compact.md) — Magical monopoly
 - [The Unbound](factions/the-unbound.md) — Rogue binders
 - [The Merchant Tides](factions/merchant-tides.md) — Trade network
+- [The Soul Keeper Brotherhood](factions/soul-keeper-brotherhood.md) — Secret guardians of a cursed blade
 
 ### Creatures
 | Creature | Danger | Notes |

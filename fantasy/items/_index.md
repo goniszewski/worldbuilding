@@ -25,7 +25,10 @@ summary: "Index of all items in the fantasy setting."
 
 ## All Items
 
-*No items documented yet.*
+| Item | Type | Rarity | Notes |
+|------|------|--------|-------|
+| [Soul Breaker](artifacts/soul-breaker.md) | Weapon (Sword) | Legendary | Cursed blade that devours souls |
+| [Spirit Blade](artifacts/spirit-blade.md) | Weapon (Sword) | Legendary | Bonds with Storm Binders |
 
 ---
 
