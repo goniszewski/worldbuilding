@@ -30,8 +30,11 @@ summary: "Black-skinned member of the Brotherhood of the Soul Breaker. Honorable
 | Sex | Male |
 | Age | 32 |
 | Height | 165 cm |
+| Nationality | Czarnogóry |
 
-## Description
+## Appearance
+
+Black-skinned, broad-shouldered, solidly built. Wears Brotherhood insignia openly and carries [[Łamacz Dusz]] at his side. A long black coat marks him as a member of the order, weathered from years of travel.
 
 A member of the Brotherhood of the Soul Breaker trying to recover a sword from cultists. Black-skinned, honorable, steadfast, with truly fascinating stories to tell (unlike Velan's embellished tales—he constantly challenges Angar to "story-offs" and always loses). He carries the cursed sword [[Łamacz Dusz]].
 

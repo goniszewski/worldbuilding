@@ -31,8 +31,11 @@ summary: "Charming, audacious Naterian rogue with hidden magical abilities. Fled
 | Sex | Male |
 | Age | 25 |
 | Height | 174 cm |
+| Nationality | Czarnogóry |
 
-## Description
+## Appearance
+
+Tall, athletic build, dark hair, roguish charm. Wears practical leather armor with a long black coat that billows behind him.
 
 Male, typical rogue (short swords, daggers, smoke screens, etc.), later revealed to also be capable of using magic. Charming, audacious, reckless—similar to Isabela from Dragon Age 2. He fled his country after his father's death, resisting arrest (to avoid his abilities being exploited by his rulers) and betraying generally accepted principles of his people.
 
@@ -54,7 +57,7 @@ Velan's true origin is tragic and layered:
 6. His parents secretly bribed his captors to release him, but it cost them almost their entire fortune and placed them in debt to dangerous people
 7. Velan believes it was his underground "friends" who freed him (they actually forgot about him)
 8. His parents now live as shadows of their former selves, under the thumb of those who helped them
-9. This creates a powerful moment: the player can help save his parents or ignore them
+9. The Strażnicy who freed him were killed by mercenaries hired by his parents (very expensive mercenaries — because corruption in Naterian justice is nearly suicidal). His parents are now puppets in the hands of those who helped arrange the escape. This creates a powerful moment: the player can help save his parents or ignore them
 
 ## Relationship with Magic
 
@@ -64,6 +67,8 @@ Velan's true origin is tragic and layered:
 - Under Damara's offer, begins learning to control his abilities in his free time
 - Develops a close bond with Damara (romantic if player doesn't romance either)
 - Eventually overcomes his shame and fear of magic
+
+> *"The best way to keep your heart from getting broken is to pretend you don't have one."*
 
 ## Relationships
 

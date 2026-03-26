@@ -29,8 +29,11 @@ summary: "Elven mage and priest, devout with extensive knowledge of her faith. S
 | Race | Elfy (Elves) |
 | Sex | Female |
 | Age | 30 |
+| Nationality | Czarnogóry |
 
-## Description
+## Appearance
+
+Elven, middle-noble family, refined and precise in movement. Wears priestly vestments beneath a long black coat with subtle arcane embroidery at the cuffs and collar.
 
 Elven mage and priest. Very devout, with extensive knowledge of her faith and elven customs. Somewhat particular (middle nobility) but also funny. Sent to convert others, she tries hard to prove the superiority and, most importantly, the truth of her faith. Helps the hero, treating him as a kind of bodyguard during her "missions" to educate infidels. Somewhat naïve, tries to bend everything in her favor.
 
@@ -50,7 +53,7 @@ She even embroidered a small shirt for it, rather clumsily, to keep it warm. Ang
 
 ## Arc: The Sacred Lighthouse
 
-After the explosion of the Sacred Lighthouse in the elven capital (and a significant part of the city), Damara is consumed by despair and then extraordinary fury—surprising everyone. A trial for her faith.
+After the explosion of the Sacred Lighthouse in the elven capital (and a significant part of the city), Damara is first consumed by despair, then by extraordinary fury—surprising everyone around her. This becomes a trial for her faith: not just doubt, but rage at the divine silence.
 
 ## Relationships
 

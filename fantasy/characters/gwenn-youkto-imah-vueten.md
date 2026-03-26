@@ -29,8 +29,11 @@ summary: "Black-skinned human mercenary with strange, green eyes. Pleasant but c
 | Race | Ludzie (Humans) |
 | Sex | Female |
 | Age | 29 |
+| Nationality | Czarnogóry |
 
-## Description
+## Appearance
+
+Black-skinned, striking green eyes, lean and poised. Wears practical mercenary attire beneath a dark, well-worn coat. Her short sword of strange alloy hangs at her hip.
 
 Black-skinned human mercenary with strange, green eyes. Pleasant but calculating, helpful but distant. Avoids conversations about her past, which is why she doesn't inspire trust—though she doesn't care about that anyway. Hard to surprise or embarrass.
 
