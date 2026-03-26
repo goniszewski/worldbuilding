@@ -7,6 +7,17 @@ tags:
   - faith
   - theology
   - deities
+  - torr
+  - daraster
+  - lesandra
+  - pierwsza
+related:
+  - "[[origins-of-races]]"
+  - "[[pierwsza]]"
+  - "[[torr]]"
+  - "[[daraster]]"
+  - "[[lesandra]]"
+  - "[[abyss|Otchłań]]"
 summary: Four major religious systems dominate the continent — Dorenism, Oprenism, Arth'Adal, and Alar — each with radically different interpretations of the First One and her children.
 ---
 

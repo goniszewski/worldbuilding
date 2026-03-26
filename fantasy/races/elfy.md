@@ -11,7 +11,7 @@ summary: "Ancient, long-lived humanoids known for their strict principles and ad
 
 # Elfy (Elves)
 
-> Ancient, long-lived humanoids of grace and tradition.
+> Ancient, long-lived humanoids of grace and tradition, inheritors of Lesandra's blood.
 
 ## Overview
 
@@ -19,7 +19,8 @@ summary: "Ancient, long-lived humanoids known for their strict principles and ad
 |-----------|-------|
 | **Category** | Sapient Race |
 | **Polish Name** | Elfy |
-| **Evolved From** | [[Pierwsi (The First Ones)]] |
+| **Ancestor** | [[daraster|Daraster]] and [[lesandra|Lesandra]] |
+| **Origin** | [[origins-of-races|Origins of the Races]] |
 | **Adult Age** | 26 |
 | **Average Age** | 340 |
 | **Oldest Recorded** | 780 |
@@ -29,7 +30,9 @@ summary: "Ancient, long-lived humanoids known for their strict principles and ad
 
 ## Description
 
-Elves are known for their adherence to strict principles and traditions. Their long lifespans make them deliberate and principled in all dealings, earning cold respect from other races—especially the [[Naterianie (Naterians)|Naterians]].
+Elves are known for their adherence to strict principles and traditions. Their long lifespans make them deliberate and principled in all dealings, earning cold respect from other races—especially the [[naterowie|Naterians]].
+
+Their bloodline is considered the **purest** of the races — direct descendants of [[daraster|Daraster]] and [[lesandra|Lesandra]] without admixture. This purity is central to elven identity and their belief in their own superiority.
 
 ## Characteristics
 

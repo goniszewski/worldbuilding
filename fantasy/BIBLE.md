@@ -2,6 +2,19 @@
 
 > **TL;DR** — High fantasy realm where magic comes from binding elemental spirits. The Silver Compact rules through arcane monopoly. Heroes fight to preserve balance.
 
+## Origin of the Races
+
+According to legend, the world was once inhabited by the **[[Czyści]]** (Cleansed) — a peaceful, magic-free people. The transformation began with **[[pierwsza|Pierwsza]]** (The First), whose discovery of magic led to the birth of three ancestral beings:
+
+| Ancestor | Legacy |
+|----------|--------|
+| **[[torr|Torr]]** | [[naterowie|Naterians]] — warrior culture, honor-bound |
+| **[[daraster|Daraster]]** | [[ludzie|Humans]] — diverse, ambitious |
+| **[[lesandra|Lesandra]]** | [[elfy|Elves]] — pure blood, magical affinity |
+| **Forbidden unions** | [[krasnoludy|Krasnoludy]] — driven underground |
+
+See: [[lore/origins-of-races|Origins of the Races]], [[lore/epoka-światła|Age of Light]], [[places/archipelag-światła|Archipelago of Light]]
+
 ## Core Rules
 
 ### Magic System: Spirit Binding

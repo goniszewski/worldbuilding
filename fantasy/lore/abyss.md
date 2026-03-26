@@ -9,9 +9,12 @@ tags:
   - magic
   - afterlife
   - pradawni
+  - pierwsza
 related:
   - "[[pradawni]]"
   - "[[religions]]"
+  - "[[origins-of-races]]"
+  - "[[pierwsza]]"
 summary: Multi-layered dimension home to Aspects and demons, separated from the mortal world by the Bulwark. Accessible only through magic.
 ---
 

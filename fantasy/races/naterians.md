@@ -9,8 +9,12 @@ tags:
   - industrial
   - socialist
   - honor-bound
+  - torr-lineage
 related:
-  - "[[Torr]]"
+  - "[[origins-of-races]]"
+  - "[[torr]]"
+  - "[[daraster]]"
+  - "[[lesandra]]"
   - "[[Kharatar]]"
   - "[[Vathar]]"
   - "[[Utar]]"
@@ -20,7 +24,7 @@ related:
   - "[[ludzie]]"
   - "[[elfy]]"
   - "[[krasnoludy]]"
-summary: Tall, hairless humanoids with tentacle-like appendages behind their ears. The most visually diverse race, ranging from alien in appearance to nearly indistinguishable from humans. Their society follows an efficient, Soviet-inspired socialism with strict honor codes and severe but fair justice.
+summary: Tall, hairless humanoids descended from Torr, characterized by tentacle appendages and scale patches. Their most visually diverse race ranges from alien to near-human. Society follows Soviet-inspired socialism with strict honor codes.
 ---
 
 # Naterians
