@@ -26,6 +26,17 @@ The last attempt to breach the Apex shattered the continent, created the Ash Was
 | [The Unbound](factions/the-unbound.md) | "The Hushed" | Free spirit binding for all | Antagonists (or allies?) |
 | [The Merchant Tides](factions/merchant-tides.md) | Council of Captains | Profit, neutrality | Neutral, transactional |
 
+## Religious Systems
+
+Four major faiths dominate, each with radically different views on the First One, her children, and magic:
+
+| Religion | Followers | Core Tension |
+|----------|-----------|--------------|
+| [Dorenism](lore/religions.md#dorenism) | Humans, some elves | Tor's banishment caused all evil |
+| [Oprenism](lore/religions.md#oprenism) | Humans (ex-continental) | Magic is forbidden; First One was a prophet |
+| [Arth'Adal](lore/religions.md#arthadal) | Naterians | Tor is the chosen one; magic is practical |
+| [Alar](lore/religions.md#alar) | Elves | Only Lesandra stayed on the goddess's path |
+
 ## Major Characters
 
 ### Protagonists
