@@ -140,3 +140,202 @@ Thousands of years later, after long wanderings — trying to find their place i
 3. Signs that the Abyss barrier is weakening
 4. Dwarven faction seeking to reclaim their "true" heritage
 5. Demon remnants that survived the sealing
+
+---
+
+# Extended Lore: The Sky Monuments Connection
+
+> *This section explores the theory that the Ancient Ones were not merely precursors — they were the builders of the Sacred Peninsula's impossible monuments.*
+
+---
+
+## The Sacred Peninsula Monuments
+
+| Monument | Location | Status |
+|----------|----------|--------|
+| **Sky Torch** | Southern tip | Burning eternally, engineering marvel |
+| **Sky Sword** | Northern tip | Impossible blade, no magic used |
+
+Both monuments were built **without magic**. This is their greatest claim to fame — and their greatest mystery.
+
+---
+
+## The Connection Theory
+
+What if the Ancient Ones didn't just seal the Abyss?
+
+What if they also built the **Sky Monuments** as failsafes — emergency beacons for their survivors?
+
+### Evidence
+
+| Finding | Implication |
+|---------|-------------|
+| **Monument composition** | Alloys match no known civilization — including modern dwarven |
+| **Engineering precision** | Requires knowledge of gas deposits, structural load, pressure dynamics |
+| **Age estimates** | Vary wildly but consistently older than recorded history |
+| **The Cleansed connection** | Survivors lost magic — same as bunker survivors |
+
+### The Theory
+
+> **The Ancient Ones built the Sky Monuments as part of the Abyss sealing ritual.** The Torch burns to contain magical overflow. The Sword pierces to anchor the seal. Both use mundane engineering because magic was the **enemy**.
+
+---
+
+## The Cleansed — Descendants of Survivors
+
+The [[the-cleansed|The Cleansed]] are not the ancestors of the modern races. They are the **descendants of the Ancient One survivors** — those who emerged from bunkers millennia after the Fall.
+
+### Timeline Reconstruction
+
+| Era | Event |
+|-----|-------|
+| **12,000+ years ago** | Ancient One civilization exists |
+| **The Fall** | Civil war + Abyss sealing + mana burning |
+| **Underground** | Survivors in bunkers, magic-stripped, memory-damaged |
+| **Emergence** | Bunkers open, survivors emerge weakened and confused |
+| **Wandering** | Thousands of years of displacement |
+| **The Age of Light** | Survivors settle the Archipelago, forgetting their past |
+| **The Discovery** | Magic re-discovered by [[the-first-one|The First One]] |
+
+### The Lie of Paradise
+
+The **Age of Light** was not a paradise before magic. It was a **colony of traumatized refugees** who had forgotten everything.
+
+Their "peace" was not natural harmony — it was:
+- **Memory loss** — they couldn't remember war
+- **Isolation** — they couldn't access their old knowledge
+- **Small numbers** — they were all that remained
+- **Mystical thinking** — they filled gaps with religion
+
+---
+
+## The True History
+
+### The First One's Discovery
+
+When [[the-first-one|The First One]] found "strange elements" in a cave, she wasn't discovering magic for the first time.
+
+She was **rediscovering her ancestors' power**.
+
+The "large deposit of blue ore" or "Black Stone of Ur" was likely an **Ancient One storage site** — a bunker or armory that had survived the Fall.
+
+### What Actually Happened
+
+| Version | Religious Narrative | True History |
+|---------|---------------------|--------------|
+| **Before** | Paradise of the Cleansed | Ancient One civilization at peak |
+| **Discovery** | First contact with magic | Rediscovery of own heritage |
+| **Transformation** | The First One blessed by gods | Exposure to uncontrolled magical energy |
+| **Birth** | Three divine children | Three children, magically tainted |
+| **War** | Civil conflict over succession | Resurgence of old grudges and magical instability |
+
+### The Three Children
+
+The children weren't divine. They were **Ancient One descendants**, touched by the rediscovery of magic:
+
+| Child | Interpretation | Reality |
+|-------|----------------|---------|
+| **Torr** | Harsh god of warriors | Clan leader, scarred by magic exposure |
+| **Daraster** | Wicked ambitious human ancestor | Political survivor, adaptable |
+| **Lesandra** | Pure elven bloodline | Keeper of "old ways" (actually Ancient One lore) |
+
+---
+
+## The Sky Monuments — Emergency System
+
+### The Sky Torch
+
+The Torch doesn't just burn over gas. It burns to **vent magical overflow** from the Abyss seal.
+
+| Function | Reality |
+|----------|---------|
+| **Eternal flame** | Magical energy converted to heat |
+| **Gas deposits** | Naturally occurring — but discovered and harnessed by Ancient Ones |
+| **Maintenance corridor** | System to monitor and adjust the seal |
+| **No magic used** | Anti-magic engineering — the only way to contain magic |
+
+### The Sky Sword
+
+The Sword doesn't just pierce the earth. It **anchors the Abyss seal**.
+
+| Function | Reality |
+|----------|---------|
+| **Impossible geometry** | Anti-magic metal, forged to disrupt magical fields |
+| **Cutting edge** | Cuts through magical barriers, dimensional walls |
+| **Unknown depth** | Extends into the Abyss itself |
+| **No decay** | Anti-magic properties preserve the blade |
+
+---
+
+## Implications for the World
+
+### Religious Crisis
+
+If proven, this theory would:
+- **Destroy** all creation myths based on the Cleansed as original humans
+- **Elevate** dwarves as the true oldest civilization
+- **Expose** the Silver Compact's ancestors as destroyers
+- **Reveal** magic as the cause of all catastrophe
+
+### The Seal
+
+The Sky Monuments are **still working**. The Abyss is still sealed. But:
+
+| Question | Concern |
+|----------|---------|
+| **How long will it last?** | The monuments are ancient and degrading |
+| **Can they be repaired?** | Ancient One knowledge is lost |
+| **What happens if they fail?** | The mana burning could repeat |
+
+### Adventure Hooks
+
+| Hook | Description |
+|------|-------------|
+| **The Failing Seal** | Strange magical phenomena near the Sky Monuments |
+| **Ancient One Bunker** | Discovery of an intact bunker with plans for monument repair |
+| **The Cleansed Lie** | Proof that the Age of Light was a colony, not paradise |
+| **The True Enemy** | Something from the Abyss knows the seal is weakening |
+| **Martin's Bomb** | Could the Disruption Bomb affect the seal? Should it? |
+
+---
+
+## For the GM: Using This Lore
+
+### Subtle Reveals
+
+Don't dump the lore. Let players discover fragments:
+
+1. **Dwarven inscriptions** in Ancient One ruins mentioning the Sky Torch
+2. **Martin's analysis** of monument alloys matching bunker materials
+3. **Religious scholars** who know more than they admit
+4. **The Cleansed connection** revealed through dreams or visions
+
+### The Weight of Truth
+
+This lore changes everything:
+
+| Character | Reaction |
+|-----------|----------|
+| **Martin** | Validation — his "scientific" approach to magic was always right |
+| **Damara** | Crisis of faith — her goddess may be a refugee's myth |
+| **Angar** | Confusion — his entire identity as a Pure is based on a lie |
+| **The Compact** | Hostility — they control magic, and magic was the enemy |
+
+### Playing the Revelation
+
+Don't rush to the truth. Let players:
+- Discover Ancient One ruins
+- Meet bunker survivors (if any remain)
+- See the Sky Monuments as mere monuments first
+- Piece together the connection over multiple sessions
+- Choose whether to reveal the truth or protect the current order
+
+---
+
+## TODO
+
+- [ ] Add specific bunker locations with descriptions
+- [ ] Create Ancient One survivor NPCs (bunker dwellers)
+- [ ] Develop monument degradation timeline
+- [ ] Add religious counter-arguments to the theory
+- [ ] Connect to the Black Stones of Ur

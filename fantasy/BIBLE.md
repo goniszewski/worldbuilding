@@ -4,7 +4,7 @@
 
 ## Origin of the Races
 
-According to legend, the world was once inhabited by the **[[the-cleansed|The Cleansed]]** — a peaceful, magic-free people. The transformation began with **[[the-first-one|The First One]]**, whose discovery of magic led to the birth of three ancestral beings:
+According to legend, the world was once inhabited by the **[[the-cleansed|The Cleansed]]** — a peaceful, magic-free people. Recent research suggests they were actually descendants of the **[[ancient-ones|Ancient Ones]]** — survivors of a magical catastrophe who lost their memories and heritage.
 
 | Ancestor | Legacy |
 |----------|--------|
@@ -88,6 +88,8 @@ Four major faiths dominate, each with radically different views on the First One
 | [The Silver Woods](places/silver-woods.md) | Srebrne Lasy | Central | Sacred grove, Compact headquarters |
 | [Verath](places/verath.md) | Verath | Coast | Merchant hub, player starting point |
 | [The Ash Wastes](places/ash-wastes.md) | Popielne Pustkowia | East | Post-Sundering wasteland |
+| [Sky Torch](places/sky-torch.md) | Niebiańska Pochodnia | South | Eternal flame, no magic used — engineering marvel |
+| [Sky Sword](places/sky-torch-sword.md) | Niebiański Miecz | North | Impossible blade, anchors Abyss seal |
 | [Whispering Ruins](places/whispering-ruins.md) | Szeptające Ruiny | North | Ancient pre-Sundering city |
 
 ## Political Boundaries
