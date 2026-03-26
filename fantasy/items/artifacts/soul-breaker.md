@@ -54,14 +54,42 @@ The blade's whispers grow louder with each soul consumed. The bearer must conten
 
 A secret order has guarded the Soul Breaker for centuries. They understand the weapon's terrible nature and its curse.
 
+### The Madness of Bearing
+
+The blade's corruption is insidious. Unlike simple cursed items that corrupt instantly, Soul Breaker's influence is **gradual and psychological**:
+
+| Stage | Symptom | Detection |
+|-------|---------|-----------|
+| **Whispers** | Subtle voices, disturbing dreams | Easily dismissed |
+| **Sensitivity** | Increased awareness of the blade's suggestions | Bearer rationalizes thoughts as their own |
+| **Madness** | Loss of concept of good and proper; growing obsession with destroying all that is pure | Bearer may hide this, weaving intrigues |
+| **Embrace** | Full cruelty, lies come naturally, betrayal feels justified | The bearer becomes a different person |
+
+**The Hidden Wielder**: The blade rarely reveals its hold immediately. A bearer may seem normal while secretly **plotting intrigue full of lies, duplicity, and betrayal**. They become skilled at concealing the corruption's depth until it is too late.
+
 ### The Covenant
 
 | Rule | Purpose |
 |------|---------|
-| Transfer every 5 years | Limits corruption, ensures controlled descent |
-| Candidate testing | Only those with iron will survive |
-| Final mercy | The council slays the old bearer to prevent full corruption |
-| Silent service | The brotherhood appears only in legends |
+| **Five-year terms** | Limits corruption to survivable levels |
+| **Iron will testing** | Only those with unbreakable spirit are chosen |
+| **Prepared candidates** | Each bearer knows their fate; the Council ensures they can face it |
+| **Final mercy** | The Council slays the old bearer before the corruption fully takes hold |
+| **Silent existence** | The brotherhood appears only in legends and crisis |
+
+### The Bearer Knows
+
+Unlike most sacrifices, Soul Breaker bearers **usually know what awaits them** before accepting the burden. The Council prepares them extensively — testing their will, their capacity for sacrifice, their willingness to serve the greater good even at the cost of their own soul. Most accept this as the price of protecting others from the blade's full wrath.
+
+### Deployment in War
+
+In the greatest crises — **once every few centuries** — the bearer is called forth:
+
+- **Raise morale**: The very name of the weapon terrifies enemies
+- **Psychological warfare**: Opponents flee at the sight of it
+- **Tactical asset**: Used sparingly, as each deployment risks permanent loss of the bearer
+
+> *"Once per few centuries, bearers are summoned to fight in wars — mainly to boost their own side's morale and destroy enemy morale, as fear itself penetrates them at the mere name of this weapon."*
 
 ### Brotherhood Tactics
 

@@ -26,6 +26,25 @@ The last attempt to breach the Apex shattered the continent, created the Ash Was
 | [The Unbound](factions/the-unbound.md) | "The Hushed" | Free spirit binding for all | Antagonists (or allies?) |
 | [The Merchant Tides](factions/merchant-tides.md) | Council of Captains | Profit, neutrality | Neutral, transactional |
 
+### Noble Houses of the Human Kingdom
+
+| House | Seat | Specialty | Head |
+|-------|------|----------|------|
+| [Walldom](factions/walldom.md) | Brama Torra | Guardians of the Gate | Lord Korn Walldom |
+| [Mort](factions/mort.md) | Wąski Przesmyk | Berserker Clan | Wódz Borin Mort |
+| [Daever](factions/daever.md) | Dolina Mgieł | Mist & Alchemy | Lady Morwena Daever |
+| [Graz](factions/graz.md) | Redwood | Commerce & Trade | Lord Valdric Graz |
+| [Highdam](factions/highdam.md) | Zapor | Dam Control | Lord Eggar Highdam |
+| [Tiel](factions/tiel.md) | Barrenport | Mining & Blue Ore | Lord Gareth Tiel |
+| [Czar](factions/czar.md) | Wieża Cieni | Political Intrigue | Lonen Czar |
+| [Tiltman](factions/tiltman.md) | Wiatrowe Wzgórza | Legendary Archers | Lady Sylara Tiltman |
+| [Skjor](factions/skjor.md) | Ponury Zamek | Dwarf Trade | Lord Ragnar Skjor |
+| [Timrel](factions/timrel.md) | Portszy | Naval Power | Admiral Vesper Timrel |
+| [Ermynt](factions/ermynt.md) | Rozdroże | Neutrality & Elves | Strażnik Drogdy Alden Ermynt |
+| [Winters](factions/winters.md) | Zimowy Gród | Northern Isolation | Królowa Śniegu Hedda |
+| [Golwynt](factions/golwynt.md) | Zielona Dolina | Agriculture | Lord Harren Golwynt |
+| [Kolah](factions/kolah.md) | Szczyt Kozy | Goat God Worship | Głowa Kozła |
+
 ## Religious Systems
 
 Four major faiths dominate, each with radically different views on the First One, her children, and magic:
