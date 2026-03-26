@@ -1,5 +1,5 @@
 ---
-name: Ludy i plemiona
+name: Peoples and Tribes
 type: lore
 category: Lore
 tags:
@@ -12,7 +12,7 @@ related:
 summary: An index of distant, lesser-known peoples and tribes scattered across the world—groups who dwell far from civilization, in the margins between mapped territories, or in realms beyond conventional understanding.
 ---
 
-# Ludy i plemiona
+# Peoples and Tribes
 
 > *"Beyond the borders of every nation, past the roads that merchants travel, there are those who call no kingdom their own. They are the distant peoples—the forgotten tribes that dwell where maps end and legends begin."*
 > — Cartographer's marginalia, anonymous
@@ -36,7 +36,7 @@ Each major race has produced offshoots, exiles, and isolated communities that ha
 ### Juuhroni
 
 **Location:** The toxic bogs beyond the mapped territories  
-**Type:** Rrace offshoot  
+**Type:** Race offshoot  
 **Status:** ⚠️ Dangerous
 
 The Juuhroni represent an extreme example of racial divergence. Once perhaps related to other peoples, centuries of isolation in the fetid wetlands have transformed them into something entirely other. They worship the blood-soaked stones of their territory and practice sacrificial rituals that leave victims blackened and *changed*.
