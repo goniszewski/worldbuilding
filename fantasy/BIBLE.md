@@ -164,6 +164,18 @@ Three daughters with distinct personalities:
 - **Current Year**: 523 Post-Sundering (P.S.)
 - **Campaign Hook**: Lyra's past catches up; the Hushed offers dangerous alliance
 
+## Notable Quotes
+
+| Quote | Source | Notes |
+|-------|--------|-------|
+| *"Nasze starania, cała nasza magia jest dla nich niczym kilka kropli pośród niezmierzonych opadów delikatnego deszczu..."* | Unknown Aspect | On the futility of opposing the gods |
+| *"But in the end, it doesn't even matter"* | Erin | During battle |
+| *"Watch my six, will ya"* | Erin | During combat |
+| *"You should write a song about it, you know?"* | Velan | To anyone who will listen |
+| *"We hide our best from you and for you, to fully enjoy later, when the time is right."* | Unknown | Cryptic |
+
+See: [[lore/cytaty|Full Quotes Collection]]
+
 ## Running Notes
 
 - Players prefer moral ambiguity over clear good/evil
