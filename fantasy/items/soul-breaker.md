@@ -8,7 +8,7 @@ related:
   - characters/mighty-eight
   - items/black-stones-of-ur
   - lore/void
-summary: A cursed blade that kills without damaging the body, used to deliver the Archmage's soul into a new host.
+summary: A cursed blade that kills without damaging the body, used to deliver the Archmage's soul into a new host
 ---
 
 # Soul Breaker (Łamacz Dusz)

@@ -10,7 +10,7 @@ tags:
 related:
   - factions/silver-compact
   - places/whisperer-shrine
-summary: "Ancient forest of silver-leafed trees. Sacred ground and Compact HQ. Magic feels different here."
+summary: Ancient forest of silver-leafed trees — sacred ground and Compact HQ where magic feels different
 ---
 
 # The Silver Woods

@@ -2,42 +2,33 @@
 name: Torr
 type: character
 category: characters
-tags:
-  - ancestor
-  - torr-lineage
-  - naterians
-  - orcs
-  - first-generation
+tags: [ancestor, torr-lineage, naterians, orcs, first-generation]
 related:
-  - "[[origins-of-races]]"
-  - "[[the-first-one]]"
-  - "[[daraster]]"
-  - "[[lesandra]]"
-  - "[[naterians|Naterians]]"
-summary: "The firstborn of Pierwsza, ancestor of the Naterians, characterized by his dark scaled skin, warrior honor, and hatred for his siblings' union."
+  - lore/origins-of-races
+  - characters/the-first-one
+  - characters/daraster
+  - characters/lesandra
+  - races/naterians
+summary: "The firstborn of the First One, ancestor of the Naterians, characterized by dark scaled skin, warrior honor, and hatred for his siblings' union."
 ---
 
 # Torr
 
-*Firstborn of Pierwsza, progenitor of the Naterians.*
+*Firstborn of the First One, progenitor of the Naterians.*
 
----
+## Overview
 
-## Basics
-
-| Field | Value |
-|-------|-------|
-| Race | [[the-cleansed|The Cleansed]] (First Generation) |
-| Sex | Male |
-| Status | Deceased |
-| Role | Ancestor of the [[naterians|Naterians]] |
-| Period | ~10,000–15,000 years ago |
-
----
+| Attribute | Value |
+|-----------|-------|
+| **Category** | Character |
+| **Race** | The Cleansed (First Generation) |
+| **Sex** | Male |
+| **Status** | Deceased |
+| **Period** | ~10,000–15,000 years ago |
 
 ## Description
 
-According to legend, **[[torr|Torr]]** was the most distinct of [[the-first-one|The First One's]] three children. His skin was **dark, rough, and covered in scales** in places — a stark contrast to his siblings.
+According to legend, **Torr** was the most distinct of the First One's three children. His skin was **dark, rough, and covered in scales** in places — a stark contrast to his siblings.
 
 ### Nature
 
@@ -54,48 +45,41 @@ According to legend, **[[torr|Torr]]** was the most distinct of [[the-first-one|
 - Scales covering parts of his body
 - Imposing, warrior-like build
 
----
-
 ## The Civil War
 
-[[torr|Torr]] played a central role in the conflict following [[the-first-one|The First One's]] death:
+Torr played a central role in the conflict following the First One's death:
 
-1. **War against siblings** — Unable to accept [[daraster|Daraster]] and [[lesandra|Lesandra's]] marriage, he turned against them
+1. **War against siblings** — Unable to accept [[characters/daraster|Daraster]] and [[characters/lesandra|Lesandra's]] marriage, he turned against them
 2. **Unmastered magic** — The war used magical forces none could control, devastating the home island
 3. **Departure** — He left with his followers in search of new lands, establishing his own domain
 
----
-
 ## Legacy: The Naterians
 
-[[torr|Torr's]] descendants are the **[[naterians|Naterians]]** (also called [[orcs|Orcs]]).
+Torr's descendants are the **[[races/naterians|Naterians]]** (also called [[races/orcs|Orcs]]).
 
 ### Characteristics Inherited
+
 | Trait | Manifestation |
-|-------|----------------|
+|-------|---------------|
 | Dark/rough skin | Naterian pigmentation and skin texture |
 | Scaly patches | Some Naterians display scale-like features |
 | Warrior culture | Honor-bound, prone to violence |
-| Hatred of others | Historical enmity toward [[humans|Humans]] and [[elves|Elves]] |
+| Hatred of others | Historical enmity toward [[races/humans|Humans]] and [[races/elves|Elves]] |
 
 ### Expansion
 
-According to legend, [[torr|Torr]] demanded every woman to ensure his blood would survive eternity. His offspring numbered in the **hundreds, if not thousands** — each supposedly legitimate by the standards of his time.
+According to legend, Torr demanded every woman to ensure his blood would survive eternity. His offspring numbered in the **hundreds, if not thousands** — each supposedly legitimate by the standards of his time.
 
 This rapid expansion allowed the Naterians to become numerous and spread across mountainous regions.
-
----
 
 ## Cultural Impact
 
 | Aspect | Influence |
 |--------|-----------|
 | **Warrior Ethos** | Naterian clans honor strength and honor |
-| **Anti-elven Sentiment** | [[torr|Torr's]] hatred of [[lesandra|Lesandra]] echoes in Naterian culture |
-| **Anti-human Sentiment** | [[daraster|Daraster]] also viewed with contempt |
+| **Anti-elven Sentiment** | Torr's hatred of [[characters/lesandra|Lesandra]] echoes in Naterian culture |
+| **Anti-human Sentiment** | [[characters/daraster|Daraster]] also viewed with contempt |
 | **Scaly Heritage** | Some Naterians pride in visible scales as "pure Torr blood" |
-
----
 
 ## For Writers / Game Designers
 
@@ -106,12 +90,10 @@ This rapid expansion allowed the Naterians to become numerous and spread across 
 - **Dominance vs. purity** — Torr sought quantity, his siblings sought quality
 
 ### Story Hooks
-- Heretical Naterian cults worship [[torr|Torr]] as the only true child, denouncing his siblings
+- Heretical Naterian cults worship Torr as the only true child, denouncing his siblings
 - A Naterian warrior discovers they share blood with Elves — triggering an existential crisis
-- The search for [[torr|Torr's]] original empire's seat of power
+- The search for Torr's original empire's seat of power
 - Naterian clans dispute over who carries "purest Torr blood"
-
----
 
 ## TODO
 

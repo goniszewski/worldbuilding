@@ -1,13 +1,12 @@
 ---
-title: The Great Bessam and Her Three Daughters
+name: The Great Bessam
 type: location
-category: river
+category: places
 tags:
   - great-bessam
-  - rivers
-related:
-  - places/human-kingdom
-summary: "The largest river in the Delathor lands, and one of the greatest in the known world. A tri-part river system with three distinct daughters."
+  - river
+related: []
+summary: The largest river in the Delathor lands, and one of the greatest in the known world — a tri-part river system with three distinct daughter
 ---
 
 > *Mysterious, untamed, and majestic. Each of these terms can be applied to the three daughters of the Great Bessam: the Hidden Bessme, the Frenzied Bessie, and the Lazy Bess.*

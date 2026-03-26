@@ -4,7 +4,7 @@
 
 ## Origin of the Races
 
-According to legend, the world was once inhabited by the **[[the-cleansed|The Cleansed]]** — a peaceful, magic-free people. Recent research suggests they were actually descendants of the **[[ancient-ones|Ancient Ones]]** — survivors of a magical catastrophe who lost their memories and heritage.
+According to legend, the world was once inhabited by the **[[lore/the-cleansed|The Cleansed]]** — a peaceful, magic-free people. Recent research suggests they were actually descendants of the **[[lore/ancient-ones|The Ancient Ones]]** — survivors of a magical catastrophe who lost their memories and heritage.
 
 | Ancestor | Legacy |
 |----------|--------|
@@ -45,13 +45,13 @@ The last attempt to breach the Apex shattered the continent, created the Ash Was
 |-------|------|----------|------|
 | [Walldom](factions/walldom.md) | Brama Torra | Guardians of the Gate | Lord Korn Walldom |
 | [Mort](factions/mort.md) | Wąski Przesmyk | Berserker Clan | Wódz Borin Mort |
-| [Daever](factions/daever.md) | Dolina Mgieł | Mist & Alchemy | Lady Morwena Daever |
+| [Daever](factions/daever.md) | Mist Valley | Mist & Alchemy | Lady Morwena Daever |
 | [Graz](factions/graz.md) | Redwood | Commerce & Trade | Lord Valdric Graz |
 | [Highdam](factions/highdam.md) | Zapor | Dam Control | Lord Eggar Highdam |
 | [Tiel](factions/tiel.md) | Barrenport | Mining & Blue Ore | Lord Gareth Tiel |
 | [Czar](factions/czar.md) | Wieża Cieni | Political Intrigue | Lonen Czar |
-| [Tiltman](factions/tiltman.md) | Wiatrowe Wzgórza | Legendary Archers | Lady Sylara Tiltman |
-| [Skjor](factions/skjor.md) | Ponury Zamek | Dwarf Trade | Lord Ragnar Skjor |
+| [Tiltman](factions/tiltman.md) | Windy Hills | Legendary Archers | Lady Sylara Tiltman |
+| [Skjor](factions/skjor.md) | Grim Castle | Dwarf Trade | Lord Ragnar Skjor |
 | [Timrel](factions/timrel.md) | Portszy | Naval Power | Admiral Vesper Timrel |
 | [Ermynt](factions/ermynt.md) | Rozdroże | Neutrality & Elves | Strażnik Drogdy Alden Ermynt |
 | [Winters](factions/winters.md) | Zimowy Gród | Northern Isolation | Królowa Śniegu Hedda |

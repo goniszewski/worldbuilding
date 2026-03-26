@@ -8,10 +8,10 @@ tags:
   - pre-magic
   - archipelago-of-light
 related:
-  - "[[origins-of-races]]"
-  - "[[the-first-one]]"
-  - "[[age-of-light]]"
-  - "[[archipelago-of-light]]"
+  - "[[lore/origins-of-races]]"
+  - "[[lore/the-first-one]]"
+  - "[[lore/age-of-light]]"
+  - "[[places/archipelago-of-light]]"
 summary: "The original inhabitants of the Archipelago of Light — a peaceful, magic-free people who lived during the Age of Light before their transformation into the ancestor races."
 ---
 
@@ -29,7 +29,7 @@ summary: "The original inhabitants of the Archipelago of Light — a peaceful, m
 | **Polish Name** | Czyści (also: Pierwsi) |
 | **Period** | ~10,000–15,000 years ago |
 | **Status** | Extinct — transformed into modern races |
-| **Homeland** | [[archipelago-of-light]] |
+| **Homeland** | [[places/archipelago-of-light]] |
 
 ---
 
@@ -37,16 +37,16 @@ summary: "The original inhabitants of the Archipelago of Light — a peaceful, m
 
 The **Cleansed** (literally "the Pure Ones") were the original inhabitants of the world as described in creation legends. They were an unblemished people, **free of magic** — not because magic didn't exist, but because they had never encountered it.
 
-According to legend, they lived in paradise during the **[[age-of-light]]**: in the glow of justice, abundance, and peace. There were no wars among them.
+According to legend, they lived in paradise during the **[[lore/age-of-light]]**: in the glow of justice, abundance, and peace. There were no wars among them.
 
-All conflicts between the people were resolved by **[[the-first-one|The First One]]**, who herself designated her successor. This succession was sacred tradition — until the last [[the-first-one|The First One]] broke with custom.
+All conflicts between the people were resolved by **[[lore/the-first-one|The First One]]**, who herself designated her successor. This succession was sacred tradition — until the last [[lore/the-first-one|The First One]] broke with custom.
 
 ---
 
 ## Society & Culture
 
 ### Governance
-- **[[the-first-one|The First One]]** — A female ruler who resolved conflicts and named her successor
+- **[[lore/the-first-one|The First One]]** — A female ruler who resolved conflicts and named her successor
 - Succession was matrilineal and voluntary (the ruler chose the next)
 
 ### Values
@@ -55,16 +55,16 @@ All conflicts between the people were resolved by **[[the-first-one|The First On
 - Traditional succession customs
 
 ### Known Territories
-- Primary: [[archipelago-of-light]] — a group of small islands
+- Primary: [[places/archipelago-of-light]] — a group of small islands
 
 ---
 
 ## The Transformation
 
-When the last [[the-first-one|The First One]] discovered magic (likely Blue Ore or a Black Stone of Ur), she became the first Cleansed to make contact with the [[abyss|Void]].
+When the last [[lore/the-first-one|The First One]] discovered magic (likely Blue Ore or a Black Stone of Ur), she became the first Cleansed to make contact with the [[lore/abyss|Void]].
 
 Her transformation led to:
-1. Her pregnancy with the three ancestors — [[torr|Torr]], [[daraster|Daraster]], and [[lesandra|Lesandra]]
+1. Her pregnancy with the three ancestors — [[characters/torr|Torr]], [[characters/daraster|Daraster]], and [[characters/lesandra|Lesandra]]
 2. Civil war among the people
 3. The devastation of their home island
 4. The eventual extinction of the pure-blooded Cleansed
@@ -80,7 +80,7 @@ The Cleansed are remembered primarily through:
 | Legacy | Description |
 |--------|-------------|
 | **Theological beliefs** | Many religions reference "the first people" before the fall |
-| **Elven superiority** | Elves claim direct descent from [[lesandra|Lesandra]] and view themselves as the purest inheritors |
+| **Elven superiority** | Elves claim direct descent from [[characters/lesandra|Lesandra]] and view themselves as the purest inheritors |
 | **Creation myths** | Songs and legends about the Age of Light |
 | **Archaeological traces** | The destroyed Archipelago of Light may hold secrets |
 
@@ -90,9 +90,9 @@ The Cleansed are remembered primarily through:
 
 | Race | Relationship |
 |------|--------------|
-| **Naterians** | Descendants of [[torr|Torr]] — view themselves as his warrior legacy |
-| **Humans** | Mixed descendants of [[daraster|Daraster]] — the most varied lineage |
-| **Elves** | Pure descendants of [[daraster|Daraster]] and [[lesandra|Lesandra]] — claim superiority |
+| **Naterians** | Descendants of [[characters/torr|Torr]] — view themselves as his warrior legacy |
+| **Humans** | Mixed descendants of [[characters/daraster|Daraster]] — the most varied lineage |
+| **Elves** | Pure descendants of [[characters/daraster|Daraster]] and [[characters/lesandra|Lesandra]] — claim superiority |
 | **Dwarves** | Descendants of forbidden unions — driven underground |
 
 ---

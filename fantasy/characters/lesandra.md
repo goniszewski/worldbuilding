@@ -9,11 +9,11 @@ tags:
   - magic
   - first-generation
 related:
-  - "[[origins-of-races]]"
-  - "[[the-first-one]]"
-  - "[[torr]]"
-  - "[[daraster]]"
-  - "[[elves|Elves]]"
+  - "[[lore/origins-of-races]]"
+  - "[[lore/the-first-one|The First One]]"
+  - "[[characters/torr|Torr]]"
+  - "[[characters/daraster|Daraster]]"
+  - "[[races/elves|Elves]]"
 summary: "The third child of Pierwsza, only one who could fully control magic, mother of the Elves through her marriage to Daraster."
 ---
 
@@ -27,17 +27,17 @@ summary: "The third child of Pierwsza, only one who could fully control magic, m
 
 | Field | Value |
 |-------|-------|
-| Race | [[the-cleansed|The Cleansed]] (First Generation) |
+| Race | [[lore/the-cleansed|The Cleansed]] (First Generation) |
 | Sex | Female |
 | Status | Deceased |
-| Role | Ancestor of the [[elves|Elves]], sole master of magic |
+| Role | Ancestor of the [[races/elves|Elves]], sole master of magic |
 | Period | ~10,000–15,000 years ago |
 
 ---
 
 ## Description
 
-**[[lesandra|Lesandra]]** was the third of [[the-first-one|The First One's]] three children — and unique among them.
+**[[characters/lesandra|Lesandra]]** was the third of [[lore/the-first-one|The First One's]] three children — and unique among them.
 
 ### Physical Appearance
 
@@ -47,7 +47,7 @@ summary: "The third child of Pierwsza, only one who could fully control magic, m
 | **Complexion** | Exceptionally pale — unlike others |
 | **Bearing** | Balanced, composed |
 
-Her striking appearance set her apart from both [[torr|Torr's]] dark, scaled form and whatever [[daraster|Daraster]] looked like.
+Her striking appearance set her apart from both [[characters/torr|Torr's]] dark, scaled form and whatever [[characters/daraster|Daraster]] looked like.
 
 ### Nature
 
@@ -64,7 +64,7 @@ She was the **only one** of the three children who could fully control the magic
 
 ## The Marriage
 
-[[lesandra|Lesandra]] entered into an **alliance with [[daraster|Daraster]]** against [[torr|Torr]]. This alliance culminated in marriage — the "ultimate insult" to [[torr|Torr]], who despised such "corruption."
+[[characters/lesandra|Lesandra]] entered into an **alliance with [[characters/daraster|Daraster]]** against [[characters/torr|Torr]]. This alliance culminated in marriage — the "ultimate insult" to [[characters/torr|Torr]], who despised such "corruption."
 
 ### Why Marry Daraster?
 
@@ -74,26 +74,26 @@ She was the **only one** of the three children who could fully control the magic
 | **Bloodline strength** | Combined her magical control with his ambition |
 | **Shared ambition** | Both sought to expand beyond the destroyed island |
 
-Some scholars suggest [[lesandra|Lesandra]] married [[daraster|Daraster]] because only his bold, ambitious nature could match her magical potential — they needed each other to build something lasting.
+Some scholars suggest [[characters/lesandra|Lesandra]] married [[characters/daraster|Daraster]] because only his bold, ambitious nature could match her magical potential — they needed each other to build something lasting.
 
 ---
 
 ## Legacy: The Elves
 
-Their union produced the **[[elves|Elves]]** — inheriting:
+Their union produced the **[[races/elves|Elves]]** — inheriting:
 
 | Trait | Source | Manifestation |
 |-------|--------|---------------|
-| Magical control | [[lesandra|Lesandra]] | Strong innate magic |
-| Pale complexion | [[lesandra|Lesandra]] | Distinctive elven appearance |
-| Ambition | [[daraster|Daraster]] | Drive to expand and excel |
+| Magical control | [[characters/lesandra|Lesandra]] | Strong innate magic |
+| Pale complexion | [[characters/lesandra|Lesandra]] | Distinctive elven appearance |
+| Ambition | [[characters/daraster|Daraster]] | Drive to expand and excel |
 | Balanced nature | Both | Neither chaotic nor rigid |
 
 ### Blood Purity
 
-[[lesandra|Lesandra]] remained **faithful** to [[daraster|Daraster]] despite his numerous infidelities. She emphasized **blood purity** above all.
+[[characters/lesandra|Lesandra]] remained **faithful** to [[characters/daraster|Daraster]] despite his numerous infidelities. She emphasized **blood purity** above all.
 
-Her descendants — the [[elves|Elves]] — share this belief, viewing themselves as **superior** due to their "undefiled" lineage.
+Her descendants — the [[races/elves|Elves]] — share this belief, viewing themselves as **superior** due to their "undefiled" lineage.
 
 | Aspect | Reality |
 |--------|--------|
@@ -106,7 +106,7 @@ Her descendants — the [[elves|Elves]] — share this belief, viewing themselve
 
 ## The Third Child's Fate
 
-After [[torr|Torr]] departed with his followers, [[lesandra|Lesandra]] and [[daraster|Daraster]] also left the devastated island — sailing in the opposite direction from their brother.
+After [[characters/torr|Torr]] departed with his followers, [[characters/lesandra|Lesandra]] and [[characters/daraster|Daraster]] also left the devastated island — sailing in the opposite direction from their brother.
 
 Their destination, the establishment of their domain, and their ultimate fate are not recorded in the legends — only that they departed, and that their bloodline survived.
 
@@ -121,7 +121,7 @@ Their destination, the establishment of their domain, and their ultimate fate ar
 - **Secrecy's cost** — we know least about the most controlled of the three
 
 ### Story Hooks
-- A secret elven faction believes [[lesandra|Lesandra]] was the true leader, not Daraster
+- A secret elven faction believes [[characters/lesandra|Lesandra]] was the true leader, not Daraster
 - Her "faithfulness" is questioned by heretics who claim she had affairs
 - The balance she embodied is sought by mages who want to master the Void
 - Elves who leave to "mix" with other races are seen as betraying her legacy

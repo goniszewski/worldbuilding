@@ -2,26 +2,27 @@
 name: Hera Zemsty
 type: character
 category: characters
-tags: [human, mort, warrior, champion, female]
+tags: [human, mort, warrior, champion]
 related:
-  - mort
-  - wódz-borin-mort
+  - factions/mort
+  - characters/wódz-borin-mort
 summary: "Female berserker champion of Mort, undefeated in single combat for twenty years."
 ---
 
 # Hera Zemsty
 
-*Champion of the Mort*
+*[Champion, Mort Faction]*
 
-## Basics
+## Overview
 
-| Field | Value |
-|-------|-------|
-| Race | [[Human]] |
-| Sex | Female |
-| Age | 34 |
-| House | [[Mort]] |
-| Title | Hera Zemsty (Wrath's Wrath), Clan Champion |
+| Attribute | Value |
+|-----------|-------|
+| **Category** | Character |
+| **Race** | Humans |
+| **Sex** | Female |
+| **Age** | 34 |
+| **Status** | Alive |
+| **Affiliation** | [[factions/mort|Mort]] — She-Wolf Clan |
 
 ## Description
 
@@ -34,10 +35,7 @@ She is the leader of the *Klan Wilczycy* (She-Wolf Clan), one of the Five Clans,
 - **Build**: Tall, athletic, scarred
 - **Hair**: Shaved on one side, braided on the other
 - **Eyes**: Burning amber
-- **Distinguishing Features**: 
-  - Seven tally-marks tattooed on her neck (one per revenge kill)
-  - White warpaint worn as armor
-  - Massive double-headed axe
+- **Distinguishing Features**: Seven tally-marks tattooed on her neck (one per revenge kill); white warpaint worn as armor; massive double-headed axe
 
 ### Personality
 
@@ -62,9 +60,9 @@ She has no patience for politics, diplomacy, or compromise. If something angers 
 
 ## Relationships
 
-- **[[Wódz Borin Mort]]**: Complicated — respects him, challenges him, needs him
+- **[[characters/wódz-borin-mort|Wódz Borin Mort]]**: Complicated — respects him, challenges him, needs him
 - **Klan Wilczycy**: She is their champion and voice
-- **[[Tiel]]**: Personal hatred — a Tiel mining accident killed her first love
+- **[[factions/tiel|Tiel]]**: Personal hatred — a Tiel mining accident killed her first love
 - **The Other Clans**: Respected but watched warily
 
 ## For Writers / Game Designers
@@ -81,11 +79,10 @@ She has no patience for politics, diplomacy, or compromise. If something angers 
 - A young female warrior seeks her mentorship
 - She falls in love with someone her culture forbids
 
-### GM Notes
-> Hera is a warrior first and always. She can be a powerful ally or terrifying enemy. Her revenge arc against Tiel can drive campaigns.
+Hera is a warrior first and always. She can be a powerful ally or terrifying enemy. Her revenge arc against Tiel can drive campaigns.
 
 ## TODO
 
-- [ ] Develop the Tiel vendetta
-- [ ] Create her relationship with Borin
+- [ ] Develop the Tiel vendetta — what exactly happened?
+- [ ] Create her relationship with Borin in detail
 - [ ] Detail the She-Wolf Clan

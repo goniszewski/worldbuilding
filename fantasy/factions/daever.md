@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, alchemy, mist, heretical]
 related:
-  - winters
-  - czar
-  - naterian-hegemony
+  - "[[factions/winters|Winters]]"
+  - "[[factions/czar|Czar]]"
+  - "[[factions/naterian-hegemony|Naterian Hegemony]]"
 summary: "Masters of the Mist Valley who weaponize the legendary Milk Mist against all who enter."
 ---
 
@@ -51,11 +51,11 @@ The Daever revere the mist itself as a living deity called *Matka Mgła* (Mother
 
 | House | Relationship |
 |-------|--------------|
-| [[Winters]] | Trade partner — furs for alchemical supplies |
-| [[Czar]] | Business arrangement — exports Milk Mist for gold |
-| [[Naterian Hegemony]] | Hostile — the Church considers them heretical |
-| [[Tiltman]] | Cautious alliance — both are isolated and misunderstood |
-| [[Mort]] | Cautious respect — both value the old ways |
+| [[factions/winters|Winters]] | Trade partner — furs for alchemical supplies |
+| [[factions/czar|Czar]] | Business arrangement — exports Milk Mist for gold |
+| [[factions/naterian-hegemony|Naterian Hegemony]] | Hostile — the Church considers them heretical |
+| [[factions/tiltman|Tiltman]] | Cautious alliance — both are isolated and misunderstood |
+| [[factions/mort|Mort]] | Cautious respect — both value the old ways |
 
 ## Key Figures
 

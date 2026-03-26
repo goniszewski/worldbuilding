@@ -2,11 +2,16 @@
 name: Andvari
 type: location
 category: places
-tags: [dwarves, merchant, underground, guild, trading-post]
+tags:
+  - dwarves
+  - merchant
+  - underground
+  - guild
+  - trading-post
 related:
   - races/dwarves
   - places/gullveig
-summary: "Dwarven merchant guild headquartered in the wealthy underground city of Advaranat."
+summary: Dwarven merchant guild headquartered in the wealthy underground city of Advaranat
 ---
 
 # Andvari

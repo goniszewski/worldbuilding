@@ -1,5 +1,5 @@
 ---
-name: Błękitna Ruda (Blue Ore)
+name: Blue Ore (Polish)
 type: material
 category: items
 tags: [ore, mineral, explosive, magic, singing]
@@ -54,4 +54,4 @@ See: [[characters/martin-guecventrak|Martin Guecventrak's]] notes on explosive p
 ## Related
 
 - [[characters/martin-guecventrak|Martin Guecventrak]] — Researcher and explosive specialist
-- [[items/czarne-kamienie-ur|Black Stones of Ur]] — Related magical artifacts
+- [[items/black-stones-of-ur|Black Stones of Ur]] — Related magical artifacts

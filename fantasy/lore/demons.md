@@ -1,6 +1,6 @@
 ---
 name: Demons
-type: entity
+type: lore
 category: lore
 tags:
   - void
@@ -9,12 +9,11 @@ tags:
   - dangerous
   - magic
 related:
-  - "[[abyss]]"
-  - "[[aspects]]"
-  - "[[the-first-one]]"
-  - "[[archmage-of-ur]]"
-  - "[[origins-of-races]]"
-summary: "Chaotic beings born from fragments of Aspects — shaped by emotions and drawn to violent contact with living beings."
+  - lore/abyss
+  - lore/aspects
+  - lore/the-first-one
+  - lore/origins-of-races
+summary: Chaotic beings born from fragments of Aspects — shaped by emotions and drawn to violent contact with living beings
 ---
 
 # Demons
@@ -29,15 +28,15 @@ summary: "Chaotic beings born from fragments of Aspects — shaped by emotions a
 |-----------|-------|
 | **Category** | Entity / Extraplanar Being |
 | **Polish Name** | Demony |
-| **Origin** | Fragments of [[aspects|Aspects]] |
-| **Location** | [[abyss|Void]] (primary), Physical World (temporary) |
+| **Origin** | Fragments of [[lore/aspects|Aspects]] |
+| **Location** | [[lore/abyss|Void]] (primary), Physical World (temporary) |
 | **Nature** | Chaotic, emotion-driven |
 
 ---
 
 ## Description
 
-**Demons** are chaotic beings that originated from fragments of [[aspects|Aspects]] — pieces that tore away when the [[abyss|Void]] made contact with the physical world through [[the-first-one|The First One]].
+**Demons** are chaotic beings that originated from fragments of [[lore/aspects|Aspects]] — pieces that tore away when the [[lore/abyss|Void]] made contact with the physical world through [[lore/the-first-one|The First One]].
 
 Unlike their parent entities, demons are:
 - **Emotion-driven** — shaped by the dominant emotion present during their formation
@@ -48,8 +47,8 @@ Unlike their parent entities, demons are:
 ### Formation Process
 
 According to legend:
-1. [[the-first-one|The First One]] established a connection with the [[abyss|Void]]
-2. Contact with the physical dimension caused fragments to tear from each [[aspects|Aspect]]
+1. [[lore/the-first-one|The First One]] established a connection with the [[lore/abyss|Void]]
+2. Contact with the physical dimension caused fragments to tear from each [[lore/aspects|Aspect]]
 3. These fragments mixed together in the Void
 4. During contact with living beings, the dominant emotion shaped the demon's form
 5. Violent emotions created violent demons; other emotions created other types
@@ -95,7 +94,7 @@ Pacts with demons are possible but dangerous:
 - Demons are too chaotic and alien to negotiate with reliably
 - No mage can be certain what influence the pact will have
 
-One of the few known individuals who have achieved anything with demon pacts is the [[archmage-of-ur]].
+One of the few known individuals who have achieved anything with demon pacts is the [[characters/archmage-of-ur]].
 
 ---
 

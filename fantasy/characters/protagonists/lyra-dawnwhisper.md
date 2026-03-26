@@ -1,30 +1,32 @@
 ---
 name: Lyra Dawnwhisper
 type: character
-role: protagonist
-status: alive
-age: 28
-faction: the-unbound (covert)
-species: human
-occupation: Wanderer (former Compact Binder)
-spirit: Ember-Sister (Storm-tier, wildfire specialty)
-tags: [binder, rogue, secretive, determined]
+category: characters
+tags: [protagonist, human, binder, unbound, rogue, silver-compact]
 related:
-  - the-unbound
-  - archon-vael
-  - ember-sister
-  - verath
-  - quest-the-whispering-ruins
-summary: "Storm Binder on the run. Left Compact when she learned the truth about spirit contracts. Carries a dangerous secret."
+  - factions/silver-compact
+  - factions/the-unbound
+  - characters/brother-kael
+  - adventures/quest-the-whispering-ruins
+summary: "Storm Binder on the run. Left the Silver Compact when she learned the truth about spirit contracts. Carries a dangerous secret."
 ---
 
 # Lyra Dawnwhisper
 
 ## Overview
 
-Lyra is a powerful Storm-tier Binder who defected from the Silver Compact after discovering uncomfortable truths about spirit contracts. She travels under an assumed name, bound to the rogue network called The Unbound, though she maintains a careful distance from their more extreme actions.
+| Attribute | Value |
+|-----------|-------|
+| **Category** | Character |
+| **Race** | Humans |
+| **Sex** | Female |
+| **Age** | 28 |
+| **Status** | Alive |
+| **Affiliation** | The Unbound (covert) |
 
-## Appearance
+## Description
+
+### Appearance
 
 - **Build**: Lean, athletic — built for running and hiding
 - **Hair**: Dark brown, usually tied back; prematurely silver streaks (spirit contact)
@@ -32,7 +34,7 @@ Lyra is a powerful Storm-tier Binder who defected from the Silver Compact after 
 - **Scars**: Burn mark across left palm (contract origin); smaller marks across knuckles
 - **Clothing**: Practical traveling clothes in muted browns/greens; wears a silver locket she never removes
 
-## Personality
+### Personality
 
 | Trait | Description |
 |-------|-------------|
@@ -72,12 +74,13 @@ She fled that night.
 ## Abilities
 
 ### Spirit Binding: Ember-Sister
+
 | Aspect | Detail |
 |--------|--------|
-| Tier | Storm |
-| Specialty | Wildfire |
-| Contract Cost | 15 years of life, paid upfront |
-| Remaining Life Estimate | ~40 years |
+| **Tier** | Storm |
+| **Specialty** | Wildfire |
+| **Contract Cost** | 15 years of life, paid upfront |
+| **Remaining Life Estimate** | ~40 years |
 
 **Powers:**
 - Create and control fire (house-sized infernos possible)
@@ -91,6 +94,7 @@ She fled that night.
 - Each major use costs ~1 week of remaining lifespan
 
 ### Combat
+
 Trained in Compact combat techniques:
 - Staff fighting (primary)
 - Knife throwing
@@ -106,13 +110,13 @@ She never opens it. Opening it means accepting what she left behind.
 
 ## Relationships
 
-### Brother Kael
+### [[characters/brother-kael|Brother Kael]]
 - Travel companion and moral compass
 - He knows her past; she doesn't know how
 - Tensions: he wants peaceful solutions; she wants to burn it down
 - **Complication**: He's the only one who calls her "Lyra" — she uses "Wren"
 
-### Archon Vael
+### [[characters/archon-vael|Archon Vael]]
 - Former mentor who she admired deeply
 - Now understands he knows everything and chose to continue
 - **Hates him** — but part of her still seeks his approval
@@ -128,16 +132,16 @@ She never opens it. Opening it means accepting what she left behind.
 2. **She killed someone**: During escape, an enforcer who recognized her — self-defense, but still
 3. **Ember-Sister talks to her**: Claims to know where the third Void spirit is hiding
 
-## Adventure Hooks
-
-- Her past catches up at an inconvenient moment
-- The Compact offers amnesty — for a price
-- Ember-Sister demands payment beyond the contract terms
-
-## For the GM
+## For Writers / Game Designers
 
 **Playing Lyra**: She's the party's reluctant leader. Speaks less than you'd think — lets others fill silence. When she does speak, people listen.
 
 **Voice**: Dry, observant. Occasional sharp humor. Rarely raises voice.
 
 **Character Arc**: From "expose truth" to "protect people" — recognizing that the fight matters less than the lives in it.
+
+## TODO
+
+- [ ] Develop the Brother Kael relationship further
+- [ ] Detail what happened during her escape
+- [ ] Decide Ember-Sister's true nature and agenda

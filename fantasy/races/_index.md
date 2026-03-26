@@ -11,28 +11,28 @@ summary: "Index of all sapient races in the fantasy setting."
 
 ## Overview
 
-The sapient races are the thinking, feeling peoples who shape the history and future of the realm. Each descended from the ancient [[cleansed|Cleansed]], transformed by contact with magic during the [[age-of-light|Age of Light]].
+The sapient races are the thinking, feeling peoples who shape the history and future of the realm. Each descended from the ancient [[lore/the-cleansed|The Cleansed]], transformed by contact with magic during the [[age-of-light|Age of Light]].
 
 ## Origin
 
-All modern races descended from the extinct **[[cleansed|Cleansed]]**, transformed through the [[origins-of-races|Origins of the Races]]. The three ancestral beings — [[torr|Torr]], [[daraster|Daraster]], and [[lesandra|Lesandra]] — became the progenitors of:
+All modern races descended from the extinct **[[lore/the-cleansed|The Cleansed]]**, transformed through the [[origins-of-races|Origins of the Races]]. The three ancestral beings — [[characters/torr|Torr]], [[characters/daraster|Daraster]], and [[characters/lesandra|Lesandra]] — became the progenitors of:
 
 | Race | Ancestor | Origin Entry |
 |------|----------|--------------|
-| [[naterians|Naterians]] | [[torr|Torr]] | [[races/naterians|Naterians]] |
-| [[humans|Humans]] | [[daraster|Daraster]] | [[races/humans|Humans]] |
-| [[elves|Elves]] | [[daraster|Daraster]] + [[lesandra|Lesandra]] | [[races/elves|Elves]] |
-| [[dwarves|Dwarves]] | Forbidden unions | [[races/dwarves|Dwarves]] |
+| [[races/naterians|Naterians]] | [[characters/torr|Torr]] | [[races/naterians|Naterians]] |
+| [[races/humans|Humans]] | [[characters/daraster|Daraster]] | [[races/humans|Humans]] |
+| [[races/elves|Elves]] | [[characters/daraster|Daraster]] + [[characters/lesandra|Lesandra]] | [[races/elves|Elves]] |
+| [[races/dwarves|Dwarves]] | Forbidden unions | [[races/dwarves|Dwarves]] |
 
 ## The Six Races
 
 | Race | Polish Name | Status | Ancestor | Avg. Lifespan |
 |------|-------------|--------|----------|---------------|
-| [[naterians|Naterians]] | Naterowie | Active | [[torr|Torr]] | 110 |
-| [[humans|Humans]] | Ludzie | Active | [[daraster|Daraster]] | 34 |
-| [[elves|Elves]] | Elfy | Active | [[lesandra|Lesandra]] | 340 |
-| [[dwarves|Dwarves]] | Krasnoludy | Active | Forbidden | 85 |
-| [[the-cleansed|The Cleansed]] | Czyści | Extinct | — | — |
+| [[races/naterians|Naterians]] | Naterowie | Active | [[characters/torr|Torr]] | 110 |
+| [[races/humans|Humans]] | Ludzie | Active | [[characters/daraster|Daraster]] | 34 |
+| [[races/elves|Elves]] | Elfy | Active | [[characters/lesandra|Lesandra]] | 340 |
+| [[races/dwarves|Dwarves]] | Krasnoludy | Active | Forbidden | 85 |
+| [[lore/the-cleansed|The Cleansed]] | Czyści | Extinct | — | — |
 
 ## Geographic Distribution
 
@@ -52,8 +52,8 @@ All modern races descended from the extinct **[[cleansed|Cleansed]]**, transform
 
 | Faction | Dominant Race | Notes |
 |---------|---------------|-------|
-| Human Kingdom | [[humans|Humans]] | Southern territories |
-| Nater Hegemony | [[naterians|Naterians]] | Northern territories |
+| Human Kingdom | [[races/humans|Humans]] | Southern territories |
+| Nater Hegemony | [[races/naterians|Naterians]] | Northern territories |
 | Silver Compact | Mixed | Magical monopoly |
 
 ## Related Topics

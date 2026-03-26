@@ -4,9 +4,9 @@ type: sapient-race
 category: races
 tags: [humanoids, dominant, diverse]
 related:
-  - "[[origins-of-races]]"
-  - "[[daraster]]"
-  - "[[the-cleansed]]"
+  - "[[lore/origins-of-races]]"
+  - "[[characters/daraster|Daraster]]"
+  - "[[lore/the-cleansed]]"
 summary: "The most widespread race—versatile, ambitious, and adaptable."
 ---
 
@@ -19,7 +19,7 @@ summary: "The most widespread race—versatile, ambitious, and adaptable."
 | Attribute | Value |
 |-----------|-------|
 | **Category** | Sapient Race |
-| **Evolved From** | [[the-cleansed|The Cleansed]] (via [[daraster|Daraster]]) |
+| **Evolved From** | [[lore/the-cleansed|The Cleansed]] (via [[characters/daraster|Daraster]]) |
 | **Adult Age** | 20 |
 | **Average Age** | 34 |
 | **Oldest Recorded** | 786 |
@@ -47,7 +47,7 @@ Humans are the dominant race in many regions of the known world. Known for their
 ## Political Structure
 
 ### The Human Kingdom
-- **Location**: Southern side of [[torrs-gate|Torr's Gate]]
+- **Location**: Southern side of [[places/torrs-gate|Torr's Gate]]
 - **Capital**: [TODO]
 - **Ruler**: [TODO]
 
@@ -66,8 +66,8 @@ Humans are the dominant race in many regions of the known world. Known for their
 
 ## Known Humans
 
-- [[angar]] — Bearer of the cursed Soul Breaker
-- [[lyra]] — Storm Binder, wanted by the Compact
+- [[characters/angar]] — Bearer of the cursed Soul Breaker
+- [[characters/lyra-dawnwhisper|Lyra]] — Storm Binder, wanted by the Compact
 
 ## Notes
 

@@ -4,12 +4,12 @@ type: item
 category: artifact
 tags: [artifact, ur, legendary, blue-ore, magic, world-shaping]
 related:
-  - lore/void
+  - lore/abyss
   - characters/archmage-of-ur
   - items/blue-ore
   - places/ur
   - places/elf-capital
-summary: Three mythical artifacts created by the Archmage of Ur, each capable of shaping reality. Modeled after the Infinity Stones.
+summary: Three mythical artifacts created by the Archmage of Ur, each capable of shaping reality — modeled after the Infinity Stones
 ---
 
 # Black Stones of Ur (Czarne Kamienie Ur)

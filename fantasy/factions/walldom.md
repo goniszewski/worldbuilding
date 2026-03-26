@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, guardians, northern]
 related:
-  - czar
-  - highdam
-  - skjor
+  - "[[factions/czar|Czar]]"
+  - "[[factions/highdam|Highdam]]"
+  - "[[factions/skjor|Skjor]]"
 summary: "Ancient sentinel house guarding the realm's threshold for over a millennium."
 ---
 
@@ -49,11 +49,11 @@ The legendary ritual that grants extended life is forbidden by the Naterian Chur
 
 | House | Relationship |
 |-------|--------------|
-| [[Czar]] | Tense — Czar seeks to place spies in Walldom's court |
-| [[Highdam]] | Strategic alliance along northern approaches |
-| [[Skjor]] | Cold rivalry due to competing trade routes |
-| [[Mort]] | Distrust — the old tribal religion offends Walldom's orthodoxy |
-| [[Naterian Hegemony]] | Complex — they share a border but different values |
+| [[factions/czar|Czar]] | Tense — Czar seeks to place spies in Walldom's court |
+| [[factions/highdam|Highdam]] | Strategic alliance along northern approaches |
+| [[factions/skjor|Skjor]] | Cold rivalry due to competing trade routes |
+| [[factions/mort|Mort]] | Distrust — the old tribal religion offends Walldom's orthodoxy |
+| [[factions/naterian-hegemony|Naterian Hegemony]] | Complex — they share a border but different values |
 
 ## Key Figures
 

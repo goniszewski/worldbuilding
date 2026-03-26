@@ -9,7 +9,7 @@ tags:
   - dwarves
   - naterians
   - index
-summary: Index of significant figures across all races—leaders, merchants, warriors, scholars, and agents who shape events in the world. Organized by racial affiliation.
+summary: Index of significant figures across all races—leaders, merchants, warriors, scholars, and agents who shape events in the world. Organized by racial affiliatio
 ---
 
 # Notable Figures
@@ -27,8 +27,8 @@ This section catalogs the influential figures whose actions, decisions, or prese
 
 | Name | Affiliation | Notes |
 |------|-------------|-------|
-| [[Elmund Tiel]] | — | — |
-| [[Zygfryd Walldom]] | — | — |
+| [[characters/elmund-tiel|Elmund Tiel]] | — | — |
+| [[factions/walldom|Zygfryd Walldom]] | — | — |
 | [[Allena Mort]] | — | — |
 | [[Darien Mort]] | — | — |
 | [[Warren Whitewalker]] | — | — |

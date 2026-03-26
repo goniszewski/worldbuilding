@@ -8,10 +8,10 @@ tags:
   - tentacle-appendages
   - socialist
 related:
-  - "[[origins-of-races]]"
-  - "[[torr]]"
-  - "[[the-cleansed]]"
-  - "[[humans]]"
+  - "[[lore/origins-of-races]]"
+  - "[[characters/torr|Torr]]"
+  - "[[lore/the-cleansed|The Cleansed]]"
+  - "[[races/humans|Humans]]"
 summary: "Tall humanoids with tentacle-like appendages and scale-like skin. The most diverse-looking race."
 ---
 
@@ -25,7 +25,7 @@ summary: "Tall humanoids with tentacle-like appendages and scale-like skin. The 
 |-----------|-------|
 | **Category** | Sapient Race |
 | **Polish Name** | Naterianie, Naterowie |
-| **Evolved From** | [[the-cleansed|The Cleansed]] (via [[torr|Torr]]) |
+| **Evolved From** | [[lore/the-cleansed|The Cleansed]] (via [[characters/torr|Torr]]) |
 | **Adult Age** | 17 |
 | **Average Age** | 110 |
 | **Type** | Humanoid, Mammal |
@@ -44,14 +44,14 @@ Naterians are tall and well-built humanoids that differ notably from other races
 
 ### Diversity
 Naterians are the most **diverse-looking race**:
-- Most "pure" descendants of [[torr|Torr]] have prominent, mobile tentacles (sometimes forming a crown-like shape) and very dark skin
+- Most "pure" descendants of [[characters/torr|Torr]] have prominent, mobile tentacles (sometimes forming a crown-like shape) and very dark skin
 - More "mixed" individuals appear similar to humans or elves but retain subtle tentacle bumps and warmer skin tones
 - Lack of tentacles is a rare mutation (comparable to albinism in humans)
 
 ## Political Structure
 
 ### The Nater Hegemony
-- **Location**: Northern side of [[torrs-gate|Torr's Gate]]
+- **Location**: Northern side of [[places/torrs-gate|Torr's Gate]]
 - **Capital**: [TODO]
 - **Ruler**: [TODO]
 - **System**: Dominant social system resembles efficient Soviet-style socialism
@@ -100,14 +100,14 @@ Dwarven kingdoms are located underground between human and Naterian territories,
 
 | Clan | Notes |
 |------|-------|
-| [[Kharatar]] | [TODO] |
-| [[Vathar]] | [TODO] |
-| [[Utar]] | [TODO] |
-| [[Zorzad]] | [TODO] |
-| [[Uto]] | [TODO] |
-| [[Kor]] | [TODO] |
+| [[characters/kharatar|Kharatar]] | [TODO] |
+| [[characters/vathar|Vathar]] | [TODO] |
+| [[characters/utar|Utar]] | [TODO] |
+| [[characters/zorzad|Zorzad]] | [TODO] |
+| [[characters/uto|Uto]] | [TODO] |
+| [[characters/kor|Kor]] | [TODO] |
 
 ## Known Naterians
 
-- [[velan-kivar-zan-ehkovok]] — Warrior of Kharatar clan
-- [[gwenn-youkto-imah-vueten]] — [TODO]
+- [[characters/velan-kivar-zan-ehkovok]] — Warrior of Kharatar clan
+- [[characters/gwenn-youkto-imah-vueten]] — [TODO]

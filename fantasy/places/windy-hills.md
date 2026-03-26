@@ -1,12 +1,17 @@
 ---
-name: Wiatrowe Wzgórza
+name: Windy Hills
 type: location
 category: places
-tags: [hills, archers, tiltman, isolation, windy]
-related:
+tags:
+  - hills
+  - archers
   - tiltman
-  - ermynt
-summary: "Windy highland hills where the Tiltman archers have trained for millennia, with winds that shape everything."
+  - isolation
+  - windy
+related:
+  - factions/tiltman
+  - factions/ermynt
+summary: Windy highland hills where the Tiltman archers have trained for millennia, with winds that shape everything
 ---
 
 # Wiatrowe Wzgórza
@@ -19,7 +24,7 @@ summary: "Windy highland hills where the Tiltman archers have trained for millen
 |-------|-------|
 | **Type** | Highland Territory |
 | **Polish Name** | Wiatrowe Wzgórza |
-| **Controlling House** | [[Tiltman]] |
+| **Controlling House** | [[factions/tiltman|Tiltman]] |
 | **Region** | Western Highlands |
 | **Danger Level** | Extreme (for intruders) |
 

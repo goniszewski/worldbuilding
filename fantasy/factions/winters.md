@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, north, isolation, cold]
 related:
-  - daever
-  - czar
-  - kolah
+  - "[[factions/daever|Daever]]"
+  - "[[factions/czar|Czar]]"
+  - "[[factions/kolah|Kolah]]"
 summary: "Isolated northern house dwelling in the frozen Zimowy Gród, surviving through cold and isolation."
 ---
 
@@ -62,9 +62,9 @@ Winters hunt these creatures for:
 
 | House | Relationship |
 |-------|--------------|
-| [[Daever]] | Trade — furs for alchemical supplies |
-| [[Kolah]] | Ancient alliance — both are "mountain folk" |
-| [[Czar]] | Distant — Czar wants northern resources |
+| [[factions/daever|Daever]] | Trade — furs for alchemical supplies |
+| [[factions/kolah|Kolah]] | Ancient alliance — both are "mountain folk" |
+| [[factions/czar|Czar]] | Distant — Czar wants northern resources |
 | Most houses | Indifference — "Let the cold have them" |
 | Northern tribes | Complex — Winters claim lordship, tribes resist |
 

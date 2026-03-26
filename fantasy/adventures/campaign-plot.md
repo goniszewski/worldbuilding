@@ -15,7 +15,7 @@ related:
   - characters/mighty-eight
   - places/elf-capital
   - places/ur
-summary: The main campaign arc — stopping the Archmage's cult, preventing a racial war, and finding the Black Stones of Ur.
+summary: The main campaign arc — stopping the Archmage's cult, preventing a racial war, and finding the Black Stones of U
 ---
 
 # Campaign Plot

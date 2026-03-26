@@ -1,6 +1,6 @@
 ---
 name: Aspects
-type: entity
+type: lore
 category: lore
 tags:
   - void
@@ -9,11 +9,11 @@ tags:
   - origin
   - magic
 related:
-  - "[[abyss]]"
-  - "[[the-first-one]]"
-  - "[[demons]]"
-  - "[[origins-of-races]]"
-summary: "Beings of immense power within the Void — entities of indeterminate consciousness that influenced the First and gave rise to demons."
+  - lore/abyss
+  - lore/the-first-one
+  - lore/demons
+  - lore/origins-of-races
+summary: Beings of immense power within the Void — entities of indeterminate consciousness that influenced the First and gave rise to demons
 ---
 
 # Aspects
@@ -28,14 +28,14 @@ summary: "Beings of immense power within the Void — entities of indeterminate 
 |-----------|-------|
 | **Category** | Entity / Cosmic Being |
 | **Polish Name** | Aspekty |
-| **Location** | [[abyss|Void]] |
+| **Location** | [[lore/abyss|Void]] |
 | **Nature** | Beings of indeterminate consciousness |
 
 ---
 
 ## Description
 
-**Aspects** are beings of immense power that exist within the **[[abyss|Void]]** — a multi-layered, immaterial dimension separate from the physical world.
+**Aspects** are beings of immense power that exist within the **[[lore/abyss|Void]]** — a multi-layered, immaterial dimension separate from the physical world.
 
 Their nature is difficult to comprehend: they possess consciousness of a form entirely alien to mortal minds, existing in states that defy mortal understanding.
 
@@ -45,20 +45,20 @@ Their nature is difficult to comprehend: they possess consciousness of a form en
 |-------|-------------|
 | **Immense Power** | Among the most powerful entities in existence |
 | **Alien Consciousness** | Minds that operate beyond human reasoning |
-| **Void Dwellers** | Native to the [[abyss|Void]], not the physical plane |
+| **Void Dwellers** | Native to the [[lore/abyss|Void]], not the physical plane |
 | **Imprint Capability** | Can leave lasting impressions on mortal souls |
 
 ---
 
 ## Role in Creation Myth
 
-According to the [[origins-of-races|Origins of the Races]]:
+According to the [[lore/origins-of-races|Origins of the Races]]:
 
-1. When [[the-first-one|The First One]] made contact with the [[abyss|Void]] through prolonged exposure to magical energy
+1. When [[lore/the-first-one|The First One]] made contact with the [[lore/abyss|Void]] through prolonged exposure to magical energy
 2. The **Aspects**, suspended within the Void, involuntarily (and according to some, deliberately) left an imprint on her soul
 3. They granted her the ability to pass into their dimension after death
 4. Contact with our dimension caused a small piece to tear away from each Aspect
-5. These fragments mixed together and formed greater and lesser **[[demons]]**
+5. These fragments mixed together and formed greater and lesser **[[lore/demons]]**
 
 ---
 
@@ -72,7 +72,7 @@ Aspects are not inherently malevolent — their motivations and thought processe
 
 ### The Void Connection
 
-Aspects exist in a state of partial separation from both the physical world and the [[abyss|Void]]:
+Aspects exist in a state of partial separation from both the physical world and the [[lore/abyss|Void]]:
 - They can influence the physical world through contact with mortal souls
 - They can receive souls that have passed into the Void
 - They exist across multiple "layers" of the Void simultaneously

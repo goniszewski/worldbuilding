@@ -14,16 +14,16 @@ icon: 🗺️
 
 | Location | Region | Status |
 |----------|--------|--------|
-| [[great-bessam]] | Central | Major river system |
-| [[silver-woods]] | Central | Sacred grove, Compact HQ |
-| [[torrs-gate]] | North | Fortress between humans and Naters |
-| [[wąski-przesmyk]] | Highlands | Mort clan territory |
-| [[dolina-mgieł]] | East | Daever territory |
-| [[redwood]] | Central | Graz trade hub |
-| [[barrenport]] | East | Tiel mining city |
-| [[ponury-zamek]] | East | Skjor dwarf gateway |
-| [[wiatrowe-wzgórza]] | West | Tiltman archer lands |
-| [[zimowy-gród]] | Far North | Winters glacier fortress |
+| [[places/great-bessam|Great Bessam]] | Central | Major river system |
+| [[places/silver-woods|Silver Woods]] | Central | Sacred grove, Compact HQ |
+| [[places/torrs-gate|Torr's Gate]] | North | Fortress between humans and Naters |
+| [[places/narrow-pass|Narrow Pass]] | Highlands | Mort clan territory |
+| [[places/misty-valley|Mist Valley]] | East | Daever territory |
+| [[places/redwood|Redwood]] | Central | Graz trade hub |
+| [[places/barrenport|Barrenport]] | East | Tiel mining city |
+| [[places/grim-castle|Grim Castle]] | East | Skjor dwarf gateway |
+| [[places/windy-hills|Windy Hills]] | West | Tiltman archer lands |
+| [[places/winter-fortress|Winter Fortress]] | Far North | Winters glacier fortress |
 
 ---
 

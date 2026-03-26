@@ -1,17 +1,8 @@
 ---
-name: Velan Kivar Zan Ehko'vok
+name: Velan Kivar Zan Ehkovok
 type: character
 category: characters
-role: protagonist
-status: alive
-age: 25
-height: 174 cm
-race: Naterians
-occupation: Rogue, Wandering Mage
-tags:
-  - protagonist
-  - eridann
-  - naterian
+tags: [protagonist, naterian, rogue, mage, eridann]
 related:
   - characters/damara-loehen
   - characters/angar
@@ -19,30 +10,32 @@ related:
 summary: "Charming, audacious Naterian rogue with hidden magical abilities. Fled his homeland after discovering his arcane talents."
 ---
 
-# Velan Kivar Zan Ehko'vok
+# Velan Kivar Zan Ehkovok
 
-*Protagonist, Eridann*
+*[Rogue / Wandering Mage, Eridann Campaign]*
 
-## Basics
+## Overview
 
-| Field | Value |
-|-------|-------|
-| Race | Naterians (Naterianie) |
-| Sex | Male |
-| Age | 25 |
-| Height | 174 cm |
-| Nationality | Blackmounts (Czarnogóry) |
+| Attribute | Value |
+|-----------|-------|
+| **Category** | Character |
+| **Race** | Naterians |
+| **Sex** | Male |
+| **Age** | 25 |
+| **Height** | 174 cm |
+| **Status** | Alive |
+| **Affiliation** | Silver Compact (formerly) |
 
-## Appearance
+## Description
 
 Tall, athletic build, dark hair, roguish charm. Wears practical leather armor with a long black coat that billows behind him.
 
-Male, typical rogue (short swords, daggers, smoke screens, etc.), later revealed to also be capable of using magic. Charming, audacious, reckless—similar to Isabela from Dragon Age 2. He fled his country after his father's death, resisting arrest (to avoid his abilities being exploited by his rulers) and betraying generally accepted principles of his people.
+Male, typical rogue (short swords, daggers, smoke screens, etc.), later revealed to also be capable of using magic. Charming, audacious, reckless — similar to Isabela from Dragon Age 2. He fled his country after his father's death, resisting arrest (to avoid his abilities being exploited by his rulers) and betraying generally accepted principles of his people.
 
-## Skills
+## Skills & Abilities
 
 - **Combat**: Short swords, daggers, stealth
-- **Music**: Plays two instruments (better at one, worse at the other)—flute, guitar, or lute
+- **Music**: Plays two instruments (better at one, worse at the other) — flute, guitar, or lute
 - **Magic**: Hidden, untrained, deeply shamed
 
 ## The Truth About His Exile
@@ -72,11 +65,17 @@ Velan's true origin is tragic and layered:
 
 ## Relationships
 
-- **Damara Lo'Ehen** — Teaches him magic; potential romance
-- **Erin Telion z Mert** — Wary protective dynamic regarding Damara
-- **Parents** — Complicated; can potentially save them or condemn them
+- **[[damara-loehen|Damara Lo'Ehen]]**: Teaches him magic; potential romance
+- **[[characters/erin-telion-from-mert|Erin Telion z Mert]]**: Wary protective dynamic regarding Damara
+- **Parents**: Complicated; can potentially save them or condemn them
 
-## Notes
+## For Writers / Game Designers
 
 - His combat style combines rogue techniques with untrained magical bursts
 - He doesn't understand why he can sense nothing from Gwenn despite Angar's suspicions about her using magic
+
+## TODO
+
+- [ ] Add Velan's musical compositions (what songs does he write?)
+- [ ] Develop his relationship with his underground movement (are they still active?)
+- [ ] Detail what happens if the player helps save his parents

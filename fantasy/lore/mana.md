@@ -9,11 +9,10 @@ tags:
   - abyss
   - ancient-technology
 related:
-  - "[[Studnia]]"
-  - "[[Pradawni]]"
-  - "[[Martin Halgrom]]"
-  - "[[magia]]"
-summary: Mana is pure energy emanating from the Well in the Abyss that serves as the fundamental fuel for all magic. Its density decreases with distance from the source, and most practitioners confuse it with "magic" itself. The Ancients mastered its use through specialized devices.
+  - "[[lore/the-abyss|Studnia]]"
+  - "[[lore/ancient-ones|Pradawni]]"
+  - "[[characters/martin-guecventrak|Martin Halgrom]]"
+summary: Mana is pure energy emanating from the Well in the Abyss that serves as the fundamental fuel for all magic. Its density decreases with distance from the source, and most practitioners confuse it with "magic" itself. The Ancients mastered its use through specialized device
 ---
 
 # Mana
@@ -21,7 +20,7 @@ summary: Mana is pure energy emanating from the Well in the Abyss that serves as
 > *"They speak of magic as if it were a force unto itself. But fire does not exist without fuel—and mana is that fuel."*
 > — Martin Halgrom, *On the Nature of Arcane Energy*
 
-Mana is the fundamental energy that permeates the world and serves as the fuel for all magical phenomena. Unlike traditional understandings of magic, mana represents a distinct, measurable energy that flows from a single cosmic source: [[Studnia|the Well]] in the depths of [[the Abyss]].
+Mana is the fundamental energy that permeates the world and serves as the fuel for all magical phenomena. Unlike traditional understandings of magic, mana represents a distinct, measurable energy that flows from a single cosmic source: [[Studnia|the Well]] in the depths of [[lore/abyss]].
 
 > ⚠️ **Game Note:** At the beginning of the campaign, mana exists only as theory. Player characters and most NPCs do not know of its existence—they simply call it "magic."
 
@@ -31,7 +30,7 @@ Mana is the fundamental energy that permeates the world and serves as the fuel f
 
 ### Origin
 
-Mana is pure energy emanating from [[Studnia|the Well]] at the deepest level of [[the Abyss]]. This cosmic source continuously releases mana into the surrounding void, where it then disperses outward through unknown mechanisms into the world of the living.
+Mana is pure energy emanating from [[Studnia|the Well]] at the deepest level of [[lore/abyss]]. This cosmic source continuously releases mana into the surrounding void, where it then disperses outward through unknown mechanisms into the world of the living.
 
 ### Density Gradient
 
@@ -44,7 +43,7 @@ Mana concentration follows a predictable pattern:
 | **Surface world** | Trace amounts | Barely perceptible |
 | **Remote regions** | Negligible | Nearly undetectable |
 
-The further one travels from [[Studnia]], the more sparse and diluted mana becomes.
+The further one travels from [[lore/the-abyss|Studnia]], the more sparse and diluted mana becomes.
 
 ---
 
@@ -61,7 +60,7 @@ To ordinary mages—and indeed to most of the world's population—there is no d
 
 ### The Pioneers
 
-A small number of scholars, most notably [[Martin Halgrom]], recognize this fundamental misunderstanding. They work to spread awareness that magic is merely the *effect*—mana is the *cause*.
+A small number of scholars, most notably [[characters/martin-guecventrak|Martin Halgrom]], recognize this fundamental misunderstanding. They work to spread awareness that magic is merely the *effect*—mana is the *cause*.
 
 > *"Call it ignorance. Call it tradition. But when a fire burns, you do not say the flame *is* the energy. You know better."*
 > — Martin Halgrom
@@ -70,7 +69,7 @@ A small number of scholars, most notably [[Martin Halgrom]], recognize this fund
 
 ## The Ancients' Mastery
 
-The [[Pradawni]] (Ancients) understood mana's true nature and exploited it at a highly advanced technological level. To them, mana was treated much like humans treat **electricity**—a fundamental resource to be harnessed, controlled, and distributed.
+The [[lore/ancient-ones|Pradawni]] (Ancients) understood mana's true nature and exploited it at a highly advanced technological level. To them, mana was treated much like humans treat **electricity**—a fundamental resource to be harnessed, controlled, and distributed.
 
 ### Absorbers
 
@@ -137,9 +136,9 @@ Trained mages can perceive variations in mana density, though they interpret thi
 
 | Element | Connection |
 |---------|------------|
-| **[[Studnia]]** | The source—where does it lead? |
-| **[[Pradawni]]** | Masters of mana technology—what happened to them? |
-| **[[Martin Halgrom]]** | Living pioneer—ally or complication? |
+| **[[lore/the-abyss|Studnia]]** | The source—where does it lead? |
+| **[[lore/ancient-ones|Pradawni]]** | Masters of mana technology—what happened to them? |
+| **[[characters/martin-guecventrak|Martin Halgrom]]** | Living pioneer—ally or complication? |
 | **The Abyss** | Dangerous expedition site—rewards and risks |
 
 ### Mechanical Notes (Optional)
@@ -154,8 +153,8 @@ If adapting this system for TTRPG mechanics:
 
 ## TODO
 
-- [ ] Detail the structure of [[Studnia]] and its relationship to the Abyss
+- [ ] Detail the structure of [[lore/the-abyss|Studnia]] and its relationship to the Abyss
 - [ ] Create entry for Pradawni absorbers (potential artifacts)
 - [ ] Develop the "mana density" map of the known world
-- [ ] Write [[Martin Halgrom]]'s research notes as in-game documents
+- [ ] Write [[characters/martin-guecventrak|Martin Halgrom]]'s research notes as in-game documents
 - [ ] Explore why the Ancients treated mana like electricity—what were they powering?

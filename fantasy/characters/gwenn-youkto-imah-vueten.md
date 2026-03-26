@@ -2,16 +2,7 @@
 name: Gwenn Youkto Imah Vueten
 type: character
 category: characters
-role: protagonist
-status: alive
-age: 29
-race: Humans
-occupation: Mercenary
-tags:
-  - protagonist
-  - eridann
-  - human
-  - mercenary
+tags: [protagonist, human, mercenary, eridann]
 related:
   - characters/angar
   - characters/damara-loehen
@@ -20,22 +11,24 @@ summary: "Black-skinned human mercenary with strange, green eyes. Pleasant but c
 
 # Gwenn Youkto Imah Vueten
 
-*Protagonist, Eridann*
+*[Protagonist, Eridann Campaign]*
 
-## Basics
+## Overview
 
-| Field | Value |
-|-------|-------|
-| Race | Humans (Ludzie) |
-| Sex | Female |
-| Age | 29 |
-| Nationality | Blackmounts (Czarnogóry) |
+| Attribute | Value |
+|-----------|-------|
+| **Category** | Character |
+| **Race** | Humans |
+| **Sex** | Female |
+| **Age** | 29 |
+| **Status** | Alive |
+| **Affiliation** | Silver Compact (formerly) |
 
-## Appearance
+## Description
 
 Black-skinned, striking green eyes, lean and poised. Wears practical mercenary attire beneath a dark, well-worn coat. Her short sword of strange alloy hangs at her hip.
 
-Black-skinned human mercenary with strange, green eyes. Pleasant but calculating, helpful but distant. Avoids conversations about her past, which is why she doesn't inspire trust—though she doesn't care about that anyway. Hard to surprise or embarrass.
+Black-skinned human mercenary with strange, green eyes. Pleasant but calculating, helpful but distant. Avoids conversations about her past, which is why she doesn't inspire trust — though she doesn't care about that anyway. Hard to surprise or embarrass.
 
 ## Equipment
 
@@ -45,7 +38,13 @@ Black-skinned human mercenary with strange, green eyes. Pleasant but calculating
 
 Combat comes easily to her; fatigue is practically invisible on her. This is especially true because she's in a trance-like state of complete focus during fights. Angar suspects she uses magic in combat, but Damara says it's impossible because she doesn't sense anything magical from Gwenn.
 
-## Notes
+## For Writers / Game Designers
 
 - Elements of her attire indicate a traveling past to distant, lesser-known, and nearly undescribed lands
 - The source of her combat ability and strange sword remains mysterious
+
+## TODO
+
+- [ ] Develop her past — where did she come from?
+- [ ] Detail the strange alloy of her sword
+- [ ] Decide whether she uses magic or has some other explanation for her abilities

@@ -1,11 +1,14 @@
 ---
-title: The Divine Begetting
-icon: 🌟
+name: The Divine Begetting
+type: lore
+category: lore
 tags:
   - cosmology
   - creation
   - races
   - gods
+related: []
+summary: Cosmological diagram depicting the creation of the sapient races according to ancient theological belie
 ---
 
 # The Divine Begetting

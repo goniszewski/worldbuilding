@@ -4,10 +4,10 @@ type: sapient-race
 category: races
 tags: [humanoids, long-lived, traditional, principled]
 related:
-  - "[[origins-of-races]]"
-  - "[[daraster]]"
-  - "[[lesandra]]"
-  - "[[cleansed|The Cleansed]]"
+  - "[[lore/origins-of-races]]"
+  - "[[characters/daraster|Daraster]]"
+  - "[[characters/lesandra|Lesandra]]"
+  - "[[lore/the-cleansed|The Cleansed]]"
 summary: "Ancient, long-lived humanoids known for their strict principles and adherence to tradition. Direct descendants of Daraster and Lesandra."
 ---
 
@@ -20,7 +20,7 @@ summary: "Ancient, long-lived humanoids known for their strict principles and ad
 | Attribute | Value |
 |-----------|-------|
 | **Category** | Sapient Race |
-| **Ancestor** | [[daraster|Daraster]] and [[lesandra|Lesandra]] |
+| **Ancestor** | [[characters/daraster|Daraster]] and [[characters/lesandra|Lesandra]] |
 | **Origin** | [[origins-of-races|Origins of the Races]] |
 | **Adult Age** | 26 |
 | **Average Age** | 340 |
@@ -33,7 +33,7 @@ summary: "Ancient, long-lived humanoids known for their strict principles and ad
 
 Elves are known for their adherence to strict principles and traditions. Their long lifespans make them deliberate and principled in all dealings, earning cold respect from other races—especially the Naterians.
 
-Their bloodline is considered the **purest** of the races — direct descendants of [[daraster|Daraster]] and [[lesandra|Lesandra]] without admixture. This purity is central to elven identity and their belief in their own superiority.
+Their bloodline is considered the **purest** of the races — direct descendants of [[characters/daraster|Daraster]] and [[characters/lesandra|Lesandra]] without admixture. This purity is central to elven identity and their belief in their own superiority.
 
 ## Characteristics
 

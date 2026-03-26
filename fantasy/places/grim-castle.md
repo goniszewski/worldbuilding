@@ -1,13 +1,13 @@
 ---
-name: Ponury Zamek
+name: Grim Castle
 type: location
 category: places
 tags: [castle, underground, skjor, dwarf-trade, grim]
 related:
-  - skjor
-  - tiel
-  - graz
-summary: "Grim Castle at the mouth of the underground passage to dwarven lands, sole gateway between humans and dwarves."
+  - factions/skjor
+  - factions/tiel
+  - factions/graz
+summary: Grim Castle at the mouth of the underground passage to dwarven lands, sole gateway between humans and dwarves
 ---
 
 # Ponury Zamek
@@ -20,7 +20,7 @@ summary: "Grim Castle at the mouth of the underground passage to dwarven lands, 
 |-------|-------|
 | **Type** | Fortress-City |
 | **Polish Name** | Ponury Zamek |
-| **Controlling House** | [[Skjor]] |
+| **Controlling House** | [[factions/skjor|Skjor]] |
 | **Region** | Eastern Mountains |
 | **Population** | ~25,000 |
 | **Status** | Trade Gateway |

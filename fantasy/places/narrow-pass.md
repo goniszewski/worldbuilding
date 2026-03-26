@@ -1,13 +1,13 @@
 ---
-name: Wąski Przesmyk
+name: Narrow Pass
 type: location
 category: places
 tags: [mountains, narrow-pass, mort, tribal, highland]
 related:
-  - mort
-  - tiel
-  - walldom
-summary: "Treacherous mountain pass controlled by the Mort clans, the narrowest route between north and south."
+  - factions/mort
+  - factions/tiel
+  - factions/walldom
+summary: Treacherous mountain pass controlled by the Mort clans, the narrowest route between north and sout
 ---
 
 # Wąski Przesmyk
@@ -20,7 +20,7 @@ summary: "Treacherous mountain pass controlled by the Mort clans, the narrowest 
 |-------|-------|
 | **Type** | Strategic Mountain Pass |
 | **Polish Name** | Wąski Przesmyk |
-| **Controlling House** | [[Mort]] |
+| **Controlling House** | [[factions/mort|Mort]] |
 | **Region** | Northern Highlands |
 | **Danger Level** | High (for outsiders) |
 

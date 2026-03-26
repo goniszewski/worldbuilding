@@ -48,7 +48,7 @@ Unlike surface dwellers, the Juuhroni show no fear of deep water. They rise from
 
 ### The Verdance Incident
 
-The most detailed account comes from [[Arven Doyne]], a survivor of a merchant galley expedition. The *Verdance* was searching for a lost spice ship when a catastrophic storm drove it onto the shores of a nameless bog-bay. The crew, desperate for fresh water, ventured inland and found only death.
+The most detailed account comes from [[characters/arven-doyne|Arven Doyne]], a survivor of a merchant galley expedition. The *Verdance* was searching for a lost spice ship when a catastrophic storm drove it onto the shores of a nameless bog-bay. The crew, desperate for fresh water, ventured inland and found only death.
 
 > *"The mokradła were black and grew enormous trees, often leaning on others or deformed and half-rotted. Above the water reaching to our waists hung strange vapors, similar to fog but denser, more sinister."*
 

@@ -8,7 +8,7 @@ related:
   - items/soul-breaker
   - items/black-stones-of-ur
   - factions/silver-compact
-summary: Eight legendary heroes who defeated the Archmage of Ur. Their story serves as backstory and inspiration for the campaign.
+summary: Eight legendary heroes who defeated the Archmage of Ur. Their story serves as backstory and inspiration for the campaig
 ---
 
 # Mighty Eight (Potężna Ósemka)

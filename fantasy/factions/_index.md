@@ -21,20 +21,20 @@ Maritime trading consortium. [Details](merchant-tides.md)
 
 | House | Seat | Specialty |
 |-------|------|----------|
-| [[walldom]] | Brama Torra | Guardians of the Gate |
-| [[mort]] | Wąski Przesmyk | Berserker Clan |
-| [[daever]] | Dolina Mgieł | Mist & Alchemy |
-| [[graz]] | Redwood | Commerce & Trade |
-| [[highdam]] | Zapor | Dam Control |
-| [[tiel]] | Barrenport | Mining & Blue Ore |
-| [[czar]] | Wieża Cieni | Political Intrigue |
-| [[tiltman]] | Wiatrowe Wzgórza | Legendary Archers |
-| [[skjor]] | Ponury Zamek | Dwarf Trade |
-| [[timrel]] | Portszy | Naval Power |
-| [[ermynt]] | Rozdroże | Neutrality & Elves |
-| [[winters]] | Zimowy Gród | Northern Isolation |
-| [[golwynt]] | Zielona Dolina | Agriculture |
-| [[kolah]] | Szczyt Kozy | Goat God Worship |
+| [[factions/walldom]] | Brama Torra | Guardians of the Gate |
+| [[factions/mort]] | Wąski Przesmyk | Berserker Clan |
+| [[factions/daever]] | Dolina Mgieł | Mist & Alchemy |
+| [[factions/graz]] | Redwood | Commerce & Trade |
+| [[factions/highdam]] | Zapor | Dam Control |
+| [[factions/tiel]] | Barrenport | Mining & Blue Ore |
+| [[factions/czar]] | Wieża Cieni | Political Intrigue |
+| [[factions/tiltman]] | Wiatrowe Wzgórza | Legendary Archers |
+| [[factions/skjor]] | Ponury Zamek | Dwarf Trade |
+| [[factions/timrel]] | Portszy | Naval Power |
+| [[factions/ermynt]] | Rozdroże | Neutrality & Elves |
+| [[factions/winters]] | Zimowy Gród | Northern Isolation |
+| [[factions/golwynt]] | Zielona Dolina | Agriculture |
+| [[factions/kolah]] | Szczyt Kozy | Goat God Worship |
 
 ---
 

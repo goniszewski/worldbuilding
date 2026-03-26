@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, mining, ore, blue-ore]
 related:
-  - mort
-  - highdam
-  - czar
+  - "[[factions/mort|Mort]]"
+  - "[[factions/highdam|Highdam]]"
+  - "[[factions/czar|Czar]]"
 summary: "Mining house controlling the precious błękitna ruda (blue ore) deposits and the port of Barrenport."
 ---
 
@@ -56,11 +56,11 @@ Tiel society revolves around the mines:
 
 | House | Relationship |
 |-------|--------------|
-| [[Mort]] | Mortal enemies — disputed valley claims for centuries |
-| [[Highdam]] | Trade — Highdam controls their water, Tiel provides weapons |
-| [[Graz]] | Customer — Graz finances Tiel operations |
-| [[Czar]] | Tense — Czar wants blue ore access |
-| [[Skjor]] | Commerce — Skjor's dwarven connections provide mining expertise |
+| [[factions/mort|Mort]] | Mortal enemies — disputed valley claims for centuries |
+| [[factions/highdam|Highdam]] | Trade — Highdam controls their water, Tiel provides weapons |
+| [[factions/graz|Graz]] | Customer — Graz finances Tiel operations |
+| [[factions/czar|Czar]] | Tense — Czar wants blue ore access |
+| [[factions/skjor|Skjor]] | Commerce — Skjor's dwarven connections provide mining expertise |
 
 ## Key Figures
 

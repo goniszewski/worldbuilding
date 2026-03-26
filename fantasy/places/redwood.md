@@ -4,10 +4,10 @@ type: location
 category: places
 tags: [city, trade, commerce, graz, merchant]
 related:
-  - graz
-  - timrel
-  - czar
-summary: "The realm's second-greatest trading hub, controlled by House Graz and home to the famous Redwood Trade Fair."
+  - factions/graz
+  - factions/timrel
+  - factions/czar
+summary: The realm's second-greatest trading hub, controlled by House Graz and home to the famous Redwood Trade Fair
 ---
 
 # Redwood
@@ -20,7 +20,7 @@ summary: "The realm's second-greatest trading hub, controlled by House Graz and 
 |-------|-------|
 | **Type** | Major City |
 | **Polish Name** | Czerwony Las |
-| **Controlling House** | [[Graz]] |
+| **Controlling House** | [[factions/graz|Graz]] |
 | **Region** | Central Lowlands |
 | **Population** | ~80,000 |
 | **Status** | Free Trade City |

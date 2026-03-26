@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, berserkers, tribal, old-gods]
 related:
-  - tiel
-  - czar
-  - naterian-hegemony
+  - "[[factions/tiel|Tiel]]"
+  - "[[factions/czar|Czar]]"
+  - "[[factions/naterian-hegemony|Naterian Hegemony]]"
 summary: "Fierce berserker clan descended from humanity's original Five Clans, dwelling on the Narrow Pass."
 ---
 
@@ -51,16 +51,16 @@ Before a warrior may wield a ceremonial war axe, they must survive the *Próba O
 
 | House | Relationship |
 |-------|--------------|
-| [[Tiel]] | Mortal enemies — disputed valley claims for centuries |
-| [[Czar]] | Hostile — Czar's political machinations offend Mort sensibilities |
-| [[Naterian Hegemony]] | Hostile — the Church considers their old gods heretical |
-| [[Walldom]] | Distrust — Walldom's orthodox religion views Mort practices with contempt |
-| [[Daever]] | Cautious respect — both value the old ways |
+| [[factions/tiel|Tiel]] | Mortal enemies — disputed valley claims for centuries |
+| [[factions/czar|Czar]] | Hostile — Czar's political machinations offend Mort sensibilities |
+| [[factions/naterian-hegemony|Naterian Hegemony]] | Hostile — the Church considers their old gods heretical |
+| [[factions/walldom|Walldom]] | Distrust — Walldom's orthodox religion views Mort practices with contempt |
+| [[factions/daever|Daever]] | Cautious respect — both value the old ways |
 
 ## Key Figures
 
-- **[[Wódz Borin Mort]]** — Supreme chieftain, ancient and scarred, leads from the front
-- **[[Hera Zemsty]]** — Female berserker champion, undefeated in single combat for 20 years
+- **[[characters/wódz-borin-mort|Wódz Borin Mort]]** — Supreme chieftain, ancient and scarred, leads from the front
+- **[[characters/hera-zemsty|Hera Zemsty]]** — Female berserker champion, undefeated in single combat for 20 years
 
 ## For Writers / Game Designers
 

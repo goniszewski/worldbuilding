@@ -46,7 +46,7 @@ summary: "Index of all items in the fantasy setting."
 
 ## Adding Items
 
-See: [[CONTRIBUTING|Contributing Guide]] — Items section for template and standards.
+See: [[contributing|Contributing Guide]] — Items section for template and standards.
 
 ---
 
@@ -56,4 +56,4 @@ See: [[CONTRIBUTING|Contributing Guide]] — Items section for template and stan
 |----------|-------------|
 | [[lore/magic-systems\|Magic Systems]] | How magical items function |
 | [[factions/silver-compact\|Silver Compact]] | Item regulation and control |
-| [[characters|Characters]] | Notable item owners |
+| [[characters/|Characters]] | Notable item owners |

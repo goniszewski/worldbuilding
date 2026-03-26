@@ -4,10 +4,10 @@ type: magic-system
 category: lore
 tags: [magic, arcana, demons, mana]
 related:
-  - "[[archmage-of-ur]]"
-  - "[[naterian-hegemony]]"
-  - "[[mana]]"
-summary: The universal system of arcane arts, practiced differently by each race — from disciplined human universities to elf magin councils and dwarven blue ore engineering.
+  - "[[characters/archmage-of-ur]]"
+  - "[[factions/naterian-hegemony]]"
+  - "[[lore/mana]]"
+summary: The universal system of arcane arts, practiced differently by each race — from disciplined human universities to elf magin councils and dwarven blue ore engineerin
 ---
 
 # Magic System
@@ -22,7 +22,7 @@ There is no such thing as blood magic. Forbidden forms of the arcane arts certai
 
 Pacts with demons are possible, but a mage must be truly powerful for a demon to even notice them. Demons are too chaotic, alien, and beyond the boundaries of human reasoning to simply negotiate with. No mage can be entirely certain what exactly they're doing and what influence it will have on them and the demon during various rituals aimed at interaction between the two worlds.
 
-One of the few known living individuals who have achieved anything in this field is the [[archmage-of-ur]].
+One of the few known living individuals who have achieved anything in this field is the [[characters/archmage-of-ur]].
 
 ---
 
@@ -103,7 +103,7 @@ Dwarves practically have no mages. Their magical abilities are negligible.
 - Create practical devices powered by energy from proper blue ore processing
 - Heavily research blue ore and methods of extracting greater energy from various sources
 
-**Contribution:** They authored the theory of [[mana]] — pure, unformed energy that magic shapes and uses.
+**Contribution:** They authored the theory of [[lore/mana]] — pure, unformed energy that magic shapes and uses.
 
 ---
 

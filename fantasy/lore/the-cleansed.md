@@ -9,14 +9,14 @@ tags:
   - slaves
   - refugees
 related:
-  - "[[lore/ancient-ones]]"
-  - "[[lore/age-of-light]]"
-  - "[[lore/archipelago-of-light]]"
-  - "[[lore/the-first-one]]"
-  - "[[characters/torr]]"
-  - "[[characters/daraster]]"
-  - "[[characters/lesandra]]"
-summary: "The Cleansed — refugees from the Ancient One catastrophe who forgot their past and built a new civilization on the Archipelago of Light, only to rediscover magic and trigger the cycle again."
+  - lore/ancient-ones
+  - lore/age-of-light
+  - lore/archipelago-of-light
+  - lore/the-first-one
+  - characters/torr
+  - characters/daraster
+  - characters/lesandra
+summary: The Cleansed — refugees from the Ancient One catastrophe who forgot their past and built a new civilization on the Archipelago of Light, only to rediscover magic and trigger the cycle again
 ---
 
 # The Cleansed (Czystych)
@@ -108,7 +108,7 @@ According to their own records (later myths), the Cleansed believed:
 
 ### The Cave Discovery
 
-When the last [[the-first-one|The First One]] found "strange elements" in a cave, she wasn't discovering magic. She was **finding her ancestors' technology**.
+When the last [[lore/the-first-one|The First One]] found "strange elements" in a cave, she wasn't discovering magic. She was **finding her ancestors' technology**.
 
 > The cave was likely an Ancient One bunker or storage site. The "blue ore" or "Black Stone" was preserved magical equipment.
 
@@ -168,7 +168,7 @@ After the civil war triggered by the children's conflict:
 
 Within a few generations, the Cleansed **ceased to exist as a people**. Their language faded, their bunkers collapsed, their history became myth.
 
-Only the [[age-of-light|Age of Light]] stories survived — twisted by time into creation myths.
+Only the [[lore/age-of-light|Age of Light]] stories survived — twisted by time into creation myths.
 
 ---
 
@@ -267,12 +267,12 @@ Some scholars propose the Cleansed were **not survivors** but **escaped slaves**
 
 | Entry | Connection |
 |-------|------------|
-| [[lore/ancient-ones]] | The true ancestors |
-| [[lore/age-of-light]] | The Cleansed's remembered history |
-| [[lore/archipelago-of-light]] | Their settlement |
-| [[lore/the-first-one]] | Their last leader |
-| [[places/sky-torch]] | Ancient One monument they inherited |
-| [[places/sky-torch-sword]] | Ancient One monument they inherited |
+| [[lore/ancient-ones|The Ancient Ones]] | The true ancestors |
+| [[lore/age-of-light|Age of Light]] | The Cleansed's remembered history |
+| [[lore/archipelago-of-light|Archipelago of Light]] | Their settlement |
+| [[lore/the-first-one|The First One]] | Their last leader |
+| [[places/sky-torch|Sky Torch]] | Ancient One monument they inherited |
+| [[places/sky-torch-sword|Sky Sword]] | Ancient One monument they inherited |
 
 ---
 

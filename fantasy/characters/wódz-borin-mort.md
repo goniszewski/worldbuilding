@@ -4,8 +4,8 @@ type: character
 category: characters
 tags: [human, mort, chieftain, berserker, warrior]
 related:
-  - mort
-  - hera-zemsty
+  - "[[factions/mort|Mort]]"
+  - "[[characters/hera-zemsty|Hera Zemsty]]"
 summary: "Supreme chieftain of the Mort clans, ancient and scarred, who leads from the front lines."
 ---
 
@@ -17,10 +17,10 @@ summary: "Supreme chieftain of the Mort clans, ancient and scarred, who leads fr
 
 | Field | Value |
 |-------|-------|
-| Race | [[Human]] |
+| Race | [[races/humans|Human]] |
 | Sex | Male |
 | Age | 67 |
-| House | [[Mort]] |
+| House | [[factions/mort|Mort]] |
 | Title | Wódz (Chieftain), Leader of the Five Clans |
 
 ## Description
@@ -64,9 +64,9 @@ He respects strength above all else and despises weakness, treachery, and false 
 
 ## Relationships
 
-- **[[Hera Zemsty]]**: His champion; they have a complicated relationship
+- **[[characters/hera-zemsty|Hera Zemsty]]**: His champion; they have a complicated relationship
 - **The Five Clans**: Rules through consensus, not decree
-- **[[Tiel]]**: Mortal enemies; the valley dispute is personal
+- **[[factions/tiel|Tiel]]**: Mortal enemies; the valley dispute is personal
 - **[[Wódz]]'s Daughter**: Three wives over the years; all dead of childbirth
 
 ## For Writers / Game Designers

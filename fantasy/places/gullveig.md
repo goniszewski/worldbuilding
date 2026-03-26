@@ -6,7 +6,7 @@ tags: [dwarves, merchant, underground, city, trading-post]
 related:
   - races/dwarves
   - places/andvari
-summary: "Dwarven merchant city known for commerce and trade, also called Gullvig."
+summary: Dwarven merchant city known for commerce and trade — also called Gullvig
 ---
 
 # Gullveig

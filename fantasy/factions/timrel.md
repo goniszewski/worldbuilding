@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, navy, sea, maritime]
 related:
-  - czar
-  - graz
-  - skjor
+  - "[[factions/czar|Czar]]"
+  - "[[factions/graz|Graz]]"
+  - "[[factions/skjor|Skjor]]"
 summary: "The Sea Steward house commanding the realm's naval power and Grabarze Morscy fleet."
 ---
 
@@ -56,9 +56,9 @@ Timrel enforces the *"Prawo Wodne"* (Water Law):
 
 | House | Relationship |
 |-------|--------------|
-| [[Graz]] | Alliance — shipping requires cooperation |
-| [[Czar]] | Alliance — naval support for political power |
-| [[Skjor]] | Cooperation — sea routes complement land routes |
+| [[factions/graz|Graz]] | Alliance — shipping requires cooperation |
+| [[factions/czar|Czar]] | Alliance — naval support for political power |
+| [[factions/skjor|Skjor]] | Cooperation — sea routes complement land routes |
 | Piracy factions | Hostile — existential threat to their monopoly |
 | Foreign kingdoms | Contested — other nations dispute "Sea Steward" authority |
 

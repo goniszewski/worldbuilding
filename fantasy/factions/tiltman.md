@@ -4,8 +4,8 @@ type: faction
 category: factions
 tags: [human, noble-house, archers, isolation, highlands]
 related:
-  - ermynt
-  - naterian-hegemony
+  - "[[factions/ermynt|Ermynt]]"
+  - "[[factions/naterian-hegemony|Naterian Hegemony]]"
 summary: "Ancient house of legendary archers dwelling in the Windy Hills, isolated for millennia."
 ---
 
@@ -42,14 +42,14 @@ Training begins at age five. By ten, children can hit a moving bird at fifty pac
 
 ### The Lonely Vigil
 
-Tiltman maintains ancient agreements with [[Ermynt]] — the two houses share intelligence on threats to the realm, communicating through signal fires. Beyond this, they trust no one.
+Tiltman maintains ancient agreements with [[factions/ermynt|Ermynt]] — the two houses share intelligence on threats to the realm, communicating through signal fires. Beyond this, they trust no one.
 
 ## Relationships
 
 | House | Relationship |
 |-------|--------------|
-| [[Ermynt]] | Ancient alliance — shared warnings, mutual respect |
-| [[Naterian Hegemony]] | Distant — the Church considers them "wild" but useful |
+| [[factions/ermynt|Ermynt]] | Ancient alliance — shared warnings, mutual respect |
+| [[factions/naterian-hegemony|Naterian Hegemony]] | Distant — the Church considers them "wild" but useful |
 | Most houses | Isolation — they want nothing to do with politics |
 | Anyone who threatens them | Hostile — Tiltman arrows have long memories |
 

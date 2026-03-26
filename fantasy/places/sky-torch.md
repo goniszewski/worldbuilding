@@ -9,10 +9,10 @@ tags:
   - religious
   - sky-torch
 related:
-  - "[[places/sky-torch-sword]]"
-  - "[[lore/religions]]"
-  - "[[the-cleansed]]"
-summary: "A monumental torch built without magic — an engineering masterpiece that burns eternally over natural gas deposits. One of two great landmarks on the Sacred Peninsula."
+  - places/sky-torch-sword
+  - lore/religions
+  - lore/the-cleansed
+summary: A monumental torch built without magic — an engineering masterpiece that burns eternally over natural gas deposits. One of two great landmarks on the Sacred Peninsul
 ---
 
 # Sky Torch (Niebiańska Pochodnia)

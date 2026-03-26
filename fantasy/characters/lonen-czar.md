@@ -18,10 +18,10 @@ summary: "Royal Advisor to the throne, the first non-noble to hold the position,
 
 | Field | Value |
 |-------|-------|
-| Race | [[Human]] |
+| Race | [[races/humans|Human]] |
 | Sex | Male |
 | Age | 45 |
-| House | [[Czar]] |
+| House | [[factions/czar|Czar]] |
 | Title | Royal Advisor, Lord of Secrets |
 
 ## Description
@@ -65,10 +65,10 @@ He collects secrets like others collect art, and his memory for favors owed is p
 
 ## Relationships
 
-- **[[Lady Morwena Daever]]**: Business arrangement — she finds him useful
+- **[[factions/daever|Lady Morwena Daever]]**: Business arrangement — she finds him useful
 - **The Crown**: Indispensable ally; he ensures this
 - **Old Nobility**: Hated by them, he returns the sentiment
-- **[[Zygfryd Walldom]]**: Old "friends" — mutual respect and mutual wariness
+- **[[factions/walldom|Zygfryd Walldom]]**: Old "friends" — mutual respect and mutual wariness
 
 ## For Writers / Game Designers
 

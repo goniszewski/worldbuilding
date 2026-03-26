@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, merchants, trade, wealth]
 related:
-  - czar
-  - timrel
-  - skjor
+  - "[[factions/czar|Czar]]"
+  - "[[factions/timrel|Timrel]]"
+  - "[[factions/skjor|Skjor]]"
 summary: "Wealthy merchant house that rose to nobility through commerce, controlling the Redwood trade hub."
 ---
 
@@ -50,10 +50,10 @@ Graz controls:
 
 | House | Relationship |
 |-------|--------------|
-| [[Timrel]] | Strategic alliance — sea trade requires naval cooperation |
-| [[Skjor]] | Business rivals — competing for trade routes |
-| [[Czar]] | Complex — Czar uses Graz's wealth, but fears their independence |
-| [[Tiel]] | Customer — Graz finances Tiel's mining operations |
+| [[factions/timrel|Timrel]] | Strategic alliance — sea trade requires naval cooperation |
+| [[factions/skjor|Skjor]] | Business rivals — competing for trade routes |
+| [[factions/czar|Czar]] | Complex — Czar uses Graz's wealth, but fears their independence |
+| [[factions/tiel|Tiel]] | Customer — Graz finances Tiel's mining operations |
 | Most other houses | Creditors — many owe Graz money |
 
 ## Key Figures

@@ -1,13 +1,13 @@
 ---
-name: Zimowy Gród
+name: Winter Fortress
 type: location
 category: places
 tags: [fortress, ice, winters, north, glacier]
 related:
-  - winters
-  - kolah
-  - daever
-summary: "Ice-carved fortress of House Winters, hidden within a glacier, home to the frost-adapted northern lords."
+  - factions/winters
+  - factions/kolah
+  - factions/daever
+summary: Ice-carved fortress of House Winters, hidden within a glacier, home to the frost-adapted northern lord
 ---
 
 # Zimowy Gród
@@ -20,7 +20,7 @@ summary: "Ice-carved fortress of House Winters, hidden within a glacier, home to
 |-------|-------|
 | **Type** | Glacier Fortress |
 | **Polish Name** | Zimowy Gród |
-| **Controlling House** | [[Winters]] |
+| **Controlling House** | [[factions/winters|Winters]] |
 | **Region** | Far North |
 | **Population** | ~8,000 |
 | **Danger Level** | Extreme (climate) |

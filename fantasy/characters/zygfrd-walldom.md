@@ -18,10 +18,10 @@ summary: "Descendant of Lord Korn and the true political power behind Walldom's 
 
 | Field | Value |
 |-------|-------|
-| Race | [[Human]] |
+| Race | [[races/humans|Human]] |
 | Sex | Male |
 | Age | 42 |
-| House | [[Walldom]] |
+| House | [[factions/walldom|Walldom]] |
 | Title | Heir to Walldom, Lord-Advisor |
 
 ## Description

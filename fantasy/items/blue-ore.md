@@ -8,7 +8,7 @@ related:
   - characters/archmage-of-ur
   - items/soul-breaker
   - lore/void
-summary: A rare crystalline material with devastating explosive properties. The foundation of the cult's terror campaign.
+summary: A rare crystalline material with devastating explosive properties. The foundation of the cult's terror campaign
 ---
 
 # Blue Ore (Błękitna Ruda)

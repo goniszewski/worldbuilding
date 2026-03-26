@@ -17,10 +17,10 @@ summary: "Ancient lord of Walldom rumored to be over three centuries old, keeper
 
 | Field | Value |
 |-------|-------|
-| Race | [[Human]] |
+| Race | [[races/humans|Human]] |
 | Sex | Male |
 | Age | 300+ (appears 50s) |
-| House | [[Walldom]] |
+| House | [[factions/walldom|Walldom]] |
 | Title | Lord of Walldom, Keeper of the Gate |
 
 ## Description
@@ -59,7 +59,7 @@ He is not cruel, but he has lost the capacity for casual warmth. He performs his
 
 ## Relationships
 
-- **[[Zygfryd Walldom]]**: His descendant and the true political operator; Korn trusts him completely
+- **[[factions/walldom|Zygfryd Walldom]]**: His descendant and the true political operator; Korn trusts him completely
 - **The Church**: Knows what he is; cannot prove it
 - **His People**: Respected but not loved — he is too distant for love
 - **Other Lords**: Feared and avoided

@@ -1,6 +1,6 @@
 ---
 name: Naterian Hegemony
-type: Entry::Faction
+type: faction
 category: factions
 tags:
   - nation
@@ -12,10 +12,10 @@ tags:
   - iron-discipline
   - labor-camps
 related:
-  - "[[naterians|Naterians]]"
-  - "[[Zakkari Mages]]"
-  - "[[Agno Warriors]]"
-  - "[[Intar]]"
+  - "[[races/naterians|Naterians]]"
+  - "[[factions/zakkari-mages|Zakkari Mages]]"
+  - "[[factions/agno-warriors|Agno Warriors]]"
+  - "[[factions/intar|Intar]]"
 summary: "A tri-dominium political structure uniting Naterian mages, warriors, and a parliamentary body under coordinated sovereignty — the closest thing to a unified Naterian nation."
 ---
 
@@ -123,7 +123,7 @@ For **lesser offenses** (lighter than murder, conspiracy, or treason):
 
 ## Related Entries
 
-- [[naterians|Naterians]] — The race behind the Hegemony
-- [[Zakkari Mages]] — The magical dominion
-- [[Agno Warriors]] — The martial dominion
-- [[Intar]] — The parliamentary city-capital
+- [[races/naterians|Naterians]] — The race behind the Hegemony
+- [[factions/zakkari-mages|Zakkari Mages]] — The magical dominion
+- [[factions/agno-warriors|Agno Warriors]] — The martial dominion
+- [[factions/intar|Intar]] — The parliamentary city-capital

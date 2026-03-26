@@ -9,11 +9,11 @@ tags:
   - homeland
   - origin
 related:
-  - "[[origins-of-races]]"
-  - "[[the-cleansed]]"
-  - "[[age-of-light]]"
-  - "[[the-first-one]]"
-summary: "The island chain that was home to the Cleansed before magic was discovered and the civilization destroyed."
+  - lore/origins-of-races
+  - lore/the-cleansed
+  - lore/age-of-light
+  - lore/the-first-one
+summary: The island chain that was home to the Cleansed before magic was discovered and the civilization destroye
 ---
 
 # Archipelago of Light
@@ -27,7 +27,7 @@ summary: "The island chain that was home to the Cleansed before magic was discov
 | Attribute | Value |
 |-----------|-------|
 | **Category** | Archipelago (Former) |
-| **Original Inhabitants** | [[the-cleansed|The Cleansed]] |
+| **Original Inhabitants** | [[lore/the-cleansed|The Cleansed]] |
 | **Status** | Destroyed (~10,000–15,000 years ago) |
 | **Location** | Ancient world (exact location unknown) |
 
@@ -35,7 +35,7 @@ summary: "The island chain that was home to the Cleansed before magic was discov
 
 ## Description
 
-The **Archipelago of Light** was a group of small islands that served as the ancestral homeland of the [[the-cleansed|The Cleansed]]. It was here that the [[cleansed|Cleansed]] lived during the **[[age-of-light]]** — a period of paradise, peace, and prosperity.
+The **Archipelago of Light** was a group of small islands that served as the ancestral homeland of the [[lore/the-cleansed|The Cleansed]]. It was here that the [[lore/the-cleansed|The Cleansed]] lived during the **[[lore/age-of-light|Age of Light]]** — a period of paradise, peace, and prosperity.
 
 The name "Light" reflects the era's ideals: justice, abundance, and spiritual clarity. Whether the archipelago itself was literally luminous, or this was metaphorical, remains unknown.
 
@@ -43,16 +43,16 @@ The name "Light" reflects the era's ideals: justice, abundance, and spiritual cl
 
 ## The Fall
 
-When the last [[the-first-one|The First One]] discovered magic in an underground cave, the archipelago's fate was sealed:
+When the last [[lore/the-first-one|The First One]] discovered magic in an underground cave, the archipelago's fate was sealed:
 
 | Event | Consequence |
 |-------|-------------|
-| Magical exposure | Transformation of [[the-first|The First]], birth of three children |
+| Magical exposure | Transformation of [[lore/the-first-one|The First One]], birth of three children |
 | Civil war | Siblings turned against each other using unmastered magic |
 | Magical devastation | The war scarred the land itself |
 | Departure | Survivors left seeking new lands |
 
-The island was no longer fit for habitation. [[torr|Torr]] departed with his followers in one direction; [[daraster|Daraster]] and [[lesandra|Lesandra]] in the other.
+The island was no longer fit for habitation. [[characters/torr|Torr]] departed with his followers in one direction; [[characters/daraster|Daraster]] and [[characters/lesandra|Lesandra]] in the other.
 
 ---
 
@@ -78,7 +78,7 @@ Despite its destruction, the Archipelago remains significant:
 - **Origin point** — All sapient races trace their lineage here
 - **Mythological weight** — Legends of the Age of Light reference the archipelago
 - **Archaeological potential** — If discovered, ruins could reveal pre-magic civilization
-- **Symbolic meaning** — "Light" as opposed to the "[[abyss|Void]]" that corrupted it
+- **Symbolic meaning** — "Light" as opposed to the "[[lore/abyss|Void]]" that corrupted it
 
 ---
 

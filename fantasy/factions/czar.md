@@ -4,10 +4,10 @@ type: faction
 category: factions
 tags: [human, noble-house, political, royal-advisor, intrigue]
 related:
-  - walldom
-  - graz
-  - tiel
-  - timrel
+  - "[[factions/walldom|Walldom]]"
+  - "[[factions/graz|Graz]]"
+  - "[[factions/tiel|Tiel]]"
+  - "[[factions/timrel|Timrel]]"
 summary: "Master manipulators who rose to power through politics, now holding the Royal Advisor position."
 ---
 
@@ -50,11 +50,11 @@ Lonen Czar's rise as Royal Advisor has made the house simultaneously more powerf
 | House | Relationship |
 |-------|--------------|
 | Most houses | Leverage — Czar has something on everyone |
-| [[Timrel]] | Alliance — naval support for political maneuvering |
-| [[Graz]] | Complex — uses their wealth but fears independence |
-| [[Walldom]] | Tense — Walldom's honor makes them hard to manipulate |
-| [[Mort]] | Hostile — Mort's directness thwarts manipulation |
-| [[Daever]] | Customer — buys Milk Mist for "special purposes" |
+| [[factions/timrel|Timrel]] | Alliance — naval support for political maneuvering |
+| [[factions/graz|Graz]] | Complex — uses their wealth but fears independence |
+| [[factions/walldom|Walldom]] | Tense — Walldom's honor makes them hard to manipulate |
+| [[factions/mort|Mort]] | Hostile — Mort's directness thwarts manipulation |
+| [[factions/daever|Daever]] | Customer — buys Milk Mist for "special purposes" |
 
 ## Key Figures
 

@@ -4,10 +4,10 @@ type: location
 category: places
 tags: [city, mining, port, tiel, blue-ore]
 related:
-  - tiel
-  - highdam
-  - graz
-summary: "Mining port city controlled by Tiel, gateway to blue ore mines and the realm's industrial heart."
+  - factions/tiel
+  - factions/highdam
+  - factions/graz
+summary: Mining port city controlled by Tiel, gateway to blue ore mines and the realm's industrial heart
 ---
 
 # Barrenport
@@ -20,7 +20,7 @@ summary: "Mining port city controlled by Tiel, gateway to blue ore mines and the
 |-------|-------|
 | **Type** | Industrial Port City |
 | **Polish Name** | Port Bezdzietny |
-| **Controlling House** | [[Tiel]] |
+| **Controlling House** | [[factions/tiel|Tiel]] |
 | **Region** | Eastern Highlands |
 | **Population** | ~45,000 |
 | **Status** | Mining Capital |

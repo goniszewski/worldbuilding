@@ -4,8 +4,8 @@ type: sapient-race
 category: races
 tags: [humanoids, strong, fierce, tribal]
 related:
-  - "[[humans]]"
-summary: "Strong, fierce humanoids with shorter lifespans. Variable by tribe."
+  - races/humans
+summary: "Strong, fierce humanoids with shorter lifespans, organized primarily in tribes that vary widely in culture and disposition"
 ---
 
 # Orcs
@@ -63,10 +63,10 @@ Orcish society is primarily tribal, but tribes vary widely:
 
 | Race | Relationship |
 |------|--------------|
-| [[humans|Humans]] | Variable by tribe—trade, raid, or ignore |
-| [[naterians|Naterians]] | Variable by tribe |
-| [[dwarves|Dwarves]] | Variable by clan |
-| [[elves|Elves]] | Generally avoided |
+| [[races/humans|Humans]] | Variable by tribe—trade, raid, or ignore |
+| [[races/naterians|Naterians]] | Variable by tribe |
+| [[races/dwarves|Dwarves]] | Variable by clan |
+| [[races/elves|Elves]] | Generally avoided |
 
 ### Common Perceptions
 Orcs are often misunderstood by other races. While some tribes are indeed violent raiders, others are peaceful hunters or traders. The diversity of orcish tribes is frequently overlooked.

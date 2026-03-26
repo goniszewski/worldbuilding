@@ -9,12 +9,12 @@ tags:
   - miners
   - forbidden-unions
 related:
-  - "[[origins-of-races]]"
-  - "[[torr]]"
-  - "[[daraster]]"
-  - "[[lesandra]]"
-  - "[[humans]]"
-  - "[[naterians]]"
+  - "[[lore/origins-of-races]]"
+  - "[[characters/torr|Torr]]"
+  - "[[characters/daraster|Daraster]]"
+  - "[[characters/lesandra|Lesandra]]"
+  - "[[races/humans|Humans]]"
+  - "[[races/naterians|Naterians]]"
 summary: "Short, sturdy underground craftsmen and miners. Descendants of forbidden unions between children of Torr and Daraster, punished and driven underground by the other races."
 ---
 
@@ -28,18 +28,19 @@ summary: "Short, sturdy underground craftsmen and miners. Descendants of forbidd
 |-----------|-------|
 | **Category** | Sapient Race |
 | **Polish Name** | Krasnoludy (also: Galdanie) |
-| **Ancestors** | Children of [[torr|Torr]] + [[daraster|Daraster]] bloodlines |
+| **Ancestors** | Children of [[characters/torr|Torr]] + [[characters/daraster|Daraster]] bloodlines |
 | **Origin** | [[origins-of-races|Origins of the Races]] |
 | **Adult Age** | 22 |
 | **Average Age** | 85 |
 | **Oldest Recorded** | 150 |
+| **Adult Age** | 22 |
 | **Height** | ~130 cm |
 | **Type** | Humanoid |
 | **Sentience** | Sapient |
 
 ## Origin
 
-The Dwarves are considered descendants of **forbidden unions** — children born from the joining of [[torr|Torr's]] bloodline with [[daraster|Daraster's]] bloodline.
+The Dwarves are considered descendants of **forbidden unions** — children born from the joining of [[characters/torr|Torr's]] bloodline with [[characters/daraster|Daraster's]] bloodline.
 
 As punishment for this "disgrace," they were driven underground by the other races — especially by the Naterians, who despised their mixed heritage (and received that hatred in return).
 

@@ -1,13 +1,13 @@
 ---
-name: Dolina Mgieł
+name: Mist Valley
 type: location
 category: places
 tags: [valley, fog, daever, milk-mist, dangerous]
 related:
-  - daever
-  - winters
-  - czar
-summary: "Fog-shrouded valley controlled by House Daever, where the deadly Milk Mist makes invasion impossible."
+  - factions/daever
+  - factions/winters
+  - factions/czar
+summary: Fog-shrouded valley controlled by House Daever, where the deadly Milk Mist makes invasion impossibl
 ---
 
 # Dolina Mgieł
@@ -20,7 +20,7 @@ summary: "Fog-shrouded valley controlled by House Daever, where the deadly Milk 
 |-------|-------|
 | **Type** | Geographic Region |
 | **Polish Name** | Dolina Mgieł |
-| **Controlling House** | [[Daever]] |
+| **Controlling House** | [[factions/daever|Daever]] |
 | **Region** | Eastern Mountains |
 | **Danger Level** | Extreme |
 

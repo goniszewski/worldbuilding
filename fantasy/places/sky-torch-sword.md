@@ -9,10 +9,10 @@ tags:
   - engineering
   - religious
 related:
-  - "[[places/sky-torch]]"
-  - "[[lore/religions]]"
-  - "[[the-cleansed]]"
-summary: "A monumental sword driven into the earth at the northern tip of the Sacred Peninsula — an engineering marvel without equal, its purpose shrouded in mystery."
+  - places/sky-torch
+  - lore/religions
+  - lore/the-cleansed
+summary: A monumental sword driven into the earth at the northern tip of the Sacred Peninsula — an engineering marvel without equal, its purpose shrouded in myster
 ---
 
 # Sky Sword (Niebiański Miecz)
@@ -87,7 +87,7 @@ Together, the Sky Sword and [[places/sky-torch|Sky Torch]] define the peninsula:
 | Monument | Position | Symbolism |
 |----------|----------|-----------|
 | **Sky Sword** | North | Judgment, cutting truth from lies |
-| **Sky Torch** | South | Illumination, eternal hope |
+| [[places/sky-torch|Sky Torch]] | South | Illumination, eternal hope |
 
 The peninsula between them is holy ground. To desecrate either monument is the gravest crime in the region's laws.
 

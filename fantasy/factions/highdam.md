@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, highlands, dams, religious-conflict]
 related:
-  - walldom
-  - czar
-  - naterian-hegemony
+  - "[[factions/walldom|Walldom]]"
+  - "[[factions/czar|Czar]]"
+  - "[[factions/naterian-hegemony|Naterian Hegemony]]"
 summary: "Highland house controlling the great dams, now torn between faith and the new order."
 ---
 
@@ -52,11 +52,11 @@ The dams themselves are Highdam's greatest weapon:
 
 | House | Relationship |
 |-------|--------------|
-| [[Walldom]] | Strategic alliance — both guard northern approaches |
-| [[Czar]] | Tense — Czar would love to see Highdam weakened |
-| [[Naterian Hegemony]] | Hostile — the Church demands Eggar's punishment |
-| [[Tiel]] | Trade — Tiel's mining needs water control |
-| [[Ermynt]] | Mutual respect — both maintain neutrality |
+| [[factions/walldom|Walldom]] | Strategic alliance — both guard northern approaches |
+| [[factions/czar|Czar]] | Tense — Czar would love to see Highdam weakened |
+| [[factions/naterian-hegemony|Naterian Hegemony]] | Hostile — the Church demands Eggar's punishment |
+| [[factions/tiel|Tiel]] | Trade — Tiel's mining needs water control |
+| [[factions/ermynt|Ermynt]] | Mutual respect — both maintain neutrality |
 
 ## Key Figures
 

@@ -1,10 +1,10 @@
 ---
-name: Cytaty
+name: Campaign Quotes
 type: lore
 category: quotes
 tags: [quotes, in-game, humor]
 related: []
-summary: Collection of memorable quotes from the Silver Compact campaign.
+summary: Collection of memorable quotes from the Silver Compact campaign
 ---
 
 # Cytaty 🎭

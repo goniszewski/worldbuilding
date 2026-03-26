@@ -4,25 +4,24 @@ type: character
 category: characters
 tags: [human, daever, matriarch, alchemist, cold]
 related:
-  - daever
-  - strażnik-mgły
-  - czar
+  - factions/daever
 summary: "Cold, calculating matriarch of Daever who rarely leaves her tower, controlling the Milk Mist empire."
 ---
 
 # Lady Morwena Daever
 
-*Lady of the Mist Valley*
+*[Lady of the Mist Valley, Daever Faction]*
 
-## Basics
+## Overview
 
-| Field | Value |
-|-------|-------|
-| Race | [[Human]] |
-| Sex | Female |
-| Age | 58 |
-| House | [[Daever]] |
-| Title | Lady of Daever, Mist Sovereign |
+| Attribute | Value |
+|-----------|-------|
+| **Category** | Character |
+| **Race** | Humans |
+| **Sex** | Female |
+| **Age** | 58 |
+| **Status** | Alive |
+| **Affiliation** | [[factions/daever|Daever]] |
 
 ## Description
 
@@ -35,10 +34,7 @@ She is not cruel — that would require emotional investment she does not posses
 - **Build**: Thin, pale, almost translucent
 - **Hair**: White, always bound in elaborate braids
 - **Eyes**: Pale blue, said to see through fog
-- **Distinguishing Features**: 
-  - Always wears white and silver
-  - Carries a mist-making device as a scepter
-  - Has never been seen without her ceremonial mask
+- **Distinguishing Features**: Always wears white and silver; carries a mist-making device as a scepter; has never been seen without her ceremonial mask
 
 ### Personality
 
@@ -63,8 +59,8 @@ She is a brilliant strategist who has never lost a negotiation. She never rushes
 
 ## Relationships
 
-- **Strażnik Mgły**: Her most trusted advisor; they share everything
-- **[[Lonen Czar]]**: Business arrangement; she finds him amusing
+- **Strażnik Mgły** (Mist Keeper): Her most trusted advisor; they share everything
+- **[[characters/lonen-czar|Lonen Czar]]**: Business arrangement; she finds him amusing
 - **Her Children**: All dead or estranged; she considers this an acceptable loss
 - **The Valley**: She loves it more than any person
 
@@ -82,8 +78,7 @@ She is a brilliant strategist who has never lost a negotiation. She never rushes
 - Someone is stealing Milk Mist — and she's offering fortune for information
 - A lost relative seeks an audience with the terrifying Lady
 
-### GM Notes
-> Morwena should feel inhuman — brilliant, cold, and utterly without sentiment. She can be useful but never warm. She is a force of nature more than a person.
+Morwena should feel inhuman — brilliant, cold, and utterly without sentiment. She can be useful but never warm. She is a force of nature more than a person.
 
 ## TODO
 

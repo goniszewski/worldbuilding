@@ -1,29 +1,29 @@
 ---
-name: Krasnoludzki Pyroman
+name: Krasnoludzki Pyromaniak
 type: character
 category: characters
-tags: [dwarves, pyromaniac, burns, mask, comedic]
+tags: [dwarf, pyromaniac, burns, mask, comedic]
 related:
   - races/dwarves
-summary: "Dwarven inventor known for creating flammable substances. Severely burned in an accident, now wears a mask and suit. Speaks in a distinctive manner."
+summary: "Dwarven inventor severely burned in a pyrotechnic accident, now masked and more enthusiastic than ever about fire."
 ---
 
-# Krasnoludzki Pyroman
+# Krasnoludzki Pyromaniak
 
-*The Masked Dwarven Pyromaniac*
+*[Comedic Character]*
 
 ## Overview
 
 | Attribute | Value |
 |-----------|-------|
+| **Category** | Character |
 | **Race** | Dwarves |
 | **Status** | Alive |
-| **Notable Trait** | Never-ending enthusiasm |
-| **Occupation** | Creator of flammable substances |
+| **Occupation** | Pyrotechnic inventor |
 
 ## Description
 
-This dwarven inventor was renowned for one thing above all else: **unending, infectious enthusiasm**. His passion was creating flammable substances—a pursuit he approached with joy regardless of the risks.
+This dwarven inventor was renowned for one thing above all else: **unending, infectious enthusiasm**. His passion was creating flammable substances — a pursuit he approached with joy regardless of the risks.
 
 ### The Accident
 
@@ -38,7 +38,7 @@ Now he wears:
 
 ### Speech Pattern
 
-His manner of speaking bears a striking resemblance to **Pyro from Team Fortress 2**—a muffled, distorted vocalization that others find difficult to understand. Despite this, his enthusiasm comes through clearly in everything he does.
+His manner of speaking bears a striking resemblance to **Pyro from Team Fortress 2** — a muffled, distorted vocalization that others find difficult to understand. Despite this, his enthusiasm comes through clearly in everything he does.
 
 ## Personality
 
@@ -49,7 +49,7 @@ His manner of speaking bears a striking resemblance to **Pyro from Team Fortress
 | **Focus** | Continues pyrotechnic research |
 | **Mannerisms** | Happy, excited, eager |
 
-## GM Notes
+## For Writers / Game Designers
 
 This character serves best as:
 - Comic relief
@@ -57,6 +57,10 @@ This character serves best as:
 - A potential supplier of dangerous materials
 - A reminder that dwarven stubbornness is real
 
-### Voice Tip
+**Voice Tip**: Speak through cupped hands or a muffled voice. Combine childlike enthusiasm with unsettling obsession over fire and explosions.
 
-When portraying this character, speak through cupped hands or a muffled voice. Combine childlike enthusiasm with unsettling obsession over fire and explosions.
+## TODO
+
+- [ ] Decide if he has a real name or is only known by this title
+- [ ] Develop what pyrotechnic substances he has created
+- [ ] Add any ongoing projects or ambitions

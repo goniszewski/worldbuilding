@@ -2,43 +2,34 @@
 name: Daraster
 type: character
 category: characters
-tags:
-  - ancestor
-  - daraster-lineage
-  - humans
-  - elves
-  - first-generation
+tags: [ancestor, daraster-lineage, humans, elves, first-generation]
 related:
-  - "[[origins-of-races]]"
-  - "[[the-first-one]]"
-  - "[[torr]]"
-  - "[[lesandra]]"
-  - "[[humans|Humans]]"
-  - "[[elves|Elves]]"
-summary: "The second child of Pierwsza, progenitor of both Humans and Elves through his legitimate union with Lesandra and numerous illegitimate children."
+  - lore/origins-of-races
+  - characters/the-first-one
+  - characters/torr
+  - characters/lesandra
+  - races/humans
+  - races/elves
+summary: "The second child of the First One, progenitor of both Humans and Elves through his legitimate union with Lesandra and numerous illegitimate children."
 ---
 
 # Daraster
 
-*Second child of Pierwsza, progenitor of two races through blood and betrayal.*
+*Second child of the First One, progenitor of two races through blood and betrayal.*
 
----
+## Overview
 
-## Basics
-
-| Field | Value |
-|-------|-------|
-| Race | [[the-cleansed|The Cleansed]] (First Generation) |
-| Sex | Male |
-| Status | Deceased |
-| Role | Ancestor of [[humans|Humans]] and [[elves|Elves]] |
-| Period | ~10,000–15,000 years ago |
-
----
+| Attribute | Value |
+|-----------|-------|
+| **Category** | Character |
+| **Race** | The Cleansed (First Generation) |
+| **Sex** | Male |
+| **Status** | Deceased |
+| **Period** | ~10,000–15,000 years ago |
 
 ## Description
 
-**[[daraster|Daraster]]** was the second of [[the-first-one|The First One's]] three children. Unlike his brother [[torr|Torr's]] dark, scaled appearance, less is recorded of [[daraster|Daraster's]] physical form — the legends focus on his **nature**.
+**Daraster** was the second of the First One's three children. Unlike his brother [[characters/torr|Torr's]] dark, scaled appearance, less is recorded of Daraster's physical form — the legends focus on his **nature**.
 
 ### Nature
 
@@ -49,39 +40,35 @@ summary: "The second child of Pierwsza, progenitor of both Humans and Elves thro
 | **Open** | Most receptive to change and new ideas |
 | **Ambitious** | Driven to expand and claim power |
 
-His nature is often contrasted with [[torr|Torr's]] rigid honor — [[daraster|Daraster]] achieved through cunning and desire what his brother sought through strength.
-
----
+His nature is often contrasted with [[characters/torr|Torr's]] rigid honor — Daraster achieved through cunning and desire what his brother sought through strength.
 
 ## The Civil War
 
-[[daraster|Daraster]] played a pivotal role in the conflict:
+Daraster played a pivotal role in the conflict:
 
-1. **Alliance with [[lesandra|Lesandra]]** — United against [[torr|Torr]] when tensions escalated
-2. **Marriage** — Wed his sister in defiance of tradition, provoking [[torr|Torr's]] fury
-3. **Departure** — After [[torr|Torr]] left, he and [[lesandra|Lesandra]] departed the devastated island in the opposite direction
-
----
+1. **Alliance with [[characters/lesandra|Lesandra]]** — United against [[characters/torr|Torr]] when tensions escalated
+2. **Marriage** — Wed his sister in defiance of tradition, provoking [[characters/torr|Torr's]] fury
+3. **Departure** — After [[characters/torr|Torr]] left, he and [[characters/lesandra|Lesandra]] departed the devastated island in the opposite direction
 
 ## Legacy: Dual Bloodlines
 
-[[daraster|Daraster's]] complex romantic life created two distinct racial legacies:
+Daraster's complex romantic life created two distinct racial legacies:
 
-### With [[lesandra|Lesandra]]: The Elves
+### With [[characters/lesandra|Lesandra]]: The Elves
 
-Their union produced children with **strong magical blood** — inheriting [[lesandra|Lesandra's]] control and [[daraster|Daraster's]] ambition.
+Their union produced children with **strong magical blood** — inheriting Lesandra's control and Daraster's ambition.
 
 | Trait | Manifestation |
 |-------|---------------|
-| [[elves|Elven]] purity | Did not intermix with other races |
+| Elven purity | Did not intermix with other races |
 | Magical affinity | Strong connection to magic |
-| Pale complexion | Children resembled [[lesandra|Lesandra]] |
+| Pale complexion | Children resembled Lesandra |
 
-Elves consider themselves **superior** due to their "pure" lineage — [[daraster|Daraster's]] ambitious nature combined with [[lesandra|Lesandra's]] balanced, magical blood.
+Elves consider themselves **superior** due to their "pure" lineage — Daraster's ambitious nature combined with Lesandra's balanced, magical blood.
 
 ### Outside the Marriage: Humans
 
-[[daraster|Daraster]] was **unfaithful** to [[lesandra|Lesandra]], fathering numerous children outside their union.
+Daraster was **unfaithful** to Lesandra, fathering numerous children outside their union.
 
 | Trait | Manifestation |
 |-------|---------------|
@@ -92,11 +79,9 @@ Elves consider themselves **superior** due to their "pure" lineage — [[daraste
 
 Humans are thus the most **varied** of the races — carrying fragments of all three original bloodlines (through later intermixing).
 
----
-
 ## The Question of Fidelity
 
-Scholars debate why [[daraster|Daraster]] was unfaithful:
+Scholars debate why Daraster was unfaithful:
 
 | Theory | Argument |
 |--------|----------|
@@ -105,9 +90,7 @@ Scholars debate why [[daraster|Daraster]] was unfaithful:
 | **Magical influence** | Demons/aspects drove him to chaotic action |
 | **Lesandra's dominance** | He chafed under her stronger magical blood |
 
-Some even suggest his infidelities were an attempt to create children resembling [[torr|Torr]] — to reunite the bloodlines — but this remains speculation.
-
----
+Some even suggest his infidelities were an attempt to create children resembling [[characters/torr|Torr]] — to reunite the bloodlines — but this remains speculation.
 
 ## For Writers / Game Designers
 
@@ -122,8 +105,6 @@ Some even suggest his infidelities were an attempt to create children resembling
 - Elven supremacists hunt "impure" Elves who share Human ancestry
 - Scholars debate whether Daraster's infidelity was planned or compulsive
 - A lost record of all his illegitimate children — and what happened to them
-
----
 
 ## TODO
 

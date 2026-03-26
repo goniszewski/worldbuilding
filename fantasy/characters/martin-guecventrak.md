@@ -2,17 +2,7 @@
 name: Martin Guecventrak
 type: character
 category: characters
-role: protagonist
-status: alive
-age: 64
-height: 136 cm
-race: Dwarves
-occupation: Inventor, Swordsman
-tags:
-  - protagonist
-  - eridann
-  - dwarf
-  - inventor
+tags: [protagonist, dwarf, inventor, swordsman, eridann]
 related:
   - characters/damara-loehen
 summary: "Dwarven inventor and decent swordsman. Pragmatic solutions. Main translator of scientific concepts, uses technical methodology."
@@ -20,37 +10,37 @@ summary: "Dwarven inventor and decent swordsman. Pragmatic solutions. Main trans
 
 # Martin Guecventrak
 
-*Protagonist, Eridann*
+*[Protagonist, Eridann Campaign]*
 
-## Basics
+## Overview
 
-| Field | Value |
-|-------|-------|
-| Race | Dwarves (Krasnoludy) |
-| Sex | Male |
-| Age | 64 |
-| Height | 136 cm |
-| Nationality | Blackmounts (Czarnogóry) |
+| Attribute | Value |
+|-----------|-------|
+| **Category** | Character |
+| **Race** | Dwarves |
+| **Sex** | Male |
+| **Age** | 64 |
+| **Height** | 136 cm |
+| **Status** | Alive |
 
-## Appearance
+## Description
 
 Short, stout, with ink-stained fingers and wild grey hair. Wears a worn blacksmith's apron over sturdy dwarven garb, topped with a compact, dark coat. Goggles hang from his belt. Never seen without a charcoal pencil tucked behind one ear.
 
-Inventor, decent swordsman, and lover of practical—often extremely pragmatic—solutions. His research follows a strictly technical methodology, surprisingly reminiscent of NASA scientists. He's the main translator of certain concepts for the player, though other characters often think he simply rambles nonsensically (he uses scientific terminology from the real world, even coming close to proving atomic theory). He gets irritated quickly, despises the ignorant, and loves explaining things ad nauseam.
+Inventor, decent swordsman, and lover of practical — often extremely pragmatic — solutions. His research follows a strictly technical methodology, surprisingly reminiscent of NASA scientists. He's the main translator of certain concepts for the player, though other characters often think he simply rambles nonsensically (he uses scientific terminology from the real world, even coming close to proving atomic theory). He gets irritated quickly, despises the ignorant, and loves explaining things ad nauseam.
 
 ## Relationships
 
-- **Damara Lo'Ehen** — Frequent debate partner; argues science vs. faith
+- **[[damara-loehen|Damara Lo'Ehen]]**: Frequent debate partner; argues science vs. faith
 
-## Notes
+## For Writers / Game Designers
 
 - His research follows a strictly technical methodology, surprisingly reminiscent of NASA scientists
 - His dream is to invent a method of obtaining pure mana, like from a source in the Abyss
-- In one pivotal scene, he successfully obtains an almost pure, microscopic mana sample—but it's too unstable and after just one second diffuses violently, creating a wave of magical/kinetic force that pushes everything in the lab away. Damara, who was attempting to light a candle with a minor spell at the time, has her hair singed by the amplified spell—she is furious, Angar is furious at her fury, and Martin is delighted
+- In one pivotal scene, he successfully obtains an almost pure, microscopic mana sample — but it's too unstable and after just one second diffuses violently, creating a wave of magical/kinetic force that pushes everything in the lab away. Damara, who was attempting to light a candle with a minor spell at the time, has her hair singed by the amplified spell — she is furious, Angar is furious at her fury, and Martin is delighted
 - He hates silence, because it means either something isn't working (usually his invention) or there's nothing interesting nearby (no movement, dynamics, or potential bores him)
 - Frequently muses aloud about what solutions he would apply in different locations, or how he would harness various natural forces (especially mana, which he considers the strongest)
-- **On hidden blade sleeves**: An interesting concept, but impractical. Zakrwawione rękawy łatwo zobaczyć (bloodstained sleeves are easy to see), and there's the possibility of accidentally injuring oneself.
-
+- **On hidden blade sleeves**: An interesting concept, but impractical. Bloodstained sleeves are easy to see, and there's the possibility of accidentally injuring oneself.
 
 ---
 
@@ -62,8 +52,8 @@ Martin has designed a weapon unlike any other — a device that doesn't destroy 
 
 | Component | Function |
 |-----------|----------|
-| **Primary Charge** | Enriched black ore (Czarna Ruda) — magically unstable, bound by containment spells |
-| **Detonator** | Simple blue ore (Błękitna Ruda) trigger — operates on a different magical frequency |
+| **Primary Charge** | Enriched black ore — magically unstable, bound by containment spells |
+| **Detonator** | Simple blue ore trigger — operates on a different magical frequency |
 | **Mechanism** | Rotating fuse that brings the two ores into contact |
 
 ### How It Works
@@ -93,9 +83,7 @@ Martin has designed a weapon unlike any other — a device that doesn't destroy 
 - **Permanent**: There's no "undo" — if it worked, it worked
 - **Controversial**: The Silver Compact would classify this as a WMD
 
----
-
-## For the GM
+## For Writers / Game Designers
 
 ### Adventure Hooks
 
@@ -120,3 +108,9 @@ When the Disruption Bomb detonates:
 - Debates about the ethics of magical destruction
 - The team needing to decide whether to use such a weapon
 - Martin's guilt if the bomb affects an ally
+
+## TODO
+
+- [ ] Name the Disruption Bomb (does Martin call it something?)
+- [ ] Detail his scientific notebooks — what else has he theorized?
+- [ ] Develop the mana sample scene further

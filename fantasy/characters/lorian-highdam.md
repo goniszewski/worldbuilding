@@ -17,10 +17,10 @@ summary: "Heir to Highdam, torn between his father's rationalism and his mother'
 
 | Field | Value |
 |-------|-------|
-| Race | [[Human]] |
+| Race | [[races/humans|Human]] |
 | Sex | Male |
 | Age | 28 |
-| House | [[Highdam]] |
+| House | [[factions/highdam|Highdam]] |
 | Title | Heir Apparent, Lord-Elect (when his father dies) |
 
 ## Description
@@ -66,7 +66,7 @@ He is caught between:
 
 ## Relationships
 
-- **[[Lord Eggar Highdam]]**: Complicated love — they respect but do not understand each other
+- **[[factions/highdam|Lord Eggar Highdam]]**: Complicated love — they respect but do not understand each other
 - **The Traditionalists**: Secret sympathies — but cannot openly support them
 - **The Reformists**: Supports their goals, not their methods
 - **His Mother's Memory**: The ghost that guides him

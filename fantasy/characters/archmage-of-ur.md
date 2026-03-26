@@ -1,8 +1,8 @@
 ---
 name: Archmage of Ur
 type: character
-category: antagonist
-tags: [antagonist, lich, godlike, ur, cult, cosmic-horror, immortal]
+category: characters
+tags: [antagonist, lich, godlike, immortal, ur, cult, cosmic-horror]
 related:
   - items/black-stones-of-ur
   - items/soul-breaker
@@ -10,22 +10,25 @@ related:
   - characters/mighty-eight
   - places/ur
   - races/ancient-ones
-summary: An immortal archmage who merged his soul with the Void. He seeks to become a god, offering the hero partnership or destruction.
+summary: "An immortal archmage who merged his soul with the Void, seeking to become a god by offering the hero partnership or destruction."
 ---
 
-# Archmage of Ur (Arcymag z Ur)
+# Archmage of Ur
 
-## Basic Data
+*[Antagonist]*
 
-| Field | Value |
-|-------|-------|
+> *"I feel as if I'm constantly drowning in something bottomless. But that something needs a conscious mind. It needs me."*
+
+## Overview
+
+| Attribute | Value |
+|-----------|-------|
+| **Category** | Character / Antagonist |
 | **Type** | Immortal Wizard / Demiurge |
 | **Status** | Undead (soul bound to the Void) |
-| **Origin** | [[places/ur|Ur]], ancient kingdom of mages |
-| **Affiliation** | Cult of the Archmage |
-| **Goal** | Master the Void and become a god |
+| **Origin** | Ur, ancient kingdom of mages |
 
-## History
+## Description
 
 ### The Fall
 
@@ -45,11 +48,9 @@ The Archmage now exists as an **immeasurably powerful, yet incomplete being**:
 - Loss of senses — feels as if **constantly drowning**
 - Lack of full control over what he has become
 
-> *"I feel as if I'm constantly drowning in something bottomless. But that something needs a conscious mind. It needs me."*
-
 ### Ultimate Goal
 
-The Archmage noticed that the [[lore/void|Void]] (chaos) needs a **conscious, orderly mind** to give it meaning. Throughout the game, he has been trying to master what he has become.
+The Archmage noticed that the Void (chaos) needs a **conscious, orderly mind** to give it meaning. Throughout the game, he has been trying to master what he has become.
 
 **Two paths:**
 1. **With the hero's help** — they will create a new god together. The Archmage watches over the world, ensuring eternal peace.
@@ -93,7 +94,7 @@ At the climactic moment, the Archmage contacts the hero:
 - But he still exists — the war continues
 - Need for ultimate destruction (is it even possible?)
 
-## For Writers / Game Designers — Tips
+## For Writers / Game Designers
 
 ### Character
 
@@ -115,11 +116,17 @@ This is **not an easy choice between good and evil**. Both options have conseque
 3. **Build parallels** between him and the hero
 4. **Leave doors open** — the game can end in various ways
 
----
-
 ## Related Entries
 
-- [[items/black-stones-of-ur|Black Stones of Ur]] — he created them
-- [[lore/void|Void]] — he bound himself to it
-- [[items/soul-breaker|Soul Breaker]] — stolen for his return
-- [[characters/mighty-eight|Mighty Eight]] — they killed him
+| This File | Related |
+|-----------|---------|
+| [[items/black-stones-of-ur|Black Stones of Ur]] | He created them |
+| [[lore/void|Void]] | He bound himself to it |
+| [[items/soul-breaker|Soul Breaker]] | Stolen for his return |
+| [[characters/mighty-eight|Mighty Eight]] | They killed him |
+
+## TODO
+
+- [ ] Add specific scenes where the Archmage contacts the hero
+- [ ] Develop the cult's inner structure further
+- [ ] Detail what the hero gains by accepting the offer
