@@ -26,10 +26,10 @@ summary: "Elven mage and priest, devout with extensive knowledge of her faith. S
 
 | Field | Value |
 |-------|-------|
-| Race | Elfy (Elves) |
+| Race | Elves (Elfy) |
 | Sex | Female |
 | Age | 30 |
-| Nationality | Czarnogóry |
+| Nationality | Blackmounts (Czarnogóry) |
 
 ## Appearance
 

@@ -26,10 +26,10 @@ summary: "Black-skinned human mercenary with strange, green eyes. Pleasant but c
 
 | Field | Value |
 |-------|-------|
-| Race | Ludzie (Humans) |
+| Race | Humans (Ludzie) |
 | Sex | Female |
 | Age | 29 |
-| Nationality | Czarnogóry |
+| Nationality | Blackmounts (Czarnogóry) |
 
 ## Appearance
 

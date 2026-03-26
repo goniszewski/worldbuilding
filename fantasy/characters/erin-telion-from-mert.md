@@ -6,11 +6,11 @@
 
 | Field | Value |
 |-------|-------|
-| Race | Ludzie (Humans) |
+| Race | Humans (Ludzie) |
 | Sex | Female |
 | Age | 28 |
 | Height | 172 cm |
-| Nationality | Czarnogóry |
+| Nationality | Blackmounts (Czarnogóry) |
 
 ## Appearance
 

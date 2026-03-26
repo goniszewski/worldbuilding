@@ -27,11 +27,11 @@ summary: "Charming, audacious Naterian rogue with hidden magical abilities. Fled
 
 | Field | Value |
 |-------|-------|
-| Race | Naterianie |
+| Race | Naterians (Naterianie) |
 | Sex | Male |
 | Age | 25 |
 | Height | 174 cm |
-| Nationality | Czarnogóry |
+| Nationality | Blackmounts (Czarnogóry) |
 
 ## Appearance
 

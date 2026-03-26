@@ -26,11 +26,11 @@ summary: "Dwarven inventor and decent swordsman. Pragmatic solutions. Main trans
 
 | Field | Value |
 |-------|-------|
-| Race | Krasnoludy (Dwarves) |
+| Race | Dwarves (Krasnoludy) |
 | Sex | Male |
 | Age | 64 |
 | Height | 136 cm |
-| Nationality | Czarnogóry |
+| Nationality | Blackmounts (Czarnogóry) |
 
 ## Appearance
 

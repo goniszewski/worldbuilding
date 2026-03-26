@@ -26,11 +26,11 @@ summary: "Black-skinned member of the Brotherhood of the Soul Breaker. Honorable
 
 | Field | Value |
 |-------|-------|
-| Race | Ludzie (Humans) |
+| Race | Humans (Ludzie) |
 | Sex | Male |
 | Age | 32 |
 | Height | 165 cm |
-| Nationality | Czarnogóry |
+| Nationality | Blackmounts (Czarnogóry) |
 
 ## Appearance
 
