@@ -11,6 +11,19 @@ summary: "Conventions and standards for the fantasy setting documentation."
 
 ---
 
+## General Philosophy
+
+This wiki is designed for **creative works** — novels, games, tabletop campaigns, and world bibles. Content should focus on:
+
+- **Lore and narrative** — what the item/place/person *is* and *means*
+- **Thematic depth** — why it matters to your story or world
+- **Story hooks** — ideas for how to use it in narratives
+- **Consistent tone** — atmospheric, evocative prose
+
+**No game mechanics.** No damage dice, saving throws, rarity tiers, or weight values. Keep descriptions narrative so they adapt to any system or no system at all.
+
+---
+
 ## File Naming
 
 | Type | Convention | Example |
@@ -21,6 +34,7 @@ summary: "Conventions and standards for the fantasy setting documentation."
 | Factions | `lowercase-dashes.md` | `silver-compact.md` |
 | Lore | `lowercase-dashes.md` | `magic-systems.md` |
 | Creatures | `lowercase-dashes.md` | `yazghur.md` |
+| Items | `lowercase-dashes.md` | `soul-breaker.md`, `dreadwinter.md` |
 
 **Rule:** Use English base names, lowercase, hyphens instead of spaces.
 
@@ -56,6 +70,7 @@ summary: "[Brief description in English, one sentence max.]"
 | `location` | Places, regions, cities |
 | `magic-system` | Rules of magic |
 | `lore` | History, mythology, concepts |
+| `item` | Objects, weapons, artifacts |
 | `adventure` | Quests and campaigns |
 | `guide` | Meta-documentation (this file) |
 
@@ -67,8 +82,58 @@ summary: "[Brief description in English, one sentence max.]"
 - `factions`
 - `places`
 - `lore`
+- `items`
 - `adventures`
 - `meta`
+
+---
+
+## Item Entry Structure
+
+```markdown
+# [Name] ([Polish Name])
+
+> [One-line tagline or quote]
+
+## Description
+
+[Physical appearance, materials, sensory details — 2-3 paragraphs]
+
+## Properties
+
+### [Property Name] ([Passive/Active])
+[Narrative description of what it does]
+
+[Additional properties as needed]
+
+## History
+
+[Origin story, notable appearances, how it changed hands]
+
+## Lore
+
+[Background, mythology, cultural significance]
+
+## For Writers / Game Designers
+
+### Themes to Explore
+- [Key themes or ideas the item represents]
+
+### Story Hooks
+- [Specific narrative hooks for writers/GMs]
+
+### World-Building Notes
+- [How the item fits into different campaign types or genres]
+```
+
+### Property Descriptions
+
+Use clear labels for how abilities work:
+
+- **Passive**: Always active, no action required
+- **Active**: Requires deliberate use
+
+Keep descriptions **narrative** — describe *what happens*, not *how it resolves mechanically*.
 
 ---
 
@@ -118,9 +183,14 @@ summary: "[Brief description in English, one sentence max.]"
 
 - List of famous individuals or subgroups
 
-## Notes
+## For Writers / Game Designers
 
-[Any GM-relevant info or edge cases]
+[Hooks, themes, notes for GMs]
+
+## TODO
+
+- [ ] Add tribal variations
+- [ ] Add known orc characters
 ```
 
 ---
@@ -151,7 +221,7 @@ summary: "[Brief description in English, one sentence max.]"
 
 | Ability | Effect |
 |---------|--------|
-| [Name] | [Description] |
+| [Name] | [Narrative description] |
 
 ## Behavior
 
@@ -164,13 +234,13 @@ summary: "[Brief description in English, one sentence max.]"
 - Known vulnerabilities
 - How to fight/defeat
 
-## Yazghur as Example
+## For Writers / Game Designers
 
-See: [[yazghur|Yazghur (Beast)]]
+[Encounter hooks, narrative uses]
 
-## Notes
+## TODO
 
-[GM info, encounter hooks, etc.]
+- [ ] Add encounter hooks
 ```
 
 ---
@@ -210,9 +280,13 @@ See: [[yazghur|Yazghur (Beast)]]
 - **[[Character]]**: [Relationship]
 - **[[Character]]**: [Relationship]
 
-## Notes
+## For Writers / Game Designers
 
-[GM info, plot hooks]
+[Plot hooks, character arcs]
+
+## TODO
+
+- [ ] Develop backstory further
 ```
 
 ---
@@ -236,6 +310,7 @@ Use double brackets for internal links:
 | Race names | Yes (Orkowie) | Yes (Orcs) |
 | Location names | Yes (Brama Torra) | Yes (Torr's Gate) |
 | Character names | Use as-is | No translation |
+| Item names | Yes (Łamacz Dusz) | Yes (Soul Breaker) |
 | UI text | — | English |
 
 **Rule:** Primary name in English, Polish in parentheses.
@@ -308,3 +383,5 @@ Before publishing an entry:
 - [ ] Polish name in parentheses
 - [ ] Consistent header hierarchy
 - [ ] No broken links
+- [ ] No game mechanics (dice, saves, rarity tiers, weights, ranges)
+- [ ] "For the GM" renamed to "For Writers / Game Designers"

@@ -15,18 +15,6 @@ summary: "A cursed blade forged in endless darkness that devours souls and corru
 
 > *"Diabli chichot, skaza, tchnienie kostucha — a blade of shadow that hungers."*
 
-## Overview
-
-| Attribute | Value |
-|-----------|-------|
-| **Category** | Item |
-| **Type** | Weapon (Greatsword) |
-| **Rarity** | Legendary / Mythical |
-| **Origin** | Forge of Endless Darkness, demonic crafting |
-| **Value** | Priceless (too dangerous to sell) |
-| **Attunement** | Required (corrupts any bearer) |
-| **Sentience** | Yes — whispers to its wielder |
-
 ## Other Names
 
 - **Cursed Sword** (Przeklęty miecz)
@@ -40,23 +28,27 @@ The Soul Breaker is a terrible weapon of pure malevolence, forged in the Forge o
 
 When the blade cuts through flesh, it does not merely wound — it tears. The ethereal edge rips through the soul of its victim, shattering it into fragments that cannot reform. These soul fragments are absorbed into the weapon, strengthening its power with each kill. The more souls consumed, the more potent the blade becomes.
 
-## Properties
-
-| Property | Effect |
-|----------|--------|
-| **Intangible Edge** | Can strike incorporeal beings and ignore non-magical armor |
-| **Soul Devour** | Killing blow absorbs soul; adds +1 to attack/damage per soul (max +10) |
-| **Whisper** | Wielder gains cryptic visions and suggestions from the blade |
-| **Corruption** | Wielder must save vs. madness each week (DC increases with souls absorbed) |
-
 ### The Blade's Influence
 
-| Phase | Souls Absorbed | Effect |
-|-------|----------------|--------|
-| 1 | 1-3 | Subtle whispers, disturbing dreams |
-| 2 | 4-7 | Mood swings, irritability, moral flexibility |
-| 3 | 8-12 | Hallucinations, lies come naturally, cruelty appeals |
-| 4 | 13+ | Full possession — the blade speaks through the wielder |
+The blade whispers to its wielder, beginning as subtle suggestions and growing into full possession over time.
+
+| Phase | Effect |
+|-------|--------|
+| **Whisper** | Subtle voices, disturbing dreams — the blade offers its power |
+| **Hunger** | Mood swings, irritability, moral flexibility — the wielder grows desensitized |
+| **Shadow** | Hallucinations, lies come naturally, cruelty appeals — the blade's will merges with the bearer's |
+| **Void** | Full possession — the blade speaks through the wielder; the original soul is lost |
+
+## Properties
+
+### Intangible Edge
+The blade can strike incorporeal beings and pass through non-magical armor as if it were mist. It cuts essence as easily as flesh.
+
+### Soul Devour
+Each kill strengthens the blade. Victims whose souls are taken by Soul Breaker cannot pass on, cannot be resurrected, cannot find peace in death. They become part of the weapon's hunger forever.
+
+### The Corruption
+The blade's whispers grow louder with each soul consumed. The bearer must contend with increasingly intrusive thoughts, phantom memories, and a creeping loss of self. Those who bear it longest lose themselves entirely — becoming vessels for the blade's endless appetite.
 
 ## The Brotherhood
 
@@ -96,41 +88,34 @@ The blade's true curse is not the corruption of its wielder — that is merely a
 | The Crimson War | Bearer called to battle | Enemy army fled at sight of it |
 | Present Day | In possession of the Brotherhood | Sealed, waiting |
 
-## Combat Information
+## For Writers / Game Designers
 
-### Statistics
+### Themes to Explore
 
-```
-Soul Breaker
-Martial Weapon, Legendary (requires attunement)
-Damage: 2d6 slashing + 1d8 necrotic
-Properties: Heavy, Two-handed, Special (Soul Devour)
-Weight: 4 lbs
-Saving Throw: DC 15 Wisdom or gain 1 level of corruption
-```
+- **Identity erosion**: What makes a person themselves? At what point is the bearer no longer themselves?
+- **Necessary evil**: The brotherhood knows the blade must exist — someone must bear the curse so others don't have to
+- **The price of power**: Every enhancement comes with a cost that compounds over time
+- **Tragic sacrifice**: Brotherhood members know their end — they accept damnation so others don't have to
 
-### Weaknesses
+### Story Hooks
 
-- **Light**: Takes damage in direct sunlight (1d6 per round)
-- **Holy Water**: Wielder must make DC 18 CON save or drop the blade
-- **True Name**: Speaking the demon's true name that forged it could banish the blade
-
-## Notes
-
-### GM Information
-
-- **Acquisition Hook**: The brotherhood might recruit a PC if one shows exceptional willpower
-- **Corruption Mechanics**: Use madness tables; each failure brings the wielder closer to possession
-- **The Final Fate**: Brotherhood members know their end — this creates dramatic tension
-- **Alternative Resolution**: Discovering the demon's true name could offer a chance to destroy the blade
+- The brotherhood might recruit a character who shows exceptional willpower — but they never tell candidates about the end
+- A bearer who escaped before the brotherhood could find them
+- A fragment of a devoured soul that still speaks, trapped in the blade
+- Discovering the demon's true name that forged the blade — could this destroy it?
 
 ### The Brotherhood's Dilemma
 
 Every five years, the brotherhood must choose a new bearer. The old bearer has invariably been touched by the blade's whispers and cannot be trusted. The council, knowing this, performs the grim mercy of ending the old bearer before full corruption takes hold. Most bearers accept this fate as the price of service.
 
+### World-Building Notes
+
+- **Dark fantasy campaigns**: The blade represents inevitable corruption — even the "good guys" must use terrible tools
+- **Horror campaigns**: Focus on the psychological erosion; the bearer knows what's happening to them and can't stop it
+- **Epic campaigns**: The blade's destruction or redemption could be a major arc
+
 ## TODO
 
 - [ ] Create brotherhood character entries (the Elder, candidates)
-- [ ] Add mechanics for the corruption phases
 - [ ] Write about other cursed artifacts in the setting
 - [ ] Consider how the blade might be destroyed
