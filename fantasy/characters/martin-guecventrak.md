@@ -6,7 +6,7 @@ role: protagonist
 status: alive
 age: 64
 height: 136 cm
-race: krasnoludy
+race: Dwarves
 occupation: Inventor, Swordsman
 tags:
   - protagonist

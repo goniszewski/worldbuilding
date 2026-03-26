@@ -5,7 +5,7 @@ category: characters
 role: protagonist
 status: alive
 age: 30
-race: elfy
+race: Elves
 occupation: Mage, Priest
 tags:
   - protagonist

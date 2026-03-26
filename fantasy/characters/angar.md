@@ -6,7 +6,7 @@ role: protagonist
 status: alive
 age: 32
 height: 165 cm
-race: ludzie
+race: Humans
 occupation: Brotherhood of the Soul Breaker
 tags:
   - protagonist

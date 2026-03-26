@@ -6,7 +6,7 @@ role: protagonist
 status: alive
 age: 25
 height: 174 cm
-race: naterianie
+race: Naterians
 occupation: Rogue, Wandering Mage
 tags:
   - protagonist

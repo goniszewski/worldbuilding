@@ -5,7 +5,7 @@ category: characters
 role: protagonist
 status: alive
 age: 29
-race: ludzie
+race: Humans
 occupation: Mercenary
 tags:
   - protagonist
