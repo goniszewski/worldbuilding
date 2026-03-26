@@ -49,6 +49,7 @@ Inventor, decent swordsman, and lover of practical—often extremely pragmatic�
 - In one pivotal scene, he successfully obtains an almost pure, microscopic mana sample—but it's too unstable and after just one second diffuses violently, creating a wave of magical/kinetic force that pushes everything in the lab away. Damara, who was attempting to light a candle with a minor spell at the time, has her hair singed by the amplified spell—she is furious, Angar is furious at her fury, and Martin is delighted
 - He hates silence, because it means either something isn't working (usually his invention) or there's nothing interesting nearby (no movement, dynamics, or potential bores him)
 - Frequently muses aloud about what solutions he would apply in different locations, or how he would harness various natural forces (especially mana, which he considers the strongest)
+- **On hidden blade sleeves**: An interesting concept, but impractical. Zakrwawione rękawy łatwo zobaczyć (bloodstained sleeves are easy to see), and there's the possibility of accidentally injuring oneself.
 
 
 ---

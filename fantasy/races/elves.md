@@ -53,6 +53,29 @@ Their bloodline is considered the **purest** of the races — direct descendants
 Elves believe in the following principles:
 - [TODO: Add specific principles based on your setting]
 
+## Notable Figures
+
+| Figure | Title | Notes |
+|--------|-------|-------|
+| **Aesa Vanir** | Queen of Elves | Current ruler of the elven realm |
+| Tethra III | High Priest | Head of the human religious order (name pending clarification) |
+
+## Political Reality
+
+The elven political arena is not as "clean" as outsiders believe. Beneath the facade of noble deliberation and ancient wisdom lie:
+
+- **Political manipulations** — Subtle maneuvering for influence and advantage
+- **Corruption** — Wealth and favors changing hands in shadows
+- **Threats and coercion** — Less visible but present in aristocratic circles
+
+Elves are extremely careful to conceal anything that might damage their carefully cultivated public image. This attention to appearances extends to:
+
+- Controlling information flow to outsiders
+- Ensuring embarrassing incidents never reach public knowledge
+- Maintaining the illusion of pure, principled governance
+
+This careful curation of reputation is similar in execution—though different in nature—to the approach taken by the Naterians.
+
 ## Relations with Other Races
 
 | Race | Relationship |

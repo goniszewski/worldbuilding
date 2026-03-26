@@ -39,11 +39,11 @@ This image captures her essence: constant prayer, readiness without aggression, 
 
 Her most celebrated act defines her worship:
 
-The barbarian warlord Gorthak the Blood-Speaker led raiding parties against Natherian settlements for seven years. He burned a chapel to the Natchnieni and executed its priest before the altar. He swore to destroy every shrine in the eastern lands and laughed at the gods who could not stop him.
+The barbarian warlord **Gorthak the Blood-Speaker** led raiding parties against Natherian settlements for seven years. He burned a chapel to the Natchnieni and executed its priest before the altar. He swore to destroy every shrine in the eastern lands and laughed at the gods who could not stop him.
 
-When he delivered this speech before the gates of another village—cursing the goddess and every holy thing—a single arrow flew from the fog. There was no wind, no light, no sound of a bowstring. The arrow pierced his throat mid-word. He died in his own blood, surrounded by his stunned warriors, before anyone understood what had happened.
+When he delivered this speech before the gates of another village—cursing the goddess and every holy thing—**a single arrow flew from the fog**. The mist was thick; visibility was near zero. No one heard the bowstring. The arrow pierced his throat **mid-word**, silencing his blasphemy forever. He died in his own blood, surrounded by his stunned warriors, before anyone understood what had happened.
 
-Dhara was found three days later. The barbarians' survivors had tracked her through the mist. She did not resist. She was killed by the warlord's youngest son, who drove a spear through her back while she prayed.
+Dhara was found **three days later**. The barbarians' survivors had tracked her through the mist—following the direction of the impossible shot. She did not resist. She was killed by the warlord's youngest son, who drove a spear through her back while she prayed.
 
 She had known they were coming. She had chosen not to run.
 

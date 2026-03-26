@@ -108,7 +108,8 @@ This creates ongoing border tensions between dwarven kingdoms and the Nater Hege
 
 ## Known Dwarves
 
-- [TODO: Add known dwarven characters]
+- **Heimdall Gulltan** — Current dwarven king, ruler of the underground kingdoms
+- [[characters/martin-guecventrak|Martin Guecventrak]] — Inventor from Blackmounts
 
 ## Notes
 

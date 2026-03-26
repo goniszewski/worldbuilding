@@ -69,6 +69,12 @@ Four major faiths dominate, each with radically different views on the First One
 | [Arth'Adal](lore/religions.md#arthadal) | Naterians | Tor is the chosen one; magic is practical |
 | [Alar](lore/religions.md#alar) | Elves | Only Lesandra stayed on the goddess's path |
 
+### Key Religious Figures
+
+| Figure | Role | Religion |
+|--------|------|----------|
+| **Tethra III** | Head of human religious order | (pending clarification) |
+
 ## Major Characters
 
 ### Protagonists
@@ -119,8 +125,29 @@ Three daughters with distinct personalities:
 | Item | Type | Notes |
 |------|------|-------|
 | [Czarny Kamień Ur](items/czarne-kamienie-ur.md) | Legendary Artifact | Three exist, grant godlike power |
-| [Błękitna Ruda](items/błękitna-ruda.md) | Material | Explosive when processed |
+| [Błękitna Ruda](items/błękitna-ruda.md) | Material | Explosive when processed; "sings" at sunrise |
 | [Łamacz Dusz](items/łamacz-dusz.md) | Weapon | Kills without damaging body |
+| [Virtuti, Vincere, Gloria et Mori](lore/virtuti-vincere.md) | Motto | Latin inscription, martial philosophy |
+
+## Notable Figures
+
+### Dwarven Kingdom
+| Name | Title | Notes |
+|------|-------|-------|
+| [Heimdall Gulltan](TODO) | Dwarven King | Ruler of underground kingdoms |
+| [Martin Guecventrak](characters/martin-guecventrak.md) | Inventor | Disruption Bomb creator |
+| [Krasnoludzki Pyromaniak](characters/krasnoludzki-pyromaniak.md) | Pyrotechnician | Masked burn victim, TF2 Pyro-inspired |
+
+### Elven Realm
+| Name | Title | Notes |
+|------|-------|-------|
+| [Aesa Vanir](TODO) | Queen of Elves | Current ruler |
+
+### Merchant Guilds
+| Name | Type | Notes |
+|------|------|-------|
+| [Andvari](places/andvari.md) | Merchant Guild | Dwarven trading company, Advaranat |
+| [Gullveig](places/gullveig.md) | Merchant City | Dwarven trade hub (also Gullvig) |
 
 ## Key Characters
 
