@@ -4,12 +4,14 @@ type: sapient-race
 category: races
 tags: [humanoids, long-lived, traditional, principled]
 related:
-  - pierwsi
-  - naterianie
-summary: "Ancient, long-lived humanoids known for their strict principles and adherence to tradition."
+  - "[[origins-of-races]]"
+  - "[[daraster]]"
+  - "[[lesandra]]"
+  - "[[cleansed|The Cleansed]]"
+summary: "Ancient, long-lived humanoids known for their strict principles and adherence to tradition. Direct descendants of Daraster and Lesandra."
 ---
 
-# Elfy (Elves)
+# Elves
 
 > Ancient, long-lived humanoids of grace and tradition, inheritors of Lesandra's blood.
 
@@ -18,7 +20,6 @@ summary: "Ancient, long-lived humanoids known for their strict principles and ad
 | Attribute | Value |
 |-----------|-------|
 | **Category** | Sapient Race |
-| **Polish Name** | Elfy |
 | **Ancestor** | [[daraster|Daraster]] and [[lesandra|Lesandra]] |
 | **Origin** | [[origins-of-races|Origins of the Races]] |
 | **Adult Age** | 26 |
@@ -30,7 +31,7 @@ summary: "Ancient, long-lived humanoids known for their strict principles and ad
 
 ## Description
 
-Elves are known for their adherence to strict principles and traditions. Their long lifespans make them deliberate and principled in all dealings, earning cold respect from other races—especially the [[naterowie|Naterians]].
+Elves are known for their adherence to strict principles and traditions. Their long lifespans make them deliberate and principled in all dealings, earning cold respect from other races—especially the Naterians.
 
 Their bloodline is considered the **purest** of the races — direct descendants of [[daraster|Daraster]] and [[lesandra|Lesandra]] without admixture. This purity is central to elven identity and their belief in their own superiority.
 
@@ -56,10 +57,10 @@ Elves believe in the following principles:
 
 | Race | Relationship |
 |------|--------------|
-| [[Naterianie (Naterians)]] | Cold mutual respect |
-| [[Ludzie (Humans)]] | Patient tolerance, sometimes condescending |
-| [[Krasnoludy (Dwarves)]] | Tolerate their craftsmanship, find them crude |
-| [[Orkowie (Orcs)]] | Generally avoid contact |
+| **Naterians** | Cold mutual respect |
+| **Humans** | Patient tolerance, sometimes condescending |
+| **Dwarves** | Tolerate their craftsmanship, find them crude |
+| **Orcs** | Generally avoid contact |
 
 ## Cultural Notes
 

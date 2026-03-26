@@ -10,10 +10,10 @@ tags:
   - first-generation
 related:
   - "[[origins-of-races]]"
-  - "[[pierwsza]]"
+  - "[[the-first-one]]"
   - "[[daraster]]"
   - "[[lesandra]]"
-  - "[[naterowie|Naterians]]"
+  - "[[naterians|Naterians]]"
 summary: "The firstborn of Pierwsza, ancestor of the Naterians, characterized by his dark scaled skin, warrior honor, and hatred for his siblings' union."
 ---
 
@@ -27,17 +27,17 @@ summary: "The firstborn of Pierwsza, ancestor of the Naterians, characterized by
 
 | Field | Value |
 |-------|-------|
-| Race | [[Czyści]] (First Generation) |
+| Race | [[the-cleansed|The Cleansed]] (First Generation) |
 | Sex | Male |
 | Status | Deceased |
-| Role | Ancestor of the [[naterowie|Naterians]] |
+| Role | Ancestor of the [[naterians|Naterians]] |
 | Period | ~10,000–15,000 years ago |
 
 ---
 
 ## Description
 
-According to legend, **[[torr|Torr]]** was the most distinct of [[pierwsza|Pierwsza's]] three children. His skin was **dark, rough, and covered in scales** in places — a stark contrast to his siblings.
+According to legend, **[[torr|Torr]]** was the most distinct of [[the-first-one|The First One's]] three children. His skin was **dark, rough, and covered in scales** in places — a stark contrast to his siblings.
 
 ### Nature
 
@@ -58,7 +58,7 @@ According to legend, **[[torr|Torr]]** was the most distinct of [[pierwsza|Pierw
 
 ## The Civil War
 
-[[torr|Torr]] played a central role in the conflict following [[pierwsza|Pierwsza's]] death:
+[[torr|Torr]] played a central role in the conflict following [[the-first-one|The First One's]] death:
 
 1. **War against siblings** — Unable to accept [[daraster|Daraster]] and [[lesandra|Lesandra's]] marriage, he turned against them
 2. **Unmastered magic** — The war used magical forces none could control, devastating the home island
@@ -68,7 +68,7 @@ According to legend, **[[torr|Torr]]** was the most distinct of [[pierwsza|Pierw
 
 ## Legacy: The Naterians
 
-[[torr|Torr's]] descendants are the **[[naterowie|Naterians]]** (also called Orcs or Orkowie).
+[[torr|Torr's]] descendants are the **[[naterians|Naterians]]** (also called [[orcs|Orcs]]).
 
 ### Characteristics Inherited
 | Trait | Manifestation |
@@ -76,7 +76,7 @@ According to legend, **[[torr|Torr]]** was the most distinct of [[pierwsza|Pierw
 | Dark/rough skin | Naterian pigmentation and skin texture |
 | Scaly patches | Some Naterians display scale-like features |
 | Warrior culture | Honor-bound, prone to violence |
-| Hatred of others | Historical enmity toward [[ludzie|Humans]] and [[elfy|Elves]] |
+| Hatred of others | Historical enmity toward [[humans|Humans]] and [[elves|Elves]] |
 
 ### Expansion
 

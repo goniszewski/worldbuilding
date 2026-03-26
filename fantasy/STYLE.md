@@ -28,7 +28,7 @@ This wiki is designed for **creative works** — novels, games, tabletop campaig
 
 | Type | Convention | Example |
 |------|------------|---------|
-| Races | `lowercase.md` | `pierwsi.md`, `orkowie.md` |
+| Races | `lowercase.md` | `the-cleansed.md`, `orcs.md` |
 | Characters | `name-lowercase-dashes.md` | `velan-kivar-zan-ehkovok.md` |
 | Locations | `lowercase-dashes.md` | `torrs-gate.md`, `silver-woods.md` |
 | Factions | `lowercase-dashes.md` | `silver-compact.md` |

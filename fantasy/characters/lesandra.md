@@ -10,10 +10,10 @@ tags:
   - first-generation
 related:
   - "[[origins-of-races]]"
-  - "[[pierwsza]]"
+  - "[[the-first-one]]"
   - "[[torr]]"
   - "[[daraster]]"
-  - "[[elfy|Elves]]"
+  - "[[elves|Elves]]"
 summary: "The third child of Pierwsza, only one who could fully control magic, mother of the Elves through her marriage to Daraster."
 ---
 
@@ -27,17 +27,17 @@ summary: "The third child of Pierwsza, only one who could fully control magic, m
 
 | Field | Value |
 |-------|-------|
-| Race | [[Czyści]] (First Generation) |
+| Race | [[the-cleansed|The Cleansed]] (First Generation) |
 | Sex | Female |
 | Status | Deceased |
-| Role | Ancestor of the [[elfy|Elves]], sole master of magic |
+| Role | Ancestor of the [[elves|Elves]], sole master of magic |
 | Period | ~10,000–15,000 years ago |
 
 ---
 
 ## Description
 
-**[[lesandra|Lesandra]]** was the third of [[pierwsza|Pierwsza's]] three children — and unique among them.
+**[[lesandra|Lesandra]]** was the third of [[the-first-one|The First One's]] three children — and unique among them.
 
 ### Physical Appearance
 
@@ -80,7 +80,7 @@ Some scholars suggest [[lesandra|Lesandra]] married [[daraster|Daraster]] becaus
 
 ## Legacy: The Elves
 
-Their union produced the **[[elfy|Elves]]** — inheriting:
+Their union produced the **[[elves|Elves]]** — inheriting:
 
 | Trait | Source | Manifestation |
 |-------|--------|---------------|
@@ -93,7 +93,7 @@ Their union produced the **[[elfy|Elves]]** — inheriting:
 
 [[lesandra|Lesandra]] remained **faithful** to [[daraster|Daraster]] despite his numerous infidelities. She emphasized **blood purity** above all.
 
-Her descendants — the [[elfy|Elves]] — share this belief, viewing themselves as **superior** due to their "undefiled" lineage.
+Her descendants — the [[elves|Elves]] — share this belief, viewing themselves as **superior** due to their "undefiled" lineage.
 
 | Aspect | Reality |
 |--------|--------|

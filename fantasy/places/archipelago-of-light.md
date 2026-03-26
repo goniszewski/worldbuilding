@@ -1,24 +1,24 @@
 ---
-name: Archipelag Światła
+name: Archipelago of Light
 type: location
 category: places
 tags:
   - archipelago
-  - czyści
+  - cleansed
   - destroyed
   - homeland
   - origin
 related:
   - "[[origins-of-races]]"
-  - "[[czyści]]"
-  - "[[epoka-światła]]"
-  - "[[pierwsza]]"
-summary: "The island chain that was home to the Czyści before magic was discovered and the civilization destroyed."
+  - "[[the-cleansed]]"
+  - "[[age-of-light]]"
+  - "[[the-first-one]]"
+summary: "The island chain that was home to the Cleansed before magic was discovered and the civilization destroyed."
 ---
 
-# Archipelag Światła (Archipelago of Light)
+# Archipelago of Light
 
-*The island home of the Czyści, now destroyed.*
+*The island home of the Cleansed, now destroyed.*
 
 ---
 
@@ -27,8 +27,7 @@ summary: "The island chain that was home to the Czyści before magic was discove
 | Attribute | Value |
 |-----------|-------|
 | **Category** | Archipelago (Former) |
-| **Polish Name** | Archipelag Światła |
-| **Original Inhabitants** | [[czyści|Czyści]] |
+| **Original Inhabitants** | [[the-cleansed|The Cleansed]] |
 | **Status** | Destroyed (~10,000–15,000 years ago) |
 | **Location** | Ancient world (exact location unknown) |
 
@@ -36,7 +35,7 @@ summary: "The island chain that was home to the Czyści before magic was discove
 
 ## Description
 
-The **Archipelago of Light** was a group of small islands that served as the ancestral homeland of the [[czyści|Czyści]] (Cleansed). It was here that the [[czyści|Czyści]] lived during the **[[epoka-światła|Epoka Światła]]** (Age of Light) — a period of paradise, peace, and prosperity.
+The **Archipelago of Light** was a group of small islands that served as the ancestral homeland of the [[the-cleansed|The Cleansed]]. It was here that the [[cleansed|Cleansed]] lived during the **[[age-of-light]]** — a period of paradise, peace, and prosperity.
 
 The name "Light" reflects the era's ideals: justice, abundance, and spiritual clarity. Whether the archipelago itself was literally luminous, or this was metaphorical, remains unknown.
 
@@ -44,11 +43,11 @@ The name "Light" reflects the era's ideals: justice, abundance, and spiritual cl
 
 ## The Fall
 
-When the last [[pierwsza|Pierwsza]] discovered magic in an underground cave, the archipelago's fate was sealed:
+When the last [[the-first-one|The First One]] discovered magic in an underground cave, the archipelago's fate was sealed:
 
 | Event | Consequence |
 |-------|-------------|
-| Magical exposure | Transformation of [[pierwsza|Pierwsza]], birth of three children |
+| Magical exposure | Transformation of [[the-first|The First]], birth of three children |
 | Civil war | Siblings turned against each other using unmastered magic |
 | Magical devastation | The war scarred the land itself |
 | Departure | Survivors left seeking new lands |
@@ -79,7 +78,7 @@ Despite its destruction, the Archipelago remains significant:
 - **Origin point** — All sapient races trace their lineage here
 - **Mythological weight** — Legends of the Age of Light reference the archipelago
 - **Archaeological potential** — If discovered, ruins could reveal pre-magic civilization
-- **Symbolic meaning** — "Light" as opposed to the "Void" (Otchłań) that corrupted it
+- **Symbolic meaning** — "Light" as opposed to the "[[abyss|Void]]" that corrupted it
 
 ---
 

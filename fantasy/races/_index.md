@@ -11,28 +11,28 @@ summary: "Index of all sapient races in the fantasy setting."
 
 ## Overview
 
-The sapient races are the thinking, feeling peoples who shape the history and future of the realm. Each descended from the ancient [[czyści|Czyści]] (Cleansed), transformed by contact with magic during the [[epoka-światła|Age of Light]].
+The sapient races are the thinking, feeling peoples who shape the history and future of the realm. Each descended from the ancient [[cleansed|Cleansed]], transformed by contact with magic during the [[age-of-light|Age of Light]].
 
 ## Origin
 
-All modern races descended from the extinct **[[czyści|Czyści]]**, transformed through the [[origins-of-races|Origins of the Races]]. The three ancestral beings — [[torr|Torr]], [[daraster|Daraster]], and [[lesandra|Lesandra]] — became the progenitors of:
+All modern races descended from the extinct **[[cleansed|Cleansed]]**, transformed through the [[origins-of-races|Origins of the Races]]. The three ancestral beings — [[torr|Torr]], [[daraster|Daraster]], and [[lesandra|Lesandra]] — became the progenitors of:
 
 | Race | Ancestor | Origin Entry |
 |------|----------|--------------|
-| [[naterowie|Naterians]] | [[torr|Torr]] | [[lore/naterians|Naterians]] |
-| [[ludzie|Humans]] | [[daraster|Daraster]] | [[lore/ludzie|Humans]] |
-| [[elfy|Elves]] | [[daraster|Daraster]] + [[lesandra|Lesandra]] | [[lore/elfy|Elves]] |
-| [[krasnoludy|Dwarves]] | Forbidden unions | [[lore/krasnoludy|Dwarves]] |
+| [[naterians|Naterians]] | [[torr|Torr]] | [[races/naterians|Naterians]] |
+| [[humans|Humans]] | [[daraster|Daraster]] | [[races/humans|Humans]] |
+| [[elves|Elves]] | [[daraster|Daraster]] + [[lesandra|Lesandra]] | [[races/elves|Elves]] |
+| [[dwarves|Dwarves]] | Forbidden unions | [[races/dwarves|Dwarves]] |
 
 ## The Six Races
 
 | Race | Polish Name | Status | Ancestor | Avg. Lifespan |
 |------|-------------|--------|----------|---------------|
-| [[naterowie|Naterians]] | Naterowie | Active | [[torr|Torr]] | 110 |
-| [[ludzie|Humans]] | Ludzie | Active | [[daraster|Daraster]] | 34 |
-| [[elfy|Elves]] | Elfy | Active | [[lesandra|Lesandra]] | 340 |
-| [[krasnoludy|Dwarves]] | Krasnoludy | Active | Forbidden | 85 |
-| [[Czyści]] | Czyści | Extinct | — | — |
+| [[naterians|Naterians]] | Naterowie | Active | [[torr|Torr]] | 110 |
+| [[humans|Humans]] | Ludzie | Active | [[daraster|Daraster]] | 34 |
+| [[elves|Elves]] | Elfy | Active | [[lesandra|Lesandra]] | 340 |
+| [[dwarves|Dwarves]] | Krasnoludy | Active | Forbidden | 85 |
+| [[the-cleansed|The Cleansed]] | Czyści | Extinct | — | — |
 
 ## Geographic Distribution
 
@@ -52,13 +52,13 @@ All modern races descended from the extinct **[[czyści|Czyści]]**, transformed
 
 | Faction | Dominant Race | Notes |
 |---------|---------------|-------|
-| Human Kingdom | [[ludzie|Humans]] | Southern territories |
-| Nater Hegemony | [[naterowie|Naterians]] | Northern territories |
+| Human Kingdom | [[humans|Humans]] | Southern territories |
+| Nater Hegemony | [[naterians|Naterians]] | Northern territories |
 | Silver Compact | Mixed | Magical monopoly |
 
 ## Related Topics
 
 - [[lore/origins-of-races|Origins of the Races]] — Detailed creation mythology
-- [[lore/epoka-światła|Age of Light]] — The paradise before magic
-- [[places/archipelag-światła|Archipelago of Light]] — Lost homeland
+- [[lore/age-of-light|Age of Light]] — The paradise before magic
+- [[places/archipelago-of-light|Archipelago of Light]] — Lost homeland
 - [[lore/religions|Religious Systems]] — How races interpret their origins

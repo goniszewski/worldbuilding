@@ -1,163 +1,113 @@
 ---
 name: Naterians
 type: sapient-race
-category: Races
+category: races
 tags:
   - humanoids
-  - tentacled
-  - scaleless-variant
-  - industrial
+  - distinctive
+  - tentacle-appendages
   - socialist
-  - honor-bound
-  - torr-lineage
 related:
   - "[[origins-of-races]]"
   - "[[torr]]"
-  - "[[daraster]]"
-  - "[[lesandra]]"
-  - "[[Kharatar]]"
-  - "[[Vathar]]"
-  - "[[Utar]]"
-  - "[[Zorzad]]"
-  - "[[Uto]]"
-  - "[[Kor]]"
-  - "[[ludzie]]"
-  - "[[elfy]]"
-  - "[[krasnoludy]]"
-summary: Tall, hairless humanoids descended from Torr, characterized by tentacle appendages and scale patches. Their most visually diverse race ranges from alien to near-human. Society follows Soviet-inspired socialism with strict honor codes.
+  - "[[the-cleansed]]"
+  - "[[humans]]"
+summary: "Tall humanoids with tentacle-like appendages and scale-like skin. The most diverse-looking race."
 ---
 
 # Naterians
 
-The Naterians are one of the tallest sapient races, characterized by their hairlessness, distinctive tentacle appendages, and scale-like skin patches. They represent the most visually diverse sapient race in the known world, with appearances ranging from strikingly alien to nearly human.
+> Tall, distinctive humanoids with tentacle-like appendages and scale-like skin.
 
-## Physical Description
+## Overview
 
-| Feature | Variation |
-|---------|-----------|
-| **Build** | Tall, well-proportioned, usually muscular |
-| **Skin base** | Dark, gray, green, purple, or rarely burgundy |
-| **Hair** | None |
-| **Scale patches** | Head, neck, shoulders, back (common) |
-| **Tentacles** | Behind ears, used for emotional expression |
-| **Eyes** | Large, uniform bright-colored irises |
-| **Ears** | Elf-like but larger |
+| Attribute | Value |
+|-----------|-------|
+| **Category** | Sapient Race |
+| **Polish Name** | Naterianie, Naterowie |
+| **Evolved From** | [[the-cleansed|The Cleansed]] (via [[torr|Torr]]) |
+| **Adult Age** | 17 |
+| **Average Age** | 110 |
+| **Type** | Humanoid, Mammal |
+| **Sentience** | Sapient |
 
-### Visual Spectrum
+## Appearance
 
-The Naterians exhibit remarkable visual diversity depending on lineage purity:
+Naterians are tall and well-built humanoids that differ notably from other races:
 
-| Type | Characteristics |
-|------|-----------------|
-| **Pure Tor descendants** | Alien appearance, large pronounced tentacles (sometimes forming "crown" shapes), highly mobile, exceptionally dark complexion |
-| **Mixed lineage** | Near-human/elf appearance, subtle tentacle bumps, reduced mobility, warmer skin tones |
-| **Mutations** | Lack of tentacles (extremely rare, akin to albinism in other races) |
+### Physical Traits
+- **Bald** — Lacking hair entirely
+- **Scale-like skin** — Present on head, neck, shoulders, and back; smooth elsewhere
+- **Skin colors** — Dark gray, green, purple, or rarely burgundy
+- **Tentacle appendages** — Located behind their elf-like ears, used for emotional expression (similar to how dogs' ears move)
+- **Eyes** — Solid-colored irises (bright/unified color), larger than human eyes
 
-> *"Every Naterian looks different. Walk through a city and you'll see a dozen distinct faces, a hundred variations on a theme."*
-> — Human merchant, impressed and unsettled
+### Diversity
+Naterians are the most **diverse-looking race**:
+- Most "pure" descendants of [[torr|Torr]] have prominent, mobile tentacles (sometimes forming a crown-like shape) and very dark skin
+- More "mixed" individuals appear similar to humans or elves but retain subtle tentacle bumps and warmer skin tones
+- Lack of tentacles is a rare mutation (comparable to albinism in humans)
 
-## Society & Governance
+## Political Structure
 
-### Political Structure
+### The Nater Hegemony
+- **Location**: Northern side of [[torrs-gate|Torr's Gate]]
+- **Capital**: [TODO]
+- **Ruler**: [TODO]
+- **System**: Dominant social system resembles efficient Soviet-style socialism
 
-The dominant Naterian social order resembles **Soviet-style socialism**, but functions with greater efficiency and fewer failures. Unlike other races, the Naterians maintain a society where extreme poverty is virtually non-existent.
+## Society & Culture
 
-| Aspect | Description |
-|--------|-------------|
-| **Governance** | Collectivist, council-based |
-| **Economic model** | State-controlled, communal distribution |
-| **Social mobility** | Merit-based, class fluidity |
-| **Poverty level** | Minimal compared to other races |
+### Social Structure
+- **Equality**: No extreme poverty like other races—everyone has basic provisions
+- **Efficiency**: Rapid decision-making, minimal bureaucracy
+- **Justice**: Quick and severe, with little appeal
 
-### Justice System
+### Legal System
+| Crime Severity | Punishment |
+|----------------|------------|
+| Minor offenses | Smallest toe amputation |
+| Serious crimes | Progressive limb removal |
+| Capital crimes | Execution |
 
-Naterian justice is immediate, severe, and lacks the bureaucratic trappings found elsewhere.
-
-**Primary punishment:** Amputation of limbs, scaled to offense severity:
-
-| Offense | Punishment |
-|---------|------------|
-| Minor infractions | Smallest toe |
-| Moderate crimes | Finger or larger limb |
-| Severe crimes | Execution (decapitation) |
-
-**Key principles:**
-- Immediate justice for obvious guilt (no appeals)
-- Any senior guard or lieutenant can administer punishment
-- Torture and sexual violence are considered **profound weakness**
-- Honor duels are demanded if honor is questioned
-
-> *"Their courts do not deliberates for years. A thief loses a hand before sunset."*
-> — Dwarven diplomat
-
-### Honor Culture
-
-Naterians hold personal honor in extremely high regard. Accusations of dishonor are never ignored—any Naterian will immediately demand a formal duel to settle such matters.
+**Justice Notes:**
+- Guards and lieutenants can execute immediate justice when guilt is obvious
+- No formal appeal process
+- **Abhor torture and rape** — viewed as weakness
+- **Honor-bound** — accusations require immediate duel
 
 ## Beliefs & Philosophy
 
-| Tenet | Approach |
-|-------|----------|
-| **Origin belief** | Evolutionary theory (not creationist) |
-| **Religion** | None (no traditional worship) |
-| **Mythology** | Skeptical of legends regarding [[początek]] |
-| **Divine acknowledgment** | Accept [[Torr]] as historical/ancestral figure |
-| **Magic** | Practical tool, not tied to spiritual practice |
+- Most believe in **evolution**, not conventional religion
+- Skeptical of legends about the Beginning
+- Still **venerate Torr**, the legendary First One
+- View magic as a **useful tool**, not tied to faith
+- Practical approach to spirit binding through the Compact
 
-The Naterians reject typical religious frameworks. They see themselves as products of natural progression and view magic as a useful tool rather than a sacred gift or divine blessing.
+## Relations with Other Races
 
-## Inter-Racial Relations
+| Race | Relationship |
+|------|--------------|
+| **Elves** | Cold respect (for their principles) |
+| **Humans** | Dislike their arrogance, nobility-commoner gap, greed, and corruption |
+| **Dwarves** | Lowest regard—seen as evolutionary step backward or failed human-Naterian hybrid |
+| **Orcs** | Variable by tribe |
 
-| Race | Attitude | Notes |
-|------|----------|-------|
-| **[[Elves]]** | Cold respect | Admire elven discipline and principles |
-| **[[Humans]]** | Disapproval | Dislike their pride, class division, greed, corruption |
-| **[[Dwarves]]** | Hostility | Consider them evolutionary mistakes, "step backward" |
+### Border Tensions
+Dwarven kingdoms are located underground between human and Naterian territories, creating ongoing border tensions.
 
-### The Dwarven Question
+## Major Clans
 
-Naterians hold the deepest animosity toward [[krasnoludy|dwarves]], whom they view as a corrupted hybrid race—a failed mixing of humans and Naterians that retreated underground. The dwarven kingdoms' location between human and Naterian territories creates ongoing border tensions.
+| Clan | Notes |
+|------|-------|
+| [[Kharatar]] | [TODO] |
+| [[Vathar]] | [TODO] |
+| [[Utar]] | [TODO] |
+| [[Zorzad]] | [TODO] |
+| [[Uto]] | [TODO] |
+| [[Kor]] | [TODO] |
 
-## Clans
+## Known Naterians
 
-Six major clans form the backbone of Naterian identity:
-
-| Clan | Status |
-|------|--------|
-| [[Kharatar]] | — |
-| [[Vathar]] | — |
-| [[Utar]] | — |
-| [[Zorzad]] | — |
-| [[Uto]] | — |
-| [[Kor]] | — |
-
-Each clan maintains distinct traditions while remaining united under the broader Naterian social order.
-
----
-
-## For the GM
-
-**Playstyle notes:**
-- Naterians make excellent lawful-neutral or lawful-evil NPCs
-- Their honor system creates interesting encounters—challenging a Naterian's honor is a death sentence
-- Their distrust of dwarves can create party tensions
-
-**Adventure hooks:**
-- A Naterian merchant seeks a guild of "honorable" allies to trade with humans—party members qualify?
-- Border conflicts between Naterian territory and dwarven kingdoms spill into the campaign
-- A human noble wants the party to forge documents proving "Naterians are secretly plotting invasion"
-
-**In world:**
-- Naterian settlements feature communal housing, public granaries, and visible guard patrols
-- Their cities are clean, organized, and uncomfortable to outsiders who value privacy
-- Naterian craftsmen produce high-quality, standardized goods—no artistry, pure function
-
----
-
-## TODO
-
-- [ ] Create individual clan entries for Kharatar, Vathar, Utar, Zorzad, Uto, and Kor
-- [ ] Develop Naterian naming conventions
-- [ ] Detail their technology level and industries
-- [ ] Explore the "Torr ancestor" mythology in depth
-- [ ] Map their territory and border regions with dwarves
+- [[velan-kivar-zan-ehkovok]] — Warrior of Kharatar clan
+- [[gwenn-youkto-imah-vueten]] — [TODO]

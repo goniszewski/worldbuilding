@@ -10,11 +10,11 @@ tags:
   - first-generation
 related:
   - "[[origins-of-races]]"
-  - "[[pierwsza]]"
+  - "[[the-first-one]]"
   - "[[torr]]"
   - "[[lesandra]]"
-  - "[[ludzie|Humans]]"
-  - "[[elfy|Elves]]"
+  - "[[humans|Humans]]"
+  - "[[elves|Elves]]"
 summary: "The second child of Pierwsza, progenitor of both Humans and Elves through his legitimate union with Lesandra and numerous illegitimate children."
 ---
 
@@ -28,17 +28,17 @@ summary: "The second child of Pierwsza, progenitor of both Humans and Elves thro
 
 | Field | Value |
 |-------|-------|
-| Race | [[Czyści]] (First Generation) |
+| Race | [[the-cleansed|The Cleansed]] (First Generation) |
 | Sex | Male |
 | Status | Deceased |
-| Role | Ancestor of [[ludzie|Humans]] and [[elfy|Elves]] |
+| Role | Ancestor of [[humans|Humans]] and [[elves|Elves]] |
 | Period | ~10,000–15,000 years ago |
 
 ---
 
 ## Description
 
-**[[daraster|Daraster]]** was the second of [[pierwsza|Pierwsza's]] three children. Unlike his brother [[torr|Torr's]] dark, scaled appearance, less is recorded of [[daraster|Daraster's]] physical form — the legends focus on his **nature**.
+**[[daraster|Daraster]]** was the second of [[the-first-one|The First One's]] three children. Unlike his brother [[torr|Torr's]] dark, scaled appearance, less is recorded of [[daraster|Daraster's]] physical form — the legends focus on his **nature**.
 
 ### Nature
 
@@ -73,7 +73,7 @@ Their union produced children with **strong magical blood** — inheriting [[les
 
 | Trait | Manifestation |
 |-------|---------------|
-| [[elfy|Elven]] purity | Did not intermix with other races |
+| [[elves|Elven]] purity | Did not intermix with other races |
 | Magical affinity | Strong connection to magic |
 | Pale complexion | Children resembled [[lesandra|Lesandra]] |
 

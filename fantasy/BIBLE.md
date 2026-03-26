@@ -4,16 +4,16 @@
 
 ## Origin of the Races
 
-According to legend, the world was once inhabited by the **[[Czyści]]** (Cleansed) — a peaceful, magic-free people. The transformation began with **[[pierwsza|Pierwsza]]** (The First), whose discovery of magic led to the birth of three ancestral beings:
+According to legend, the world was once inhabited by the **[[the-cleansed|The Cleansed]]** — a peaceful, magic-free people. The transformation began with **[[the-first-one|The First One]]**, whose discovery of magic led to the birth of three ancestral beings:
 
 | Ancestor | Legacy |
 |----------|--------|
-| **[[torr|Torr]]** | [[naterowie|Naterians]] — warrior culture, honor-bound |
-| **[[daraster|Daraster]]** | [[ludzie|Humans]] — diverse, ambitious |
-| **[[lesandra|Lesandra]]** | [[elfy|Elves]] — pure blood, magical affinity |
-| **Forbidden unions** | [[krasnoludy|Krasnoludy]] — driven underground |
+| **[[torr|Torr]]** | [[naterians|Naterians]] — warrior culture, honor-bound |
+| **[[daraster|Daraster]]** | [[humans|Humans]] — diverse, ambitious |
+| **[[lesandra|Lesandra]]** | [[elves|Elves]] — pure blood, magical affinity |
+| **Forbidden unions** | [[dwarves|Dwarves]] — driven underground |
 
-See: [[lore/origins-of-races|Origins of the Races]], [[lore/epoka-światła|Age of Light]], [[places/archipelag-światła|Archipelago of Light]]
+See: [[lore/origins-of-races|Origins of the Races]], [[lore/age-of-light|Age of Light]], [[places/archipelago-of-light|Archipelago of Light]]
 
 ## Core Rules
 
@@ -112,6 +112,24 @@ Three daughters with distinct personalities:
 - **Oszalała Bessie** (The Frenzied Bessie) — Flood-prone, dangerous middle section
 - **Leniwa Bess** (The Lazy Bess) — Wide, shallow, safe for trade
 
+## Key Items
+
+| Item | Type | Notes |
+|------|------|-------|
+| [Czarny Kamień Ur](items/czarne-kamienie-ur.md) | Legendary Artifact | Three exist, grant godlike power |
+| [Błękitna Ruda](items/błękitna-ruda.md) | Material | Explosive when processed |
+| [Łamacz Dusz](items/łamacz-dusz.md) | Weapon | Kills without damaging body |
+
+## Key Characters
+
+### Antagonists
+- [Arcymag z Ur](characters/arcymag-z-ur.md) — Immortal lich, seeks to become a god
+- [Potężna Ósemka](characters/potężna-ósemka.md) — Eight heroes who killed him (backstory)
+
+## Main Adventure
+
+- [Campaign Plot](adventures/campaign-plot.md) — Full campaign plot
+
 ## Current Timeline
 
 - **Current Year**: 523 Post-Sundering (P.S.)
@@ -122,3 +140,9 @@ Three daughters with distinct personalities:
 - Players prefer moral ambiguity over clear good/evil
 - Focus on exploration and discovery
 - Use weather/mood heavily in Silver Woods scenes
+
+---
+
+# Campaign: Fabuła (Plot)
+
+> **TL;DR** — Political thriller where players must stop a suicide cult using blue ore explosives, find a Black Stone of Ur, and ultimately face the immortal Archmage who offers godhood.

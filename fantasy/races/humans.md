@@ -4,13 +4,13 @@ type: sapient-race
 category: races
 tags: [humanoids, dominant, diverse]
 related:
-  - krasnoludy
-  - naterianie
-  - silver-compact
+  - "[[origins-of-races]]"
+  - "[[daraster]]"
+  - "[[the-cleansed]]"
 summary: "The most widespread race—versatile, ambitious, and adaptable."
 ---
 
-# Ludzie (Humans)
+# Humans
 
 > The most widespread race, versatile and adaptable.
 
@@ -19,8 +19,7 @@ summary: "The most widespread race—versatile, ambitious, and adaptable."
 | Attribute | Value |
 |-----------|-------|
 | **Category** | Sapient Race |
-| **Polish Name** | Ludzie |
-| **Evolved From** | [[Pierwsi (The First Ones)]] |
+| **Evolved From** | [[the-cleansed|The Cleansed]] (via [[daraster|Daraster]]) |
 | **Adult Age** | 20 |
 | **Average Age** | 34 |
 | **Oldest Recorded** | 786 |
@@ -47,8 +46,8 @@ Humans are the dominant race in many regions of the known world. Known for their
 
 ## Political Structure
 
-### The Human Kingdom (Królestwo Ludzi)
-- **Location**: Southern side of [[Torrs Gate (Brama Torra)|Torr's Gate]]
+### The Human Kingdom
+- **Location**: Southern side of [[torrs-gate|Torr's Gate]]
 - **Capital**: [TODO]
 - **Ruler**: [TODO]
 
@@ -60,15 +59,15 @@ Humans are the dominant race in many regions of the known world. Known for their
 
 | Race | Relationship |
 |------|--------------|
-| [[Naterianie (Naterians)]] | Cold tension across Torr's Gate |
-| [[Krasnoludy (Dwarves)]] | Trade relations, occasional border disputes |
-| [[Elfy (Elves)]] | Mutual respect, different values |
-| [[Orkowie (Orcs)]] | Variable by tribe |
+| **Naterians** | Cold tension across Torr's Gate |
+| **Dwarves** | Trade relations, occasional border disputes |
+| **Elves** | Mutual respect, different values |
+| **Orcs** | Variable by tribe |
 
 ## Known Humans
 
-- [[Angar]] — Bearer of the cursed Łamacz Dusz (Soul Breaker)
-- [[Lyra Dawnwhisper]] — Storm Binder, wanted by the Compact
+- [[angar]] — Bearer of the cursed Soul Breaker
+- [[lyra]] — Storm Binder, wanted by the Compact
 
 ## Notes
 

@@ -4,11 +4,11 @@ type: sapient-race
 category: races
 tags: [humanoids, strong, fierce, tribal]
 related:
-  - ludzie
+  - "[[humans]]"
 summary: "Strong, fierce humanoids with shorter lifespans. Variable by tribe."
 ---
 
-# Orkowie (Orcs)
+# Orcs
 
 > Strong, fierce humanoids with shorter lifespans.
 
@@ -17,7 +17,6 @@ summary: "Strong, fierce humanoids with shorter lifespans. Variable by tribe."
 | Attribute | Value |
 |-----------|-------|
 | **Category** | Sapient Race |
-| **Polish Name** | Orkowie |
 | **Adult Age** | 14 |
 | **Average Age** | 26 |
 | **Oldest Recorded** | 81 |
@@ -64,10 +63,10 @@ Orcish society is primarily tribal, but tribes vary widely:
 
 | Race | Relationship |
 |------|--------------|
-| [[Ludzie (Humans)]] | Variable by tribe—trade, raid, or ignore |
-| [[Naterianie (Naterians)]] | Variable by tribe |
-| [[Krasnoludy (Dwarves)]] | Variable by clan |
-| [[Elfy (Elves)]] | Generally avoided |
+| [[humans|Humans]] | Variable by tribe—trade, raid, or ignore |
+| [[naterians|Naterians]] | Variable by tribe |
+| [[dwarves|Dwarves]] | Variable by clan |
+| [[elves|Elves]] | Generally avoided |
 
 ### Common Perceptions
 Orcs are often misunderstood by other races. While some tribes are indeed violent raiders, others are peaceful hunters or traders. The diversity of orcish tribes is frequently overlooked.

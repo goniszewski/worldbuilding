@@ -1,5 +1,5 @@
 ---
-name: Ważniejsze postacie
+name: Notable Figures
 type: character
 category: Characters
 tags:
@@ -12,7 +12,7 @@ tags:
 summary: Index of significant figures across all races—leaders, merchants, warriors, scholars, and agents who shape events in the world. Organized by racial affiliation.
 ---
 
-# Ważniejsze postacie
+# Notable Figures
 
 > *"History is not written by chroniclers alone—it is carved into stone by the hands of those who dare to act."*
 > — Common saying among scholars
@@ -23,7 +23,7 @@ This section catalogs the influential figures whose actions, decisions, or prese
 
 ## By Race
 
-### Ludzie (Humans)
+### Humans
 
 | Name | Affiliation | Notes |
 |------|-------------|-------|
@@ -37,14 +37,14 @@ This section catalogs the influential figures whose actions, decisions, or prese
 | [[Teodor Graz]] | — | — |
 | [[Imil Czar]] | — | — |
 
-### Elfy (Elves)
+### Elves
 
 | Name | Affiliation | Notes |
 |------|-------------|-------|
 | [[Iana Ashan]] | — | — |
 | [[Iodyn Ashan]] | — | — |
 
-### Naterianie (Naterians)
+### Naterians
 
 | Name | Affiliation | Notes |
 |------|-------------|-------|
@@ -52,7 +52,7 @@ This section catalogs the influential figures whose actions, decisions, or prese
 | [[Ygtern Da'miazk]] | — | — |
 | [[Uver Ga]] | — | — |
 
-### Krasnoludy (Dwarves)
+### Dwarves
 
 | Name | Affiliation | Notes |
 |------|-------------|-------|

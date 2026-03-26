@@ -429,7 +429,7 @@ summary: "[One sentence describing what it is]"
 - Spaces: `torr's gate.md` → `torrs-gate.md`
 - Polish characters: `brama-torra.md` → `torrs-gate.md`
 - Acronyms: `tfg.md` → `thornwood-forest-guard.md`
-- Redundancy: `orc-race.md` → `orkowie.md`
+- Redundancy: `orc-race.md` → `orcs.md`
 
 ---
 

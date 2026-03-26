@@ -13,12 +13,12 @@ related:
   - "[[torr]]"
   - "[[daraster]]"
   - "[[lesandra]]"
-  - "[[ludzie]]"
-  - "[[naterowie]]"
+  - "[[humans]]"
+  - "[[naterians]]"
 summary: "Short, sturdy underground craftsmen and miners. Descendants of forbidden unions between children of Torr and Daraster, punished and driven underground by the other races."
 ---
 
-# Krasnoludy (Dwarves)
+# Dwarves
 
 > Short, sturdy underground craftsmen and miners — the forgotten children of forbidden unions.
 
@@ -39,28 +39,15 @@ summary: "Short, sturdy underground craftsmen and miners. Descendants of forbidd
 
 ## Origin
 
-The [[krasnoludy|Dwarves]] are considered descendants of **forbidden unions** — children born from the joining of [[torr|Torr's]] bloodline with [[daraster|Daraster's]] bloodline.
+The Dwarves are considered descendants of **forbidden unions** — children born from the joining of [[torr|Torr's]] bloodline with [[daraster|Daraster's]] bloodline.
 
-As punishment for this "disgrace," they were driven underground by the other races — especially by the [[naterowie|Naterians]], who despised their mixed heritage (and received that hatred in return).
+As punishment for this "disgrace," they were driven underground by the other races — especially by the Naterians, who despised their mixed heritage (and received that hatred in return).
 
 The dwarves call themselves **Galdanie**, though this name is rarely used by outsiders.
 
-## Overview
-
-| Attribute | Value |
-|-----------|-------|
-| **Category** | Sapient Race |
-| **Polish Name** | Krasnoludy |
-| **Adult Age** | 22 |
-| **Average Age** | 85 |
-| **Oldest Recorded** | 150 |
-| **Height** | ~130 cm |
-| **Type** | Humanoid |
-| **Sentience** | Sapient |
-
 ## Description
 
-Dwarves are a short, sturdy people who have made their homes in the vast underground caverns between human and [[Naterianie (Naterians)|Naterian]] territories. They are renowned as master craftsmen, expert miners, and notoriously stubborn allies.
+Dwarves are a short, sturdy people who have made their homes in the vast underground caverns between human and Naterian territories. They are renowned as master craftsmen, expert miners, and notoriously stubborn allies.
 
 ## Characteristics
 
@@ -106,13 +93,13 @@ Dwarven kingdoms are located underground, situated between human and Naterian te
 
 | Race | Relationship |
 |------|--------------|
-| [[Ludzie (Humans)]] | Trade relations, occasional border disputes |
-| [[Naterianie (Naterians)]] | Lowest regard from Naterians—seen as evolutionary mistake |
-| [[Elfy (Elves)]] | Mutual tolerance, find elves too "soft" |
-| [[Orkowie (Orcs)]] | Variable by clan and tribe |
+| **Humans** | Trade relations, occasional border disputes |
+| **Naterians** | Lowest regard from Naterians—seen as evolutionary mistake |
+| **Elves** | Mutual tolerance, find elves too "soft" |
+| **Orcs** | Variable by clan and tribe |
 
 ### The Naterian View
-The [[Naterianie (Naterians)|Naterians]] hold dwarves in their lowest regard, considering them either:
+The Naterians hold dwarves in their lowest regard, considering them either:
 - An evolutionary step backward
 - A failed human-Naterian hybrid experiment
 - Simply beneath notice

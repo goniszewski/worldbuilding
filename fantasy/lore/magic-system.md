@@ -4,8 +4,8 @@ type: magic-system
 category: lore
 tags: [magic, arcana, demons, mana]
 related:
-  - "[[arcymag z Ur]]"
-  - "[[hegemonia nateriańska]]"
+  - "[[archmage-of-ur]]"
+  - "[[naterian-hegemony]]"
   - "[[mana]]"
 summary: The universal system of arcane arts, practiced differently by each race — from disciplined human universities to elf magin councils and dwarven blue ore engineering.
 ---
@@ -22,7 +22,7 @@ There is no such thing as blood magic. Forbidden forms of the arcane arts certai
 
 Pacts with demons are possible, but a mage must be truly powerful for a demon to even notice them. Demons are too chaotic, alien, and beyond the boundaries of human reasoning to simply negotiate with. No mage can be entirely certain what exactly they're doing and what influence it will have on them and the demon during various rituals aimed at interaction between the two worlds.
 
-One of the few known living individuals who have achieved anything in this field is the [[arcymag z Ur]].
+One of the few known living individuals who have achieved anything in this field is the [[archmage-of-ur]].
 
 ---
 
@@ -43,7 +43,7 @@ In human kingdoms, there are many forms of education and organization for mages:
 Depending on their family's origin and wealth, the gift of magic can be seen as either good or bad:
 
 - **Good**: Poor families (education sponsored by the treasury) or progressive noble houses
-- **Bad**: Families believing in blood purity and closeness to the [[hegemonia nateriańska|Pure]], or those with political aspirations (a mage brings unwanted attention)
+- **Bad**: Families believing in blood purity and closeness to the [[naterian-hegemony|Naterians]], or those with political aspirations (a mage brings unwanted attention)
 
 ### Oversight
 

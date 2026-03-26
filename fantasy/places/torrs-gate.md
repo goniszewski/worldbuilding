@@ -62,5 +62,5 @@ Even assuming an attacking force managed to overcome the rocky ridge and begin t
 
 ## Connections
 
-- Linked to: [Human Kingdom](../factions/human-kingdom.md), [Nater Hegemony](../factions/nater-hegemony.md)
+- Linked to: [[factions/human-kingdom|Human Kingdom]], [[factions/nater-hegemony|Nater Hegemony]]
 - Mentioned in: [TODO]

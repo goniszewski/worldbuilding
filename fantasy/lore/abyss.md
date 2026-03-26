@@ -8,13 +8,13 @@ tags:
   - aspects
   - magic
   - afterlife
-  - pradawni
-  - pierwsza
+  - ancient-ones
+  - first-one
 related:
-  - "[[pradawni]]"
+  - "[[ancient-ones]]"
   - "[[religions]]"
   - "[[origins-of-races]]"
-  - "[[pierwsza]]"
+  - "[[the-first-one]]"
 summary: Multi-layered dimension home to Aspects and demons, separated from the mortal world by the Bulwark. Accessible only through magic.
 ---
 
@@ -90,7 +90,7 @@ According to most beliefs, one level of the Abyss is reserved for the souls of t
 
 ## The Pure Ones
 
-> According to legend, this was the first contact of the **Pure Ones** with magic, which led to the end of the era. Exposed to prolonged magical energy, the soul of **the First** was blessed (or tainted, depending on interpretation) by establishing a connection with the Abyss.
+> According to legend, this was the first contact of the **Pure Ones** with magic, which led to the end of the era. Exposed to prolonged magical energy, the soul of **[[the-first-one|The First One]]** was blessed (or tainted, depending on interpretation) by establishing a connection with the Abyss.
 
 The Aspects, with their indeterminate consciousness, involuntarily (and according to some, deliberately) left an imprint on her soul and granted her the ability to pass into their dimension after death.
 
