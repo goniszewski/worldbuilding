@@ -43,8 +43,8 @@ The last attempt to breach the Apex shattered the continent, created the Ash Was
 | Faction | Leader | Goal | Relation |
 |---------|--------|------|----------|
 | [The Silver Compact](factions/silver-compact.md) | Archon Vael | Maintain magical monopoly and control dangerous magic | Central power bloc |
-| The Unbound | "The Hushed" | Free spirit binding for all | Mentioned in campaign notes, not yet documented |
-| Merchant Tides | Council of Captains | Profit, neutrality | Mentioned in campaign notes, not yet documented |
+| [The Unbound](factions/the-unbound.md) | [The Hushed](characters/the-hushed.md) | Free spirit binding from Compact control | Shadow opposition and uneasy ally potential |
+| [Merchant Tides](factions/merchant-tides.md) | Council of Captains | Profit, neutrality | Stabilizing commercial power |
 
 ### Noble Houses of the Human Kingdom
 
@@ -80,17 +80,17 @@ Four major faiths dominate, each with radically different views on the First One
 
 | Figure | Role | Religion |
 |--------|------|----------|
-| **Tethra III** | Head of human religious order | (pending clarification) |
+| [Tethra III](characters/tethra-iii.md) | Head of a major human religious order | Human orthodoxy |
 
 ## Major Characters
 
 ### Protagonists
-- [Lyra Dawnwhisper](characters/protagonists/lyra-dawnwhisper.md) — Storm Binder, wanted by Compact
-- Brother Kael — Monk of the Silent Path
+- [Lyra Dawnwhisper](characters/lyra-dawnwhisper.md) — Storm Binder, wanted by Compact
+- [Brother Kael](characters/brother-kael.md) — Monk of the Silent Path
 
 ### Antagonists
 - [Archmage of Ur](characters/archmage-of-ur.md) — Immortal lich and central late-stage antagonist
-- The Hushed — Leader of the Unbound
+- [The Hushed](characters/the-hushed.md) — Unbound leader whose motives remain difficult to read
 
 ## Locations (Summary)
 
@@ -99,7 +99,7 @@ Four major faiths dominate, each with radically different views on the First One
 | [Torr's Gate](places/torrs-gate.md) | Brama Torra | North | Impassable mountain fortress between humans and Naters |
 | [The Great Bessam](places/great-bessam.md) | Wielka Bessam i jej trzy córki | Central | Largest river with three distinct daughters |
 | [The Silver Woods](places/silver-woods.md) | Srebrne Lasy | Central | Sacred grove, Compact headquarters |
-| Verath | Verath | Coast | Merchant hub, player starting point |
+| [Verath](places/verath.md) | Verath | Coast | Merchant hub, likely starting point for intrigue and travel |
 | The Ash Wastes | Popielne Pustkowia | East | Post-Sundering wasteland |
 | [Sky Torch](places/sky-torch.md) | Niebiańska Pochodnia | South | Eternal flame, no magic used — engineering marvel |
 | [Sky Sword](places/sky-torch-sword.md) | Niebiański Miecz | North | Impossible blade, anchors Abyss seal |
@@ -110,14 +110,14 @@ Four major faiths dominate, each with radically different views on the First One
 ### The Human Kingdom
 - **Human Name**: Królestwo Ludzi
 - **Location**: Southern side of Torr's Gate
-- **Capital**: [TODO]
-- **Ruler**: [TODO]
+- **Capital**: Not yet documented
+- **Ruler**: Not yet documented
 
 ### The Nater Hegemony
 - **Nater Name**: Hegemonia Naterów
 - **Location**: Northern side of Torr's Gate
-- **Capital**: [TODO]
-- **Ruler**: [TODO]
+- **Capital**: Not yet documented
+- **Ruler**: Not yet documented
 
 ## Natural Features
 
@@ -141,14 +141,14 @@ Three daughters with distinct personalities:
 ### Dwarven Kingdom
 | Name | Title | Notes |
 |------|-------|-------|
-| [Heimdall Gulltan](TODO) | Dwarven King | Ruler of underground kingdoms |
+| [Heimdall Gulltan](characters/heimdall-gulltan.md) | Dwarven King | Ruler of the underkingdoms |
 | [Martin Guecventrak](characters/martin-guecventrak.md) | Inventor | Disruption Bomb creator |
 | [Dwarven Pyromaniac](characters/dwarven-pyromaniac.md) | Pyrotechnician | Masked burn victim, TF2 Pyro-inspired |
 
 ### Elven Realm
 | Name | Title | Notes |
 |------|-------|-------|
-| [Aesa Vanir](TODO) | Queen of Elves | Current ruler |
+| [Aesa Vanir](characters/aesa-vanir.md) | Queen of Elves | Current ruler |
 
 ### Merchant Guilds
 | Name | Type | Notes |
@@ -169,7 +169,7 @@ Three daughters with distinct personalities:
 ## Current Timeline
 
 - **Current Year**: 523 Post-Sundering (P.S.)
-- **Campaign Hook**: Lyra's past catches up; the Hushed offers dangerous alliance
+- **Campaign Hook**: Lyra's past catches up as the Hushed, Merchant Tides, and Compact pressure pull events toward open crisis
 
 ## Notable Quotes
 

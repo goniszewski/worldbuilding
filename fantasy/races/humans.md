@@ -67,7 +67,7 @@ Humans are the dominant race in many regions of the known world. Known for their
 ## Known Humans
 
 - [[characters/angar]] — Bearer of the cursed Soul Breaker
-- [[characters/protagonists/lyra-dawnwhisper|Lyra]] — Storm Binder, wanted by the Compact
+- [[characters/lyra-dawnwhisper|Lyra]] — Storm Binder, wanted by the Compact
 
 ## Notes
 
