@@ -10,7 +10,7 @@ related:
 summary: Treacherous mountain pass controlled by the Mort clans, the narrowest route between north and sout
 ---
 
-# Wąski Przesmyk
+# Narrow Pass (Wąski Przesmyk)
 
 > The Narrow Pass, where the Mort clans turn geography itself into an act of violence.
 
@@ -26,7 +26,7 @@ summary: Treacherous mountain pass controlled by the Mort clans, the narrowest r
 
 ## Description
 
-The Wąski Przesmyk — the Narrow Pass — is exactly what it sounds like: a treacherous squeeze through the northern mountains, the only viable route between the highlands and the lowlands for those who cannot climb like the Mort.
+Narrow Pass, known in Polish as *Wąski Przesmyk*, is exactly what it sounds like: a treacherous squeeze through the northern mountains, the only viable route between the highlands and the lowlands for those who cannot climb like the Mort.
 
 The pass itself is barely wide enough for three men abreast in places, flanked by sheer cliff walls that create perfect ambush conditions. Mort warbands have held this pass against armies ten times their size, not through superior numbers but through superior position.
 

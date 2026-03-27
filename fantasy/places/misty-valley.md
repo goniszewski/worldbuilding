@@ -10,7 +10,7 @@ related:
 summary: Fog-shrouded valley controlled by House Daever, where the deadly Milk Mist makes invasion impossibl
 ---
 
-# Dolina Mgieł
+# Mist Valley (Dolina Mgieł)
 
 > The Mist Valley, where fog itself is a weapon and House Daever rules from behind the veil.
 
@@ -26,7 +26,7 @@ summary: Fog-shrouded valley controlled by House Daever, where the deadly Milk M
 
 ## Description
 
-The Dolina Mgieł — the Mist Valley — is a place where the world disappears. Perpetual fog blankets the entire valley, visibility rarely exceeding twenty paces. For most travelers, entering means never returning. For the Daever, it is home.
+Mist Valley, known in Polish as *Dolina Mgieł*, is a place where the world disappears. Perpetual fog blankets the entire valley, visibility rarely exceeding twenty paces. For most travelers, entering means never returning. For the Daever, it is home.
 
 The fog is not natural — it has been cultivated for centuries, fed by alchemical vats hidden throughout the valley. The Daever call it *Matka Mgła* (Mother Mist), and they worship it as a divine presence. To outsiders, it is simply the most effective weapon in the realm.
 

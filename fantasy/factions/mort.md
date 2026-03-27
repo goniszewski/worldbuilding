@@ -19,14 +19,14 @@ summary: "Fierce berserker clan descended from humanity's original Five Clans, d
 | Field | Value |
 |-------|-------|
 | **Type** | Noble House (Clan Confederation) |
-| **Headquarters** | [[Wąski Przesmyk (The Narrow Pass)|wąski-przesmyk]] |
+| **Headquarters** | [[places/narrow-pass|Narrow Pass]] (*Wąski Przesmyk*) |
 | **Power Status** | Major Power |
 | **Founded** | Ancient (Pre-Unification) |
 | **Words** | Fury, Faith, Freedom |
 
 ## Description
 
-The warriors of Mort are unlike any other house — a fierce, uncompromising clan dwelling upon the narrow Wąski Przesmyk (Narrow Pass). They are the direct descendants of the *Pięć Klanów* (Five Clans), humanity's original tribal confederation that unified to survive the Age of Darkness. Unlike their distant cousins who founded the great cities, the Mort remained in their ancestral highlands, preserving the old ways.
+The warriors of Mort are unlike any other house — a fierce, uncompromising clan dwelling upon Narrow Pass (*Wąski Przesmyk*). They are the direct descendants of the *Pięć Klanów* (Five Clans), humanity's original tribal confederation that unified to survive the Age of Darkness. Unlike their distant cousins who founded the great cities, the Mort remained in their ancestral highlands, preserving the old ways.
 
 Mort warriors enter a trance-like battle frenzy called *Szał Boży* (Divine Fury), where pain becomes fuel and fear transforms into unstoppable aggression. Their shamans channel the old gods' power to amplify this rage, making a charging Mort warband nearly unstoppable — but costly to stop.
 
@@ -59,8 +59,8 @@ Before a warrior may wield a ceremonial war axe, they must survive the *Próba O
 
 ## Key Figures
 
-- **[[characters/wódz-borin-mort|Wódz Borin Mort]]** — Supreme chieftain, ancient and scarred, leads from the front
-- **[[characters/hera-zemsty|Hera Zemsty]]** — Female berserker champion, undefeated in single combat for 20 years
+- **[[characters/chieftain-borin-mort|Chieftain Borin Mort]]** — Supreme chieftain, ancient and scarred, leads from the front
+- **[[characters/hera-of-vengeance|Hera of Vengeance]]** — Female berserker champion, undefeated in single combat for 20 years
 
 ## For Writers / Game Designers
 
@@ -74,7 +74,7 @@ Before a warrior may wield a ceremonial war axe, they must survive the *Próba O
 - A city-born character is captured and must earn the Mort's respect
 - The old gods are stirring, and a Mort shaman seeks outsiders to help
 - The war with Tiel threatens to escalate — someone wants it to
-- A young Mort warrior questions whether theTrial of Fire is worth the cost
+- A young Mort warrior questions whether the Trial of Fire is worth the cost
 
 ### GM Notes
 > Mort make excellent allies for parties that value direct action and despise politics. They are also dangerous — their berserkers don't always distinguish between enemy and friend when the Fury takes hold.

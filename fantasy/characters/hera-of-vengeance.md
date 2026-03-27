@@ -1,15 +1,15 @@
 ---
-name: Hera Zemsty
+name: Hera of Vengeance
 type: character
 category: characters
 tags: [human, mort, warrior, champion]
 related:
   - factions/mort
-  - characters/wódz-borin-mort
+  - characters/chieftain-borin-mort
 summary: "Female berserker champion of Mort, undefeated in single combat for twenty years."
 ---
 
-# Hera Zemsty
+# Hera of Vengeance (Hera Zemsty)
 
 > Mort's undefeated champion, feared as much for what she enjoys as for what she wins.
 
@@ -26,9 +26,9 @@ summary: "Female berserker champion of Mort, undefeated in single combat for twe
 
 ## Description
 
-In a culture of warriors, Hera Zemsty stands above them all. For twenty years, she has been undefeated in single combat — a record that has become legend. She earned her name when, as a young warrior, she killed the man who murdered her family, then killed his killer, and his killer's killer — seven in total, all for *zemsta* (revenge).
+In a culture of warriors, Hera of Vengeance stands above them all. For twenty years, she has been undefeated in single combat — a record that has become legend. She earned her name when, as a young warrior, she killed the man who murdered her family, then killed his killer, and his killer's killer — seven in total, all for *zemsta* (revenge).
 
-She is the leader of the *Klan Wilczycy* (She-Wolf Clan), one of the Five Clans, and considered by many to be the true warrior heart of Mort. Wódz Borin respects her, fears her, and needs her — a dangerous combination.
+She is the leader of the *Klan Wilczycy* (She-Wolf Clan), one of the Five Clans, and considered by many to be the true warrior heart of Mort. Chieftain Borin respects her, fears her, and needs her — a dangerous combination.
 
 ### Appearance
 
@@ -60,7 +60,7 @@ She has no patience for politics, diplomacy, or compromise. If something angers 
 
 ## Relationships
 
-- **[[characters/wódz-borin-mort|Wódz Borin Mort]]**: Complicated — respects him, challenges him, needs him
+- **[[characters/chieftain-borin-mort|Chieftain Borin Mort]]**: Complicated — respects him, challenges him, needs him
 - **Klan Wilczycy**: She is their champion and voice
 - **[[factions/tiel|Tiel]]**: Personal hatred — a Tiel mining accident killed her first love
 - **The Other Clans**: Respected but watched warily

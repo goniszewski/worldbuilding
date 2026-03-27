@@ -47,7 +47,7 @@ summary: "Quick navigation index for the Silver Compact campaign setting."
 
 **Human Noble Houses:**
 - [[factions/walldom|Lord Korn Walldom]] — Guardians of Torr's Gate
-- [[factions/mort|Wódz Borin Mort]] — Berserker Clan
+- [[characters/chieftain-borin-mort|Chieftain Borin Mort]] — Berserker Clan
 - [[factions/daever|Lady Morwena Daever]] — Mist & Alchemy
 - [[factions/highdam|Lord Eggar Highdam]] — Dam Control
 - [[characters/lonen-czar|Lonen Czar]] — Political Intrigue
@@ -55,8 +55,8 @@ summary: "Quick navigation index for the Silver Compact campaign setting."
 - [[factions/skjor|Lord Ragnar Skjor]] — Dwarf Trade
 - [[factions/tiel|Lord Gareth Tiel]] — Mining & Blue Ore
 - [[factions/timrel|Admiral Vesper Timrel]] — Naval Power
-- [[factions/ermynt|Strażnik Drogdy Alden Ermynt]] — Neutrality & Elves
-- [[factions/winters|Królowa Śniegu Hedda]] — Northern Isolation
+- Strażnik Drogi Alden Ermynt (Road Keeper Alden Ermynt) — Neutrality & Elves
+- Królowa Śniegu Hedda (Snow Queen Hedda) — Northern Isolation
 
 ### Factions
 | Faction | Type | Notes |

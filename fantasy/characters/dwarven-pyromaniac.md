@@ -1,5 +1,5 @@
 ---
-name: Krasnoludzki Pyromaniak
+name: Dwarven Pyromaniac
 type: character
 category: characters
 tags: [dwarf, pyromaniac, burns, mask, comedic]
@@ -8,7 +8,7 @@ related:
 summary: "Dwarven inventor severely burned in a pyrotechnic accident, now masked and more enthusiastic than ever about fire."
 ---
 
-# Krasnoludzki Pyromaniak
+# Dwarven Pyromaniac (Krasnoludzki Pyromaniak)
 
 > A fire-scarred dwarf who survived one explosion only to fall more deeply in love with the next.
 

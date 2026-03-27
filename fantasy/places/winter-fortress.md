@@ -10,7 +10,7 @@ related:
 summary: Ice-carved fortress of House Winters, hidden within a glacier, home to the frost-adapted northern lord
 ---
 
-# Zimowy Gród
+# Winter Fortress (Zimowy Gród)
 
 > Winter Fortress, an ice-carved seat of power hidden inside the northern cold.
 
@@ -27,7 +27,7 @@ summary: Ice-carved fortress of House Winters, hidden within a glacier, home to 
 
 ## Description
 
-Zimowy Gród — Winter Fortress — is carved into a glacier so ancient it has forgotten the taste of summer. The fortress is invisible from outside — entrances hidden in ice caves, tunnels winding through the frozen mass. To find it, you must already know where it is.
+Winter Fortress, known in Polish as *Zimowy Gród*, is carved into a glacier so ancient it has forgotten the taste of summer. The fortress is invisible from outside — entrances hidden in ice caves, tunnels winding through the frozen mass. To find it, you must already know where it is.
 
 The Winters have adapted to this frozen realm over generations. They are pale as snow, immune to cold, able to hunt in darkness. They are humans who have become something *other* through the simple brutal mathematics of survival.
 

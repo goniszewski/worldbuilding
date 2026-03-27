@@ -1,6 +1,6 @@
 ---
-name: Blue Ore (Polish)
-type: material
+name: Blue Ore Source Draft
+type: item
 category: items
 tags: [ore, mineral, explosive, magic, singing]
 related:
@@ -9,7 +9,7 @@ related:
 summary: "Volatile mineral that explodes when processed. When exposed to rising light, it begins to 'sing.'"
 ---
 
-# Błękitna Ruda
+# Blue Ore Source Draft (Błękitna Ruda)
 
 > A volatile mineral whose beauty, song, and violence make it impossible to ignore.
 
@@ -24,7 +24,7 @@ summary: "Volatile mineral that explodes when processed. When exposed to rising 
 
 ## Description
 
-**Błękitna Ruda** (Blue Ore) is a volatile mineral found in select deposits throughout the world. Its primary known property is explosive reactivity when processed or refined—a characteristic that makes it both valuable and dangerous.
+**Blue Ore**, known in Polish as **Błękitna Ruda**, is a volatile mineral found in select deposits throughout the world. Its primary known property is explosive reactivity when processed or refined, a characteristic that makes it both valuable and dangerous.
 
 ### Unique Phenomenon: The Singing
 

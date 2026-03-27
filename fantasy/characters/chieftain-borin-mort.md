@@ -1,15 +1,15 @@
 ---
-name: Wódz Borin Mort
+name: Chieftain Borin Mort
 type: character
 category: characters
 tags: [human, mort, chieftain, berserker, warrior]
 related:
   - "[[factions/mort|Mort]]"
-  - "[[characters/hera-zemsty|Hera Zemsty]]"
+  - "[[characters/hera-of-vengeance|Hera of Vengeance]]"
 summary: "Supreme chieftain of the Mort clans, ancient and scarred, who leads from the front lines."
 ---
 
-# Wódz Borin Mort
+# Chieftain Borin Mort (Wódz Borin Mort)
 
 > A battle-scarred chieftain whose age has only sharpened the danger in him.
 
@@ -21,11 +21,11 @@ summary: "Supreme chieftain of the Mort clans, ancient and scarred, who leads fr
 | Sex | Male |
 | Age | 67 |
 | House | [[factions/mort|Mort]] |
-| Title | Wódz (Chieftain), Leader of the Five Clans |
+| Title | Chieftain (*Wódz*), Leader of the Five Clans |
 
 ## Description
 
-Wódz Borin Mort has led the Mort clans for forty years — longer than any chieftain in living memory. His body is a canvas of scars, each one a story of survival, battle, or ritual. His axe has killed more enemies than most armies. His voice has rallied warriors through defeats that should have broken them.
+Chieftain Borin Mort has led the Mort clans for forty years — longer than any chieftain in living memory. His body is a canvas of scars, each one a story of survival, battle, or ritual. His axe has killed more enemies than most armies. His voice has rallied warriors through defeats that should have broken them.
 
 He is old by Mort standards, kept alive by the blessing of the old gods and sheer stubborn will. Some say the gods have marked him for greatness; others whisper that he should have died decades ago and clings to power beyond his time.
 
@@ -64,7 +64,7 @@ He respects strength above all else and despises weakness, treachery, and false 
 
 ## Relationships
 
-- **[[characters/hera-zemsty|Hera Zemsty]]**: His champion; they have a complicated relationship
+- **[[characters/hera-of-vengeance|Hera of Vengeance]]**: His champion; they have a complicated relationship
 - **The Five Clans**: Rules through consensus, not decree
 - **[[factions/tiel|Tiel]]**: Mortal enemies; the valley dispute is personal
 - **The chieftain's line**: Three wives over the years; all dead of childbirth

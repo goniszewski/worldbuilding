@@ -10,7 +10,7 @@ related:
 summary: Grim Castle at the mouth of the underground passage to dwarven lands, sole gateway between humans and dwarves
 ---
 
-# Ponury Zamek
+# Grim Castle (Ponury Zamek)
 
 > Grim Castle, a hard gate between surface realms and dwarven ambition below.
 
@@ -27,7 +27,7 @@ summary: Grim Castle at the mouth of the underground passage to dwarven lands, s
 
 ## Description
 
-Ponury Zamek — Grim Castle — squats at the mouth of the *Podbramie* (Undergate), the vast underground passage connecting the human lands to the dwarven kingdoms. Half-built into the mountainside, half-dug into the rock, it is a fortress that never sleeps, with traffic flowing through its gates day and night.
+Grim Castle, known in Polish as *Ponury Zamek*, squats at the mouth of the *Podbramie* (Undergate), the vast underground passage connecting the human lands to the dwarven kingdoms. Half-built into the mountainside, half-dug into the rock, it is a fortress that never sleeps, with traffic flowing through its gates day and night.
 
 The castle's upper levels host human administrators and guards. The lower levels connect directly to the tunnel entrance, where dwarven craftsmen maintain their own quarter. The result is a strange hybrid culture — human architecture decorated with dwarven runes, dwarven metalwork alongside human textiles.
 
@@ -78,7 +78,7 @@ Skjor culture is a blend:
 - The dwarves are sealing sections of the tunnel
 
 ### GM Notes
-> Ponury Zamek bridges cultures and provides access to dwarven resources. The Undergate is perfect for dungeon crawls and mystery adventures.
+> Grim Castle bridges cultures and provides access to dwarven resources. The Undergate is perfect for dungeon crawls and mystery adventures.
 
 ## Trivia
 

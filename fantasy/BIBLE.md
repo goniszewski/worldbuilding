@@ -15,10 +15,10 @@ According to legend, the world was once inhabited by the **[[lore/the-cleansed|T
 
 | Ancestor | Legacy |
 |----------|--------|
-| **[[torr|Torr]]** | [[naterians|Naterians]] — warrior culture, honor-bound |
-| **[[daraster|Daraster]]** | [[humans|Humans]] — diverse, ambitious |
-| **[[lesandra|Lesandra]]** | [[elves|Elves]] — pure blood, magical affinity |
-| **Forbidden unions** | [[dwarves|Dwarves]] — driven underground |
+| **[[characters/torr|Torr]]** | [[races/naterians|Naterians]] — warrior culture, honor-bound |
+| **[[characters/daraster|Daraster]]** | [[races/humans|Humans]] — diverse, ambitious |
+| **[[characters/lesandra|Lesandra]]** | [[races/elves|Elves]] — pure blood, magical affinity |
+| **Forbidden unions** | [[races/dwarves|Dwarves]] — driven underground |
 
 See: [[lore/origins-of-races|Origins of the Races]], [[lore/age-of-light|Age of Light]], [[places/archipelago-of-light|Archipelago of Light]]
 
@@ -42,28 +42,28 @@ The last attempt to breach the Apex shattered the continent, created the Ash Was
 
 | Faction | Leader | Goal | Relation |
 |---------|--------|------|----------|
-| [The Silver Compact](factions/silver-compact.md) | Archon Vael | Maintain magical monopoly | Players start opposed |
-| [The Unbound](factions/the-unbound.md) | "The Hushed" | Free spirit binding for all | Antagonists (or allies?) |
-| [The Merchant Tides](factions/merchant-tides.md) | Council of Captains | Profit, neutrality | Neutral, transactional |
+| [The Silver Compact](factions/silver-compact.md) | Archon Vael | Maintain magical monopoly and control dangerous magic | Central power bloc |
+| The Unbound | "The Hushed" | Free spirit binding for all | Mentioned in campaign notes, not yet documented |
+| Merchant Tides | Council of Captains | Profit, neutrality | Mentioned in campaign notes, not yet documented |
 
 ### Noble Houses of the Human Kingdom
 
 | House | Seat | Specialty | Head |
 |-------|------|----------|------|
-| [Walldom](factions/walldom.md) | Brama Torra | Guardians of the Gate | Lord Korn Walldom |
-| [Mort](factions/mort.md) | Wąski Przesmyk | Berserker Clan | Wódz Borin Mort |
+| [Walldom](factions/walldom.md) | Torr's Gate (Brama Torra) | Guardians of the Gate | [Lord Korn Walldom](characters/lord-korn-walldom.md) |
+| [Mort](factions/mort.md) | Narrow Pass (Wąski Przesmyk) | Berserker Clan | [Chieftain Borin Mort](characters/chieftain-borin-mort.md) |
 | [Daever](factions/daever.md) | Mist Valley | Mist & Alchemy | Lady Morwena Daever |
 | [Graz](factions/graz.md) | Redwood | Commerce & Trade | Lord Valdric Graz |
-| [Highdam](factions/highdam.md) | Zapor | Dam Control | Lord Eggar Highdam |
+| [Highdam](factions/highdam.md) | The Dam (Zapor) | Dam Control | [Lord Eggar Highdam](characters/lord-eggar-highdam.md) |
 | [Tiel](factions/tiel.md) | Barrenport | Mining & Blue Ore | Lord Gareth Tiel |
-| [Czar](factions/czar.md) | Wieża Cieni | Political Intrigue | Lonen Czar |
+| [Czar](factions/czar.md) | Shadow Tower (Wieża Cieni) | Political Intrigue | [Lonen Czar](characters/lonen-czar.md) |
 | [Tiltman](factions/tiltman.md) | Windy Hills | Legendary Archers | Lady Sylara Tiltman |
 | [Skjor](factions/skjor.md) | Grim Castle | Dwarf Trade | Lord Ragnar Skjor |
 | [Timrel](factions/timrel.md) | Portszy | Naval Power | Admiral Vesper Timrel |
-| [Ermynt](factions/ermynt.md) | Rozdroże | Neutrality & Elves | Strażnik Drogdy Alden Ermynt |
-| [Winters](factions/winters.md) | Zimowy Gród | Northern Isolation | Królowa Śniegu Hedda |
-| [Golwynt](factions/golwynt.md) | Zielona Dolina | Agriculture | Lord Harren Golwynt |
-| [Kolah](factions/kolah.md) | Szczyt Kozy | Goat God Worship | Głowa Kozła |
+| [Ermynt](factions/ermynt.md) | The Crossroads (Rozdroże) | Neutrality & Elves | Road Keeper Alden Ermynt |
+| [Winters](factions/winters.md) | Winter Fortress (Zimowy Gród) | Northern Isolation | Snow Queen Hedda |
+| [Golwynt](factions/golwynt.md) | Green Valley (Zielona Dolina) | Agriculture | Lord Harren Golwynt |
+| [Kolah](factions/kolah.md) | Goat Peak (Szczyt Kozy) | Goat God Worship | Goat-Head |
 
 ## Religious Systems
 
@@ -86,11 +86,11 @@ Four major faiths dominate, each with radically different views on the First One
 
 ### Protagonists
 - [Lyra Dawnwhisper](characters/protagonists/lyra-dawnwhisper.md) — Storm Binder, wanted by Compact
-- [Brother Kael](characters/protagonists/brother-kael.md) — Monk of the Silent Path
+- Brother Kael — Monk of the Silent Path
 
 ### Antagonists
-- [Archon Vael](characters/antagonists/archon-vael.md) — Leader of the Silver Compact
-- [The Hushed](characters/antagonists/the-hushed.md) — Leader of the Unbound
+- [Archmage of Ur](characters/archmage-of-ur.md) — Immortal lich and central late-stage antagonist
+- The Hushed — Leader of the Unbound
 
 ## Locations (Summary)
 
@@ -99,11 +99,11 @@ Four major faiths dominate, each with radically different views on the First One
 | [Torr's Gate](places/torrs-gate.md) | Brama Torra | North | Impassable mountain fortress between humans and Naters |
 | [The Great Bessam](places/great-bessam.md) | Wielka Bessam i jej trzy córki | Central | Largest river with three distinct daughters |
 | [The Silver Woods](places/silver-woods.md) | Srebrne Lasy | Central | Sacred grove, Compact headquarters |
-| [Verath](places/verath.md) | Verath | Coast | Merchant hub, player starting point |
+| Verath | Verath | Coast | Merchant hub, player starting point |
 | The Ash Wastes | Popielne Pustkowia | East | Post-Sundering wasteland |
 | [Sky Torch](places/sky-torch.md) | Niebiańska Pochodnia | South | Eternal flame, no magic used — engineering marvel |
 | [Sky Sword](places/sky-torch-sword.md) | Niebiański Miecz | North | Impossible blade, anchors Abyss seal |
-| [Whispering Ruins](places/whispering-ruins.md) | Szeptające Ruiny | North | Ancient pre-Sundering city |
+| [The Whispering Ruins](adventures/quest-the-whispering-ruins.md) | Szeptające Ruiny | North | Ancient pre-Sundering city and adventure site |
 
 ## Political Boundaries
 
@@ -131,9 +131,9 @@ Three daughters with distinct personalities:
 
 | Item | Type | Notes |
 |------|------|-------|
-| [Czarny Kamień Ur](items/czarne-kamienie-ur.md) | Legendary Artifact | Three exist, grant godlike power |
-| [Błękitna Ruda](items/błękitna-ruda.md) | Material | Explosive when processed; "sings" at sunrise |
-| [Łamacz Dusz](items/łamacz-dusz.md) | Weapon | Kills without damaging body |
+| [Black Stones of Ur](items/black-stones-of-ur.md) | Legendary Artifact | Three exist, grant godlike power |
+| [Blue Ore](items/blue-ore.md) | Material | Explosive when processed; "sings" at sunrise |
+| [Soul Breaker](items/soul-breaker.md) | Weapon | Kills without damaging body |
 | [Virtuti, Vincere, Gloria et Mori](lore/virtuti-vincere.md) | Motto | Latin inscription, martial philosophy |
 
 ## Notable Figures
@@ -143,7 +143,7 @@ Three daughters with distinct personalities:
 |------|-------|-------|
 | [Heimdall Gulltan](TODO) | Dwarven King | Ruler of underground kingdoms |
 | [Martin Guecventrak](characters/martin-guecventrak.md) | Inventor | Disruption Bomb creator |
-| [Krasnoludzki Pyromaniak](characters/krasnoludzki-pyromaniak.md) | Pyrotechnician | Masked burn victim, TF2 Pyro-inspired |
+| [Dwarven Pyromaniac](characters/dwarven-pyromaniac.md) | Pyrotechnician | Masked burn victim, TF2 Pyro-inspired |
 
 ### Elven Realm
 | Name | Title | Notes |
@@ -159,8 +159,8 @@ Three daughters with distinct personalities:
 ## Key Characters
 
 ### Antagonists
-- [Arcymag z Ur](characters/arcymag-z-ur.md) — Immortal lich, seeks to become a god
-- [Potężna Ósemka](characters/potężna-ósemka.md) — Eight heroes who killed him (backstory)
+- [Archmage of Ur](characters/archmage-of-ur.md) — Immortal lich, seeks to become a god
+- [Mighty Eight](characters/mighty-eight.md) — Eight heroes who killed him (backstory)
 
 ## Main Adventure
 
@@ -191,6 +191,6 @@ See: [[lore/quotes|Full Quotes Collection]]
 
 ---
 
-# Campaign: Fabuła (Plot)
+# Campaign Plot (Fabuła)
 
 > **TL;DR** — Political thriller where players must stop a suicide cult using blue ore explosives, find a Black Stone of Ur, and ultimately face the immortal Archmage who offers godhood.

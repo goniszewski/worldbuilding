@@ -14,11 +14,9 @@ related:
 summary: Windy highland hills where the Tiltman archers have trained for millennia, with winds that shape everything
 ---
 
-# Wiatrowe Wzgórza
+# Windy Hills (Wiatrowe Wzgórza)
 
 > High winds, open ground, and generations of archers who learned to live by both.
-
-*Windy Hills*
 
 ## Overview
 
@@ -32,7 +30,7 @@ summary: Windy highland hills where the Tiltman archers have trained for millenn
 
 ## Description
 
-The Wiatrowe Wzgórza — Windy Hills — are exactly as named: endless rolling highlands where the wind never stops. It howls through the passes, tears at exposed skin, and has been shaping the landscape and the people for longer than history records.
+Windy Hills, known in Polish as *Wiatrowe Wzgórza*, are exactly as named: endless rolling highlands where the wind never stops. It howls through the passes, tears at exposed skin, and has been shaping the landscape and the people for longer than history records.
 
 The Tiltman archers have made these hills their home for millennia, developing skills that seem supernatural. Their arrows fly true in winds that knock men down. Their eyes have adapted to constant motion. Their patience has become legendary.
 
