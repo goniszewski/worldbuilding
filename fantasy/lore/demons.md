@@ -11,12 +11,14 @@ tags:
 related:
   - lore/abyss
   - lore/aspects
-  - lore/the-first-one
+  - characters/the-first-one
   - lore/origins-of-races
 summary: Chaotic beings born from fragments of Aspects — shaped by emotions and drawn to violent contact with living beings
 ---
 
 # Demons
+
+> Shards of chaos given hunger, shape, and terrible purpose.
 
 *Chaotic beings born from fragments of Aspects — shaped by emotion and drawn to violence.*
 
@@ -36,7 +38,7 @@ summary: Chaotic beings born from fragments of Aspects — shaped by emotions an
 
 ## Description
 
-**Demons** are chaotic beings that originated from fragments of [[lore/aspects|Aspects]] — pieces that tore away when the [[lore/abyss|Void]] made contact with the physical world through [[lore/the-first-one|The First One]].
+**Demons** are chaotic beings that originated from fragments of [[lore/aspects|Aspects]] — pieces that tore away when the [[lore/abyss|Void]] made contact with the physical world through [[characters/the-first-one|The First One]].
 
 Unlike their parent entities, demons are:
 - **Emotion-driven** — shaped by the dominant emotion present during their formation
@@ -47,7 +49,7 @@ Unlike their parent entities, demons are:
 ### Formation Process
 
 According to legend:
-1. [[lore/the-first-one|The First One]] established a connection with the [[lore/abyss|Void]]
+1. [[characters/the-first-one|The First One]] established a connection with the [[lore/abyss|Void]]
 2. Contact with the physical dimension caused fragments to tear from each [[lore/aspects|Aspect]]
 3. These fragments mixed together in the Void
 4. During contact with living beings, the dominant emotion shaped the demon's form

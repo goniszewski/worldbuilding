@@ -12,7 +12,7 @@ summary: Treacherous mountain pass controlled by the Mort clans, the narrowest r
 
 # Wąski Przesmyk
 
-*The Narrow Pass*
+> The Narrow Pass, where the Mort clans turn geography itself into an act of violence.
 
 ## Overview
 

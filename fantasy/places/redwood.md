@@ -12,7 +12,7 @@ summary: The realm's second-greatest trading hub, controlled by House Graz and h
 
 # Redwood
 
-*Czerwony Las (The Red Forest)*
+> The Red Forest's great trade city, where wealth moves faster than loyalty.
 
 ## Overview
 

@@ -14,7 +14,7 @@ summary: "The firstborn of the First One, ancestor of the Naterians, characteriz
 
 # Torr
 
-*Firstborn of the First One, progenitor of the Naterians.*
+> Firstborn of the First One, war-marked ancestor of the Naterians and a shadow over every later age.
 
 ## Overview
 

@@ -1,7 +1,7 @@
 ---
 name: Notable Figures
 type: character
-category: Characters
+category: characters
 tags:
   - characters
   - humans
@@ -27,7 +27,7 @@ This section catalogs the influential figures whose actions, decisions, or prese
 
 | Name | Affiliation | Notes |
 |------|-------------|-------|
-| [[characters/elmund-tiel|Elmund Tiel]] | — | — |
+| Elmund Tiel | — | — |
 | [[factions/walldom|Zygfryd Walldom]] | — | — |
 | [[Allena Mort]] | — | — |
 | [[Darien Mort]] | — | — |

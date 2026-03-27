@@ -12,7 +12,7 @@ summary: Ice-carved fortress of House Winters, hidden within a glacier, home to 
 
 # Zimowy Gród
 
-*Winter Fortress*
+> Winter Fortress, an ice-carved seat of power hidden inside the northern cold.
 
 ## Overview
 

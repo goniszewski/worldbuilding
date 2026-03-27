@@ -12,7 +12,7 @@ summary: "Charming, audacious Naterian rogue with hidden magical abilities. Fled
 
 # Velan Kivar Zan Ehkovok
 
-*[Rogue / Wandering Mage, Eridann Campaign]*
+> A charming exile whose wit, nerve, and hidden magic keep pushing him past safe decisions.
 
 ## Overview
 

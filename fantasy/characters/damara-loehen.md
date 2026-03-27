@@ -11,7 +11,7 @@ summary: "Elven mage and priest, devout with extensive knowledge of her faith. S
 
 # Damara Lo'Ehen
 
-*[Protagonist, Eridann Campaign]*
+> A devout elven mage whose mission work makes faith, politics, and survival inseparable.
 
 ## Overview
 

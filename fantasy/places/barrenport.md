@@ -12,7 +12,7 @@ summary: Mining port city controlled by Tiel, gateway to blue ore mines and the 
 
 # Barrenport
 
-*Port Bezdzietny (Childless Port)*
+> A mining port of hard labor, Blue Ore wealth, and industrial hunger.
 
 ## Overview
 

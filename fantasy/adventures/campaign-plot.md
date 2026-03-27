@@ -1,11 +1,11 @@
 ---
 name: Campaign Plot
 type: adventure
-category: main-plot
+category: adventures
 tags: [plot, campaign, main-story, cult, ur, black-stones, terrorism, war]
 related:
   - lore/origins-of-races
-  - lore/void
+  - lore/abyss
   - lore/religions
   - factions/silver-compact
   - items/blue-ore
@@ -13,12 +13,12 @@ related:
   - items/soul-breaker
   - characters/archmage-of-ur
   - characters/mighty-eight
-  - places/elf-capital
-  - places/ur
-summary: The main campaign arc — stopping the Archmage's cult, preventing a racial war, and finding the Black Stones of U
+summary: "The main campaign arc: stopping the Archmage's cult, preventing a racial war, and finding the Black Stones of Ur."
 ---
 
 # Campaign Plot
+
+> A campaign arc of cult terror, political fracture, and the race to reach Ur's relics first.
 
 ## Summary
 
@@ -92,7 +92,7 @@ After initial preparations and the consent of one of the rulers, the hero leads 
 
 ### The Sacred Lantern of the Elves
 
-The [[places/elf-capital|Sacred Lantern]] in the elven capital, which emanates strong, positive magic and is believed to be a gift from Lesandra, is actually a **bound Black Stone of Ur** — one of three needed by the Archmage of Ur to become a god among mortals.
+The Sacred Lantern in the elven capital, which emanates strong, positive magic and is believed to be a gift from Lesandra, is actually a **bound Black Stone of Ur** — one of three needed by the Archmage of Ur to become a god among mortals.
 
 At some point in the game, the cultists succeed in **destroying the binding spell**, releasing it and causing a **massive explosion** (like a mini-atom bomb) that kills many high-ranking elven citizens and mages.
 
@@ -109,7 +109,7 @@ When the [[characters/mighty-eight|Mighty Eight]] killed him, he was already aft
 
 ### The Archmage's Goal
 
-The Archmage of Ur, noticing what lies within the [[lore/void|Void]] (chaos needing a conscious mind), wants to **give it meaning** — to tame at least a fraction of that being, becoming de facto a god.
+The Archmage of Ur, noticing what lies within the [[lore/abyss|Void]] (chaos needing a conscious mind), wants to **give it meaning** — to tame at least a fraction of that being, becoming de facto a god.
 
 Throughout the game, he couldn't control all of this, but in the end he might manage to master and understand what he has become.
 
@@ -127,7 +127,7 @@ The cultists stole the Soul Breaker by infiltrating the Brotherhood years earlie
 
 ### Ruins of the Ancients
 
-When descending to earth, the Archmage of Ur could breach the barrier created by the [[races/ancient-ones|Ancients]]. To prevent this, he ordered his followers to seek something that could stabilize the ritual.
+When descending to earth, the Archmage of Ur could breach the barrier created by the [[lore/ancient-ones|Ancients]]. To prevent this, he ordered his followers to seek something that could stabilize the ritual.
 
 After many years, they stumbled upon **the ruins of one of the Ancients' shelters**, and thus the few surviving **magic stabilizers** — suggesting the Archmage hasn't completely lost his mind yet.
 

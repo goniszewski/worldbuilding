@@ -1,7 +1,7 @@
 ---
 name: Mana
 type: magic-system
-category: Lore
+category: lore
 tags:
   - magic
   - energy
@@ -9,7 +9,7 @@ tags:
   - abyss
   - ancient-technology
 related:
-  - "[[lore/the-abyss|Studnia]]"
+  - lore/abyss
   - "[[lore/ancient-ones|Pradawni]]"
   - "[[characters/martin-guecventrak|Martin Halgrom]]"
 summary: Mana is pure energy emanating from the Well in the Abyss that serves as the fundamental fuel for all magic. Its density decreases with distance from the source, and most practitioners confuse it with "magic" itself. The Ancients mastered its use through specialized device
@@ -20,7 +20,7 @@ summary: Mana is pure energy emanating from the Well in the Abyss that serves as
 > *"They speak of magic as if it were a force unto itself. But fire does not exist without fuel—and mana is that fuel."*
 > — Martin Halgrom, *On the Nature of Arcane Energy*
 
-Mana is the fundamental energy that permeates the world and serves as the fuel for all magical phenomena. Unlike traditional understandings of magic, mana represents a distinct, measurable energy that flows from a single cosmic source: [[Studnia|the Well]] in the depths of [[lore/abyss]].
+Mana is the fundamental energy that permeates the world and serves as the fuel for all magical phenomena. Unlike traditional understandings of magic, mana represents a distinct, measurable energy that flows from a single cosmic source: the Well in the depths of [[lore/abyss]].
 
 > ⚠️ **Game Note:** At the beginning of the campaign, mana exists only as theory. Player characters and most NPCs do not know of its existence—they simply call it "magic."
 
@@ -30,7 +30,7 @@ Mana is the fundamental energy that permeates the world and serves as the fuel f
 
 ### Origin
 
-Mana is pure energy emanating from [[Studnia|the Well]] at the deepest level of [[lore/abyss]]. This cosmic source continuously releases mana into the surrounding void, where it then disperses outward through unknown mechanisms into the world of the living.
+Mana is pure energy emanating from the Well at the deepest level of [[lore/abyss]]. This cosmic source continuously releases mana into the surrounding void, where it then disperses outward through unknown mechanisms into the world of the living.
 
 ### Density Gradient
 
@@ -43,7 +43,7 @@ Mana concentration follows a predictable pattern:
 | **Surface world** | Trace amounts | Barely perceptible |
 | **Remote regions** | Negligible | Nearly undetectable |
 
-The further one travels from [[lore/the-abyss|Studnia]], the more sparse and diluted mana becomes.
+The further one travels from the Well, the more sparse and diluted mana becomes.
 
 ---
 
@@ -136,7 +136,7 @@ Trained mages can perceive variations in mana density, though they interpret thi
 
 | Element | Connection |
 |---------|------------|
-| **[[lore/the-abyss|Studnia]]** | The source—where does it lead? |
+| **The Well** | The source—where does it lead? |
 | **[[lore/ancient-ones|Pradawni]]** | Masters of mana technology—what happened to them? |
 | **[[characters/martin-guecventrak|Martin Halgrom]]** | Living pioneer—ally or complication? |
 | **The Abyss** | Dangerous expedition site—rewards and risks |
@@ -153,7 +153,7 @@ If adapting this system for TTRPG mechanics:
 
 ## TODO
 
-- [ ] Detail the structure of [[lore/the-abyss|Studnia]] and its relationship to the Abyss
+- [ ] Detail the structure of the Well and its relationship to the Abyss
 - [ ] Create entry for Pradawni absorbers (potential artifacts)
 - [ ] Develop the "mana density" map of the known world
 - [ ] Write [[characters/martin-guecventrak|Martin Halgrom]]'s research notes as in-game documents

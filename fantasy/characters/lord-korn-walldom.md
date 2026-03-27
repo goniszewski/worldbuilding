@@ -11,7 +11,7 @@ summary: "Ancient lord of Walldom rumored to be over three centuries old, keeper
 
 # Lord Korn Walldom
 
-*Lordship of Walldom*
+> An ancient lord whose name survives because fear and ritual refuse to let it die.
 
 ## Basics
 

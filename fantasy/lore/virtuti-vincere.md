@@ -10,7 +10,7 @@ summary: Latin inscription found in ruins, castles, and heraldry — a motto cel
 
 # Virtuti, Vincere, Gloria et Mori
 
-*Latin Motto*
+> A martial maxim praising virtue, victory, glory, and death.
 
 ## Translation
 

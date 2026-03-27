@@ -11,9 +11,7 @@ summary: Dwarven merchant city known for commerce and trade — also called Gull
 
 # Gullveig
 
-*Also known as: Gullvig*
-
-*Dwarven Merchant City*
+> A dwarven merchant city where deep roads, gold, and reputation carry equal weight.
 
 ## Overview
 

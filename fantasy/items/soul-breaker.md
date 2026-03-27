@@ -1,17 +1,19 @@
 ---
 name: Soul Breaker
 type: item
-category: weapon
+category: items
 tags: [weapon, legendary, soul-killing, ur, cursed, magic]
 related:
   - characters/archmage-of-ur
   - characters/mighty-eight
   - items/black-stones-of-ur
-  - lore/void
+  - lore/abyss
 summary: A cursed blade that kills without damaging the body, used to deliver the Archmage's soul into a new host
 ---
 
 # Soul Breaker (Łamacz Dusz)
+
+> A cursed blade that leaves flesh untouched while it destroys what mattered most.
 
 ## Description
 
@@ -52,9 +54,9 @@ If the blade has been prepared with a specific ritual:
 ## History
 
 ### Creation
-The sword was forged in ancient [[places/ur|Ur]], designed by the Archmage himself:
+The sword was forged in ancient Ur, designed by the Archmage himself:
 - Created using forbidden binding techniques
-- Tempered in the [[lore/void|Void]] itself
+- Tempered in the [[lore/abyss|Void]] itself
 - Requires blood sacrifice to activate its true power
 
 ### The Mighty Eight
@@ -127,4 +129,4 @@ Some legends say Soul Breaker is semi-sentient:
 - [[characters/archmage-of-ur|Archmage of Ur]] — created it, uses it
 - [[characters/mighty-eight|Mighty Eight]] — used it to kill him
 - [[items/black-stones-of-ur|Black Stones of Ur]] — related Void-techniques
-- [[lore/void|Void]] — forged in its essence
+- [[lore/abyss|Void]] — forged in its essence

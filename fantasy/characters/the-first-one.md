@@ -15,7 +15,7 @@ summary: "The last ruler of the Cleansed whose curiosity led to the discovery of
 
 # The First One
 
-*The last ruler of the Cleansed, whose fateful curiosity changed the world forever.*
+> The last ruler of the Cleansed, whose fateful curiosity changed the world forever.
 
 ## Overview
 

@@ -8,13 +8,13 @@ tags:
   - authoritarian
   - monopoly
 related:
-  - characters/archon-vael
   - lore/magic-systems
-  - factions/the-unbound
 summary: "Arcanocratic organization controlling all legal spirit binding. Maintains order through magical monopoly. Not evil, but increasingly oppressive."
 ---
 
 # The Silver Compact
+
+> A monopoly of sanctioned magic that calls control a form of mercy.
 
 ## Overview
 

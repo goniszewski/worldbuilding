@@ -12,6 +12,8 @@ summary: The universal system of arcane arts, practiced differently by each race
 
 # Magic System
 
+> Arcane practice shaped by discipline, culture, and dangerous understanding rather than raw talent alone.
+
 Unlike the Dragon Age series, magic is not inherently dangerous in the hands of unprepared "apostates."
 
 Mages, especially inexperienced ones, are not considered a direct threat. Most of them, without proper years of training, cannot cast the simplest spells. They might produce a few sparks, but instead of setting someone on fire, they would at most burn themselves or ignite a small fire.

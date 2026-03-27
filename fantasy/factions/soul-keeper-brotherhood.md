@@ -11,7 +11,7 @@ summary: "A secretive order dedicated to containing the Soul Breaker and protect
 
 # The Soul Keeper Brotherhood (Bractwo Strażników Dusz)
 
-*[Secret Society, Guardians]*
+> A hidden brotherhood that survives by containing a weapon no one should ever wield lightly.
 
 ## Overview
 

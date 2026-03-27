@@ -7,10 +7,13 @@ tags:
   - mountains
   - natural-fortress
 related:
-  - factions/human-kingdom
-  - factions/nater-hegemony
+  - factions/naterian-hegemony
 summary: A massive mountain range acting as a natural wall between the Human Kingdom and the Nater Hegemon
 ---
+
+# Torr's Gate
+
+> A mountain wall so brutal that kingdoms treat it as both blessing and sentence.
 
 > Even children don't need to be told that the Gate is one of the greatest blessings we have ever received! No matter how eerie it is, how dreadfully the winds howl there. The stones, nay, even the ice spiders are just waiting to fall on you from above!? None of it matters. It means nothing. Our grandfathers and their grandfathers before them bear witness that without the Gate, we would be lost!
 > — *Adar the Redeemed, during a speech to the people*
@@ -62,5 +65,5 @@ Even assuming an attacking force managed to overcome the rocky ridge and begin t
 
 ## Connections
 
-- Linked to: [[factions/human-kingdom|Human Kingdom]], [[factions/nater-hegemony|Nater Hegemony]]
+- Linked to: Human Kingdom, [[factions/naterian-hegemony|Naterian Hegemony]]
 - Mentioned in: [TODO]

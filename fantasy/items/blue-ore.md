@@ -1,21 +1,23 @@
 ---
 name: Blue Ore
 type: item
-category: material
+category: items
 tags: [material, explosive, cult, ur, blue-ore, weapon, terrorism]
 related:
   - items/black-stones-of-ur
   - characters/archmage-of-ur
   - items/soul-breaker
-  - lore/void
+  - lore/abyss
 summary: A rare crystalline material with devastating explosive properties. The foundation of the cult's terror campaign
 ---
 
 # Blue Ore (Błękitna Ruda)
 
+> A rare ore whose beauty masks the terror of what it becomes in human hands.
+
 ## Description
 
-Blue ore is a rare crystalline material found primarily in the [[places/ash-wastes|Ash Wastes]] and certain deep veins within human territories. When processed, it becomes an extraordinarily powerful explosive.
+Blue ore is a rare crystalline material found primarily in the Ash Wastes and certain deep veins within human territories. When processed, it becomes an extraordinarily powerful explosive.
 
 > *"The first time I saw blue ore burn... I thought the sky itself was falling."*
 > — A survivor of the Verath bombing
@@ -46,7 +48,7 @@ When refined through a specific alchemical process (known only to the cult), blu
 ## Origin and Sources
 
 ### Natural Deposits
-- [[places/ash-wastes|Ash Wastes]] — largest known deposits
+- Ash Wastes — largest known deposits
 - Deep mines in human territories (now heavily guarded)
 - Rumored veins in elven lands (unconfirmed)
 

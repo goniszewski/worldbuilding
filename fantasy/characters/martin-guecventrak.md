@@ -10,7 +10,7 @@ summary: "Dwarven inventor and decent swordsman. Pragmatic solutions. Main trans
 
 # Martin Guecventrak
 
-*[Protagonist, Eridann Campaign]*
+> A practical dwarven inventor whose technical mind keeps turning fantasy into solvable problems.
 
 ## Overview
 

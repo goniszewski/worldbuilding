@@ -11,7 +11,7 @@ summary: "Black-skinned member of the Brotherhood of the Soul Breaker. Honorable
 
 # Angar
 
-*[Protagonist, Eridann Campaign]*
+> A steadfast warrior bound to a cursed legacy he bears more honorably than anyone should have to.
 
 ## Overview
 

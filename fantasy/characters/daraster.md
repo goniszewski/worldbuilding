@@ -15,7 +15,7 @@ summary: "The second child of the First One, progenitor of both Humans and Elves
 
 # Daraster
 
-*Second child of the First One, progenitor of two races through blood and betrayal.*
+> The second child of the First One, remembered through two bloodlines and the damage they cost.
 
 ## Overview
 

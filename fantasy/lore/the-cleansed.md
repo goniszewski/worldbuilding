@@ -1,7 +1,7 @@
 ---
 name: The Cleansed
 type: lore
-category: history
+category: lore
 tags:
   - ancient-civilization
   - precursors
@@ -11,13 +11,17 @@ tags:
 related:
   - lore/ancient-ones
   - lore/age-of-light
-  - lore/archipelago-of-light
-  - lore/the-first-one
+  - places/archipelago-of-light
+  - characters/the-first-one
   - characters/torr
   - characters/daraster
   - characters/lesandra
 summary: The Cleansed — refugees from the Ancient One catastrophe who forgot their past and built a new civilization on the Archipelago of Light, only to rediscover magic and trigger the cycle again
 ---
+
+# The Cleansed
+
+> A people remade by catastrophe, memory loss, and the fatal rediscovery of magic.
 
 # The Cleansed (Czystych)
 
@@ -108,7 +112,7 @@ According to their own records (later myths), the Cleansed believed:
 
 ### The Cave Discovery
 
-When the last [[lore/the-first-one|The First One]] found "strange elements" in a cave, she wasn't discovering magic. She was **finding her ancestors' technology**.
+When the last [[characters/the-first-one|The First One]] found "strange elements" in a cave, she wasn't discovering magic. She was **finding her ancestors' technology**.
 
 > The cave was likely an Ancient One bunker or storage site. The "blue ore" or "Black Stone" was preserved magical equipment.
 
@@ -269,8 +273,8 @@ Some scholars propose the Cleansed were **not survivors** but **escaped slaves**
 |-------|------------|
 | [[lore/ancient-ones|The Ancient Ones]] | The true ancestors |
 | [[lore/age-of-light|Age of Light]] | The Cleansed's remembered history |
-| [[lore/archipelago-of-light|Archipelago of Light]] | Their settlement |
-| [[lore/the-first-one|The First One]] | Their last leader |
+| [[places/archipelago-of-light|Archipelago of Light]] | Their settlement |
+| [[characters/the-first-one|The First One]] | Their last leader |
 | [[places/sky-torch|Sky Torch]] | Ancient One monument they inherited |
 | [[places/sky-torch-sword|Sky Sword]] | Ancient One monument they inherited |
 

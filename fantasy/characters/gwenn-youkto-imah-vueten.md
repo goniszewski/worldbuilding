@@ -11,7 +11,7 @@ summary: "Black-skinned human mercenary with strange, green eyes. Pleasant but c
 
 # Gwenn Youkto Imah Vueten
 
-*[Protagonist, Eridann Campaign]*
+> A mercenary whose calm charm never quite hides how much calculation sits behind it.
 
 ## Overview
 

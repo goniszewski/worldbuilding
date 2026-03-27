@@ -1,3 +1,10 @@
+---
+name: Fantasy Universe Bible
+type: guide
+category: meta
+summary: "Core reference bible for the fantasy setting, covering factions, history, religion, and campaign framing."
+---
+
 # Fantasy Universe Bible
 
 > **TL;DR** — High fantasy realm where magic comes from binding elemental spirits. The Silver Compact rules through arcane monopoly. Heroes fight to preserve balance.
@@ -93,7 +100,7 @@ Four major faiths dominate, each with radically different views on the First One
 | [The Great Bessam](places/great-bessam.md) | Wielka Bessam i jej trzy córki | Central | Largest river with three distinct daughters |
 | [The Silver Woods](places/silver-woods.md) | Srebrne Lasy | Central | Sacred grove, Compact headquarters |
 | [Verath](places/verath.md) | Verath | Coast | Merchant hub, player starting point |
-| [The Ash Wastes](places/ash-wastes.md) | Popielne Pustkowia | East | Post-Sundering wasteland |
+| The Ash Wastes | Popielne Pustkowia | East | Post-Sundering wasteland |
 | [Sky Torch](places/sky-torch.md) | Niebiańska Pochodnia | South | Eternal flame, no magic used — engineering marvel |
 | [Sky Sword](places/sky-torch-sword.md) | Niebiański Miecz | North | Impossible blade, anchors Abyss seal |
 | [Whispering Ruins](places/whispering-ruins.md) | Szeptające Ruiny | North | Ancient pre-Sundering city |
@@ -174,7 +181,7 @@ Three daughters with distinct personalities:
 | *"You should write a song about it, you know?"* | Velan | To anyone who will listen |
 | *"We hide our best from you and for you, to fully enjoy later, when the time is right."* | Unknown | Cryptic |
 
-See: [[lore/cytaty|Full Quotes Collection]]
+See: [[lore/quotes|Full Quotes Collection]]
 
 ## Running Notes
 

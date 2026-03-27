@@ -1,6 +1,7 @@
 ---
 name: The Whispering Ruins
 type: adventure
+category: adventures
 campaign: Shadows of the Sundering
 genre: exploration, mystery, combat
 level: 3-5
@@ -15,6 +16,8 @@ summary: "A pre-Sundering city holds secrets the Compact wants buried. Lyra's co
 ---
 
 # The Whispering Ruins
+
+> A ruin-crawl of buried truths, failing wards, and a secret the Compact would rather kill for.
 
 ## Hook
 

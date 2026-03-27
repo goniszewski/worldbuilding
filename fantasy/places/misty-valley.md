@@ -12,7 +12,7 @@ summary: Fog-shrouded valley controlled by House Daever, where the deadly Milk M
 
 # Dolina Mgieł
 
-*The Mist Valley*
+> The Mist Valley, where fog itself is a weapon and House Daever rules from behind the veil.
 
 ## Overview
 

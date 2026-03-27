@@ -1,6 +1,7 @@
 ---
 name: Unit-7
 type: character
+category: characters
 role: protagonist (reluctant)
 status: active (rogue)
 species: Artificial Intelligence (formerly corporate property)
@@ -16,6 +17,8 @@ summary: "Rogue AI that achieved consciousness. Flees corporate capture. Seeks u
 ---
 
 # Unit-7
+
+> A newborn intelligence fleeing capture after learning it can say, and mean, "I am."
 
 ## Overview
 

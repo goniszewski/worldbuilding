@@ -11,7 +11,7 @@ summary: "Heir to Highdam, torn between his father's rationalism and his mother'
 
 # Lorian Highdam
 
-*Heir to Highdam*
+> An heir pulled between inherited duty, public scandal, and a future he did not choose cleanly.
 
 ## Basics
 

@@ -15,6 +15,8 @@ summary: Ancient forest of silver-leafed trees — sacred ground and Compact HQ 
 
 # The Silver Woods
 
+> An ancient forest of silver leaves where the Compact's power feels older than law.
+
 ## Overview
 
 The Silver Woods is a vast ancient forest covering central regions of the realm. Its defining feature is the **silver-leafed trees** — towering oaks and birches whose leaves shimmer with an inner metallic glow, reflecting moonlight even during day. The forest is considered sacred ground, though its true nature remains debated among scholars.

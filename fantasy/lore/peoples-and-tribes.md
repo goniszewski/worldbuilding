@@ -1,14 +1,14 @@
 ---
 name: Peoples and Tribes
 type: lore
-category: Lore
+category: lore
 tags:
   - peoples
   - tribes
   - factions
   - distant
 related:
-  - lore/characters/juuhroni
+  - races/juuhroni
 summary: An index of distant, lesser-known peoples and tribes scattered across the world — groups who dwell far from civilization, in the margins between mapped territories, or in realms beyond conventional understanding
 ---
 
@@ -27,7 +27,7 @@ Each major race has produced offshoots, exiles, and isolated communities that ha
 
 | Race | Tribe | Status |
 |------|-------|--------|
-| [[lore/characters/juuhroni|Juuhroni]] | — | Documented |
+| [[races/juuhroni|Juuhroni]] | — | Documented |
 
 ---
 
@@ -41,7 +41,7 @@ Each major race has produced offshoots, exiles, and isolated communities that ha
 
 The Juuhroni represent an extreme example of racial divergence. Once perhaps related to other peoples, centuries of isolation in the fetid wetlands have transformed them into something entirely other. They worship the blood-soaked stones of their territory and practice sacrificial rituals that leave victims blackened and *changed*.
 
-See: [[lore/characters/juuhroni]]
+See: [[races/juuhroni|Juuhroni]]
 
 ---
 

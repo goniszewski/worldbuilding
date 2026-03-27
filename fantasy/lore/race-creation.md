@@ -13,7 +13,7 @@ summary: Cosmological diagram depicting the creation of the sapient races accord
 
 # The Divine Begetting
 
-*Cosmological diagram depicting the creation of the sapient races according to ancient theological belief.*
+> Cosmological diagram depicting the creation of the sapient races according to ancient theological belief.
 
 ![[creation-diagram.jpg|The Divine Begetting]]
 

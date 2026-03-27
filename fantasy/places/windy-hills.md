@@ -16,6 +16,8 @@ summary: Windy highland hills where the Tiltman archers have trained for millenn
 
 # Wiatrowe Wzgórza
 
+> High winds, open ground, and generations of archers who learned to live by both.
+
 *Windy Hills*
 
 ## Overview

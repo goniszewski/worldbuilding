@@ -11,7 +11,7 @@ summary: "Supreme chieftain of the Mort clans, ancient and scarred, who leads fr
 
 # Wódz Borin Mort
 
-*Supreme Chieftain of Mort*
+> A battle-scarred chieftain whose age has only sharpened the danger in him.
 
 ## Basics
 
@@ -67,7 +67,7 @@ He respects strength above all else and despises weakness, treachery, and false 
 - **[[characters/hera-zemsty|Hera Zemsty]]**: His champion; they have a complicated relationship
 - **The Five Clans**: Rules through consensus, not decree
 - **[[factions/tiel|Tiel]]**: Mortal enemies; the valley dispute is personal
-- **[[Wódz]]'s Daughter**: Three wives over the years; all dead of childbirth
+- **The chieftain's line**: Three wives over the years; all dead of childbirth
 
 ## For Writers / Game Designers
 

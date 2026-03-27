@@ -1,7 +1,7 @@
 ---
 name: The Ancient Ones
 type: lore
-category: history
+category: lore
 tags: [ancient-civilization, precursors, dwarves, abyss, cataclysm]
 related:
   - lore/mana
@@ -195,7 +195,7 @@ The [[lore/the-cleansed|The Cleansed]] are not the ancestors of the modern races
 | **Emergence** | Bunkers open, survivors emerge weakened and confused |
 | **Wandering** | Thousands of years of displacement |
 | **The Age of Light** | Survivors settle the Archipelago, forgetting their past |
-| **The Discovery** | Magic re-discovered by [[lore/the-first-one|The First One]] |
+| **The Discovery** | Magic re-discovered by [[characters/the-first-one|The First One]] |
 
 ### The Lie of Paradise
 
@@ -213,7 +213,7 @@ Their "peace" was not natural harmony — it was:
 
 ### The First One's Discovery
 
-When [[lore/the-first-one|The First One]] found "strange elements" in a cave, she wasn't discovering magic for the first time.
+When [[characters/the-first-one|The First One]] found "strange elements" in a cave, she wasn't discovering magic for the first time.
 
 She was **rediscovering her ancestors' power**.
 

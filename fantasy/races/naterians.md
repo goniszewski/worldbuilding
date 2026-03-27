@@ -100,12 +100,12 @@ Dwarven kingdoms are located underground between human and Naterian territories,
 
 | Clan | Notes |
 |------|-------|
-| [[characters/kharatar|Kharatar]] | [TODO] |
-| [[characters/vathar|Vathar]] | [TODO] |
-| [[characters/utar|Utar]] | [TODO] |
-| [[characters/zorzad|Zorzad]] | [TODO] |
-| [[characters/uto|Uto]] | [TODO] |
-| [[characters/kor|Kor]] | [TODO] |
+| Kharatar | [TODO] |
+| Vathar | [TODO] |
+| Utar | [TODO] |
+| Zorzad | [TODO] |
+| Uto | [TODO] |
+| Kor | [TODO] |
 
 ## Known Naterians
 

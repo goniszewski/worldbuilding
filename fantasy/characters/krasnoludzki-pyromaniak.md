@@ -10,7 +10,7 @@ summary: "Dwarven inventor severely burned in a pyrotechnic accident, now masked
 
 # Krasnoludzki Pyromaniak
 
-*[Comedic Character]*
+> A fire-scarred dwarf who survived one explosion only to fall more deeply in love with the next.
 
 ## Overview
 

@@ -12,9 +12,13 @@ related:
   - lore/origins-of-races
   - lore/the-cleansed
   - lore/age-of-light
-  - lore/the-first-one
+  - characters/the-first-one
 summary: The island chain that was home to the Cleansed before magic was discovered and the civilization destroye
 ---
+
+# Archipelago of Light
+
+> A ruined homeland remembered as paradise and mourned as the cradle of a world's undoing.
 
 # Archipelago of Light
 
@@ -43,11 +47,11 @@ The name "Light" reflects the era's ideals: justice, abundance, and spiritual cl
 
 ## The Fall
 
-When the last [[lore/the-first-one|The First One]] discovered magic in an underground cave, the archipelago's fate was sealed:
+When the last [[characters/the-first-one|The First One]] discovered magic in an underground cave, the archipelago's fate was sealed:
 
 | Event | Consequence |
 |-------|-------------|
-| Magical exposure | Transformation of [[lore/the-first-one|The First One]], birth of three children |
+| Magical exposure | Transformation of [[characters/the-first-one|The First One]], birth of three children |
 | Civil war | Siblings turned against each other using unmastered magic |
 | Magical devastation | The war scarred the land itself |
 | Departure | Survivors left seeking new lands |

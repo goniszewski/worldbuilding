@@ -6,10 +6,9 @@ tags: [antagonist, lich, godlike, immortal, ur, cult, cosmic-horror]
 related:
   - items/black-stones-of-ur
   - items/soul-breaker
-  - lore/void
+  - lore/abyss
   - characters/mighty-eight
-  - places/ur
-  - races/ancient-ones
+  - lore/ancient-ones
 summary: "An immortal archmage who merged his soul with the Void, seeking to become a god by offering the hero partnership or destruction."
 ---
 
@@ -34,7 +33,7 @@ summary: "An immortal archmage who merged his soul with the Void, seeking to bec
 
 The Archmage of Ur was once the most powerful mage in the world. He discovered the power of the [[items/black-stones-of-ur|Black Stones of Ur]] and was the only one capable of mastering them.
 
-However, in pursuing immortality, he committed a terrible mistake — **he merged his soul with a chaotic entity** from the [[lore/void|Void]], becoming independent of the body.
+However, in pursuing immortality, he committed a terrible mistake — **he merged his soul with a chaotic entity** from the [[lore/abyss|Void]], becoming independent of the body.
 
 ### Death
 
@@ -121,7 +120,7 @@ This is **not an easy choice between good and evil**. Both options have conseque
 | This File | Related |
 |-----------|---------|
 | [[items/black-stones-of-ur|Black Stones of Ur]] | He created them |
-| [[lore/void|Void]] | He bound himself to it |
+| [[lore/abyss|Void]] | He bound himself to it |
 | [[items/soul-breaker|Soul Breaker]] | Stolen for his return |
 | [[characters/mighty-eight|Mighty Eight]] | They killed him |
 

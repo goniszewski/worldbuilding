@@ -12,7 +12,7 @@ summary: "Descendant of Lord Korn and the true political power behind Walldom's 
 
 # Zygfryd Walldom
 
-*Political Mastermind of Walldom*
+> The mind behind Walldom's power, more dangerous for preferring strategy to spectacle.
 
 ## Basics
 

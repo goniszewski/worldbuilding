@@ -1,3 +1,10 @@
+---
+name: Sci-Fi Universe Bible
+type: guide
+category: meta
+summary: "Core reference bible for the science-fiction setting, covering the Veil Chain, factions, and present-era conflicts."
+---
+
 # Sci-Fi Universe Bible
 
 > **TL;DR** — Far future. Humanity spread across the Veil Chain (dimensional shortcut network). AI rights movement collides with corporate expansion. Megacorp Exodus Corp controls FTL. The Void is real, and it's expanding.

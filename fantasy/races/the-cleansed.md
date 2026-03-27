@@ -9,13 +9,15 @@ tags:
   - archipelago-of-light
 related:
   - "[[lore/origins-of-races]]"
-  - "[[lore/the-first-one]]"
+  - "[[characters/the-first-one]]"
   - "[[lore/age-of-light]]"
   - "[[places/archipelago-of-light]]"
 summary: "The original inhabitants of the Archipelago of Light — a peaceful, magic-free people who lived during the Age of Light before their transformation into the ancestor races."
 ---
 
 # The Cleansed
+
+> The people of the lost age, remembered as pure ancestors and tragic proof that paradise can still fail.
 
 *An extinct people who lived before magic touched the world.*
 
@@ -39,14 +41,14 @@ The **Cleansed** (literally "the Pure Ones") were the original inhabitants of th
 
 According to legend, they lived in paradise during the **[[lore/age-of-light]]**: in the glow of justice, abundance, and peace. There were no wars among them.
 
-All conflicts between the people were resolved by **[[lore/the-first-one|The First One]]**, who herself designated her successor. This succession was sacred tradition — until the last [[lore/the-first-one|The First One]] broke with custom.
+All conflicts between the people were resolved by **[[characters/the-first-one|The First One]]**, who herself designated her successor. This succession was sacred tradition — until the last [[characters/the-first-one|The First One]] broke with custom.
 
 ---
 
 ## Society & Culture
 
 ### Governance
-- **[[lore/the-first-one|The First One]]** — A female ruler who resolved conflicts and named her successor
+- **[[characters/the-first-one|The First One]]** — A female ruler who resolved conflicts and named her successor
 - Succession was matrilineal and voluntary (the ruler chose the next)
 
 ### Values
@@ -61,7 +63,7 @@ All conflicts between the people were resolved by **[[lore/the-first-one|The Fir
 
 ## The Transformation
 
-When the last [[lore/the-first-one|The First One]] discovered magic (likely Blue Ore or a Black Stone of Ur), she became the first Cleansed to make contact with the [[lore/abyss|Void]].
+When the last [[characters/the-first-one|The First One]] discovered magic (likely Blue Ore or a Black Stone of Ur), she became the first Cleansed to make contact with the [[lore/abyss|Void]].
 
 Her transformation led to:
 1. Her pregnancy with the three ancestors — [[characters/torr|Torr]], [[characters/daraster|Daraster]], and [[characters/lesandra|Lesandra]]

@@ -9,6 +9,10 @@ related: []
 summary: The largest river in the Delathor lands, and one of the greatest in the known world — a tri-part river system with three distinct daughter
 ---
 
+# The Great Bessam
+
+> A vast river of three tempers, each daughter shaping the lands around her in a different way.
+
 > *Mysterious, untamed, and majestic. Each of these terms can be applied to the three daughters of the Great Bessam: the Hidden Bessme, the Frenzied Bessie, and the Lazy Bess.*
 
 ## Overview

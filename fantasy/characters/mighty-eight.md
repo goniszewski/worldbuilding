@@ -1,7 +1,7 @@
 ---
 name: Mighty Eight
 type: character
-category: protagonist
+category: characters
 tags: [heroes, ur, antagonists, history, legendary, compact]
 related:
   - characters/archmage-of-ur
@@ -12,6 +12,8 @@ summary: Eight legendary heroes who defeated the Archmage of Ur. Their story ser
 ---
 
 # Mighty Eight (Potężna Ósemka)
+
+> Eight legendary figures whose victory over Ur's archmage still shapes the fears of the present.
 
 ## Overview
 
@@ -25,7 +27,7 @@ The Mighty Eight were a legendary band of eight heroes who, five centuries ago, 
 ### Circumstances
 As the Archmage grew more powerful and his cult spread chaos:
 - Nations fell one by one
-- The [[races/ancient-ones|Ancients]] withdrew from the world
+- The [[lore/ancient-ones|Ancients]] withdrew from the world
 - Desperate times called for desperate measures
 
 ### The Gathering
@@ -58,7 +60,7 @@ The key to defeating the Archmage was **Soul Breaker** — only this weapon coul
 
 ### The Final Battle
 
-**Location**: The Ruins of [[places/ur|Ur]]
+**Location**: The Ruins of Ur
 
 **The Fight**:
 - All eight fought the Archmage

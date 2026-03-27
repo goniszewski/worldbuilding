@@ -16,6 +16,8 @@ summary: Dwarven merchant guild headquartered in the wealthy underground city of
 
 # Andvari
 
+> A dwarven mercantile stronghold where contracts, coin, and old guild power run deeper than the stone.
+
 *Merchant Guild, Underground City*
 
 ## Overview

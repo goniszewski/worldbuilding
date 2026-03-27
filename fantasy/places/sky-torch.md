@@ -17,6 +17,8 @@ summary: A monumental torch built without magic — an engineering masterpiece t
 
 # Sky Torch (Niebiańska Pochodnia)
 
+> An eternal flame of craft and devotion, raised without magic yet revered like a miracle.
+
 *A beacon of engineering mastery, burning without magic since ancient times.*
 
 ---

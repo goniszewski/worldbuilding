@@ -12,13 +12,13 @@ related:
   - lore/origins-of-races
   - lore/the-cleansed
   - places/archipelago-of-light
-  - lore/the-first-one
+  - characters/the-first-one
 summary: The mythical Age of Light — a period of peace and paradise enjoyed by the Cleansed before the discovery of magic
 ---
 
 # Age of Light
 
-*The era of peace and paradise before magic touched the world.*
+> The era of peace and paradise before magic touched the world.
 
 ---
 
@@ -54,8 +54,8 @@ The name "Light" symbolizes these ideals — the antithesis of the "[[lore/abyss
 ## Characteristics
 
 ### Governance
-- All conflicts were resolved by **[[lore/the-first-one|The First]]**
-- The [[lore/the-first-one|The First]] designated her own successor
+- All conflicts were resolved by **[[characters/the-first-one|The First]]**
+- The [[characters/the-first-one|The First]] designated her own successor
 - Matrilineal succession was tradition
 
 ### Society
@@ -64,9 +64,9 @@ The name "Light" symbolizes these ideals — the antithesis of the "[[lore/abyss
 - **Paradise** — material and spiritual abundance
 
 ### The Succession Custom
-Each [[lore/the-first-one|The First]] would name her successor before death. This sacred tradition maintained peace and continuity.
+Each [[characters/the-first-one|The First]] would name her successor before death. This sacred tradition maintained peace and continuity.
 
-The last [[lore/the-first-one|The First One]] broke this custom — commanding her people to obey her unborn child instead of naming a successor.
+The last [[characters/the-first-one|The First One]] broke this custom — commanding her people to obey her unborn child instead of naming a successor.
 
 ---
 
@@ -74,7 +74,7 @@ The last [[lore/the-first-one|The First One]] broke this custom — commanding h
 
 The Age of Light ended with the **discovery of magic**:
 
-1. The last [[lore/the-first-one|The First One]] found a strange element in an underground cave
+1. The last [[characters/the-first-one|The First One]] found a strange element in an underground cave
 2. Prolonged exposure connected her soul to the [[lore/abyss|Void]]
 3. She bore three children touched by magic
 4. Civil war erupted among the Cleansed

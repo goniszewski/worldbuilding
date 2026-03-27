@@ -1,13 +1,15 @@
 ---
 name: Campaign Quotes
 type: lore
-category: quotes
+category: lore
 tags: [quotes, in-game, humor]
 related: []
 summary: Collection of memorable quotes from the Silver Compact campaign
 ---
 
-# Cytaty 🎭
+# Campaign Quotes
+
+> Memorable lines, in-world sayings, and fragments of the setting's voice.
 
 Collection of memorable lines, both spoken by characters and found in-world.
 

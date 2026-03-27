@@ -11,7 +11,7 @@ summary: "Female berserker champion of Mort, undefeated in single combat for twe
 
 # Hera Zemsty
 
-*[Champion, Mort Faction]*
+> Mort's undefeated champion, feared as much for what she enjoys as for what she wins.
 
 ## Overview
 

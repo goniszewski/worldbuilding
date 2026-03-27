@@ -80,7 +80,7 @@ This transformation aspect troubles all subsequent readers of Doyne's account. D
 
 Central to observed Juuhroni worship is a floating black stone at the water's edge. It is irregular, narrow, and tall—and hovers without apparent cause. The creatures treat it with religious fervor, approaching on their knees, prostrating, and conducting elaborate rituals in its presence.
 
-**Hypothesis:** The stone may be connected to [[otchłań|the Abyss]] or other dimensional anomalies. Its anti-gravity properties suggest magical or divine origin. Further investigation is impossible without surviving contact.
+**Hypothesis:** The stone may be connected to [[lore/abyss|the Abyss]] or other dimensional anomalies. Its anti-gravity properties suggest magical or divine origin. Further investigation is impossible without surviving contact.
 
 ### Blood Sacrifice
 

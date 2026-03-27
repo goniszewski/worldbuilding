@@ -12,6 +12,8 @@ summary: "Magic through spirit contracts. Powerful but dangerous — spirits alw
 
 # Spirit Binding
 
+> Magic born from bargains with spirits, where every gift carries a cost.
+
 ## Overview
 
 Spirit Binding is the primary form of magic in the realm. Practitioners, called **Binders**, form contracts with elemental spirits to channel supernatural abilities. Without a bound spirit, no mortal can access magic.

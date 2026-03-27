@@ -1,7 +1,7 @@
 ---
-name: Otchlan
+name: Abyss
 type: lore
-category: cosmology
+category: lore
 tags:
   - abyss
   - demons
@@ -14,9 +14,13 @@ related:
   - lore/ancient-ones
   - lore/religions
   - lore/origins-of-races
-  - lore/the-first-one
+  - characters/the-first-one
 summary: Multi-layered dimension home to Aspects and demons, separated from the mortal world by the Bulwark. Accessible only through magic
 ---
+
+# The Abyss
+
+> A layered void of power, hunger, and entities older than mortal memory.
 
 # Otchlan (The Abyss)
 
@@ -90,7 +94,7 @@ According to most beliefs, one level of the Abyss is reserved for the souls of t
 
 ## The Pure Ones
 
-> According to legend, this was the first contact of the **Pure Ones** with magic, which led to the end of the era. Exposed to prolonged magical energy, the soul of **[[lore/the-first-one|The First One]]** was blessed (or tainted, depending on interpretation) by establishing a connection with the Abyss.
+> According to legend, this was the first contact of the **Pure Ones** with magic, which led to the end of the era. Exposed to prolonged magical energy, the soul of **[[characters/the-first-one|The First One]]** was blessed (or tainted, depending on interpretation) by establishing a connection with the Abyss.
 
 The Aspects, with their indeterminate consciousness, involuntarily (and according to some, deliberately) left an imprint on her soul and granted her the ability to pass into their dimension after death.
 

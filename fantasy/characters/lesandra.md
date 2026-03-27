@@ -10,12 +10,16 @@ tags:
   - first-generation
 related:
   - "[[lore/origins-of-races]]"
-  - "[[lore/the-first-one|The First One]]"
+  - "[[characters/the-first-one|The First One]]"
   - "[[characters/torr|Torr]]"
   - "[[characters/daraster|Daraster]]"
   - "[[races/elves|Elves]]"
 summary: "The third child of Pierwsza, only one who could fully control magic, mother of the Elves through her marriage to Daraster."
 ---
+
+# Lesandra
+
+> The child of first magic whose bloodline became the closest thing the elves have to a sacred inheritance.
 
 # Lesandra
 
@@ -37,7 +41,7 @@ summary: "The third child of Pierwsza, only one who could fully control magic, m
 
 ## Description
 
-**[[characters/lesandra|Lesandra]]** was the third of [[lore/the-first-one|The First One's]] three children — and unique among them.
+**[[characters/lesandra|Lesandra]]** was the third of [[characters/the-first-one|The First One's]] three children — and unique among them.
 
 ### Physical Appearance
 

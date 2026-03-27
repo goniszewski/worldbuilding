@@ -1,6 +1,7 @@
 ---
 name: Helios Station
 type: location
+category: places
 system: Helios (neutral zone)
 tags: [station, trading, neutral, lawless, diverse]
 related:
@@ -11,6 +12,8 @@ summary: "Largest independent station in the Veil Chain. Everyone comes here —
 ---
 
 # Helios Station
+
+> Neutral ground where six gates meet and every bargain carries a hidden price.
 
 ## Overview
 

@@ -12,7 +12,7 @@ summary: "Lord of Highdam who publicly abandoned the Naterian faith fourteen yea
 
 # Lord Eggar Highdam
 
-*Lord of Highdam, The Apostate*
+> A river lord whose public break with faith became both scandal and doctrine.
 
 ## Basics
 

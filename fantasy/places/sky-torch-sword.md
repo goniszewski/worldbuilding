@@ -17,6 +17,8 @@ summary: A monumental sword driven into the earth at the northern tip of the Sac
 
 # Sky Sword (Niebiański Miecz)
 
+> A monumental blade of engineering and omen, standing where history meets myth.
+
 *A blade that pierces the sky. No magic. No explanation. Just impossible.*
 
 ---

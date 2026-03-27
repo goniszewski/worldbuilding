@@ -12,7 +12,7 @@ summary: "Royal Advisor to the throne, the first non-noble to hold the position,
 
 # Lonen Czar
 
-*Royal Advisor, Master of Shadows*
+> A royal advisor who turned intelligence, proximity, and patience into a private throne.
 
 ## Basics
 

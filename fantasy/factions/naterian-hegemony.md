@@ -12,14 +12,13 @@ tags:
   - iron-discipline
   - labor-camps
 related:
-  - "[[races/naterians|Naterians]]"
-  - "[[factions/zakkari-mages|Zakkari Mages]]"
-  - "[[factions/agno-warriors|Agno Warriors]]"
-  - "[[factions/intar|Intar]]"
+  - races/naterians
 summary: "A tri-dominium political structure uniting Naterian mages, warriors, and a parliamentary body under coordinated sovereignty — the closest thing to a unified Naterian nation."
 ---
 
 # Naterian Hegemony
+
+> A disciplined northern power balancing mage, warrior, and civic rule under a single hard-edged order.
 
 ## Overview
 
@@ -124,6 +123,6 @@ For **lesser offenses** (lighter than murder, conspiracy, or treason):
 ## Related Entries
 
 - [[races/naterians|Naterians]] — The race behind the Hegemony
-- [[factions/zakkari-mages|Zakkari Mages]] — The magical dominion
-- [[factions/agno-warriors|Agno Warriors]] — The martial dominion
-- [[factions/intar|Intar]] — The parliamentary city-capital
+- Zakkari Mages — The magical dominion
+- Agno Warriors — The martial dominion
+- Intar — The parliamentary city-capital

@@ -1,7 +1,7 @@
 ---
 name: Dreadwinter
 type: artifact
-category: weapon
+category: items
 tags:
   - bow
   - longbow

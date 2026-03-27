@@ -6,12 +6,13 @@ tags: [protagonist, human, binder, unbound, rogue, silver-compact]
 related:
   - factions/silver-compact
   - factions/the-unbound
-  - characters/brother-kael
   - adventures/quest-the-whispering-ruins
 summary: "Storm Binder on the run. Left the Silver Compact when she learned the truth about spirit contracts. Carries a dangerous secret."
 ---
 
 # Lyra Dawnwhisper
+
+> A runaway Storm Binder carrying the kind of truth that makes every safe place temporary.
 
 ## Overview
 
@@ -110,13 +111,13 @@ She never opens it. Opening it means accepting what she left behind.
 
 ## Relationships
 
-### [[characters/brother-kael|Brother Kael]]
+### Brother Kael
 - Travel companion and moral compass
 - He knows her past; she doesn't know how
 - Tensions: he wants peaceful solutions; she wants to burn it down
 - **Complication**: He's the only one who calls her "Lyra" — she uses "Wren"
 
-### [[characters/archon-vael|Archon Vael]]
+### Archon Vael
 - Former mentor who she admired deeply
 - Now understands he knows everything and chose to continue
 - **Hates him** — but part of her still seeks his approval

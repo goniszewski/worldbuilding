@@ -5,15 +5,13 @@ category: items
 tags: [ore, mineral, explosive, magic, singing]
 related:
   - characters/martin-guecventrak
-  - items/czarne-kamienie-ur
+  - items/black-stones-of-ur
 summary: "Volatile mineral that explodes when processed. When exposed to rising light, it begins to 'sing.'"
 ---
 
 # Błękitna Ruda
 
-*Blue Ore*
-
-*Material*
+> A volatile mineral whose beauty, song, and violence make it impossible to ignore.
 
 ## Overview
 

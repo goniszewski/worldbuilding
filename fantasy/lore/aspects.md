@@ -10,13 +10,15 @@ tags:
   - magic
 related:
   - lore/abyss
-  - lore/the-first-one
+  - characters/the-first-one
   - lore/demons
   - lore/origins-of-races
 summary: Beings of immense power within the Void — entities of indeterminate consciousness that influenced the First and gave rise to demons
 ---
 
 # Aspects
+
+> Vast intelligences of the Abyss whose presence warps gods, demons, and fate alike.
 
 *Beings of immense power within the Void, whose fragments gave rise to demons.*
 
@@ -54,7 +56,7 @@ Their nature is difficult to comprehend: they possess consciousness of a form en
 
 According to the [[lore/origins-of-races|Origins of the Races]]:
 
-1. When [[lore/the-first-one|The First One]] made contact with the [[lore/abyss|Void]] through prolonged exposure to magical energy
+1. When [[characters/the-first-one|The First One]] made contact with the [[lore/abyss|Void]] through prolonged exposure to magical energy
 2. The **Aspects**, suspended within the Void, involuntarily (and according to some, deliberately) left an imprint on her soul
 3. They granted her the ability to pass into their dimension after death
 4. Contact with our dimension caused a small piece to tear away from each Aspect

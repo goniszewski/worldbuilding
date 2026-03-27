@@ -12,7 +12,7 @@ summary: Grim Castle at the mouth of the underground passage to dwarven lands, s
 
 # Ponury Zamek
 
-*Grim Castle*
+> Grim Castle, a hard gate between surface realms and dwarven ambition below.
 
 ## Overview
 

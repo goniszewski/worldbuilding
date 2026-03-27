@@ -1,18 +1,18 @@
 ---
 name: Black Stones of Ur
 type: item
-category: artifact
+category: items
 tags: [artifact, ur, legendary, blue-ore, magic, world-shaping]
 related:
   - lore/abyss
   - characters/archmage-of-ur
   - items/blue-ore
-  - places/ur
-  - places/elf-capital
 summary: Three mythical artifacts created by the Archmage of Ur, each capable of shaping reality — modeled after the Infinity Stones
 ---
 
 # Black Stones of Ur (Czarne Kamienie Ur)
+
+> Three relics of impossible power, each promising divinity and ruin in equal measure.
 
 ## Description
 
@@ -29,12 +29,12 @@ Each stone represents a different aspect of power:
 |-------|--------|-------------|
 | **The First** | Binding | Power to imprison or release any being |
 | **The Second** | Transformation | Ability to change matter and energy |
-| **The Third** | Chaos | Connection to the [[lore/void|Void]] |
+| **The Third** | Chaos | Connection to the [[lore/abyss|Void]] |
 
 ## Known Stones
 
 ### The Sacred Lantern of the Elves
-The [[places/elf-capital|Sacred Lantern]] in the elven capital is in truth a **bound First Stone**. For centuries, elves believed it to be a gift from [[races/elves|Lesandra]] — blessed light protecting their people.
+The Sacred Lantern in the elven capital is in truth a **bound First Stone**. For centuries, elves believed it to be a gift from [[characters/lesandra|Lesandra]] — blessed light protecting their people.
 
 When the cult of the Archmage destroyed the binding spell, the stone exploded with force comparable to a **mini-atom bomb**.
 

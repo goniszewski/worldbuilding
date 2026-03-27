@@ -10,7 +10,7 @@ summary: "Cold, calculating matriarch of Daever who rarely leaves her tower, con
 
 # Lady Morwena Daever
 
-*[Lady of the Mist Valley, Daever Faction]*
+> The cold matriarch of Daever, ruling through distance, patience, and controlled fear.
 
 ## Overview
 

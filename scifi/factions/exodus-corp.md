@@ -1,6 +1,7 @@
 ---
 name: Exodus Corp
 type: faction
+category: factions
 influence: galactic (monopoly)
 leader: CEO Meridian
 headquarters: Sol System, Earth
@@ -15,6 +16,8 @@ summary: "Mega-corporation controlling all Veil Gates. Provides essential infras
 ---
 
 # Exodus Corp
+
+> The company that keeps humanity connected and expects to own the cost of survival.
 
 ## Overview
 

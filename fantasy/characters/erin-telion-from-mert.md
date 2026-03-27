@@ -11,7 +11,7 @@ summary: "Former city guard, skilled archer with trust issues. Cold exterior mas
 
 # Erin Telion from Mert
 
-*[Protagonist, Eridann Campaign]*
+> A former guard whose discipline and mistrust make him reliable right up until they make him dangerous.
 
 ## Overview
 
