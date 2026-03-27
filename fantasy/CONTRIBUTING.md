@@ -7,7 +7,9 @@ summary: "Technical reference for adding new content to the fantasy wiki."
 
 # Contributing Guide
 
-> Quick-reference documentation for adding new entries to the fantasy worldbuilding project.
+> Quick-reference documentation for adding story-first entries to the fantasy worldbuilding project.
+
+This folder is for **worldbuilding and narrative reference**, not tabletop rulebooks. Entries should support fiction, setting design, and adaptable game usage without introducing concrete mechanics such as damage, durations, skill points, rarity ladders, or balance values.
 
 ---
 
@@ -110,13 +112,13 @@ summary: "[One sentence, present tense, no period at end]"
 ```
 
 **Required Sections:**
-1. Overview table (physical stats)
+1. Overview table (narrative descriptors)
 2. Description (2-4 paragraphs)
 3. Physical Traits (strengths/weaknesses)
 4. Society & Culture (if significant)
 5. Relations (table of race relationships)
 6. Known Members (optional)
-7. Notes (GM info)
+7. Story Use (optional adaptation notes)
 
 **Wiki-links from this type:**
 - Other races: `[[race-file|Display Name]]`
@@ -142,21 +144,21 @@ summary: "[One sentence describing what it is]"
 ```
 
 **Required Sections:**
-1. Overview table (danger level, habitat, size)
+1. Overview table (perceived threat, habitat, size)
 2. Description (appearance, behavior, ecology)
-3. Abilities (table with name/effect columns)
+3. Notable Traits (table with name/effect columns)
 4. Behavior (hunting, reproduction, social)
 5. Weaknesses
-6. Notes (encounter hooks, GM info)
+6. Story Use (narrative hooks, adaptation notes)
 
 **Overview Table Fields:**
 | Field | Value |
 |-------|-------|
 | **Category** | Creature |
 | **Classification** | Taxonomic or typological group |
-| **Danger Level** | Low / Medium / High / Deadly |
+| **Perceived Threat** | Minor / Serious / Fearsome / Catastrophic |
 | **Typical Habitat** | Where found |
-| **Average Size** | Height or length range |
+| **Typical Size** | Small / man-sized / huge / colossal |
 | **Sentience** | Non-sapient |
 
 ---
@@ -179,12 +181,12 @@ summary: "[One sentence describing role/significance]"
 ```
 
 **Required Sections:**
-1. Basics table (race, sex, age, class/role)
+1. Basics table (race, sex, life stage, role)
 2. Description (appearance, personality, backstory)
-3. Skills & Abilities (if notable)
+3. Notable Traits (if notable)
 4. Equipment (if notable)
 5. Relationships (linked to other characters)
-6. Notes (GM info, plot hooks)
+6. Story Use (plot hooks, arc notes)
 
 **Naming Convention:**
 - Use full given name + surname
@@ -211,12 +213,12 @@ summary: "[One sentence describing purpose/scope]"
 ```
 
 **Required Sections:**
-1. Overview table (founded, size, HQ, alignment)
+1. Overview table (founded, scope, HQ, current standing)
 2. Description (history, purpose, structure)
 3. Structure (ranks, divisions, hierarchy)
 4. Resources (if significant)
 5. Relations (table with other factions)
-6. Notes (GM info, hooks)
+6. Story Use (hooks, adaptation notes)
 
 **Overview Table Fields:**
 | Field | Value |
@@ -224,8 +226,8 @@ summary: "[One sentence describing purpose/scope]"
 | **Category** | Faction |
 | **Founded** | Year or era |
 | **Headquarters** | Location |
-| **Alignment** | Neutral / Good / Evil / Chaotic etc. |
-| **Membership** | Numbers or estimates |
+| **Character** | How the faction is perceived |
+| **Scale** | Local / regional / continental |
 | **Status** | Active / Dissolved / Unknown |
 
 ---
@@ -248,11 +250,11 @@ summary: "[One sentence describing significance]"
 ```
 
 **Required Sections:**
-1. Overview table (type, region, population, ruler)
+1. Overview table (type, region, atmosphere, controlling power)
 2. Description (appearance, history, atmosphere)
 3. Notable Features (key locations within)
 4. Inhabitants (factions, races present)
-5. Notes (GM info, hooks)
+5. Story Use (hooks, adaptation notes)
 
 **Naming Convention:**
 - Use English common name
@@ -304,7 +306,7 @@ summary: "[One sentence overview]"
 name: [Item name]
 type: item
 category: items
-tags: [type, rarity, material, tag4]
+tags: [type, material, cultural-significance, tag4]
 related:
   - creator-character
   - owner-character
@@ -313,21 +315,20 @@ summary: "[One sentence describing what it is]"
 ```
 
 **Required Sections:**
-1. Overview table (type, rarity, origin, value)
+1. Overview table (type, origin, significance, current status)
 2. Description (appearance, history, significance)
-3. Properties (stats, abilities, effects)
+3. Properties (narrative traits, abilities, effects)
 4. Lore (background, related stories)
-5. Notes (GM info, acquisition, weaknesses)
+5. Story Use (adaptation notes, acquisition ideas, weaknesses)
 
 **Overview Table Fields:**
 | Field | Value |
 |-------|-------|
 | **Category** | Item |
 | **Type** | Weapon / Armor / Artifact / Consumable / Tool |
-| **Rarity** | Common / Uncommon / Rare / Very Rare / Legendary |
+| **Significance** | Common / uncommon / rare / legendary within the setting |
 | **Origin** | Created by / Found in / Era |
-| **Value** | Gold equivalent |
-| **Attunement** | Required / Optional / None |
+| **Current Status** | Lost / guarded / widespread / forbidden |
 
 **Item Subtype Tags:**
 | Subtype | Examples |
@@ -355,7 +356,7 @@ summary: "[One sentence describing what it is]"
 | **Field 3** | Value |
 ```
 
-**Always include Category and Type-specific fields.**
+**Always include Category and Type-specific fields. Prefer descriptive, in-world labels over system statistics.**
 
 ### Description (All Types)
 
@@ -448,7 +449,7 @@ Before committing:
 - [ ] **Content complete**
   - [ ] Overview table has all required fields
   - [ ] Description has 2+ paragraphs
-  - [ ] All abilities/relations are in tables, not lists
+  - [ ] Traits and relations use clear narrative structure
   - [ ] TODO section at bottom (if incomplete)
 
 - [ ] **Links valid**
@@ -461,6 +462,7 @@ Before committing:
   - [ ] Header hierarchy: `#` for title, `##` for sections
   - [ ] No bullet lists where tables fit better
   - [ ] English text (comments can be Polish)
+  - [ ] No concrete mechanics (damage, durations, skill points, rarity ladders, prices, balance notes)
 
 ---
 
@@ -534,4 +536,3 @@ The [[pierwsi|Pierwsi]] are ancient.
 | `creatures/_index.md` | Creature category index |
 | `items/_index.md` | Item category index |
 | `_index.md` | Master wiki index |
-

@@ -13,14 +13,18 @@ summary: "Conventions and standards for the fantasy setting documentation."
 
 ## General Philosophy
 
-This wiki is designed for **creative works** — novels, games, tabletop campaigns, and world bibles. Content should focus on:
+This wiki is designed for **creative works** — novels, story-first games, and world bibles. Content should focus on:
 
 - **Lore and narrative** — what the item/place/person *is* and *means*
 - **Thematic depth** — why it matters to your story or world
-- **Story hooks** — ideas for how to use it in narratives
+- **Story hooks** — ideas for how to use it in stories, books, or games
 - **Consistent tone** — atmospheric, evocative prose
 
-**No game mechanics.** No damage dice, saving throws, rarity tiers, or weight values. Keep descriptions narrative so they adapt to any system or no system at all.
+**No concrete game mechanics.** No damage values, durations, cooldowns, skill points, saving throws, rarity tiers, or weight values. Keep descriptions narrative so they remain usable across books, games, or pure worldbuilding notes.
+
+You may include **adaptation notes** for story or game usage, but they must stay high-level:
+- acceptable: themes, narrative role, likely consequences, story hooks, atmosphere
+- not acceptable: rules text, numerical balance, encounter math, item stats, progression systems
 
 ---
 
@@ -143,16 +147,16 @@ summary: "[Short summary of what this directory contains.]"
 
 [Background, mythology, cultural significance]
 
-## For Writers / Game Designers
+## For Story Use
 
 ### Themes to Explore
 - [Key themes or ideas the item represents]
 
 ### Story Hooks
-- [Specific narrative hooks for writers/GMs]
+- [Specific narrative hooks for writers, designers, or storytellers]
 
 ### World-Building Notes
-- [How the item fits into different campaign types or genres]
+- [How the item fits into different stories, books, or games]
 ```
 
 ### Property Descriptions
@@ -179,10 +183,8 @@ Keep descriptions **narrative** — describe *what happens*, not *how it resolve
 |-----------|-------|
 | **Category** | Sapient Race |
 | **Polish Name** | Polish |
-| **Adult Age** | X |
-| **Average Age** | X |
-| **Oldest Recorded** | X |
-| **Height** | ~X cm |
+| **Life Stage** | Short-lived / long-lived / ageless / etc. |
+| **Typical Build** | Slender / broad / towering / etc. |
 | **Type** | Humanoid/etc. |
 | **Sentience** | Sapient/Non-sapient |
 
@@ -212,9 +214,9 @@ Keep descriptions **narrative** — describe *what happens*, not *how it resolve
 
 - List of famous individuals or subgroups
 
-## For Writers / Game Designers
+## For Story Use
 
-[Hooks, themes, notes for GMs]
+[Hooks, themes, adaptation notes]
 
 ## TODO
 
@@ -237,19 +239,19 @@ Keep descriptions **narrative** — describe *what happens*, not *how it resolve
 |-----------|-------|
 | **Category** | Creature |
 | **Classification** | [Taxonomic/typological] |
-| **Danger Level** | [Low/Medium/High/Deadly] |
+| **Perceived Threat** | [Minor/Serious/Fearsome/Catastrophic] |
 | **Typical Habitat** | [Where found] |
-| **Average Size** | [Height/length] |
+| **Typical Size** | [Small/man-sized/huge/etc.] |
 | **Sentience** | Non-sapient |
 
 ## Description
 
 [Physical appearance, behavior, ecology]
 
-## Abilities
+## Notable Traits
 
-| Ability | Effect |
-|---------|--------|
+| Trait | Narrative Effect |
+|-------|------------------|
 | [Name] | [Narrative description] |
 
 ## Behavior
@@ -263,13 +265,13 @@ Keep descriptions **narrative** — describe *what happens*, not *how it resolve
 - Known vulnerabilities
 - How to fight/defeat
 
-## For Writers / Game Designers
+## For Story Use
 
-[Encounter hooks, narrative uses]
+[Narrative uses, adaptation notes]
 
 ## TODO
 
-- [ ] Add encounter hooks
+- [ ] Add narrative hooks
 ```
 
 ---
@@ -287,16 +289,17 @@ Keep descriptions **narrative** — describe *what happens*, not *how it resolve
 |-------|-------|
 | Race | [[Race Name]] |
 | Sex | Male/Female/Other |
-| Age | X |
+| Life Stage | Child / adult / elder / timeless |
+| Role | Noble / scholar / exile / warrior / etc. |
 
 ## Description
 
 [Physical appearance, personality, backstory]
 
-## Skills & Abilities
+## Notable Traits
 
-- **Combat**: [Details]
-- **Magic**: [Details]
+- **Presence**: [How they come across]
+- **Talents**: [What they are known for]
 - **[Other]**: [Details]
 
 ## Equipment
@@ -309,9 +312,9 @@ Keep descriptions **narrative** — describe *what happens*, not *how it resolve
 - **[[Character]]**: [Relationship]
 - **[[Character]]**: [Relationship]
 
-## For Writers / Game Designers
+## For Story Use
 
-[Plot hooks, character arcs]
+[Plot hooks, character arcs, adaptation notes]
 
 ## TODO
 
@@ -396,7 +399,7 @@ For races with visual references (like Orcs from Gothic):
 | This File | Related |
 |-----------|---------|
 | `yazghur.md` | Races that hunt/fear Yazghur |
-| `pierwsi.md` | Origin mythology |
+| `the-cleansed.md` | Origin mythology |
 | `BIBLE.md` | Master index |
 
 ---
@@ -412,5 +415,5 @@ Before publishing an entry:
 - [ ] Polish name in parentheses
 - [ ] Consistent header hierarchy
 - [ ] No broken links
-- [ ] No game mechanics (dice, saves, rarity tiers, weights, ranges)
-- [ ] "For the GM" renamed to "For Writers / Game Designers"
+- [ ] No concrete mechanics (damage, durations, cooldowns, skill points, dice, saves, rarity tiers, weights, ranges)
+- [ ] Story-use sections stay narrative, not rules-oriented
