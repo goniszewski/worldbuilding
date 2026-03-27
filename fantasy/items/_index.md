@@ -1,7 +1,7 @@
 ---
 name: Items Index
-type: guide
-category: meta
+type: index
+category: items
 summary: "Index of all items in the fantasy setting."
 ---
 
@@ -11,49 +11,21 @@ summary: "Index of all items in the fantasy setting."
 
 ---
 
-## Categories
-
-| Category | Description |
-|----------|-------------|
-| [Weapons](weapons/) | Blades, bows, polearms, ranged weapons |
-| [Armor](armor/) | Protective gear, shields, helmets |
-| [Artifacts](artifacts/) | Magical items, relics, ancient objects |
-| [Consumables](consumables/) | Potions, scrolls, reagents |
-| [Tools](tools/) | Adventuring gear, instruments, containers |
-
----
-
 ## All Items
 
-| Item | Type | Rarity | Notes |
-|------|------|--------|-------|
-| [Soul Breaker](artifacts/soul-breaker.md) | Weapon (Sword) | Legendary | Cursed blade that devours souls |
-| [Spirit Blade](artifacts/spirit-blade.md) | Weapon (Sword) | Legendary | Bonds with Storm Binders |
+| Item | Type | Notes |
+|------|------|-------|
+| [[black-stones-of-ur|Black Stones of Ur]] | Relic | Three stones tied to overwhelming power |
+| [[blue-ore|Blue Ore]] | Material | Volatile ore central to industry and conflict |
+| [[blue-ore-pl|Blue Ore (PL)]] | Material | Polish-language companion entry |
+| [[soul-breaker|Soul Breaker]] | Weapon | Root item entry for the cursed blade |
+| [[artifacts/dreadwinter|Dreadwinter]] | Artifact | Ancient weapon preserved as a dedicated artifact entry |
+| [[artifacts/soul-breaker|Soul Breaker (Artifact Entry)]] | Artifact | Expanded artifact-focused version of Soul Breaker |
 
 ---
 
-## Quick Links
+## Related Topics
 
-| Type | Location |
-|------|----------|
-| Weapons | `items/weapons/` |
-| Armor | `items/armor/` |
-| Artifacts | `items/artifacts/` |
-| Consumables | `items/consumables/` |
-| Tools | `items/tools/` |
-
----
-
-## Adding Items
-
-See: [[contributing|Contributing Guide]] — Items section for template and standards.
-
----
-
-## Related Categories
-
-| Category | Description |
-|----------|-------------|
-| [[lore/magic-systems\|Magic Systems]] | How magical items function |
-| [[factions/silver-compact\|Silver Compact]] | Item regulation and control |
-| [[characters/|Characters]] | Notable item owners |
+- [[../lore/magic-system|Spirit Binding]] — Primary magical framework affecting crafted items
+- [[../factions/silver-compact|The Silver Compact]] — Regulates dangerous relics and magical materials
+- [[../CONTRIBUTING|Contributing Guide]] — Process for adding new entries

@@ -1,6 +1,17 @@
+---
+name: Sci-Fi Universe
+type: index
+category: meta
+summary: "Quick navigation index for the science-fiction setting."
+---
+
 # Sci-Fi Universe
 
 > Far future. Humanity scattered across the Veil Chain. AI awakens. The Void hungers. Corporate power collides with human freedom.
+
+**[[BIBLE|Master Bible]]** — Full setting reference
+
+---
 
 ## Quick Navigation
 

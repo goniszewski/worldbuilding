@@ -63,6 +63,7 @@ summary: "[Brief description in English, one sentence max.]"
 
 | Type | Use For |
 |------|---------|
+| `index` | Directory landing pages and navigation hubs |
 | `sapient-race` | Thinking races (humans, elves, etc.) |
 | `creature` | Non-sapient monsters and beasts |
 | `character` | Named individuals |
@@ -85,6 +86,34 @@ summary: "[Brief description in English, one sentence max.]"
 - `items`
 - `adventures`
 - `meta`
+
+---
+
+## Index File Standards
+
+Use `_index.md` as the landing page for each category directory.
+
+### Required Frontmatter
+
+```markdown
+---
+name: [Category Name] Index
+type: index
+category: [category]
+summary: "[Short summary of what this directory contains.]"
+---
+```
+
+### Index Conventions
+
+- Keep the H1 short and match the category name.
+- Add a one-line blockquote that sets the tone and scope.
+- Link only to entries that currently exist in the repository.
+- Prefer wiki links for internal references.
+- Inside subdirectories, use links relative to that folder, for example:
+  - `[[yazghur|Yazghur]]` for files in the same directory
+  - `[[../lore/magic-system|Spirit Binding]]` for sibling directories
+- Avoid placeholder sections for folders or documents that do not yet exist.
 
 ---
 
