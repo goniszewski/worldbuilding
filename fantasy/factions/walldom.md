@@ -19,7 +19,7 @@ summary: "Ancient sentinel house guarding the realm's threshold for over a mille
 | Field | Value |
 |-------|-------|
 | **Type** | Noble House |
-| **Headquarters** | [[Brama Torra (Torr's Gate)|brama-torra]] |
+| **Headquarters** | [Torr's Gate](../places/torrs-gate.md) |
 | **Power Status** | Major Power |
 | **Founded** | ~300 P.S. (Over 1,200 years) |
 | **Words** | Duty, Fortitude, Vigilance |
@@ -49,11 +49,11 @@ The legendary ritual that grants extended life is forbidden by the Naterian Chur
 
 | House | Relationship |
 |-------|--------------|
-| [[factions/czar|Czar]] | Tense — Czar seeks to place spies in Walldom's court |
-| [[factions/highdam|Highdam]] | Strategic alliance along northern approaches |
-| [[factions/skjor|Skjor]] | Cold rivalry due to competing trade routes |
-| [[factions/mort|Mort]] | Distrust — the old tribal religion offends Walldom's orthodoxy |
-| [[factions/naterian-hegemony|Naterian Hegemony]] | Complex — they share a border but different values |
+| [Czar](czar.md) | Tense — Czar seeks to place spies in Walldom's court |
+| [Highdam](highdam.md) | Strategic alliance along northern approaches |
+| [Skjor](skjor.md) | Cold rivalry due to competing trade routes |
+| [Mort](mort.md) | Distrust — the old tribal religion offends Walldom's orthodoxy |
+| [Naterian Hegemony](naterian-hegemony.md) | Complex — they share a border but different values |
 
 ## Key Figures
 

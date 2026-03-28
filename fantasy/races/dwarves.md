@@ -28,8 +28,8 @@ summary: "Short, sturdy underground craftsmen and miners. Descendants of forbidd
 |-----------|-------|
 | **Category** | Sapient Race |
 | **Polish Name** | Krasnoludy (also: Galdanie) |
-| **Ancestors** | Children of [[characters/torr|Torr]] + [[characters/daraster|Daraster]] bloodlines |
-| **Origin** | [[origins-of-races|Origins of the Races]] |
+| **Ancestors** | Children of [Torr](../characters/torr.md) + [Daraster](../characters/daraster.md) bloodlines |
+| **Origin** | [Origins of the Races](../lore/origins-of-races.md) |
 | **Adult Age** | 22 |
 | **Average Age** | 85 |
 | **Oldest Recorded** | 150 |

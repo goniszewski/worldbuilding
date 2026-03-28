@@ -15,29 +15,29 @@ summary: "Index of political powers, noble houses, and organized groups in the f
 
 | Faction | Type | Notes |
 |---------|------|-------|
-| [[silver-compact|The Silver Compact]] | Organization | Arcane monopoly regulating legal spirit binding |
-| [[naterian-hegemony|The Naterian Hegemony]] | Nation | Honor-bound northern power |
-| [[soul-keeper-brotherhood|Soul Keeper Brotherhood]] | Secret Order | Guardians of forbidden knowledge and dangerous relics |
-| [[naterian-adjudicator|Naterian Adjudicator]] | Office | Judicial and enforcement authority within Naterian society |
+| [The Silver Compact](silver-compact.md) | Organization | Arcane monopoly regulating legal spirit binding |
+| [The Naterian Hegemony](naterian-hegemony.md) | Nation | Honor-bound northern power |
+| [Soul Keeper Brotherhood](soul-keeper-brotherhood.md) | Secret Order | Guardians of forbidden knowledge and dangerous relics |
+| [Naterian Adjudicator](naterian-adjudicator.md) | Office | Judicial and enforcement authority within Naterian society |
 
 ## Noble Houses of the Human Kingdom
 
 | House | Seat | Specialty |
 |-------|------|----------|
-| [[walldom|House Walldom]] | Brama Torra | Guardians of the Gate |
-| [[mort|Clan Mort]] | Wąski Przesmyk | Berserker clan |
-| [[daever|House Daever]] | Dolina Mgieł | Mist and alchemy |
-| [[graz|House Graz]] | Redwood | Commerce and trade |
-| [[highdam|House Highdam]] | Zapor | Dam control |
-| [[tiel|House Tiel]] | Barrenport | Mining and Blue Ore |
-| [[czar|House Czar]] | Wieża Cieni | Political intrigue |
-| [[tiltman|House Tiltman]] | Wiatrowe Wzgórza | Legendary archers |
-| [[skjor|House Skjor]] | Ponury Zamek | Dwarven trade |
-| [[timrel|House Timrel]] | Portszy | Naval power |
-| [[ermynt|House Ermynt]] | Rozdroże | Neutrality and elven diplomacy |
-| [[winters|House Winters]] | Zimowy Gród | Northern isolation |
-| [[golwynt|House Golwynt]] | Zielona Dolina | Agriculture |
-| [[kolah|House Kolah]] | Szczyt Kozy | Goat-god worship |
+| [House Walldom](walldom.md) | Brama Torra | Guardians of the Gate |
+| [Clan Mort](mort.md) | Wąski Przesmyk | Berserker clan |
+| [House Daever](daever.md) | Dolina Mgieł | Mist and alchemy |
+| [House Graz](graz.md) | Redwood | Commerce and trade |
+| [House Highdam](highdam.md) | Zapor | Dam control |
+| [House Tiel](tiel.md) | Barrenport | Mining and Blue Ore |
+| [House Czar](czar.md) | Wieża Cieni | Political intrigue |
+| [House Tiltman](tiltman.md) | Wiatrowe Wzgórza | Legendary archers |
+| [House Skjor](skjor.md) | Ponury Zamek | Dwarven trade |
+| [House Timrel](timrel.md) | Portszy | Naval power |
+| [House Ermynt](ermynt.md) | Rozdroże | Neutrality and elven diplomacy |
+| [House Winters](winters.md) | Zimowy Gród | Northern isolation |
+| [House Golwynt](golwynt.md) | Zielona Dolina | Agriculture |
+| [House Kolah](kolah.md) | Szczyt Kozy | Goat-god worship |
 
 ---
 

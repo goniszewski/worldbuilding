@@ -15,10 +15,10 @@ According to legend, the world was once inhabited by the **[[lore/the-cleansed|T
 
 | Ancestor | Legacy |
 |----------|--------|
-| **[[characters/torr|Torr]]** | [[races/naterians|Naterians]] — warrior culture, honor-bound |
-| **[[characters/daraster|Daraster]]** | [[races/humans|Humans]] — diverse, ambitious |
-| **[[characters/lesandra|Lesandra]]** | [[races/elves|Elves]] — pure blood, magical affinity |
-| **Forbidden unions** | [[races/dwarves|Dwarves]] — driven underground |
+| **[Torr](characters/torr.md)** | [Naterians](races/naterians.md) — warrior culture, honor-bound |
+| **[Daraster](characters/daraster.md)** | [Humans](races/humans.md) — diverse, ambitious |
+| **[Lesandra](characters/lesandra.md)** | [Elves](races/elves.md) — pure blood, magical affinity |
+| **Forbidden unions** | [Dwarves](races/dwarves.md) — driven underground |
 
 See: [[lore/origins-of-races|Origins of the Races]], [[lore/age-of-light|Age of Light]], [[places/archipelago-of-light|Archipelago of Light]]
 

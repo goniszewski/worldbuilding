@@ -20,8 +20,8 @@ summary: "Ancient, long-lived humanoids known for their strict principles and ad
 | Attribute | Value |
 |-----------|-------|
 | **Category** | Sapient Race |
-| **Ancestor** | [[characters/daraster|Daraster]] and [[characters/lesandra|Lesandra]] |
-| **Origin** | [[origins-of-races|Origins of the Races]] |
+| **Ancestor** | [Daraster](../characters/daraster.md) and [Lesandra](../characters/lesandra.md) |
+| **Origin** | [Origins of the Races](../lore/origins-of-races.md) |
 | **Adult Age** | 26 |
 | **Average Age** | 340 |
 | **Oldest Recorded** | 780 |

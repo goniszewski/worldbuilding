@@ -22,7 +22,7 @@ summary: "Female berserker champion of Mort, undefeated in single combat for twe
 | **Sex** | Female |
 | **Age** | 34 |
 | **Status** | Alive |
-| **Affiliation** | [[factions/mort|Mort]] — She-Wolf Clan |
+| **Affiliation** | [Mort](../factions/mort.md) — She-Wolf Clan |
 
 ## Description
 

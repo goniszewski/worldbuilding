@@ -18,7 +18,7 @@ summary: "The reigning queen of the elves, balancing inherited ideals of purity 
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/elves|Elf]] |
+| Race | [Elf](../races/elves.md) |
 | Sex | Female |
 | Life Stage | Mature, long-lived |
 | Role | Queen of the elven realm |

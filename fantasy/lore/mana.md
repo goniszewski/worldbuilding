@@ -137,8 +137,8 @@ Trained mages can perceive variations in mana density, though they interpret thi
 | Element | Connection |
 |---------|------------|
 | **The Well** | The source—where does it lead? |
-| **[[lore/ancient-ones|Pradawni]]** | Masters of mana technology—what happened to them? |
-| **[[characters/martin-guecventrak|Martin Halgrom]]** | Living pioneer—ally or complication? |
+| **[Pradawni](ancient-ones.md)** | Masters of mana technology—what happened to them? |
+| **[Martin Halgrom](../characters/martin-guecventrak.md)** | Living pioneer—ally or complication? |
 | **The Abyss** | Dangerous expedition site—rewards and risks |
 
 ### Mechanical Notes (Optional)

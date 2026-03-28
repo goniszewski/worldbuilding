@@ -19,7 +19,7 @@ summary: "Isolated northern house dwelling in the frozen Zimowy Gród, surviving
 | Field | Value |
 |-------|-------|
 | **Type** | Noble House |
-| **Headquarters** | [[Zimowy Gród (Winter Fortress)|zimowy-gród]] |
+| **Headquarters** | [zimowy-gród](Zimowy Gród (Winter Fortress).md) |
 | **Power Status** | Major Power |
 | **Founded** | ~150 P.S. |
 | **Words** | Survival, Endurance, Mystery |
@@ -62,9 +62,9 @@ Winters hunt these creatures for:
 
 | House | Relationship |
 |-------|--------------|
-| [[factions/daever|Daever]] | Trade — furs for alchemical supplies |
-| [[factions/kolah|Kolah]] | Ancient alliance — both are "mountain folk" |
-| [[factions/czar|Czar]] | Distant — Czar wants northern resources |
+| [Daever](daever.md) | Trade — furs for alchemical supplies |
+| [Kolah](kolah.md) | Ancient alliance — both are "mountain folk" |
+| [Czar](czar.md) | Distant — Czar wants northern resources |
 | Most houses | Indifference — "Let the cold have them" |
 | Northern tribes | Complex — Winters claim lordship, tribes resist |
 

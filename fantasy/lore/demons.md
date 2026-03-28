@@ -30,8 +30,8 @@ summary: Chaotic beings born from fragments of Aspects — shaped by emotions an
 |-----------|-------|
 | **Category** | Entity / Extraplanar Being |
 | **Polish Name** | Demony |
-| **Origin** | Fragments of [[lore/aspects|Aspects]] |
-| **Location** | [[lore/abyss|Void]] (primary), Physical World (temporary) |
+| **Origin** | Fragments of [Aspects](aspects.md) |
+| **Location** | [Void](abyss.md) (primary), Physical World (temporary) |
 | **Nature** | Chaotic, emotion-driven |
 
 ---

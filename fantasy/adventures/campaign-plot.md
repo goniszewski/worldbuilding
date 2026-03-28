@@ -137,7 +137,7 @@ After many years, they stumbled upon **the ruins of one of the Ancients' shelter
 
 | Enemy | Description |
 |-------|-------------|
-| [[characters/archmage-of-ur|Archmage of Ur]] | Immortal demigod, merged his soul with the Void |
+| [Archmage of Ur](../characters/archmage-of-ur.md) | Immortal demigod, merged his soul with the Void |
 | Zealots | Fanatical suicide bombers |
 | The Cult | Organization striving for the Revelation |
 
@@ -147,7 +147,7 @@ After many years, they stumbled upon **the ruins of one of the Ancients' shelter
 
 | Ally | Description |
 |------|-------------|
-| [[factions/silver-compact|Silver Compact]] | The hero's loosely-structured association |
+| [Silver Compact](../factions/silver-compact.md) | The hero's loosely-structured association |
 | Brotherhood (former members) | Betrayed but loyal to the cause |
 
 ---

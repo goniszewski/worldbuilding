@@ -19,20 +19,20 @@ All modern races descended from the extinct **[[../lore/the-cleansed|The Cleanse
 
 | Race | Ancestor | Origin Entry |
 |------|----------|--------------|
-| [[naterians|Naterians]] | [[../characters/torr|Torr]] | [[naterians|Naterians]] |
-| [[humans|Humans]] | [[../characters/daraster|Daraster]] | [[humans|Humans]] |
-| [[elves|Elves]] | [[../characters/daraster|Daraster]] and [[../characters/lesandra|Lesandra]] | [[elves|Elves]] |
-| [[dwarves|Dwarves]] | Forbidden unions | [[dwarves|Dwarves]] |
+| [Naterians](naterians.md) | [Torr](../characters/torr.md) | [Naterians](naterians.md) |
+| [Humans](humans.md) | [Daraster](../characters/daraster.md) | [Humans](humans.md) |
+| [Elves](elves.md) | [Daraster](../characters/daraster.md) and [Lesandra](../characters/lesandra.md) | [Elves](elves.md) |
+| [Dwarves](dwarves.md) | Forbidden unions | [Dwarves](dwarves.md) |
 
 ## The Six Races
 
 | Race | Polish Name | Status | Ancestor | Avg. Lifespan |
 |------|-------------|--------|----------|---------------|
-| [[naterians|Naterians]] | Naterowie | Active | [[../characters/torr|Torr]] | 110 |
-| [[humans|Humans]] | Ludzie | Active | [[../characters/daraster|Daraster]] | 34 |
-| [[elves|Elves]] | Elfy | Active | [[../characters/lesandra|Lesandra]] | 340 |
-| [[dwarves|Dwarves]] | Krasnoludy | Active | Forbidden | 85 |
-| [[../lore/the-cleansed|The Cleansed]] | Czyści | Extinct | — | — |
+| [Naterians](naterians.md) | Naterowie | Active | [Torr](../characters/torr.md) | 110 |
+| [Humans](humans.md) | Ludzie | Active | [Daraster](../characters/daraster.md) | 34 |
+| [Elves](elves.md) | Elfy | Active | [Lesandra](../characters/lesandra.md) | 340 |
+| [Dwarves](dwarves.md) | Krasnoludy | Active | Forbidden | 85 |
+| [The Cleansed](../lore/the-cleansed.md) | Czyści | Extinct | — | — |
 
 ## Geographic Distribution
 
@@ -52,8 +52,8 @@ All modern races descended from the extinct **[[../lore/the-cleansed|The Cleanse
 
 | Faction | Dominant Race | Notes |
 |---------|---------------|-------|
-| Human Kingdom | [[humans|Humans]] | Southern territories |
-| Nater Hegemony | [[naterians|Naterians]] | Northern territories |
+| Human Kingdom | [Humans](humans.md) | Southern territories |
+| Nater Hegemony | [Naterians](naterians.md) | Northern territories |
 | Silver Compact | Mixed | Magical monopoly |
 
 ## Related Topics

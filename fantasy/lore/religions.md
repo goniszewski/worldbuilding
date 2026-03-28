@@ -35,10 +35,10 @@ Several religions and minor denominations exist across the world, often aligned 
 
 | Religion | Followers | Type | First One Status |
 |----------|-----------|------|------------------|
-| [[#dorenism|Dorenism]] | Humans (mostly), some elves | Henotheistic | Goddess (reincarnation) |
-| [[#oprenism|Oprenism]] | Humans (ex-continental) | Gnostic | Prophet of the Creator |
-| [[#arthadal|Arth'Adal]] | Naterians (>90%) | Agnostic | Precursor, mortal |
-| [[#alar|Alar]] | Elves, some humans | Monotheistic | Goddess |
+| [Dorenism](#dorenism) | Humans (mostly), some elves | Henotheistic | Goddess (reincarnation) |
+| [Oprenism](#oprenism) | Humans (ex-continental) | Gnostic | Prophet of the Creator |
+| [Arth'Adal](#arthadal) | Naterians (>90%) | Agnostic | Precursor, mortal |
+| [Alar](#alar) | Elves, some humans | Monotheistic | Goddess |
 
 ---
 

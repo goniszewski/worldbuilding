@@ -63,10 +63,10 @@ Orcish society is primarily tribal, but tribes vary widely:
 
 | Race | Relationship |
 |------|--------------|
-| [[races/humans|Humans]] | Variable by tribe—trade, raid, or ignore |
-| [[races/naterians|Naterians]] | Variable by tribe |
-| [[races/dwarves|Dwarves]] | Variable by clan |
-| [[races/elves|Elves]] | Generally avoided |
+| [Humans](humans.md) | Variable by tribe—trade, raid, or ignore |
+| [Naterians](naterians.md) | Variable by tribe |
+| [Dwarves](dwarves.md) | Variable by clan |
+| [Elves](elves.md) | Generally avoided |
 
 ### Common Perceptions
 Orcs are often misunderstood by other races. While some tribes are indeed violent raiders, others are peaceful hunters or traders. The diversity of orcish tribes is frequently overlooked.

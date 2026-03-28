@@ -21,7 +21,7 @@ summary: "A busy coastal trade city where merchant law, rumor, and opportunity m
 | **Type** | Coastal Trade City |
 | **Region** | Western Coast |
 | **Atmosphere** | Restless, crowded, alert to profit |
-| **Controlling Power** | Merchant council under the influence of [[factions/merchant-tides|Merchant Tides]] |
+| **Controlling Power** | Merchant council under the influence of [Merchant Tides](../factions/merchant-tides.md) |
 | **Status** | Prosperous, politically delicate |
 
 ## Description

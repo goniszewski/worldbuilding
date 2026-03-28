@@ -19,7 +19,7 @@ summary: "Fierce berserker clan descended from humanity's original Five Clans, d
 | Field | Value |
 |-------|-------|
 | **Type** | Noble House (Clan Confederation) |
-| **Headquarters** | [[places/narrow-pass|Narrow Pass]] (*Wąski Przesmyk*) |
+| **Headquarters** | [Narrow Pass](../places/narrow-pass.md) (*Wąski Przesmyk*) |
 | **Power Status** | Major Power |
 | **Founded** | Ancient (Pre-Unification) |
 | **Words** | Fury, Faith, Freedom |
@@ -51,11 +51,11 @@ Before a warrior may wield a ceremonial war axe, they must survive the *Próba O
 
 | House | Relationship |
 |-------|--------------|
-| [[factions/tiel|Tiel]] | Mortal enemies — disputed valley claims for centuries |
-| [[factions/czar|Czar]] | Hostile — Czar's political machinations offend Mort sensibilities |
-| [[factions/naterian-hegemony|Naterian Hegemony]] | Hostile — the Church considers their old gods heretical |
-| [[factions/walldom|Walldom]] | Distrust — Walldom's orthodox religion views Mort practices with contempt |
-| [[factions/daever|Daever]] | Cautious respect — both value the old ways |
+| [Tiel](tiel.md) | Mortal enemies — disputed valley claims for centuries |
+| [Czar](czar.md) | Hostile — Czar's political machinations offend Mort sensibilities |
+| [Naterian Hegemony](naterian-hegemony.md) | Hostile — the Church considers their old gods heretical |
+| [Walldom](walldom.md) | Distrust — Walldom's orthodox religion views Mort practices with contempt |
+| [Daever](daever.md) | Cautious respect — both value the old ways |
 
 ## Key Figures
 

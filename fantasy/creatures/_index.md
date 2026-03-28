@@ -28,7 +28,7 @@ Unlike the sapient races, creatures operate on instinct rather than reason. Some
 
 | Creature | Danger | Type | Notes |
 |----------|--------|------|-------|
-| [[yazghur|Yazghur]] | **Deadly** | Spirit-Touched | Apex predator with Shadow Shroud |
+| [Yazghur](yazghur.md) | **Deadly** | Spirit-Touched | Apex predator with Shadow Shroud |
 
 ## By Danger Level
 

@@ -271,12 +271,12 @@ Some scholars propose the Cleansed were **not survivors** but **escaped slaves**
 
 | Entry | Connection |
 |-------|------------|
-| [[lore/ancient-ones|The Ancient Ones]] | The true ancestors |
-| [[lore/age-of-light|Age of Light]] | The Cleansed's remembered history |
-| [[places/archipelago-of-light|Archipelago of Light]] | Their settlement |
-| [[characters/the-first-one|The First One]] | Their last leader |
-| [[places/sky-torch|Sky Torch]] | Ancient One monument they inherited |
-| [[places/sky-torch-sword|Sky Sword]] | Ancient One monument they inherited |
+| [The Ancient Ones](ancient-ones.md) | The true ancestors |
+| [Age of Light](age-of-light.md) | The Cleansed's remembered history |
+| [Archipelago of Light](../places/archipelago-of-light.md) | Their settlement |
+| [The First One](../characters/the-first-one.md) | Their last leader |
+| [Sky Torch](../places/sky-torch.md) | Ancient One monument they inherited |
+| [Sky Sword](../places/sky-torch-sword.md) | Ancient One monument they inherited |
 
 ---
 

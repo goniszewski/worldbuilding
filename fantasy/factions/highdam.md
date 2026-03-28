@@ -52,11 +52,11 @@ The dams themselves are Highdam's greatest weapon:
 
 | House | Relationship |
 |-------|--------------|
-| [[factions/walldom|Walldom]] | Strategic alliance — both guard northern approaches |
-| [[factions/czar|Czar]] | Tense — Czar would love to see Highdam weakened |
-| [[factions/naterian-hegemony|Naterian Hegemony]] | Hostile — the Church demands Eggar's punishment |
-| [[factions/tiel|Tiel]] | Trade — Tiel's mining needs water control |
-| [[factions/ermynt|Ermynt]] | Mutual respect — both maintain neutrality |
+| [Walldom](walldom.md) | Strategic alliance — both guard northern approaches |
+| [Czar](czar.md) | Tense — Czar would love to see Highdam weakened |
+| [Naterian Hegemony](naterian-hegemony.md) | Hostile — the Church demands Eggar's punishment |
+| [Tiel](tiel.md) | Trade — Tiel's mining needs water control |
+| [Ermynt](ermynt.md) | Mutual respect — both maintain neutrality |
 
 ## Key Figures
 

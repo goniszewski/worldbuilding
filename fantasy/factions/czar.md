@@ -50,11 +50,11 @@ Lonen Czar's rise as Royal Advisor has made the house simultaneously more powerf
 | House | Relationship |
 |-------|--------------|
 | Most houses | Leverage — Czar has something on everyone |
-| [[factions/timrel|Timrel]] | Alliance — naval support for political maneuvering |
-| [[factions/graz|Graz]] | Complex — uses their wealth but fears independence |
-| [[factions/walldom|Walldom]] | Tense — Walldom's honor makes them hard to manipulate |
-| [[factions/mort|Mort]] | Hostile — Mort's directness thwarts manipulation |
-| [[factions/daever|Daever]] | Customer — buys Milk Mist for "special purposes" |
+| [Timrel](timrel.md) | Alliance — naval support for political maneuvering |
+| [Graz](graz.md) | Complex — uses their wealth but fears independence |
+| [Walldom](walldom.md) | Tense — Walldom's honor makes them hard to manipulate |
+| [Mort](mort.md) | Hostile — Mort's directness thwarts manipulation |
+| [Daever](daever.md) | Customer — buys Milk Mist for "special purposes" |
 
 ## Key Figures
 

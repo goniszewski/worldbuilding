@@ -28,7 +28,7 @@ This section catalogs the influential figures whose actions, decisions, or prese
 | Name | Affiliation | Notes |
 |------|-------------|-------|
 | Elmund Tiel | — | — |
-| [[factions/walldom|Zygfryd Walldom]] | — | — |
+| [Zygfryd Walldom](../factions/walldom.md) | — | — |
 | [[Allena Mort]] | — | — |
 | [[Darien Mort]] | — | — |
 | [[Warren Whitewalker]] | — | — |

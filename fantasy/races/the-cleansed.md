@@ -82,7 +82,7 @@ The Cleansed are remembered primarily through:
 | Legacy | Description |
 |--------|-------------|
 | **Theological beliefs** | Many religions reference "the first people" before the fall |
-| **Elven superiority** | Elves claim direct descent from [[characters/lesandra|Lesandra]] and view themselves as the purest inheritors |
+| **Elven superiority** | Elves claim direct descent from [Lesandra](../characters/lesandra.md) and view themselves as the purest inheritors |
 | **Creation myths** | Songs and legends about the Age of Light |
 | **Archaeological traces** | The destroyed Archipelago of Light may hold secrets |
 
@@ -92,9 +92,9 @@ The Cleansed are remembered primarily through:
 
 | Race | Relationship |
 |------|--------------|
-| **Naterians** | Descendants of [[characters/torr|Torr]] — view themselves as his warrior legacy |
-| **Humans** | Mixed descendants of [[characters/daraster|Daraster]] — the most varied lineage |
-| **Elves** | Pure descendants of [[characters/daraster|Daraster]] and [[characters/lesandra|Lesandra]] — claim superiority |
+| **Naterians** | Descendants of [Torr](../characters/torr.md) — view themselves as his warrior legacy |
+| **Humans** | Mixed descendants of [Daraster](../characters/daraster.md) — the most varied lineage |
+| **Elves** | Pure descendants of [Daraster](../characters/daraster.md) and [Lesandra](../characters/lesandra.md) — claim superiority |
 | **Dwarves** | Descendants of forbidden unions — driven underground |
 
 ---

@@ -109,7 +109,7 @@ The Sky Torch is one of two great monuments on the peninsula:
 | Monument | Location | Purpose |
 |----------|----------|---------|
 | **Sky Torch** | Southern tip | Eternal flame, hope |
-| **[[places/sky-torch-sword|Sky Sword]]** | Northern tip | Massive blade monument |
+| **[Sky Sword](sky-torch-sword.md)** | Northern tip | Massive blade monument |
 
 The peninsula itself is considered holy ground — a bastion of faith in an increasingly magical world.
 

@@ -15,28 +15,28 @@ summary: "Index of cosmology, history, belief systems, and core world concepts i
 
 | Subject | Description |
 |---------|-------------|
-| [[magic-system|Spirit Binding]] | Core magical framework and its costs |
-| [[mana|Mana]] | The substance and flow of magical power |
-| [[aspects|Aspects]] | Divine beings tied to cosmic order |
-| [[abyss|The Abyss]] | The hostile realm beyond the world |
+| [Spirit Binding](magic-system.md) | Core magical framework and its costs |
+| [Mana](mana.md) | The substance and flow of magical power |
+| [Aspects](aspects.md) | Divine beings tied to cosmic order |
+| [The Abyss](abyss.md) | The hostile realm beyond the world |
 
 ## History and Origins
 
 | Subject | Description |
 |---------|-------------|
-| [[ancient-ones|The Ancient Ones]] | Pre-Sundering civilization linked to lost mastery |
-| [[the-cleansed|The Cleansed]] | Ancestors stripped of power and memory |
-| [[origins-of-races|Origins of Races]] | Mythic and historical roots of the peoples |
-| [[age-of-light|Age of Light]] | Foundational age before decline |
+| [The Ancient Ones](ancient-ones.md) | Pre-Sundering civilization linked to lost mastery |
+| [The Cleansed](the-cleansed.md) | Ancestors stripped of power and memory |
+| [Origins of Races](origins-of-races.md) | Mythic and historical roots of the peoples |
+| [Age of Light](age-of-light.md) | Foundational age before decline |
 
 ## Belief and Culture
 
 | Subject | Description |
 |---------|-------------|
-| [[religions|Religions]] | Major faiths and competing doctrines |
-| [[peoples-and-tribes|Peoples and Tribes]] | Social groupings and cultural divisions |
-| [[virtuti-vincere|Virtuti Vincere]] | Martial philosophy and code |
-| [[quotes|Quotes]] | Setting voice, mottoes, and reference lines |
+| [Religions](religions.md) | Major faiths and competing doctrines |
+| [Peoples and Tribes](peoples-and-tribes.md) | Social groupings and cultural divisions |
+| [Virtuti Vincere](virtuti-vincere.md) | Martial philosophy and code |
+| [Quotes](quotes.md) | Setting voice, mottoes, and reference lines |
 
 ---
 

@@ -21,7 +21,7 @@ summary: "Cold, calculating matriarch of Daever who rarely leaves her tower, con
 | **Sex** | Female |
 | **Age** | 58 |
 | **Status** | Alive |
-| **Affiliation** | [[factions/daever|Daever]] |
+| **Affiliation** | [Daever](../factions/daever.md) |
 
 ## Description
 

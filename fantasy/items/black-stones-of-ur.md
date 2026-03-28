@@ -29,7 +29,7 @@ Each stone represents a different aspect of power:
 |-------|--------|-------------|
 | **The First** | Binding | Power to imprison or release any being |
 | **The Second** | Transformation | Ability to change matter and energy |
-| **The Third** | Chaos | Connection to the [[lore/abyss|Void]] |
+| **The Third** | Chaos | Connection to the [Void](../lore/abyss.md) |
 
 ## Known Stones
 

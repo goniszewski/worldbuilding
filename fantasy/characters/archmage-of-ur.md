@@ -119,10 +119,10 @@ This is **not an easy choice between good and evil**. Both options have conseque
 
 | This File | Related |
 |-----------|---------|
-| [[items/black-stones-of-ur|Black Stones of Ur]] | He created them |
-| [[lore/abyss|Void]] | He bound himself to it |
-| [[items/soul-breaker|Soul Breaker]] | Stolen for his return |
-| [[characters/mighty-eight|Mighty Eight]] | They killed him |
+| [Black Stones of Ur](../items/black-stones-of-ur.md) | He created them |
+| [Void](../lore/abyss.md) | He bound himself to it |
+| [Soul Breaker](../items/soul-breaker.md) | Stolen for his return |
+| [Mighty Eight](mighty-eight.md) | They killed him |
 
 ## TODO
 

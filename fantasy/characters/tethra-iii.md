@@ -18,7 +18,7 @@ summary: "The current head of a major human religious order, guarding orthodoxy 
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/humans|Human]] |
+| Race | [Human](../races/humans.md) |
 | Sex | Female |
 | Life Stage | Elder |
 | Role | High religious authority |

@@ -19,7 +19,7 @@ summary: "The most widespread race—versatile, ambitious, and adaptable."
 | Attribute | Value |
 |-----------|-------|
 | **Category** | Sapient Race |
-| **Evolved From** | [[lore/the-cleansed|The Cleansed]] (via [[characters/daraster|Daraster]]) |
+| **Evolved From** | [The Cleansed](../lore/the-cleansed.md) (via [Daraster](../characters/daraster.md)) |
 | **Adult Age** | 20 |
 | **Average Age** | 34 |
 | **Oldest Recorded** | 786 |

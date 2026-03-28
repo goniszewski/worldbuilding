@@ -18,10 +18,10 @@ summary: "Lord of Highdam who publicly abandoned the Naterian faith fourteen yea
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/humans|Human]] |
+| Race | [Human](../races/humans.md) |
 | Sex | Male |
 | Age | 54 |
-| House | [[factions/highdam|Highdam]] |
+| House | [Highdam](../factions/highdam.md) |
 | Title | Lord of Highdam, Warden of the Dams |
 
 ## Description

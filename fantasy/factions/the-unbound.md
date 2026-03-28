@@ -22,7 +22,7 @@ summary: "A clandestine network of escaped binders, sympathizers, and smugglers 
 | **Character** | Secretive, fractured, morally compromised |
 | **Scale** | Regional, with hidden cells across major trade routes |
 | **Status** | Active and expanding under pressure |
-| **Primary Enemy** | [[factions/silver-compact|The Silver Compact]] |
+| **Primary Enemy** | [The Silver Compact](silver-compact.md) |
 
 ## Description
 
@@ -67,7 +67,7 @@ When violence happens, it is usually improvised, desperate, and costly. The move
 
 | Power | Relationship | Notes |
 |-------|--------------|-------|
-| [[factions/silver-compact|The Silver Compact]] | Existential hostility | Open enemy and constant pursuer |
+| [The Silver Compact](silver-compact.md) | Existential hostility | Open enemy and constant pursuer |
 | Merchant houses | Opportunistic | Some profit from helping, others sell information |
 | Rural villages | Uneasy sympathy | Many offer shelter, few want retaliation |
 | High nobles | Inconsistent | Private support is more common than public support |

@@ -18,7 +18,7 @@ summary: "A wandering monk whose gentleness disguises fierce resolve, serving as
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/humans|Human]] |
+| Race | [Human](../races/humans.md) |
 | Sex | Male |
 | Life Stage | Adult |
 | Role | Itinerant monk, healer, witness |

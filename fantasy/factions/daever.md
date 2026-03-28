@@ -19,7 +19,7 @@ summary: "Masters of the Mist Valley who weaponize the legendary Milk Mist again
 | Field | Value |
 |-------|-------|
 | **Type** | Noble House |
-| **Headquarters** | [[Dolina Mgieł (Mist Valley)|dolina-mgieł]] |
+| **Headquarters** | [dolina-mgieł](Dolina Mgieł (Mist Valley).md) |
 | **Power Status** | Major Power |
 | **Founded** | ~200 P.S. |
 | **Words** | Patience, Truth, Shadow |
@@ -51,11 +51,11 @@ The Daever revere the mist itself as a living deity called *Matka Mgła* (Mother
 
 | House | Relationship |
 |-------|--------------|
-| [[factions/winters|Winters]] | Trade partner — furs for alchemical supplies |
-| [[factions/czar|Czar]] | Business arrangement — exports Milk Mist for gold |
-| [[factions/naterian-hegemony|Naterian Hegemony]] | Hostile — the Church considers them heretical |
-| [[factions/tiltman|Tiltman]] | Cautious alliance — both are isolated and misunderstood |
-| [[factions/mort|Mort]] | Cautious respect — both value the old ways |
+| [Winters](winters.md) | Trade partner — furs for alchemical supplies |
+| [Czar](czar.md) | Business arrangement — exports Milk Mist for gold |
+| [Naterian Hegemony](naterian-hegemony.md) | Hostile — the Church considers them heretical |
+| [Tiltman](tiltman.md) | Cautious alliance — both are isolated and misunderstood |
+| [Mort](mort.md) | Cautious respect — both value the old ways |
 
 ## Key Figures
 

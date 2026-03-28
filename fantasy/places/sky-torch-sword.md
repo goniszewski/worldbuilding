@@ -89,7 +89,7 @@ Together, the Sky Sword and [[places/sky-torch|Sky Torch]] define the peninsula:
 | Monument | Position | Symbolism |
 |----------|----------|-----------|
 | **Sky Sword** | North | Judgment, cutting truth from lies |
-| [[places/sky-torch|Sky Torch]] | South | Illumination, eternal hope |
+| [Sky Torch](sky-torch.md) | South | Illumination, eternal hope |
 
 The peninsula between them is holy ground. To desecrate either monument is the gravest crime in the region's laws.
 

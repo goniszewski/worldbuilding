@@ -17,10 +17,10 @@ summary: "Supreme chieftain of the Mort clans, ancient and scarred, who leads fr
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/humans|Human]] |
+| Race | [Human](../races/humans.md) |
 | Sex | Male |
 | Age | 67 |
-| House | [[factions/mort|Mort]] |
+| House | [Mort](../factions/mort.md) |
 | Title | Chieftain (*Wódz*), Leader of the Five Clans |
 
 ## Description

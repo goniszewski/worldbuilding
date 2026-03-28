@@ -17,10 +17,10 @@ summary: "Heir to Highdam, torn between his father's rationalism and his mother'
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/humans|Human]] |
+| Race | [Human](../races/humans.md) |
 | Sex | Male |
 | Age | 28 |
-| House | [[factions/highdam|Highdam]] |
+| House | [Highdam](../factions/highdam.md) |
 | Title | Heir Apparent, Lord-Elect (when his father dies) |
 
 ## Description

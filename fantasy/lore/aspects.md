@@ -30,7 +30,7 @@ summary: Beings of immense power within the Void — entities of indeterminate c
 |-----------|-------|
 | **Category** | Entity / Cosmic Being |
 | **Polish Name** | Aspekty |
-| **Location** | [[lore/abyss|Void]] |
+| **Location** | [Void](abyss.md) |
 | **Nature** | Beings of indeterminate consciousness |
 
 ---
@@ -47,7 +47,7 @@ Their nature is difficult to comprehend: they possess consciousness of a form en
 |-------|-------------|
 | **Immense Power** | Among the most powerful entities in existence |
 | **Alien Consciousness** | Minds that operate beyond human reasoning |
-| **Void Dwellers** | Native to the [[lore/abyss|Void]], not the physical plane |
+| **Void Dwellers** | Native to the [Void](abyss.md), not the physical plane |
 | **Imprint Capability** | Can leave lasting impressions on mortal souls |
 
 ---

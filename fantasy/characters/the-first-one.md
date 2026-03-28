@@ -58,9 +58,9 @@ The First One died in childbirth — but bore not one child, but **three**:
 
 | Child | Nature |
 |-------|--------|
-| **[[characters/torr|Torr]]** | Dark, scaly, harsh yet honorable |
-| **[[characters/daraster|Daraster]]** | Bold, ambitious, wicked |
-| **[[characters/lesandra|Lesandra]]** | Tall, pale, balanced, could control magic |
+| **[Torr](torr.md)** | Dark, scaly, harsh yet honorable |
+| **[Daraster](daraster.md)** | Bold, ambitious, wicked |
+| **[Lesandra](lesandra.md)** | Tall, pale, balanced, could control magic |
 
 She broke tradition by not naming a successor from among her people. Instead, she commanded them to obey her child.
 

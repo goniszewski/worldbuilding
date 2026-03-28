@@ -70,9 +70,9 @@ She died during childbirth — but did not bear one child, but **three**.
 
 | Name | Appearance | Nature |
 |------|------------|--------|
-| **[[characters/torr|Torr]]** | Dark, rough skin covered in scales in places | Harsh, prone to violence, yet honorable |
-| **[[characters/daraster|Daraster]]** | Unknown from legend | Bold, wicked, yet most open and ambitious |
-| **[[characters/lesandra|Lesandra]]** | Exceptionally tall, unusually pale complexion | Secretive, helpful, most balanced; could fully control the magic in her blood |
+| **[Torr](../characters/torr.md)** | Dark, rough skin covered in scales in places | Harsh, prone to violence, yet honorable |
+| **[Daraster](../characters/daraster.md)** | Unknown from legend | Bold, wicked, yet most open and ambitious |
+| **[Lesandra](../characters/lesandra.md)** | Exceptionally tall, unusually pale complexion | Secretive, helpful, most balanced; could fully control the magic in her blood |
 
 All three inherited from their mother the ability to contact the [[lore/abyss|Void]]. Whether madness also slumbered within them remains uncertain.
 
@@ -94,10 +94,10 @@ Over millennia, the [[lore/the-cleansed|The Cleansed]] ceased to exist, and thei
 
 | Race | Polish | Ancestor | Notes |
 |------|--------|----------|-------|
-| **Naterians** | Naterowie | [[characters/torr|Torr]] | Wild mountain tribes also called Orcs |
-| **Humans** | Ludzie | [[characters/daraster|Daraster]] | Conceived through his affairs; later partially mixed with legitimate children |
-| **Elves** | Elfy | [[characters/daraster|Daraster]] + [[characters/lesandra|Lesandra]] | Direct lineage only; did not mix with others |
-| **Dwarves** | Krasnoludy | Forbidden unions | Descendants of [[characters/torr|Torr's]] children with [[characters/daraster|Daraster's]] children; punished and driven underground |
+| **Naterians** | Naterowie | [Torr](../characters/torr.md) | Wild mountain tribes also called Orcs |
+| **Humans** | Ludzie | [Daraster](../characters/daraster.md) | Conceived through his affairs; later partially mixed with legitimate children |
+| **Elves** | Elfy | [Daraster](../characters/daraster.md) + [Lesandra](../characters/lesandra.md) | Direct lineage only; did not mix with others |
+| **Dwarves** | Krasnoludy | Forbidden unions | Descendants of [Torr's](../characters/torr.md) children with [Daraster's](../characters/daraster.md) children; punished and driven underground |
 
 ### Expansion of Torr's Line
 
@@ -142,7 +142,7 @@ The [[races/dwarves]] (also called "Galdanie") are considered descendants of for
 ### Cultural Conflicts
 | Conflict | Root Cause |
 |----------|-----------|
-| Naterians vs. Others | [[characters/torr|Torr's]] hatred passed down; historical grudges |
+| Naterians vs. Others | [Torr's](../characters/torr.md) hatred passed down; historical grudges |
 | Elves vs. Dwarves | Underground exile remembered; elven condescension |
 | Humans as Middle Ground | Mixed heritage means they belong (or don't) everywhere |
 | Theocratic Debates | Do the theological beliefs contradict the mythological records? |

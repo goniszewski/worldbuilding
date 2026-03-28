@@ -25,7 +25,7 @@ summary: "Tall humanoids with tentacle-like appendages and scale-like skin. The 
 |-----------|-------|
 | **Category** | Sapient Race |
 | **Polish Name** | Naterianie, Naterowie |
-| **Evolved From** | [[lore/the-cleansed|The Cleansed]] (via [[characters/torr|Torr]]) |
+| **Evolved From** | [The Cleansed](../lore/the-cleansed.md) (via [Torr](../characters/torr.md)) |
 | **Adult Age** | 17 |
 | **Average Age** | 110 |
 | **Type** | Humanoid, Mammal |

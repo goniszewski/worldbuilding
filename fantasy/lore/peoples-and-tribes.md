@@ -27,7 +27,7 @@ Each major race has produced offshoots, exiles, and isolated communities that ha
 
 | Race | Tribe | Status |
 |------|-------|--------|
-| [[races/juuhroni|Juuhroni]] | — | Documented |
+| [Juuhroni](../races/juuhroni.md) | — | Documented |
 
 ---
 

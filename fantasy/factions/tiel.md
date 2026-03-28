@@ -19,7 +19,7 @@ summary: "Mining house controlling the precious błękitna ruda (blue ore) depos
 | Field | Value |
 |-------|-------|
 | **Type** | Noble House |
-| **Headquarters** | [[Barrenport (Port Bezdzietny)|barrenport]] |
+| **Headquarters** | [Barrenport](../places/barrenport.md) |
 | **Power Status** | Major Power |
 | **Founded** | ~150 P.S. |
 | **Words** | Industry, Wealth, Endurance |
@@ -56,11 +56,11 @@ Tiel society revolves around the mines:
 
 | House | Relationship |
 |-------|--------------|
-| [[factions/mort|Mort]] | Mortal enemies — disputed valley claims for centuries |
-| [[factions/highdam|Highdam]] | Trade — Highdam controls their water, Tiel provides weapons |
-| [[factions/graz|Graz]] | Customer — Graz finances Tiel operations |
-| [[factions/czar|Czar]] | Tense — Czar wants blue ore access |
-| [[factions/skjor|Skjor]] | Commerce — Skjor's dwarven connections provide mining expertise |
+| [Mort](mort.md) | Mortal enemies — disputed valley claims for centuries |
+| [Highdam](highdam.md) | Trade — Highdam controls their water, Tiel provides weapons |
+| [Graz](graz.md) | Customer — Graz finances Tiel operations |
+| [Czar](czar.md) | Tense — Czar wants blue ore access |
+| [Skjor](skjor.md) | Commerce — Skjor's dwarven connections provide mining expertise |
 
 ## Key Figures
 

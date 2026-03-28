@@ -401,9 +401,9 @@ summary: "[One sentence describing what it is]"
 
 | Purpose | Syntax | Example |
 |---------|--------|---------|
-| Explicit text | `[[file\|Display]]` | `[[pierwsi\|Pierwsi]]` |
+| Explicit text | `[Display](file\.md)` | `[Pierwsi](pierwsi\.md)` |
 | Implicit text | `[[file]]` | `[[pierwsi]]` |
-| Within sentences | `[[file\|Display]]` | "The [[pierwsi\|Pierwsi]] believe..." |
+| Within sentences | `[Display](file\.md)` | "The [Pierwsi](pierwsi\.md) believe..." |
 
 **Folder prefixes for disambiguation:**
 ```markdown

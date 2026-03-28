@@ -195,7 +195,7 @@ The [[lore/the-cleansed|The Cleansed]] are not the ancestors of the modern races
 | **Emergence** | Bunkers open, survivors emerge weakened and confused |
 | **Wandering** | Thousands of years of displacement |
 | **The Age of Light** | Survivors settle the Archipelago, forgetting their past |
-| **The Discovery** | Magic re-discovered by [[characters/the-first-one|The First One]] |
+| **The Discovery** | Magic re-discovered by [The First One](../characters/the-first-one.md) |
 
 ### The Lie of Paradise
 

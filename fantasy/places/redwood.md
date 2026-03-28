@@ -20,7 +20,7 @@ summary: The realm's second-greatest trading hub, controlled by House Graz and h
 |-------|-------|
 | **Type** | Major City |
 | **Polish Name** | Czerwony Las |
-| **Controlling House** | [[factions/graz|Graz]] |
+| **Controlling House** | [Graz](../factions/graz.md) |
 | **Region** | Central Lowlands |
 | **Population** | ~80,000 |
 | **Status** | Free Trade City |

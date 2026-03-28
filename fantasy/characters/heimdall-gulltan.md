@@ -18,7 +18,7 @@ summary: "The aging but formidable king of the dwarven underkingdoms, who rules 
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/dwarves|Dwarf]] |
+| Race | [Dwarf](../races/dwarves.md) |
 | Sex | Male |
 | Life Stage | Elder |
 | Role | King of the underkingdoms |

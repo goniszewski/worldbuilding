@@ -31,10 +31,10 @@ summary: "The third child of Pierwsza, only one who could fully control magic, m
 
 | Field | Value |
 |-------|-------|
-| Race | [[lore/the-cleansed|The Cleansed]] (First Generation) |
+| Race | [The Cleansed](../lore/the-cleansed.md) (First Generation) |
 | Sex | Female |
 | Status | Deceased |
-| Role | Ancestor of the [[races/elves|Elves]], sole master of magic |
+| Role | Ancestor of the [Elves](../races/elves.md), sole master of magic |
 | Period | ~10,000–15,000 years ago |
 
 ---
@@ -88,9 +88,9 @@ Their union produced the **[[races/elves|Elves]]** — inheriting:
 
 | Trait | Source | Manifestation |
 |-------|--------|---------------|
-| Magical control | [[characters/lesandra|Lesandra]] | Strong innate magic |
-| Pale complexion | [[characters/lesandra|Lesandra]] | Distinctive elven appearance |
-| Ambition | [[characters/daraster|Daraster]] | Drive to expand and excel |
+| Magical control | [Lesandra](lesandra.md) | Strong innate magic |
+| Pale complexion | [Lesandra](lesandra.md) | Distinctive elven appearance |
+| Ambition | [Daraster](daraster.md) | Drive to expand and excel |
 | Balanced nature | Both | Neither chaotic nor rigid |
 
 ### Blood Purity

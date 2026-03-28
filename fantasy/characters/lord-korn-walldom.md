@@ -17,10 +17,10 @@ summary: "Ancient lord of Walldom rumored to be over three centuries old, keeper
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/humans|Human]] |
+| Race | [Human](../races/humans.md) |
 | Sex | Male |
 | Age | 300+ (appears 50s) |
-| House | [[factions/walldom|Walldom]] |
+| House | [Walldom](../factions/walldom.md) |
 | Title | Lord of Walldom, Keeper of the Gate |
 
 ## Description

@@ -21,7 +21,7 @@ summary: "An elusive architect of resistance whose quiet, patient methods make a
 | **Category** | Character |
 | **Role** | Spymaster, organizer, ideological center |
 | **Status** | Alive, location uncertain |
-| **Affiliation** | [[factions/the-unbound|The Unbound]] |
+| **Affiliation** | [The Unbound](../factions/the-unbound.md) |
 
 ## Description
 

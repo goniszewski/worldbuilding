@@ -18,10 +18,10 @@ summary: "Royal Advisor to the throne, the first non-noble to hold the position,
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/humans|Human]] |
+| Race | [Human](../races/humans.md) |
 | Sex | Male |
 | Age | 45 |
-| House | [[factions/czar|Czar]] |
+| House | [Czar](../factions/czar.md) |
 | Title | Royal Advisor, Lord of Secrets |
 
 ## Description

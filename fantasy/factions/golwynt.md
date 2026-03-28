@@ -56,9 +56,9 @@ Whatever the truth, the mark is both pride and shame — proof of Golwynt's rise
 
 | House | Relationship |
 |-------|--------------|
-| [[factions/graz|Graz]] | Commerce — Graz handles their export trade |
-| [[factions/czar|Czar]] | Wary — they know Golwynt could disrupt food supplies |
-| [[factions/tiel|Tiel]] | Trade — food for mining equipment |
+| [Graz](graz.md) | Commerce — Graz handles their export trade |
+| [Czar](czar.md) | Wary — they know Golwynt could disrupt food supplies |
+| [Tiel](tiel.md) | Trade — food for mining equipment |
 | Most houses | Indifferent — "farmers don't matter" (mistake) |
 | Common folk | Respected — Golwynt treats peasants better than most |
 

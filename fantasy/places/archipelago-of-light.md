@@ -31,7 +31,7 @@ summary: The island chain that was home to the Cleansed before magic was discove
 | Attribute | Value |
 |-----------|-------|
 | **Category** | Archipelago (Former) |
-| **Original Inhabitants** | [[lore/the-cleansed|The Cleansed]] |
+| **Original Inhabitants** | [The Cleansed](../lore/the-cleansed.md) |
 | **Status** | Destroyed (~10,000–15,000 years ago) |
 | **Location** | Ancient world (exact location unknown) |
 
@@ -51,7 +51,7 @@ When the last [[characters/the-first-one|The First One]] discovered magic in an 
 
 | Event | Consequence |
 |-------|-------------|
-| Magical exposure | Transformation of [[characters/the-first-one|The First One]], birth of three children |
+| Magical exposure | Transformation of [The First One](../characters/the-first-one.md), birth of three children |
 | Civil war | Siblings turned against each other using unmastered magic |
 | Magical devastation | The war scarred the land itself |
 | Departure | Survivors left seeking new lands |
