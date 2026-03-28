@@ -62,7 +62,7 @@ Objects that pass too close to the blade's edge are cut. Not by force — by geo
 
 ## Engineering vs. The Impossible
 
-Where the [[places/sky-torch|Sky Torch]] can be explained by gas and physics, the Sky Sword cannot be explained by **anything**.
+Where the [Sky Torch](sky-torch.md) can be explained by gas and physics, the Sky Sword cannot be explained by **anything**.
 
 ### What We Know
 
@@ -84,7 +84,7 @@ Where the [[places/sky-torch|Sky Torch]] can be explained by gas and physics, th
 
 ## The Sacred Peninsula's Twin Pillars
 
-Together, the Sky Sword and [[places/sky-torch|Sky Torch]] define the peninsula:
+Together, the Sky Sword and [Sky Torch](sky-torch.md) define the peninsula:
 
 | Monument | Position | Symbolism |
 |----------|----------|-----------|

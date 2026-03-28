@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, north, isolation, cold]
 related:
-  - "[[factions/daever|Daever]]"
-  - "[[factions/czar|Czar]]"
-  - "[[factions/kolah|Kolah]]"
+  - "[Daever](daever.md)"
+  - "[Czar](czar.md)"
+  - "[Kolah](kolah.md)"
 summary: "Isolated northern house dwelling in the frozen Zimowy Gród, surviving through cold and isolation."
 ---
 
@@ -19,7 +19,7 @@ summary: "Isolated northern house dwelling in the frozen Zimowy Gród, surviving
 | Field | Value |
 |-------|-------|
 | **Type** | Noble House |
-| **Headquarters** | [zimowy-gród](Zimowy Gród (Winter Fortress).md) |
+| **Headquarters** | [Winter Fortress](../places/winter-fortress.md) |
 | **Power Status** | Major Power |
 | **Founded** | ~150 P.S. |
 | **Words** | Survival, Endurance, Mystery |

@@ -36,7 +36,7 @@ summary: The mythical Age of Light — a period of peace and paradise enjoyed by
 
 ## Description
 
-The **Age of Light** is the name given to the period when the [[lore/the-cleansed|The Cleansed]] lived in paradise on the **[[places/archipelago-of-light]]**.
+The **Age of Light** is the name given to the period when the [The Cleansed](the-cleansed.md) lived in paradise on the **[Archipelago of Light](../places/archipelago-of-light.md)**.
 
 According to legend and ancient songs, this was a time of:
 
@@ -47,15 +47,15 @@ According to legend and ancient songs, this was a time of:
 | **Peace** | No wars or armed conflicts |
 | **Spiritual Clarity** | A people "unblemished" by magic |
 
-The name "Light" symbolizes these ideals — the antithesis of the "[[lore/abyss|Void]]" that would later corrupt the world.
+The name "Light" symbolizes these ideals — the antithesis of the "[Void](abyss.md)" that would later corrupt the world.
 
 ---
 
 ## Characteristics
 
 ### Governance
-- All conflicts were resolved by **[[characters/the-first-one|The First]]**
-- The [[characters/the-first-one|The First]] designated her own successor
+- All conflicts were resolved by **[The First](../characters/the-first-one.md)**
+- The [The First](../characters/the-first-one.md) designated her own successor
 - Matrilineal succession was tradition
 
 ### Society
@@ -64,9 +64,9 @@ The name "Light" symbolizes these ideals — the antithesis of the "[[lore/abyss
 - **Paradise** — material and spiritual abundance
 
 ### The Succession Custom
-Each [[characters/the-first-one|The First]] would name her successor before death. This sacred tradition maintained peace and continuity.
+Each [The First](../characters/the-first-one.md) would name her successor before death. This sacred tradition maintained peace and continuity.
 
-The last [[characters/the-first-one|The First One]] broke this custom — commanding her people to obey her unborn child instead of naming a successor.
+The last [The First One](../characters/the-first-one.md) broke this custom — commanding her people to obey her unborn child instead of naming a successor.
 
 ---
 
@@ -74,8 +74,8 @@ The last [[characters/the-first-one|The First One]] broke this custom — comman
 
 The Age of Light ended with the **discovery of magic**:
 
-1. The last [[characters/the-first-one|The First One]] found a strange element in an underground cave
-2. Prolonged exposure connected her soul to the [[lore/abyss|Void]]
+1. The last [The First One](../characters/the-first-one.md) found a strange element in an underground cave
+2. Prolonged exposure connected her soul to the [Void](abyss.md)
 3. She bore three children touched by magic
 4. Civil war erupted among the Cleansed
 5. The war devastated the Archipelago of Light

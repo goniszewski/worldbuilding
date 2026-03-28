@@ -4,10 +4,10 @@ type: faction
 category: factions
 tags: [human, noble-house, political, royal-advisor, intrigue]
 related:
-  - "[[factions/walldom|Walldom]]"
-  - "[[factions/graz|Graz]]"
-  - "[[factions/tiel|Tiel]]"
-  - "[[factions/timrel|Timrel]]"
+  - "[Walldom](walldom.md)"
+  - "[Graz](graz.md)"
+  - "[Tiel](tiel.md)"
+  - "[Timrel](timrel.md)"
 summary: "Master manipulators who rose to power through politics, now holding the Royal Advisor position."
 ---
 
@@ -58,7 +58,7 @@ Lonen Czar's rise as Royal Advisor has made the house simultaneously more powerf
 
 ## Key Figures
 
-- **[[Lonen Czar]]** — Royal Advisor, cunning and ambitious
+- **[Lonen Czar](../characters/lonen-czar.md)** — Royal Advisor, cunning and ambitious
 - **Pani Cienia** (Lady of Shadows) — Lonen's mother, the true intelligence master
 - **Szpieg Młodszy** (Junior Spy) — Codename for the house's field agents
 

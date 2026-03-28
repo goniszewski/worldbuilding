@@ -60,8 +60,8 @@ He is not evil, but he is ambitious. He believes Walldom's isolation is a mistak
 
 ## Relationships
 
-- **[[Lord Korn Walldom]]**: Respects his grandfather; knows he must eventually take full control
-- **[[Lonen Czar]]**: Old "friends" — each knows the other is dangerous
+- **[Lord Korn Walldom](lord-korn-walldom.md)**: Respects his grandfather; knows he must eventually take full control
+- **[Lonen Czar](lonen-czar.md)**: Old "friends" — each knows the other is dangerous
 - **His Wife**: Dead these ten years; he has not remarried
 - **Walldom Guards**: Loyal to him more than Korn — he pays better
 

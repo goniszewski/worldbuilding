@@ -29,7 +29,7 @@ summary: "The second child of the First One, progenitor of both Humans and Elves
 
 ## Description
 
-**Daraster** was the second of the First One's three children. Unlike his brother [[characters/torr|Torr's]] dark, scaled appearance, less is recorded of Daraster's physical form — the legends focus on his **nature**.
+**Daraster** was the second of the First One's three children. Unlike his brother [Torr's](torr.md) dark, scaled appearance, less is recorded of Daraster's physical form — the legends focus on his **nature**.
 
 ### Nature
 
@@ -40,21 +40,21 @@ summary: "The second child of the First One, progenitor of both Humans and Elves
 | **Open** | Most receptive to change and new ideas |
 | **Ambitious** | Driven to expand and claim power |
 
-His nature is often contrasted with [[characters/torr|Torr's]] rigid honor — Daraster achieved through cunning and desire what his brother sought through strength.
+His nature is often contrasted with [Torr's](torr.md) rigid honor — Daraster achieved through cunning and desire what his brother sought through strength.
 
 ## The Civil War
 
 Daraster played a pivotal role in the conflict:
 
-1. **Alliance with [[characters/lesandra|Lesandra]]** — United against [[characters/torr|Torr]] when tensions escalated
-2. **Marriage** — Wed his sister in defiance of tradition, provoking [[characters/torr|Torr's]] fury
-3. **Departure** — After [[characters/torr|Torr]] left, he and [[characters/lesandra|Lesandra]] departed the devastated island in the opposite direction
+1. **Alliance with [Lesandra](lesandra.md)** — United against [Torr](torr.md) when tensions escalated
+2. **Marriage** — Wed his sister in defiance of tradition, provoking [Torr's](torr.md) fury
+3. **Departure** — After [Torr](torr.md) left, he and [Lesandra](lesandra.md) departed the devastated island in the opposite direction
 
 ## Legacy: Dual Bloodlines
 
 Daraster's complex romantic life created two distinct racial legacies:
 
-### With [[characters/lesandra|Lesandra]]: The Elves
+### With [Lesandra](lesandra.md): The Elves
 
 Their union produced children with **strong magical blood** — inheriting Lesandra's control and Daraster's ambition.
 
@@ -90,7 +90,7 @@ Scholars debate why Daraster was unfaithful:
 | **Magical influence** | Demons/aspects drove him to chaotic action |
 | **Lesandra's dominance** | He chafed under her stronger magical blood |
 
-Some even suggest his infidelities were an attempt to create children resembling [[characters/torr|Torr]] — to reunite the bloodlines — but this remains speculation.
+Some even suggest his infidelities were an attempt to create children resembling [Torr](torr.md) — to reunite the bloodlines — but this remains speculation.
 
 ## For Writers / Game Designers
 

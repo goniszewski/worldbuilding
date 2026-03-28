@@ -33,7 +33,7 @@ Unlike the sapient races, creatures operate on instinct rather than reason. Some
 ## By Danger Level
 
 ### Deadly
-- [[yazghur|Yazghur]] — Shadow-stalking apex predator
+- [Yazghur](yazghur.md) — Shadow-stalking apex predator
 
 ### High
 - *(None documented)*
@@ -49,13 +49,13 @@ Unlike the sapient races, creatures operate on instinct rather than reason. Some
 Creatures affected by the Veil often display unusual abilities. The most common manifestation is the **Hollowing**—a process where proximity to the Veil corrupts natural creatures.
 
 ### Known Spirit-Touched
-- [[yazghur|Yazghur]] — Shadow manipulation, prey sense
+- [Yazghur](yazghur.md) — Shadow manipulation, prey sense
 
 ## Reference Links
 
-- [[../lore/magic-system|Spirit Binding]] — The Veil's effect on creatures
-- [[../lore/ancient-ones|The Ancient Ones]] — Possible creators of constructs and older horrors
-- [[../places/silver-woods|The Silver Woods]] — Region tied to spirit-touched sightings
+- [Spirit Binding](../lore/magic-system.md) — The Veil's effect on creatures
+- [The Ancient Ones](../lore/ancient-ones.md) — Possible creators of constructs and older horrors
+- [The Silver Woods](../places/silver-woods.md) — Region tied to spirit-touched sightings
 
 ## TODO
 

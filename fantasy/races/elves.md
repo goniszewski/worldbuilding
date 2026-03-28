@@ -4,10 +4,10 @@ type: sapient-race
 category: races
 tags: [humanoids, long-lived, traditional, principled]
 related:
-  - "[[lore/origins-of-races]]"
-  - "[[characters/daraster|Daraster]]"
-  - "[[characters/lesandra|Lesandra]]"
-  - "[[lore/the-cleansed|The Cleansed]]"
+  - "[Origins of the Races](../lore/origins-of-races.md)"
+  - "[Daraster](../characters/daraster.md)"
+  - "[Lesandra](../characters/lesandra.md)"
+  - "[The Cleansed](../lore/the-cleansed.md)"
 summary: "Ancient, long-lived humanoids known for their strict principles and adherence to tradition. Direct descendants of Daraster and Lesandra."
 ---
 
@@ -33,7 +33,7 @@ summary: "Ancient, long-lived humanoids known for their strict principles and ad
 
 Elves are known for their adherence to strict principles and traditions. Their long lifespans make them deliberate and principled in all dealings, earning cold respect from other races—especially the Naterians.
 
-Their bloodline is considered the **purest** of the races — direct descendants of [[characters/daraster|Daraster]] and [[characters/lesandra|Lesandra]] without admixture. This purity is central to elven identity and their belief in their own superiority.
+Their bloodline is considered the **purest** of the races — direct descendants of [Daraster](../characters/daraster.md) and [Lesandra](../characters/lesandra.md) without admixture. This purity is central to elven identity and their belief in their own superiority.
 
 ## Characteristics
 

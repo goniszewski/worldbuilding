@@ -91,12 +91,12 @@ Zara has a single, fragmentary piece of information: her mother was poisoned by 
 
 ## Relationships
 
-- **[[characters/velan-kivar-zan-ehkovok|Velan]]**: The one person in the party she cannot read. Velan's obsessive commitment to truth makes him simultaneously the most useful and most dangerous person in her orbit. She is drawn to him and wary of him in equal measure. She suspects he already knows she withholds things — and she cannot decide whether to admire his restraint or fear it.
-- **[[characters/erin-telion-from-mert|Erin]]**: Mutual, wary respect. Erin does not like liars and makes no secret of it. Zara respects this more than she will admit. There is a grudging understanding between them — Erin needs someone who can get into places she cannot, and Zara needs someone who will notice if she disappears.
-- **[[characters/damara-loehen|Damara]]**: The one person whose sincerity Zara cannot deflect. Damara's openness is so foreign to her experience that it reads as either naivety or a performance so perfect that Zara cannot find its edges. She finds herself, against her will, wanting to protect it.
-- **[[characters/martin-guecventrak|Martin]]**: A comfortable alliance. Martin's absent-minded warmth is genuinely disarming — he forgets to ask her questions she doesn't want to answer. She enjoys his company more than she should and trusts his discretion more than she trusts anyone.
-- **[[characters/gwenn-youkto-imah-vueten|Gwenn]]**: Two people who survived by being underestimated, and who both know it. Gwenn watches Zara the way a wolf watches another wolf. Zara finds this exhausting and oddly reassuring.
-- **[[characters/angar|Angar]]**: Professional courtesy. Angar is everything Zara is not — direct, loyal, physically dangerous. She does not understand him, which makes her cautious around him.
+- **[Velan](velan-kivar-zan-ehkovok.md)**: The one person in the party she cannot read. Velan's obsessive commitment to truth makes him simultaneously the most useful and most dangerous person in her orbit. She is drawn to him and wary of him in equal measure. She suspects he already knows she withholds things — and she cannot decide whether to admire his restraint or fear it.
+- **[Erin](erin-telion-from-mert.md)**: Mutual, wary respect. Erin does not like liars and makes no secret of it. Zara respects this more than she will admit. There is a grudging understanding between them — Erin needs someone who can get into places she cannot, and Zara needs someone who will notice if she disappears.
+- **[Damara](damara-loehen.md)**: The one person whose sincerity Zara cannot deflect. Damara's openness is so foreign to her experience that it reads as either naivety or a performance so perfect that Zara cannot find its edges. She finds herself, against her will, wanting to protect it.
+- **[Martin](martin-guecventrak.md)**: A comfortable alliance. Martin's absent-minded warmth is genuinely disarming — he forgets to ask her questions she doesn't want to answer. She enjoys his company more than she should and trusts his discretion more than she trusts anyone.
+- **[Gwenn](gwenn-youkto-imah-vueten.md)**: Two people who survived by being underestimated, and who both know it. Gwenn watches Zara the way a wolf watches another wolf. Zara finds this exhausting and oddly reassuring.
+- **[Angar](angar.md)**: Professional courtesy. Angar is everything Zara is not — direct, loyal, physically dangerous. She does not understand him, which makes her cautious around him.
 
 ## For Writers / Game Designers
 

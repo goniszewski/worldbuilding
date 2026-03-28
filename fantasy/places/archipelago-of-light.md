@@ -39,7 +39,7 @@ summary: The island chain that was home to the Cleansed before magic was discove
 
 ## Description
 
-The **Archipelago of Light** was a group of small islands that served as the ancestral homeland of the [[lore/the-cleansed|The Cleansed]]. It was here that the [[lore/the-cleansed|The Cleansed]] lived during the **[[lore/age-of-light|Age of Light]]** — a period of paradise, peace, and prosperity.
+The **Archipelago of Light** was a group of small islands that served as the ancestral homeland of the [The Cleansed](../lore/the-cleansed.md). It was here that the [The Cleansed](../lore/the-cleansed.md) lived during the **[Age of Light](../lore/age-of-light.md)** — a period of paradise, peace, and prosperity.
 
 The name "Light" reflects the era's ideals: justice, abundance, and spiritual clarity. Whether the archipelago itself was literally luminous, or this was metaphorical, remains unknown.
 
@@ -47,7 +47,7 @@ The name "Light" reflects the era's ideals: justice, abundance, and spiritual cl
 
 ## The Fall
 
-When the last [[characters/the-first-one|The First One]] discovered magic in an underground cave, the archipelago's fate was sealed:
+When the last [The First One](../characters/the-first-one.md) discovered magic in an underground cave, the archipelago's fate was sealed:
 
 | Event | Consequence |
 |-------|-------------|
@@ -56,7 +56,7 @@ When the last [[characters/the-first-one|The First One]] discovered magic in an 
 | Magical devastation | The war scarred the land itself |
 | Departure | Survivors left seeking new lands |
 
-The island was no longer fit for habitation. [[characters/torr|Torr]] departed with his followers in one direction; [[characters/daraster|Daraster]] and [[characters/lesandra|Lesandra]] in the other.
+The island was no longer fit for habitation. [Torr](../characters/torr.md) departed with his followers in one direction; [Daraster](../characters/daraster.md) and [Lesandra](../characters/lesandra.md) in the other.
 
 ---
 
@@ -82,7 +82,7 @@ Despite its destruction, the Archipelago remains significant:
 - **Origin point** — All sapient races trace their lineage here
 - **Mythological weight** — Legends of the Age of Light reference the archipelago
 - **Archaeological potential** — If discovered, ruins could reveal pre-magic civilization
-- **Symbolic meaning** — "Light" as opposed to the "[[lore/abyss|Void]]" that corrupted it
+- **Symbolic meaning** — "Light" as opposed to the "[Void](../lore/abyss.md)" that corrupted it
 
 ---
 

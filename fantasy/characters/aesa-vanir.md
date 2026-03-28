@@ -44,9 +44,9 @@ Aesa is neither isolationist nor open-hearted. She understands that the human ho
 
 ## Relationships
 
-- [[characters/lesandra|Lesandra]]: Mythic ancestor whose legacy shapes expectations placed upon every elven ruler
-- [[races/elves|Elves]]: Living symbol of continuity, discipline, and inherited pride
-- [[lore/religions|Religious traditions]]: Navigates the tension between sacred narrative and political necessity
+- [Lesandra](lesandra.md): Mythic ancestor whose legacy shapes expectations placed upon every elven ruler
+- [Elves](../races/elves.md): Living symbol of continuity, discipline, and inherited pride
+- [Religious traditions](../lore/religions.md): Navigates the tension between sacred narrative and political necessity
 
 ## For Story Use
 

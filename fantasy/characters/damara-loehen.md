@@ -36,7 +36,7 @@ Deep down, she fears that the goddess has truly turned away from them (as religi
 
 ## Debate Partner
 
-- **[[characters/martin-guecventrak|Martin Guecventrak]]**: She and Martin frequently argue, with her providing faith-based counterarguments to his scientific explanations
+- **[Martin Guecventrak](martin-guecventrak.md)**: She and Martin frequently argue, with her providing faith-based counterarguments to his scientific explanations
 
 ## Pet: The Burned Bat
 
@@ -50,9 +50,9 @@ After the explosion of the Sacred Lighthouse in the elven capital (and a signifi
 
 ## Relationships
 
-- **[[characters/velan-kivar-zan-ehkovok|Velan Kivar Zan Ehkovok]]**: Teaches him magic; potential romance (or helps him despite player romancing him)
-- **[[characters/erin-telion-from-mert|Erin Telion z Mert]]**: Treated like a younger sister; Erin may share her trauma with Damara in secret late-game
-- **[[characters/martin-guecventrak|Martin Guecventrak]]**: Intellectual sparring partner (science vs. faith)
+- **[Velan Kivar Zan Ehkovok](velan-kivar-zan-ehkovok.md)**: Teaches him magic; potential romance (or helps him despite player romancing him)
+- **[Erin Telion z Mert](erin-telion-from-mert.md)**: Treated like a younger sister; Erin may share her trauma with Damara in secret late-game
+- **[Martin Guecventrak](martin-guecventrak.md)**: Intellectual sparring partner (science vs. faith)
 
 ## For Writers / Game Designers
 

@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, alchemy, mist, heretical]
 related:
-  - "[[factions/winters|Winters]]"
-  - "[[factions/czar|Czar]]"
-  - "[[factions/naterian-hegemony|Naterian Hegemony]]"
+  - "[Winters](winters.md)"
+  - "[Czar](czar.md)"
+  - "[Naterian Hegemony](naterian-hegemony.md)"
 summary: "Masters of the Mist Valley who weaponize the legendary Milk Mist against all who enter."
 ---
 
@@ -19,7 +19,7 @@ summary: "Masters of the Mist Valley who weaponize the legendary Milk Mist again
 | Field | Value |
 |-------|-------|
 | **Type** | Noble House |
-| **Headquarters** | [dolina-mgieł](Dolina Mgieł (Mist Valley).md) |
+| **Headquarters** | [Misty Valley](../places/misty-valley.md) |
 | **Power Status** | Major Power |
 | **Founded** | ~200 P.S. |
 | **Words** | Patience, Truth, Shadow |
@@ -59,7 +59,7 @@ The Daever revere the mist itself as a living deity called *Matka Mgła* (Mother
 
 ## Key Figures
 
-- **[[Lady Morwena Daever]]** — Cold, calculating matriarch who rarely leaves her tower
+- **[Lady Morwena Daever](../characters/lady-morwena-daever.md)** — Cold, calculating matriarch who rarely leaves her tower
 - **Strażnik Mgły** (The Mist Keeper) — Mysterious shaman who tends the Milk Mist vats
 
 ## For Writers / Game Designers

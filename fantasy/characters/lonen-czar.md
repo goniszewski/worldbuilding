@@ -65,10 +65,10 @@ He collects secrets like others collect art, and his memory for favors owed is p
 
 ## Relationships
 
-- **[[factions/daever|Lady Morwena Daever]]**: Business arrangement — she finds him useful
+- **[Lady Morwena Daever](../factions/daever.md)**: Business arrangement — she finds him useful
 - **The Crown**: Indispensable ally; he ensures this
 - **Old Nobility**: Hated by them, he returns the sentiment
-- **[[factions/walldom|Zygfryd Walldom]]**: Old "friends" — mutual respect and mutual wariness
+- **[Zygfryd Walldom](zygfrd-walldom.md)**: Old "friends" — mutual respect and mutual wariness
 
 ## For Writers / Game Designers
 

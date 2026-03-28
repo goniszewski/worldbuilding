@@ -112,7 +112,7 @@ According to their own records (later myths), the Cleansed believed:
 
 ### The Cave Discovery
 
-When the last [[characters/the-first-one|The First One]] found "strange elements" in a cave, she wasn't discovering magic. She was **finding her ancestors' technology**.
+When the last [The First One](../characters/the-first-one.md) found "strange elements" in a cave, she wasn't discovering magic. She was **finding her ancestors' technology**.
 
 > The cave was likely an Ancient One bunker or storage site. The "blue ore" or "Black Stone" was preserved magical equipment.
 
@@ -172,7 +172,7 @@ After the civil war triggered by the children's conflict:
 
 Within a few generations, the Cleansed **ceased to exist as a people**. Their language faded, their bunkers collapsed, their history became myth.
 
-Only the [[lore/age-of-light|Age of Light]] stories survived — twisted by time into creation myths.
+Only the [Age of Light](age-of-light.md) stories survived — twisted by time into creation myths.
 
 ---
 
@@ -188,7 +188,7 @@ Only the [[lore/age-of-light|Age of Light]] stories survived — twisted by time
 
 ### The Sky Monuments
 
-The [[places/sky-torch|Sky Torch]] and [[places/sky-torch-sword|Sky Sword]] are **Ancient One constructions** — emergency systems for the Abyss seal.
+The [Sky Torch](../places/sky-torch.md) and [Sky Sword](../places/sky-torch-sword.md) are **Ancient One constructions** — emergency systems for the Abyss seal.
 
 The Cleansed **inherited** these monuments without understanding them.
 

@@ -17,7 +17,7 @@ summary: A cursed blade that kills without damaging the body, used to deliver th
 
 ## Description
 
-Soul Breaker is a legendary cursed sword that **kills without harming the body**. The victim's soul is severed, leaving an empty vessel behind. It was created for a single purpose: to deliver the [[characters/archmage-of-ur|Archmage of Ur's]] soul into a new host.
+Soul Breaker is a legendary cursed sword that **kills without harming the body**. The victim's soul is severed, leaving an empty vessel behind. It was created for a single purpose: to deliver the [Archmage of Ur's](../characters/archmage-of-ur.md) soul into a new host.
 
 > *"The body remains untouched, pristine as a winter morning. Only the soul is... gone."*
 > — Excerpt from The Compact's archives
@@ -56,11 +56,11 @@ If the blade has been prepared with a specific ritual:
 ### Creation
 The sword was forged in ancient Ur, designed by the Archmage himself:
 - Created using forbidden binding techniques
-- Tempered in the [[lore/abyss|Void]] itself
+- Tempered in the [Void](../lore/abyss.md) itself
 - Requires blood sacrifice to activate its true power
 
 ### The Mighty Eight
-The [[characters/mighty-eight|Mighty Eight]] defeated the Archmage using this blade:
+The [Mighty Eight](../characters/mighty-eight.md) defeated the Archmage using this blade:
 - They had stolen it from his vault
 - The Seventh Hero — a warrior — delivered the final blow
 - It was the only way to kill his physical form
@@ -126,7 +126,7 @@ Some legends say Soul Breaker is semi-sentient:
 
 ## Related Entries
 
-- [[characters/archmage-of-ur|Archmage of Ur]] — created it, uses it
-- [[characters/mighty-eight|Mighty Eight]] — used it to kill him
-- [[items/black-stones-of-ur|Black Stones of Ur]] — related Void-techniques
-- [[lore/abyss|Void]] — forged in its essence
+- [Archmage of Ur](../characters/archmage-of-ur.md) — created it, uses it
+- [Mighty Eight](../characters/mighty-eight.md) — used it to kill him
+- [Black Stones of Ur](black-stones-of-ur.md) — related Void-techniques
+- [Void](../lore/abyss.md) — forged in its essence

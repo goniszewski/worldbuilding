@@ -120,10 +120,10 @@ summary: "[One sentence, present tense, no period at end]"
 6. Known Members (optional)
 7. Story Use (optional adaptation notes)
 
-**Wiki-links from this type:**
-- Other races: `[[race-file|Display Name]]`
-- Lore references: `[[lore-file|Lore Topic]]`
-- Characters: `[[character-file|Character Name]]`
+**Internal links from this type:**
+- Other races: `[Display Name](../races/race-file.md)`
+- Lore references: `[Lore Topic](../lore/lore-file.md)`
+- Characters: `[Character Name](../characters/character-file.md)`
 
 ---
 
@@ -379,8 +379,8 @@ summary: "[One sentence describing what it is]"
 
 | Name | Type | Relationship |
 |------|------|--------------|
-| [[file|Display]] | Race/Faction | Description |
-| [[file|Display]] | Character | Description |
+| [Display](file.md) | Race/Faction | Description |
+| [Display](file.md) | Character | Description |
 ```
 
 ### TODO Section (All Types)
@@ -397,19 +397,19 @@ summary: "[One sentence describing what it is]"
 
 ---
 
-## Wiki-Link Format
+## Internal Link Format
 
 | Purpose | Syntax | Example |
 |---------|--------|---------|
-| Explicit text | `[Display](file\.md)` | `[Pierwsi](pierwsi\.md)` |
-| Implicit text | `[[file]]` | `[[pierwsi]]` |
-| Within sentences | `[Display](file\.md)` | "The [Pierwsi](pierwsi\.md) believe..." |
+| Explicit text | `[Display](file.md)` | `[Pierwsi](pierwsi.md)` |
+| Same as title | `[Pierwsi](pierwsi.md)` | `[Pierwsi](pierwsi.md)` |
+| Within sentences | `[Display](file.md)` | "The [Pierwsi](pierwsi.md) believe..." |
 
 **Folder prefixes for disambiguation:**
 ```markdown
-- [[races/pierwsi|Pierwsi]]
-- [[creatures/yazghur|Yazghur]]
-- [[characters/velan-kivar|Velan Kivar]]
+- [Pierwsi](races/pierwsi.md)
+- [Yazghur](creatures/yazghur.md)
+- [Velan Kivar](characters/velan-kivar.md)
 ```
 
 ---
@@ -453,7 +453,7 @@ Before committing:
   - [ ] TODO section at bottom (if incomplete)
 
 - [ ] **Links valid**
-  - [ ] Wiki-links use `[[file|display]]` format
+  - [ ] Internal links use Markdown link format
   - [ ] No broken links to non-existent files
   - [ ] Related files added to both entries
 
@@ -489,27 +489,27 @@ summary: "A warrior culture of the Silver Woods, bound by the Compact"
 ---
 ```
 
-### ❌ Wiki-Link Mistakes
+### ❌ Link Mistakes
 ```markdown
-<!-- Wrong: implicit text -->
-See the [[pierwsi]] for details.
+<!-- Wrong: display text points to the wrong file -->
+See [Pierwsi](the-cleansed.md) for details.
 
 <!-- Wrong: broken path -->
-See [[races/pierwsi]] for details.
+See [Pierwsi](races/pierwsi.md) for details.
 
-<!-- Wrong: period outside link -->
-The [[pierwsi]] are ancient.
+<!-- Wrong: missing extension -->
+The [Pierwsi](pierwsi) are ancient.
 ```
 
 ```markdown
 <!-- Correct: explicit text -->
-See [[pierwsi|the Pierwsi]] for details.
+See [the Pierwsi](pierwsi.md) for details.
 
-<!-- Correct: file name only -->
-See [[pierwsi]] for details.
+<!-- Correct: title as link text -->
+See [Pierwsi](pierwsi.md) for details.
 
-<!-- Correct: period before or integrated -->
-The [[pierwsi|Pierwsi]] are ancient.
+<!-- Correct: valid file target -->
+The [Pierwsi](pierwsi.md) are ancient.
 ```
 
 ---

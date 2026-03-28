@@ -11,11 +11,11 @@ summary: "Index of all sapient races in the fantasy setting."
 
 ## Overview
 
-The sapient races are the thinking, feeling peoples who shape the history and future of the realm. Each descended from the ancient [[../lore/the-cleansed|The Cleansed]], transformed by contact with magic during the [[../lore/age-of-light|Age of Light]].
+The sapient races are the thinking, feeling peoples who shape the history and future of the realm. Each descended from the ancient [The Cleansed](../lore/the-cleansed.md), transformed by contact with magic during the [Age of Light](../lore/age-of-light.md).
 
 ## Origin
 
-All modern races descended from the extinct **[[../lore/the-cleansed|The Cleansed]]**, transformed through the [[../lore/origins-of-races|Origins of the Races]]. The three ancestral beings — [[../characters/torr|Torr]], [[../characters/daraster|Daraster]], and [[../characters/lesandra|Lesandra]] — became the progenitors of:
+All modern races descended from the extinct **[The Cleansed](../lore/the-cleansed.md)**, transformed through the [Origins of the Races](../lore/origins-of-races.md). The three ancestral beings — [Torr](../characters/torr.md), [Daraster](../characters/daraster.md), and [Lesandra](../characters/lesandra.md) — became the progenitors of:
 
 | Race | Ancestor | Origin Entry |
 |------|----------|--------------|
@@ -37,13 +37,13 @@ All modern races descended from the extinct **[[../lore/the-cleansed|The Cleanse
 ## Geographic Distribution
 
 ### Northern Regions
-- [[../places/torrs-gate|Torr's Gate]] divides:
+- [Torr's Gate](../places/torrs-gate.md) divides:
   - **North**: Naterian Hegemony
   - **South**: Human Kingdom
 
 ### Central Regions
 - Mixed populations, major cities
-- [[../places/silver-woods|The Silver Woods]] — Compact territory
+- [The Silver Woods](../places/silver-woods.md) — Compact territory
 
 ### Underground
 - Dwarven kingdoms between human and Naterian lands
@@ -58,7 +58,7 @@ All modern races descended from the extinct **[[../lore/the-cleansed|The Cleanse
 
 ## Related Topics
 
-- [[../lore/origins-of-races|Origins of the Races]] — Detailed creation mythology
-- [[../lore/age-of-light|Age of Light]] — The paradise before magic
-- [[../places/archipelago-of-light|Archipelago of Light]] — Lost homeland
-- [[../lore/religions|Religions]] — How races interpret their origins
+- [Origins of the Races](../lore/origins-of-races.md) — Detailed creation mythology
+- [Age of Light](../lore/age-of-light.md) — The paradise before magic
+- [Archipelago of Light](../places/archipelago-of-light.md) — Lost homeland
+- [Religions](../lore/religions.md) — How races interpret their origins

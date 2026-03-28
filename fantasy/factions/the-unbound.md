@@ -74,8 +74,8 @@ When violence happens, it is usually improvised, desperate, and costly. The move
 
 ## Notable Figures
 
-- [[characters/the-hushed|The Hushed]] — elusive coordinator, prophet, or manipulator depending on who speaks
-- [[characters/lyra-dawnwhisper|Lyra Dawnwhisper]] — one of their most valuable fugitives and least reliable loyalists
+- [The Hushed](../characters/the-hushed.md) — elusive coordinator, prophet, or manipulator depending on who speaks
+- [Lyra Dawnwhisper](../characters/lyra-dawnwhisper.md) — one of their most valuable fugitives and least reliable loyalists
 
 ## For Story Use
 

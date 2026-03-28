@@ -66,7 +66,7 @@ He is caught between:
 
 ## Relationships
 
-- **[[factions/highdam|Lord Eggar Highdam]]**: Complicated love — they respect but do not understand each other
+- **[Lord Eggar Highdam](lord-eggar-highdam.md)**: Complicated love — they respect but do not understand each other
 - **The Traditionalists**: Secret sympathies — but cannot openly support them
 - **The Reformists**: Supports their goals, not their methods
 - **His Mother's Memory**: The ghost that guides him

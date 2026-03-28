@@ -31,7 +31,7 @@ Inventor, decent swordsman, and lover of practical — often extremely pragmatic
 
 ## Relationships
 
-- **[[damara-loehen|Damara Lo'Ehen]]**: Frequent debate partner; argues science vs. faith
+- **[Damara Lo'Ehen](damara-loehen.md)**: Frequent debate partner; argues science vs. faith
 
 ## For Writers / Game Designers
 

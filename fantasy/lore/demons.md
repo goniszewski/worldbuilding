@@ -38,7 +38,7 @@ summary: Chaotic beings born from fragments of Aspects — shaped by emotions an
 
 ## Description
 
-**Demons** are chaotic beings that originated from fragments of [[lore/aspects|Aspects]] — pieces that tore away when the [[lore/abyss|Void]] made contact with the physical world through [[characters/the-first-one|The First One]].
+**Demons** are chaotic beings that originated from fragments of [Aspects](aspects.md) — pieces that tore away when the [Void](abyss.md) made contact with the physical world through [The First One](../characters/the-first-one.md).
 
 Unlike their parent entities, demons are:
 - **Emotion-driven** — shaped by the dominant emotion present during their formation
@@ -49,8 +49,8 @@ Unlike their parent entities, demons are:
 ### Formation Process
 
 According to legend:
-1. [[characters/the-first-one|The First One]] established a connection with the [[lore/abyss|Void]]
-2. Contact with the physical dimension caused fragments to tear from each [[lore/aspects|Aspect]]
+1. [The First One](../characters/the-first-one.md) established a connection with the [Void](abyss.md)
+2. Contact with the physical dimension caused fragments to tear from each [Aspect](aspects.md)
 3. These fragments mixed together in the Void
 4. During contact with living beings, the dominant emotion shaped the demon's form
 5. Violent emotions created violent demons; other emotions created other types
@@ -96,7 +96,7 @@ Pacts with demons are possible but dangerous:
 - Demons are too chaotic and alien to negotiate with reliably
 - No mage can be certain what influence the pact will have
 
-One of the few known individuals who have achieved anything with demon pacts is the [[characters/archmage-of-ur]].
+One of the few known individuals who have achieved anything with demon pacts is the [Archmage of Ur](../characters/archmage-of-ur.md).
 
 ---
 

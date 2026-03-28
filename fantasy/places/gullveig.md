@@ -35,9 +35,9 @@ summary: Dwarven merchant city known for commerce and trade — also called Gull
 
 ### Relationship with Andvari
 
-Gullveig and [[places/andvari|Andvari]] are major economic rivals, competing for trade routes and influence across dwarven territories and with surface nations.
+Gullveig and [Andvari](andvari.md) are major economic rivals, competing for trade routes and influence across dwarven territories and with surface nations.
 
 ## Related
 
-- [[places/andvari|Andvari]] — Rival merchant guild
-- [[races/dwarves|Dwarves]] — Parent race
+- [Andvari](andvari.md) — Rival merchant guild
+- [Dwarves](../races/dwarves.md) — Parent race

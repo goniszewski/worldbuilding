@@ -113,10 +113,10 @@ summary: "[Short summary of what this directory contains.]"
 - Keep the H1 short and match the category name.
 - Add a one-line blockquote that sets the tone and scope.
 - Link only to entries that currently exist in the repository.
-- Prefer wiki links for internal references.
+- Prefer standard Markdown links for internal references.
 - Inside subdirectories, use links relative to that folder, for example:
-  - `[[yazghur|Yazghur]]` for files in the same directory
-  - `[[../lore/magic-system|Spirit Binding]]` for sibling directories
+  - `[Yazghur](creatures/yazghur.md)` for files in the same directory
+  - `[Spirit Binding](lore/magic-system.md)` for sibling directories
 - Avoid placeholder sections for folders or documents that do not yet exist.
 
 ---
@@ -208,7 +208,7 @@ Keep descriptions **narrative** — describe *what happens*, not *how it resolve
 
 | Race | Relationship |
 |------|--------------|
-| [[Race]] | Description |
+| [Race Name](../races/race-name.md) | Description |
 
 ## Known [Plural]
 
@@ -287,7 +287,7 @@ Keep descriptions **narrative** — describe *what happens*, not *how it resolve
 
 | Field | Value |
 |-------|-------|
-| Race | [[Race Name]] |
+| Race | [Race Name](../races/race-name.md) |
 | Sex | Male/Female/Other |
 | Life Stage | Child / adult / elder / timeless |
 | Role | Noble / scholar / exile / warrior / etc. |
@@ -309,8 +309,8 @@ Keep descriptions **narrative** — describe *what happens*, not *how it resolve
 
 ## Relationships
 
-- **[[Character]]**: [Relationship]
-- **[[Character]]**: [Relationship]
+- **[Character Name](character-name.md)**: [Relationship]
+- **[Character Name](character-name.md)**: [Relationship]
 
 ## For Story Use
 
@@ -323,14 +323,14 @@ Keep descriptions **narrative** — describe *what happens*, not *how it resolve
 
 ---
 
-## Wiki-Style Links
+## Internal Links
 
-Use double brackets for internal links:
+Use standard Markdown links for internal references:
 
 ```markdown
-- [[Pierwsi (The First Ones)|Pierwsi]] — explicit text
-- [[Pierwsi]] — implicit (uses file title)
-- [[Torrs Gate (Brama Torra)|Torr's Gate]] — locations
+- [Pierwsi](../races/the-cleansed.md) — explicit text
+- [The Cleansed](../races/the-cleansed.md) — use the document title when it already fits
+- [Torr's Gate](../places/torrs-gate.md) — locations
 ```
 
 ---

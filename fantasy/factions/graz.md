@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, merchants, trade, wealth]
 related:
-  - "[[factions/czar|Czar]]"
-  - "[[factions/timrel|Timrel]]"
-  - "[[factions/skjor|Skjor]]"
+  - "[Czar](czar.md)"
+  - "[Timrel](timrel.md)"
+  - "[Skjor](skjor.md)"
 summary: "Wealthy merchant house that rose to nobility through commerce, controlling the Redwood trade hub."
 ---
 

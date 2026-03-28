@@ -60,7 +60,7 @@ She is a brilliant strategist who has never lost a negotiation. She never rushes
 ## Relationships
 
 - **Strażnik Mgły** (Mist Keeper): Her most trusted advisor; they share everything
-- **[[characters/lonen-czar|Lonen Czar]]**: Business arrangement; she finds him amusing
+- **[Lonen Czar](lonen-czar.md)**: Business arrangement; she finds him amusing
 - **Her Children**: All dead or estranged; she considers this an acceptable loss
 - **The Valley**: She loves it more than any person
 

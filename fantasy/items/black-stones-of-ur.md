@@ -16,7 +16,7 @@ summary: Three mythical artifacts created by the Archmage of Ur, each capable of
 
 ## Description
 
-Three mythical artifacts created by the [[characters/archmage-of-ur|Archmage of Ur]], each granting their owner **immeasurable power** over the nature of reality. According to legend, the Archmage was the only one capable of mastering them.
+Three mythical artifacts created by the [Archmage of Ur](../characters/archmage-of-ur.md), each granting their owner **immeasurable power** over the nature of reality. According to legend, the Archmage was the only one capable of mastering them.
 
 > *"Three stones, three paths to eternity. Whoever unites them shall become a god among mortals."*
 > — Fragment of ancient cult writings
@@ -34,7 +34,7 @@ Each stone represents a different aspect of power:
 ## Known Stones
 
 ### The Sacred Lantern of the Elves
-The Sacred Lantern in the elven capital is in truth a **bound First Stone**. For centuries, elves believed it to be a gift from [[characters/lesandra|Lesandra]] — blessed light protecting their people.
+The Sacred Lantern in the elven capital is in truth a **bound First Stone**. For centuries, elves believed it to be a gift from [Lesandra](../characters/lesandra.md) — blessed light protecting their people.
 
 When the cult of the Archmage destroyed the binding spell, the stone exploded with force comparable to a **mini-atom bomb**.
 

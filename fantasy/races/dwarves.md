@@ -9,12 +9,12 @@ tags:
   - miners
   - forbidden-unions
 related:
-  - "[[lore/origins-of-races]]"
-  - "[[characters/torr|Torr]]"
-  - "[[characters/daraster|Daraster]]"
-  - "[[characters/lesandra|Lesandra]]"
-  - "[[races/humans|Humans]]"
-  - "[[races/naterians|Naterians]]"
+  - "[Origins of the Races](../lore/origins-of-races.md)"
+  - "[Torr](../characters/torr.md)"
+  - "[Daraster](../characters/daraster.md)"
+  - "[Lesandra](../characters/lesandra.md)"
+  - "[Humans](humans.md)"
+  - "[Naterians](naterians.md)"
 summary: "Short, sturdy underground craftsmen and miners. Descendants of forbidden unions between children of Torr and Daraster, punished and driven underground by the other races."
 ---
 
@@ -40,7 +40,7 @@ summary: "Short, sturdy underground craftsmen and miners. Descendants of forbidd
 
 ## Origin
 
-The Dwarves are considered descendants of **forbidden unions** — children born from the joining of [[characters/torr|Torr's]] bloodline with [[characters/daraster|Daraster's]] bloodline.
+The Dwarves are considered descendants of **forbidden unions** — children born from the joining of [Torr's](../characters/torr.md) bloodline with [Daraster's](../characters/daraster.md) bloodline.
 
 As punishment for this "disgrace," they were driven underground by the other races — especially by the Naterians, who despised their mixed heritage (and received that hatred in return).
 
@@ -110,7 +110,7 @@ This creates ongoing border tensions between dwarven kingdoms and the Nater Hege
 ## Known Dwarves
 
 - **Heimdall Gulltan** — Current dwarven king, ruler of the underground kingdoms
-- [[characters/martin-guecventrak|Martin Guecventrak]] — Inventor from Blackmounts
+- [Martin Guecventrak](../characters/martin-guecventrak.md) — Inventor from Blackmounts
 
 ## Notes
 

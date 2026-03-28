@@ -103,6 +103,6 @@ The widest and shallowest section of the river — the third sister stretches ac
 
 ## Connections
 
-- Part of: [Delathor lands](../places/human-kingdom.md)
+- Part of: Delathor lands
 - Flows through: [TODO]
 - Feeds into: [TODO]

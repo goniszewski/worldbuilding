@@ -14,7 +14,7 @@ summary: The true ancestors of dwarvenkind — a continent-spanning civilization
 
 A theoretically once-existing people who vanished under unexplained circumstances. Research conducted independently over centuries — primarily into terrain formation — has presented clues suggesting that over 10-12 thousand years ago, portions of currently known territories may have been inhabited by an unknown civilization.
 
-> **Popular Theory:** Some scholars suggest they may have been ancestors of the [[hegomonai nateriańska|Pure]], which — if proven — could shake the current world by convincing people that the Pure were the first intelligent beings to arise.
+> **Popular Theory:** Some scholars suggest they may have been ancestors of the Pure, which — if proven — could shake the current world by convincing people that the Pure were the first intelligent beings to arise.
 
 No hard evidence has been found to support this theory, though research continues despite unfavorable views from devout followers of nearly all religions (except Naterian).
 
@@ -30,7 +30,7 @@ No hard evidence has been found to support this theory, though research continue
 
 **Possible explanations for their disappearance:**
 - Natural catastrophe
-- Catastrophe caused by opening a passage to the [[lore/abyss]]
+- Catastrophe caused by opening a passage to the [Abyss](abyss.md)
 - Goddess's wrath
 
 ---
@@ -51,7 +51,7 @@ The religion and beliefs based on "The First and the Pure" conveniently claim th
 
 ### The Connected Abyss
 
-Thousands of years ago, the [[lore/abyss]] was far more connected to the world of the living than today. Demons could much more easily pierce into this world through summoning — and did so quite willingly.
+Thousands of years ago, the [Abyss](abyss.md) was far more connected to the world of the living than today. Demons could much more easily pierce into this world through summoning — and did so quite willingly.
 
 ### The Threat
 
@@ -73,7 +73,7 @@ The traditionalists were winning. Their armies — controlled by demons — deva
 The most eminent mages of the Ancient Ones had been preparing the ritual for decades. When civil war forced theory into practice, they acted in desperation.
 
 **What the ritual achieved:**
-- Trapped the [[lore/abyss]] within a barrier
+- Trapped the [Abyss](abyss.md) within a barrier
 - Drew power from:
   - Mana wells within the Abyss itself
   - The power of demons (whose influence was thus limited)
@@ -183,7 +183,7 @@ What if they also built the **Sky Monuments** as failsafes — emergency beacons
 
 ## The Cleansed — Descendants of Survivors
 
-The [[lore/the-cleansed|The Cleansed]] are not the ancestors of the modern races. They are the **descendants of the Ancient One survivors** — those who emerged from bunkers millennia after the Fall.
+The [The Cleansed](the-cleansed.md) are not the ancestors of the modern races. They are the **descendants of the Ancient One survivors** — those who emerged from bunkers millennia after the Fall.
 
 ### Timeline Reconstruction
 
@@ -213,7 +213,7 @@ Their "peace" was not natural harmony — it was:
 
 ### The First One's Discovery
 
-When [[characters/the-first-one|The First One]] found "strange elements" in a cave, she wasn't discovering magic for the first time.
+When [The First One](../characters/the-first-one.md) found "strange elements" in a cave, she wasn't discovering magic for the first time.
 
 She was **rediscovering her ancestors' power**.
 

@@ -48,7 +48,7 @@ Unlike surface dwellers, the Juuhroni show no fear of deep water. They rise from
 
 ### The Verdance Incident
 
-The most detailed account comes from [[characters/arven-doyne|Arven Doyne]], a survivor of a merchant galley expedition. The *Verdance* was searching for a lost spice ship when a catastrophic storm drove it onto the shores of a nameless bog-bay. The crew, desperate for fresh water, ventured inland and found only death.
+The most detailed account comes from [Arven Doyne](../characters/arven-doyne.md), a survivor of a merchant galley expedition. The *Verdance* was searching for a lost spice ship when a catastrophic storm drove it onto the shores of a nameless bog-bay. The crew, desperate for fresh water, ventured inland and found only death.
 
 > *"The mokradła were black and grew enormous trees, often leaning on others or deformed and half-rotted. Above the water reaching to our waists hung strange vapors, similar to fog but denser, more sinister."*
 
@@ -80,7 +80,7 @@ This transformation aspect troubles all subsequent readers of Doyne's account. D
 
 Central to observed Juuhroni worship is a floating black stone at the water's edge. It is irregular, narrow, and tall—and hovers without apparent cause. The creatures treat it with religious fervor, approaching on their knees, prostrating, and conducting elaborate rituals in its presence.
 
-**Hypothesis:** The stone may be connected to [[lore/abyss|the Abyss]] or other dimensional anomalies. Its anti-gravity properties suggest magical or divine origin. Further investigation is impossible without surviving contact.
+**Hypothesis:** The stone may be connected to [the Abyss](../lore/abyss.md) or other dimensional anomalies. Its anti-gravity properties suggest magical or divine origin. Further investigation is impossible without surviving contact.
 
 ### Blood Sacrifice
 

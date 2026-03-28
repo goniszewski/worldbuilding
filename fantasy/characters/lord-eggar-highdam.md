@@ -67,7 +67,7 @@ He is obsessed with making Highdam self-sufficient — dams, water, food, defens
 
 ## Relationships
 
-- **[[factions/highdam|Lorian Highdam]]**: His heir, whose bisexuality he privately accepts but publicly cannot defend
+- **[Lorian Highdam](../factions/highdam.md)**: His heir, whose bisexuality he privately accepts but publicly cannot defend
 - **The Naterian Church**: Hostile — they want his head
 - **His People**: Divided — half follow his reforms, half pray for his downfall
 - **His Dead Wife**: Haunts his dreams

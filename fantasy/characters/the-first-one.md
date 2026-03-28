@@ -29,9 +29,9 @@ summary: "The last ruler of the Cleansed whose curiosity led to the discovery of
 
 ## Description
 
-The **First One** was the last ruler of the [[races/the-cleansed|The Cleansed]] during the **[[lore/age-of-light|Age of Light]]**. Unlike her predecessors — who maintained peace and tradition — she was characterized by **curiosity and inquisitiveness**.
+The **First One** was the last ruler of the [The Cleansed](../races/the-cleansed.md) during the **[Age of Light](../lore/age-of-light.md)**. Unlike her predecessors — who maintained peace and tradition — she was characterized by **curiosity and inquisitiveness**.
 
-This thirst for knowledge led her to investigate a strange element discovered in an underground cave. Scholars believe it was either a large deposit of [[items/blue-ore|blue ore]] or one of the legendary [[items/black-stones-of-ur|Black Stones of Ur]] — both saturated with pure magic.
+This thirst for knowledge led her to investigate a strange element discovered in an underground cave. Scholars believe it was either a large deposit of [blue ore](../items/blue-ore.md) or one of the legendary [Black Stones of Ur](../items/black-stones-of-ur.md) — both saturated with pure magic.
 
 Her prolonged exposure to magical energy transformed her fundamentally.
 
@@ -39,12 +39,12 @@ Her prolonged exposure to magical energy transformed her fundamentally.
 
 Exposed to magic, the First One's soul was:
 - **Blessed** (or tainted, depending on interpretation)
-- **Connected to the [[lore/abyss|Void]]** — a multi-layered dimension
+- **Connected to the [Void](../lore/abyss.md)** — a multi-layered dimension
 
 Within the Void:
-1. **[[lore/aspects|Aspects]]** — beings of immense power with indeterminate consciousness — imprinted on her soul
+1. **[Aspects](../lore/aspects.md)** — beings of immense power with indeterminate consciousness — imprinted on her soul
 2. They granted her the ability to pass into their dimension after death
-3. Fragments tore from each Aspect, mixing to create [[lore/demons|demons]]
+3. Fragments tore from each Aspect, mixing to create [demons](../lore/demons.md)
 
 The Aspects and demons nested within her soul began to speak to her.
 

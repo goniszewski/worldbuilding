@@ -122,7 +122,7 @@ For **lesser offenses** (lighter than murder, conspiracy, or treason):
 
 ## Related Entries
 
-- [[races/naterians|Naterians]] — The race behind the Hegemony
+- [Naterians](../races/naterians.md) — The race behind the Hegemony
 - Zakkari Mages — The magical dominion
 - Agno Warriors — The martial dominion
 - Intar — The parliamentary city-capital

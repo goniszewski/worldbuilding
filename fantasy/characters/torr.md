@@ -49,13 +49,13 @@ According to legend, **Torr** was the most distinct of the First One's three chi
 
 Torr played a central role in the conflict following the First One's death:
 
-1. **War against siblings** — Unable to accept [[characters/daraster|Daraster]] and [[characters/lesandra|Lesandra's]] marriage, he turned against them
+1. **War against siblings** — Unable to accept [Daraster](daraster.md) and [Lesandra's](lesandra.md) marriage, he turned against them
 2. **Unmastered magic** — The war used magical forces none could control, devastating the home island
 3. **Departure** — He left with his followers in search of new lands, establishing his own domain
 
 ## Legacy: The Naterians
 
-Torr's descendants are the **[[races/naterians|Naterians]]** (also called [[races/orcs|Orcs]]).
+Torr's descendants are the **[Naterians](../races/naterians.md)** (also called [Orcs](../races/orcs.md)).
 
 ### Characteristics Inherited
 

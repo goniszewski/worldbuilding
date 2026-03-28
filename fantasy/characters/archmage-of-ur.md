@@ -31,13 +31,13 @@ summary: "An immortal archmage who merged his soul with the Void, seeking to bec
 
 ### The Fall
 
-The Archmage of Ur was once the most powerful mage in the world. He discovered the power of the [[items/black-stones-of-ur|Black Stones of Ur]] and was the only one capable of mastering them.
+The Archmage of Ur was once the most powerful mage in the world. He discovered the power of the [Black Stones of Ur](../items/black-stones-of-ur.md) and was the only one capable of mastering them.
 
-However, in pursuing immortality, he committed a terrible mistake — **he merged his soul with a chaotic entity** from the [[lore/abyss|Void]], becoming independent of the body.
+However, in pursuing immortality, he committed a terrible mistake — **he merged his soul with a chaotic entity** from the [Void](../lore/abyss.md), becoming independent of the body.
 
 ### Death
 
-He was killed by the [[characters/mighty-eight|Mighty Eight]] — a group of eight of the world's most powerful heroes. However, having already completed the soul-merging ritual with the Void, **he survived**.
+He was killed by the [Mighty Eight](mighty-eight.md) — a group of eight of the world's most powerful heroes. However, having already completed the soul-merging ritual with the Void, **he survived**.
 
 ### Current State
 
@@ -68,9 +68,9 @@ The Archmage noticed that the Void (chaos) needs a **conscious, orderly mind** t
 ### Doctrine
 
 The cult believes in the **Revelation** — the moment when the Archmage fully returns to the world. They prepare for this through:
-- Collecting [[items/blue-ore|blue ore]]
-- Searching for [[items/black-stones-of-ur|Black Stones]]
-- Sabotaging the [[factions/silver-compact|Silver Compact]] from within
+- Collecting [blue ore](../items/blue-ore.md)
+- Searching for [Black Stones](../items/black-stones-of-ur.md)
+- Sabotaging the [Silver Compact](../factions/silver-compact.md) from within
 
 ## The Offer to the Hero
 

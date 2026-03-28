@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, highlands, goat-god, ancient-religion]
 related:
-  - "[[factions/winters|Winters]]"
-  - "[[factions/mort|Mort]]"
-  - "[[factions/naterian-hegemony|Naterian Hegemony]]"
+  - "[Winters](winters.md)"
+  - "[Mort](mort.md)"
+  - "[Naterian Hegemony](naterian-hegemony.md)"
 summary: "Mountain clan worshipping the Kozi Bóg (Goat God) for over a millennium, dwelling in the high crags."
 ---
 

@@ -17,7 +17,7 @@ summary: Eight legendary heroes who defeated the Archmage of Ur. Their story ser
 
 ## Overview
 
-The Mighty Eight were a legendary band of eight heroes who, five centuries ago, defeated the [[characters/archmage-of-ur|Archmage of Ur]] and sealed away his power. Their victory ended the Age of Darkness and ushered in the current era.
+The Mighty Eight were a legendary band of eight heroes who, five centuries ago, defeated the [Archmage of Ur](archmage-of-ur.md) and sealed away his power. Their victory ended the Age of Darkness and ushered in the current era.
 
 > *"Eight mortals stood against a god. Only eight could have done what one could not."*
 > — The Chronicle of the Sundering
@@ -27,7 +27,7 @@ The Mighty Eight were a legendary band of eight heroes who, five centuries ago, 
 ### Circumstances
 As the Archmage grew more powerful and his cult spread chaos:
 - Nations fell one by one
-- The [[lore/ancient-ones|Ancients]] withdrew from the world
+- The [Ancients](../lore/ancient-ones.md) withdrew from the world
 - Desperate times called for desperate measures
 
 ### The Gathering
@@ -72,7 +72,7 @@ The key to defeating the Archmage was **Soul Breaker** — only this weapon coul
 **The Aftermath**:
 - Four survived
 - They sealed the Archmage's remains
-- They founded what would become the [[factions/silver-compact|Silver Compact]]
+- They founded what would become the [Silver Compact](../factions/silver-compact.md)
 - Their bloodline carries the burden to this day
 
 ## Legacy
@@ -149,7 +149,7 @@ Heroes can:
 
 ## Related Entries
 
-- [[characters/archmage-of-ur|Archmage of Ur]] — their enemy
-- [[items/soul-breaker|Soul Breaker]] — the killing weapon
-- [[factions/silver-compact|Silver Compact]] — their legacy
-- [[adventures/campaign-plot|Campaign Plot]] — the continuing story
+- [Archmage of Ur](archmage-of-ur.md) — their enemy
+- [Soul Breaker](../items/soul-breaker.md) — the killing weapon
+- [Silver Compact](../factions/silver-compact.md) — their legacy
+- [Campaign Plot](../adventures/campaign-plot.md) — the continuing story

@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, navy, sea, maritime]
 related:
-  - "[[factions/czar|Czar]]"
-  - "[[factions/graz|Graz]]"
-  - "[[factions/skjor|Skjor]]"
+  - "[Czar](czar.md)"
+  - "[Graz](graz.md)"
+  - "[Skjor](skjor.md)"
 summary: "The Sea Steward house commanding the realm's naval power and Grabarze Morscy fleet."
 ---
 

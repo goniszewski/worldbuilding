@@ -4,9 +4,9 @@ type: sapient-race
 category: races
 tags: [humanoids, dominant, diverse]
 related:
-  - "[[lore/origins-of-races]]"
-  - "[[characters/daraster|Daraster]]"
-  - "[[lore/the-cleansed]]"
+  - "[Origins of the Races](../lore/origins-of-races.md)"
+  - "[Daraster](../characters/daraster.md)"
+  - "[The Cleansed](../lore/the-cleansed.md)"
 summary: "The most widespread race—versatile, ambitious, and adaptable."
 ---
 
@@ -47,7 +47,7 @@ Humans are the dominant race in many regions of the known world. Known for their
 ## Political Structure
 
 ### The Human Kingdom
-- **Location**: Southern side of [[places/torrs-gate|Torr's Gate]]
+- **Location**: Southern side of [Torr's Gate](../places/torrs-gate.md)
 - **Capital**: [TODO]
 - **Ruler**: [TODO]
 
@@ -66,8 +66,8 @@ Humans are the dominant race in many regions of the known world. Known for their
 
 ## Known Humans
 
-- [[characters/angar]] — Bearer of the cursed Soul Breaker
-- [[characters/lyra-dawnwhisper|Lyra]] — Storm Binder, wanted by the Compact
+- [Angar](../characters/angar.md) — Bearer of the cursed Soul Breaker
+- [Lyra](../characters/lyra-dawnwhisper.md) — Storm Binder, wanted by the Compact
 
 ## Notes
 

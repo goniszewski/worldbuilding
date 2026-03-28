@@ -13,7 +13,7 @@ summary: "Index of regions, cities, strongholds, and landmarks in the fantasy se
 
 ## Overview Map
 
-![[world-map.jpg]]
+![world map](world-map.jpg)
 
 ## Named Locations
 

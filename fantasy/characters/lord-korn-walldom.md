@@ -59,7 +59,7 @@ He is not cruel, but he has lost the capacity for casual warmth. He performs his
 
 ## Relationships
 
-- **[[factions/walldom|Zygfryd Walldom]]**: His descendant and the true political operator; Korn trusts him completely
+- **[Zygfryd Walldom](zygfrd-walldom.md)**: His descendant and the true political operator; Korn trusts him completely
 - **The Church**: Knows what he is; cannot prove it
 - **His People**: Respected but not loved — he is too distant for love
 - **Other Lords**: Feared and avoided

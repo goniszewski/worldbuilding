@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, guardians, northern]
 related:
-  - "[[factions/czar|Czar]]"
-  - "[[factions/highdam|Highdam]]"
-  - "[[factions/skjor|Skjor]]"
+  - "[Czar](czar.md)"
+  - "[Highdam](highdam.md)"
+  - "[Skjor](skjor.md)"
 summary: "Ancient sentinel house guarding the realm's threshold for over a millennium."
 ---
 
@@ -57,8 +57,8 @@ The legendary ritual that grants extended life is forbidden by the Naterian Chur
 
 ## Key Figures
 
-- **[[Lord Korn Walldom]]** — The ancient lord, seemingly ageless, speaks rarely but carries the weight of centuries
-- **[[Zygfryd Walldom]]** — The true political operator, brilliant and ruthless
+- **[Lord Korn Walldom](../characters/lord-korn-walldom.md)** — The ancient lord, seemingly ageless, speaks rarely but carries the weight of centuries
+- **[Zygfryd Walldom](../characters/zygfrd-walldom.md)** — The true political operator, brilliant and ruthless
 
 ## History
 

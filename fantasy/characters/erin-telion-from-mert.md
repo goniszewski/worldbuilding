@@ -39,8 +39,8 @@ In her youth, she was assaulted (by someone she had feelings for), which caused 
 
 ## Relationships
 
-- **[[damara-loehen|Damara Lo'Ehen]]**: Treats her like a younger sister; potential late-game secret sharing
-- **[[characters/velan-kivar-zan-ehkovok|Velan Kivar Zan Ehkovok]]**: Watches him closely regarding Damara; has mixed feelings about him from the start
+- **[Damara Lo'Ehen](damara-loehen.md)**: Treats her like a younger sister; potential late-game secret sharing
+- **[Velan Kivar Zan Ehkovok](velan-kivar-zan-ehkovok.md)**: Watches him closely regarding Damara; has mixed feelings about him from the start
 
 ## For Writers / Game Designers
 

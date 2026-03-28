@@ -11,7 +11,7 @@ summary: "Core reference bible for the fantasy setting, covering factions, histo
 
 ## Origin of the Races
 
-According to legend, the world was once inhabited by the **[[lore/the-cleansed|The Cleansed]]** — a peaceful, magic-free people. Recent research suggests they were actually descendants of the **[[lore/ancient-ones|The Ancient Ones]]** — survivors of a magical catastrophe who lost their memories and heritage.
+According to legend, the world was once inhabited by the **[The Cleansed](lore/the-cleansed.md)** — a peaceful, magic-free people. Recent research suggests they were actually descendants of the **[The Ancient Ones](lore/ancient-ones.md)** — survivors of a magical catastrophe who lost their memories and heritage.
 
 | Ancestor | Legacy |
 |----------|--------|
@@ -20,7 +20,7 @@ According to legend, the world was once inhabited by the **[[lore/the-cleansed|T
 | **[Lesandra](characters/lesandra.md)** | [Elves](races/elves.md) — pure blood, magical affinity |
 | **Forbidden unions** | [Dwarves](races/dwarves.md) — driven underground |
 
-See: [[lore/origins-of-races|Origins of the Races]], [[lore/age-of-light|Age of Light]], [[places/archipelago-of-light|Archipelago of Light]]
+See: [Origins of the Races](lore/origins-of-races.md), [Age of Light](lore/age-of-light.md), [Archipelago of Light](places/archipelago-of-light.md)
 
 ## Core Rules
 
@@ -181,7 +181,7 @@ Three daughters with distinct personalities:
 | *"You should write a song about it, you know?"* | Velan | To anyone who will listen |
 | *"We hide our best from you and for you, to fully enjoy later, when the time is right."* | Unknown | Cryptic |
 
-See: [[lore/quotes|Full Quotes Collection]]
+See: [Full Quotes Collection](lore/quotes.md)
 
 ## Running Notes
 

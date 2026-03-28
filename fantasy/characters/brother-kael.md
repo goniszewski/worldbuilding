@@ -54,8 +54,8 @@ He is one of the few people who speaks to her as if she can still become someone
 
 ## Relationships
 
-- **[[characters/lyra-dawnwhisper|Lyra Dawnwhisper]]**: Companion, argument, and quiet source of hope
-- **[[factions/silver-compact|The Silver Compact]]**: Distrusts their moral claim even when he lacks proof
+- **[Lyra Dawnwhisper](lyra-dawnwhisper.md)**: Companion, argument, and quiet source of hope
+- **[The Silver Compact](../factions/silver-compact.md)**: Distrusts their moral claim even when he lacks proof
 - **Village clergy and healers**: Often shelter him, though few truly know him
 
 ## For Story Use

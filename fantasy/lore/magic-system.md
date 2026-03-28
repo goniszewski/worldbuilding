@@ -4,9 +4,9 @@ type: magic-system
 category: lore
 tags: [magic, arcana, demons, mana]
 related:
-  - "[[characters/archmage-of-ur]]"
-  - "[[factions/naterian-hegemony]]"
-  - "[[lore/mana]]"
+  - "[Archmage of Ur](../characters/archmage-of-ur.md)"
+  - "[Naterian Hegemony](../factions/naterian-hegemony.md)"
+  - "[Mana](mana.md)"
 summary: The universal system of arcane arts, practiced differently by each race — from disciplined human universities to elf magin councils and dwarven blue ore engineerin
 ---
 
@@ -24,7 +24,7 @@ There is no such thing as blood magic. Forbidden forms of the arcane arts certai
 
 Pacts with demons are possible, but a mage must be truly powerful for a demon to even notice them. Demons are too chaotic, alien, and beyond the boundaries of human reasoning to simply negotiate with. No mage can be entirely certain what exactly they're doing and what influence it will have on them and the demon during various rituals aimed at interaction between the two worlds.
 
-One of the few known living individuals who have achieved anything in this field is the [[characters/archmage-of-ur]].
+One of the few known living individuals who have achieved anything in this field is the [Archmage of Ur](../characters/archmage-of-ur.md).
 
 ---
 
@@ -45,7 +45,7 @@ In human kingdoms, there are many forms of education and organization for mages:
 Depending on their family's origin and wealth, the gift of magic can be seen as either good or bad:
 
 - **Good**: Poor families (education sponsored by the treasury) or progressive noble houses
-- **Bad**: Families believing in blood purity and closeness to the [[naterian-hegemony|Naterians]], or those with political aspirations (a mage brings unwanted attention)
+- **Bad**: Families believing in blood purity and closeness to the [Naterians](../factions/naterian-hegemony.md), or those with political aspirations (a mage brings unwanted attention)
 
 ### Oversight
 
@@ -105,7 +105,7 @@ Dwarves practically have no mages. Their magical abilities are negligible.
 - Create practical devices powered by energy from proper blue ore processing
 - Heavily research blue ore and methods of extracting greater energy from various sources
 
-**Contribution:** They authored the theory of [[lore/mana]] — pure, unformed energy that magic shapes and uses.
+**Contribution:** They authored the theory of [Mana](mana.md) — pure, unformed energy that magic shapes and uses.
 
 ---
 

@@ -9,8 +9,8 @@ summary: "Quick navigation index for the Silver Compact campaign setting."
 
 > High fantasy world where ancient magic, political intrigue, and forgotten gods shape the fate of mortals. The Silver Compact rules through arcane monopoly. Heroes uncover secrets buried since the Sundering.
 
-**[[BIBLE|Master Bible]]** — Full campaign reference
-**[[STYLE|Style Guide]]** — Documentation conventions
+**[Master Bible](BIBLE.md)** — Full campaign reference
+**[Style Guide](STYLE.md)** — Documentation conventions
 
 ---
 
@@ -39,22 +39,22 @@ summary: "Quick navigation index for the Silver Compact campaign setting."
 | [The First One](characters/the-first-one.md) | — | Divine | — |
 
 **Notable Figures:**
-- [[characters/torr|Torr]] — Ancestor of Naterians
-- [[characters/lesandra|Lesandra]] — Ancestor of Elves
-- [[characters/daraster|Daraster]] — Ancestor of Humans
-- [[characters/dhara-inspired-sister|Dhara-Inspired Sister]] — Divine figure
-- [[characters/mighty-eight|The Mighty Eight]] — Slayers of the Archmage
+- [Torr](characters/torr.md) — Ancestor of Naterians
+- [Lesandra](characters/lesandra.md) — Ancestor of Elves
+- [Daraster](characters/daraster.md) — Ancestor of Humans
+- [Dhara-Inspired Sister](characters/dhara-inspired-sister.md) — Divine figure
+- [The Mighty Eight](characters/mighty-eight.md) — Slayers of the Archmage
 
 **Human Noble Houses:**
-- [[factions/walldom|Lord Korn Walldom]] — Guardians of Torr's Gate
-- [[characters/chieftain-borin-mort|Chieftain Borin Mort]] — Berserker Clan
-- [[factions/daever|Lady Morwena Daever]] — Mist & Alchemy
-- [[factions/highdam|Lord Eggar Highdam]] — Dam Control
-- [[characters/lonen-czar|Lonen Czar]] — Political Intrigue
-- [[factions/tiltman|Lady Sylara Tiltman]] — Legendary Archers
-- [[factions/skjor|Lord Ragnar Skjor]] — Dwarf Trade
-- [[factions/tiel|Lord Gareth Tiel]] — Mining & Blue Ore
-- [[factions/timrel|Admiral Vesper Timrel]] — Naval Power
+- [Lord Korn Walldom](factions/walldom.md) — Guardians of Torr's Gate
+- [Chieftain Borin Mort](characters/chieftain-borin-mort.md) — Berserker Clan
+- [Lady Morwena Daever](factions/daever.md) — Mist & Alchemy
+- [Lord Eggar Highdam](factions/highdam.md) — Dam Control
+- [Lonen Czar](characters/lonen-czar.md) — Political Intrigue
+- [Lady Sylara Tiltman](factions/tiltman.md) — Legendary Archers
+- [Lord Ragnar Skjor](factions/skjor.md) — Dwarf Trade
+- [Lord Gareth Tiel](factions/tiel.md) — Mining & Blue Ore
+- [Admiral Vesper Timrel](factions/timrel.md) — Naval Power
 - Strażnik Drogi Alden Ermynt (Road Keeper Alden Ermynt) — Neutrality & Elves
 - Królowa Śniegu Hedda (Snow Queen Hedda) — Northern Isolation
 
@@ -144,5 +144,5 @@ summary: "Quick navigation index for the Silver Compact campaign setting."
 
 ## Key Links
 
-- [[BIBLE|Master Bible]] — Full reference with detailed lore
-- [[STYLE|Style Guide]] — Documentation conventions
+- [Master Bible](BIBLE.md) — Full reference with detailed lore
+- [Style Guide](STYLE.md) — Documentation conventions
