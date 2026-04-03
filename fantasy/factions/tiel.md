@@ -38,7 +38,7 @@ The *błękitna ruda* (literally: "blue ore") is Tiel's most valuable resource:
 |----------|-------------|
 | Appearance | Faint blue veins in dark rock |
 | Refined Form | Steel-blue metal that holds edges indefinitely |
-| Magical Affinity | Minor spirit-binding amplification |
+| Magical Affinity | Minor mana amplification |
 | Rarity | Found only in Tiel's valleys |
 | Control | Tiel holds monopoly |
 

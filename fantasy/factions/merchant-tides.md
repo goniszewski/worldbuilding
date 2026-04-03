@@ -61,7 +61,7 @@ Their greatest strength is not wealth alone, but plausibility. Everyone believes
 
 | Power | Relationship | Notes |
 |-------|--------------|-------|
-| [[factions/silver-compact|The Silver Compact]] | Cautious cooperation | Trade requires peace, but the Compact is bad for free movement |
+| [[factions/naterian-hegemony|The Naterian Hegemony]] | Competitive | Naval influence creates recurring friction |
 | [[factions/timrel|Timrel]] | Competitive overlap | Naval influence and sea control create recurring friction |
 | [[factions/graz|Graz]] | Strong commercial ties | Shared interest in commerce and distribution |
 | [[places/verath|Verath]] | Foundational | One of the coalition's most useful anchor ports |
@@ -74,11 +74,10 @@ Their greatest strength is not wealth alone, but plausibility. Everyone believes
 - Trade networks that become political actors
 
 ### Story Hooks
-- A merchant convoy disappears after carrying sealed Compact cargo
+- A merchant convoy disappears after carrying sealed arcane cargo
 - The Council of Captains fractures over whether to back a rebellion
 - A port ledger contains proof that one house funded both sides of a conflict
 
 ### Adaptation Notes
 - Merchant Tides work well as an unreliable stabilizing force
 - They should feel too practical to love and too necessary to ignore
-

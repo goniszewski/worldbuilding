@@ -2,12 +2,12 @@
 name: Fantasy Universe
 type: guide
 category: meta
-summary: "Quick navigation index for the Silver Compact campaign setting."
+summary: "Quick navigation index for the fantasy campaign setting."
 ---
 
 # Fantasy Universe
 
-> High fantasy world where ancient magic, political intrigue, and forgotten gods shape the fate of mortals. The Silver Compact rules through arcane monopoly. Heroes uncover secrets buried since the Sundering.
+> High fantasy world where ancient magic, political intrigue, and forgotten gods shape the fate of mortals. Heroes uncover secrets buried since the Sundering.
 
 **[[BIBLE|Master Bible]]** — Full campaign reference
 **[[STYLE|Style Guide]]** — Documentation conventions
@@ -30,9 +30,9 @@ summary: "Quick navigation index for the Silver Compact campaign setting."
 ### Characters
 | Character | Race | Role | House/Faction |
 |-----------|------|------|---------------|
-| [[characters/velan-kivar-zan-ehkovok|Velan Kivar Zan-Ehkovok]] | Human | Protagonist | Silver Compact |
+| [[characters/velan-kivar-zan-ehkovok|Velan Kivar Zan-Ehkovok]] | Human | Protagonist | — |
 | [[characters/erin-telion-from-mert|Erin Telion]] | Human | Protagonist | — |
-| [[characters/damara-loehen|Damara Loehen]] | Elven | Protagonist | Silver Compact |
+| [[characters/damara-loehen|Damara Loehen]] | Elven | Protagonist | — |
 | [[characters/martin-guecventrak|Martin Guecventrak]] | Dwarven | Ally | — |
 | [[characters/gwenn-youkto-imah-vueten|Gwenn]] | Human | Mercenary | — |
 | [[characters/archmage-of-ur|Archmage of Ur]] | — | Antagonist | — |
@@ -61,8 +61,9 @@ summary: "Quick navigation index for the Silver Compact campaign setting."
 ### Factions
 | Faction | Type | Notes |
 |---------|------|-------|
-| [[factions/silver-compact|The Silver Compact]] | Organization | Magical monopoly, player faction |
 | [[factions/naterian-hegemony|The Naterian Hegemony]] | Nation | Honor-bound warriors |
+| [[factions/merchant-tides|Merchant Tides]] | Guild | Commercial power, naval dominance |
+| [[factions/soul-keeper-brotherhood|Soul-Keeper Brotherhood]] | Secret Society | Mysterious, preserves souls |
 | [[factions/walldom|House Walldom]] | Noble House | Mountain guardians |
 | [[factions/mort|Clan Mort]] | Noble House | Berserkers |
 | [[factions/daever|House Daever]] | Noble House | Mist weavers |
@@ -79,10 +80,11 @@ summary: "Quick navigation index for the Silver Compact campaign setting."
 | Place | Region | Notes |
 |-------|--------|-------|
 | [[places/torrs-gate|Torr's Gate]] (Brama Torra) | North | Impassable mountain fortress |
-| [[places/silver-woods|The Silver Woods]] (Srebrne Lasy) | Central | Sacred grove, Compact HQ |
+| [[places/silver-woods|The Silver Woods]] (Srebrne Lasy) | Central | Sacred grove, ley line convergence |
 | [[places/sky-torch|Sky Torch]] (Niebiańska Pochodnia) | South | Eternal flame, no magic |
 | [[places/sky-torch-sword|Sky Sword]] (Niebiański Miecz) | North | Impossible blade, seals the Abyss |
 | [[places/great-bessam|The Great Bessam]] (Wielka Bessam) | Central | River with three daughters |
+| [[places/verath|Verath]] | Coast | Merchant hub, neutral ground |
 | [[places/archipelago-of-light|Archipelago of Light]] | Coast | Ancient homeland |
 | [[places/redwood|Redwood]] | East | Commerce hub |
 | [[places/gullveig|Gullveig]] | North | Dwarven trade city |
@@ -109,7 +111,7 @@ summary: "Quick navigation index for the Silver Compact campaign setting."
 ### Lore
 | Topic | Summary |
 |-------|---------|
-| [[lore/magic-system|Spirit Binding]] | Core magic system — contract with spirits, pay with memories/life |
+| [[lore/magic-system|Magic System]] | Core magic — arcane arts through study and discipline |
 | [[lore/mana|Mana]] | The lifeblood of magic |
 | [[lore/aspects|Aspects]] | Divine beings, children of the First One |
 | [[lore/ancient-ones|Ancient Ones]] | Pre-Sundering civilization, creators of magic |
@@ -117,7 +119,7 @@ summary: "Quick navigation index for the Silver Compact campaign setting."
 | [[lore/origins-of-races|Origins of Races]] | How races descended from the Cleansed |
 | [[lore/age-of-light|Age of Light]] | Era of the Ancient Ones |
 | [[lore/abyss|The Abyss]] | Shadow realm, seal held by Sky Sword |
-| [[lore/demons|Demons]] | Beings from beyond the Veil |
+| [[lore/demons|Demons]] | Beings from beyond the Void |
 | [[lore/religions|Religions]] | Dorenism, Oprenism, Arth'Adal, Alar |
 | [[lore/race-creation|Race Creation]] | GM guidance for new races |
 | [[lore/peoples-and-tribes|Peoples & Tribes]] | Cultural divisions |
@@ -134,7 +136,7 @@ summary: "Quick navigation index for the Silver Compact campaign setting."
 
 **Setting**: Post-Sundering fantasy realm, 523 P.S.
 
-**Core Conflict**: The Silver Compact maintains power through magical monopoly. Players navigate political intrigue, ancient magic, and a cult seeking to use Blue Ore explosives.
+**Core Conflict**: Political intrigue between noble houses, merchant guilds, and the Naterian Hegemony. Players navigate ancient magic, hidden conspiracies, and a cult seeking to use Blue Ore explosives.
 
 **Key Hook**: Find the Black Stones of Ur before the cult, stop the Archmage's ascension to godhood.
 

@@ -43,7 +43,7 @@ All modern races descended from the extinct **[[../lore/the-cleansed|The Cleanse
 
 ### Central Regions
 - Mixed populations, major cities
-- [[../places/silver-woods|The Silver Woods]] — Compact territory
+- [[../places/silver-woods|The Silver Woods]] — Ley line convergence, magical study
 
 ### Underground
 - Dwarven kingdoms between human and Naterian lands
@@ -54,7 +54,8 @@ All modern races descended from the extinct **[[../lore/the-cleansed|The Cleanse
 |---------|---------------|-------|
 | Human Kingdom | [[humans|Humans]] | Southern territories |
 | Nater Hegemony | [[naterians|Naterians]] | Northern territories |
-| Silver Compact | Mixed | Magical monopoly |
+| Merchant Tides | Mixed | Commercial maritime power |
+| Soul-Keeper Brotherhood | Mixed | Secretive preservation of souls |
 
 ## Related Topics
 
@@ -62,3 +63,4 @@ All modern races descended from the extinct **[[../lore/the-cleansed|The Cleanse
 - [[../lore/age-of-light|Age of Light]] — The paradise before magic
 - [[../places/archipelago-of-light|Archipelago of Light]] — Lost homeland
 - [[../lore/religions|Religions]] — How races interpret their origins
+- [[../lore/magic-system|Magic System]] — Arcane arts across the races

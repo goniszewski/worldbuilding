@@ -22,7 +22,7 @@ summary: "Black-skinned human mercenary with strange, green eyes. Pleasant but c
 | **Sex** | Female |
 | **Age** | 29 |
 | **Status** | Alive |
-| **Affiliation** | Silver Compact (formerly) |
+| **Affiliation** | None (formerly) |
 
 ## Description
 

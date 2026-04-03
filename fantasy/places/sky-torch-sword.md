@@ -39,7 +39,7 @@ At the northern tip of the Sacred Peninsula, embedded in the earth as if struck 
 
 Unlike any weapon ever forged, this monument defies explanation. A blade of impossible proportions, driven point-first into solid rock. The metal has not corroded. The stone has not crumbled. And no one has ever discovered how it was placed there.
 
-> *"I've seen the calculations. I've walked every inch of that blade. And I still can't tell you how it got there. No magic. No spirit binding. Just... physics breaking its own rules."*
+> *"I've seen the calculations. I've walked every inch of that blade. And I still can't tell you how it got there. No magic. No arcane arts. Just... physics breaking its own rules."*
 > — Martin Guecventrak, frustrated
 
 ---

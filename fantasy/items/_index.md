@@ -26,6 +26,6 @@ summary: "Index of all items in the fantasy setting."
 
 ## Related Topics
 
-- [[../lore/magic-system|Spirit Binding]] — Primary magical framework affecting crafted items
-- [[../factions/silver-compact|The Silver Compact]] — Regulates dangerous relics and magical materials
+- [[../lore/magic-system|Magic System]] — Arcane arts framework
+- [[../lore/mana|Mana]] — The energy behind magic
 - [[../CONTRIBUTING|Contributing Guide]] — Process for adding new entries

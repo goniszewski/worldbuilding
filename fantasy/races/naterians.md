@@ -82,7 +82,7 @@ Naterians are the most **diverse-looking race**:
 - Skeptical of legends about the Beginning
 - Still **venerate Torr**, the legendary First One
 - View magic as a **useful tool**, not tied to faith
-- Practical approach to spirit binding through the Compact
+- Practical approach to arcane magic — mages serve the state
 
 ## Relations with Other Races
 

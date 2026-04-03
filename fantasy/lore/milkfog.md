@@ -4,7 +4,7 @@ type: lore
 category: lore
 tags: [alchemy, fog, concealment, military, substance]
 related:
-  - lore/spirit-binding
+  - lore/mana
   - factions/naterian-adjudicator
 summary: "A dense, milky fog used to obscure entire areas, beloved by militaries and those with secrets to keep."
 ---

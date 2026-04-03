@@ -62,14 +62,14 @@ Martin has designed a weapon unlike any other — a device that doesn't destroy 
 2. The blue ore detonator creates interference on a separate magical frequency
 3. When the fuse rotates and the ores contact, the binding spells are **destabilized**
 4. The black ore's contained energy is released — not as explosion, but as a **wave of magical disruption**
-5. Everything magical in the radius **ceases to exist**: spells, enchantments, bound spirits, even air created by magic
+5. Everything magical in the radius **ceases to exist**: spells, enchantments, magical constructs, even air created by magic
 
 ### Effects
 
 | Radius | Effect |
 |--------|--------|
 | **Core (50m)** | Total magical annihilation — nothing survives |
-| **Blast Wave (2km)** | All magic ceases temporarily; enchantments fail, spirits flee or weaken |
+| **Blast Wave (2km)** | All magic ceases temporarily; enchantments fail, summoned beings dispersed |
 | **Distant (5km)** | Noticeable magical interference; minor spells destabilized |
 
 ### Martin's Philosophy
@@ -81,7 +81,7 @@ Martin has designed a weapon unlike any other — a device that doesn't destroy 
 - **Unpredictable**: Blue ore behavior varies by deposit
 - **Friendly fire**: Any magic user in range is affected
 - **Permanent**: There's no "undo" — if it worked, it worked
-- **Controversial**: The Silver Compact would classify this as a WMD
+- **Controversial**: Any arcane authority would classify this as a weapon of mass destruction
 
 ## For Writers / Game Designers
 
@@ -91,15 +91,15 @@ Martin has designed a weapon unlike any other — a device that doesn't destroy 
 |------|-------------|
 | **Proof of Concept** | Martin needs to test the bomb — but a real test would be catastrophic |
 | **The Prototype** | A single prototype exists — who wants to steal it? |
-| **Mass Production** | The Compact discovers the design; demands it be destroyed or weaponized |
+| **Mass Production** | Someone discovers the design; demands it be destroyed or weaponized |
 | **Counter-Measure** | What if enemies develop their own disruption technology? |
 
 ### Combat Use
 
 When the Disruption Bomb detonates:
-- **Magic users**: Spells fizzle, bindings break, familiar bonds severed
+- **Magic users**: Spells fizzle, enchantments break
 - **Enchanted items**: Temporarily inert or permanently destroyed
-- **Spirits**: Unbound and disoriented, potentially hostile
+- **Summoned beings**: Dispersed and disoriented
 - **The Bomb itself**: Also ceases to exist — one-time use only
 
 ### Roleplaying Opportunities

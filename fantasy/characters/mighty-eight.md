@@ -2,13 +2,12 @@
 name: Mighty Eight
 type: character
 category: characters
-tags: [heroes, ur, antagonists, history, legendary, compact]
+tags: [heroes, ur, antagonists, history, legendary]
 related:
   - characters/archmage-of-ur
   - items/soul-breaker
   - items/black-stones-of-ur
-  - factions/silver-compact
-summary: Eight legendary heroes who defeated the Archmage of Ur. Their story serves as backstory and inspiration for the campaig
+summary: Eight legendary heroes who defeated the Archmage of Ur. Their story serves as backstory and inspiration for the campaign.
 ---
 
 # Mighty Eight (Potężna Ósemka)
@@ -44,7 +43,7 @@ A seeress named **Mira of the Pale Moon** gathered eight individuals:
 | Second | Courage | Unbreakable Will | Front-line fighter |
 | Third | Compassion | Healing Touch | Support, medic |
 | Fourth | Truth | Word of Binding | Mage hunter |
-| Fifth | Sacrifice | Death's Bargain | Made deals with spirits |
+| Fifth | Sacrifice | Death's Bargain | Made deals with the Void |
 | Sixth | Shadow | Unseen Step | Infiltrator, assassin |
 | Seventh | Justice | The Final Strike | Delivered the killing blow |
 | Eighth | Hope | The Last Light | Kept the team together |
@@ -72,16 +71,9 @@ The key to defeating the Archmage was **Soul Breaker** — only this weapon coul
 **The Aftermath**:
 - Four survived
 - They sealed the Archmage's remains
-- They founded what would become the [[factions/silver-compact|Silver Compact]]
-- Their bloodline carries the burden to this day
+- Their descendants carry the burden to this day
 
 ## Legacy
-
-### The Compact's Origin
-The Silver Compact traces its lineage directly to the Mighty Eight:
-- First generation: The survivors and their families
-- Purpose: Guard against the Archmage's return
-- Evolution: From hunters to political power
 
 ### The Survivors
 
@@ -92,10 +84,10 @@ The Silver Compact traces its lineage directly to the Mighty Eight:
 | Fifth | Returned to the spirit realm |
 | Sixth | Faded into legend, became a cautionary tale |
 
-### Bloodline Curse
+### Bloodline Legacy
 Some believe descendants of the Mighty Eight are:
 - Protected by the virtue of their ancestor
-- Cursed if they betray the Compact's purpose
+- Cursed if they betray the memory of their ancestors
 - Marked for greatness... or doom
 
 ## Current Campaign Relevance
@@ -103,7 +95,7 @@ Some believe descendants of the Mighty Eight are:
 ### Hidden Secrets
 - One of the Eight may have had a hidden agenda
 - Possible survivor bloodline among current NPCs
-- The Compact may have strayed from the original purpose
+- History may have been rewritten over centuries
 
 ### The Archmage's Perspective
 The Archmage remembers the Eight:
@@ -115,7 +107,7 @@ The Archmage remembers the Eight:
 The Eight left behind:
 - Their weapons (scattered, lost, or sealed)
 - Personal journals (treasures of knowledge)
-- The original Compact charter (in their blood)
+- The original charter of their oath (in their blood)
 
 ## For Writers / Game Designers
 
@@ -129,7 +121,7 @@ The Eight left behind:
 The Mighty Eight weren't perfect:
 - Collateral damage in their battles
 - Difficult choices, desperate measures
-- Their methods shaped the Compact they created
+- Their legacy shaped history in ways they never intended
 
 ### Inspiration vs. Burden
 Heroes can:
@@ -151,5 +143,4 @@ Heroes can:
 
 - [[characters/archmage-of-ur|Archmage of Ur]] — their enemy
 - [[items/soul-breaker|Soul Breaker]] — the killing weapon
-- [[factions/silver-compact|Silver Compact]] — their legacy
 - [[adventures/campaign-plot|Campaign Plot]] — the continuing story

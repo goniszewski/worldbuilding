@@ -52,7 +52,8 @@ Humans are the dominant race in many regions of the known world. Known for their
 - **Ruler**: [TODO]
 
 ### Notable Organizations
-- **The Silver Compact** — Magical monopoly controlling spirit binding
+- **Merchant Tides** — Maritime trade coalition and commercial power
+- **Soul-Keeper Brotherhood** — Secretive order preserving souls
 - **Brotherhood of the Soul Breaker** — Ancient order (now fractured)
 
 ## Relations
@@ -67,7 +68,6 @@ Humans are the dominant race in many regions of the known world. Known for their
 ## Known Humans
 
 - [[characters/angar]] — Bearer of the cursed Soul Breaker
-- [[characters/lyra-dawnwhisper|Lyra]] — Storm Binder, wanted by the Compact
 
 ## Notes
 

@@ -23,7 +23,7 @@ summary: "Former city guard, skilled archer with trust issues. Cold exterior mas
 | **Age** | 28 |
 | **Height** | 172 cm |
 | **Status** | Alive |
-| **Affiliation** | Silver Compact (formerly) |
+| **Affiliation** | None (formerly) |
 
 ## Description
 

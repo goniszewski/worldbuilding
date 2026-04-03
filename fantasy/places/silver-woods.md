@@ -1,21 +1,21 @@
 ---
-name: The Silver Woods
+name: Silver Woods
 type: location
 category: places
 tags:
   - forest
   - sacred
-  - compact
   - mysterious
+  - arcane
 related:
-  - factions/silver-compact
   - places/whisperer-shrine
-summary: Ancient forest of silver-leafed trees — sacred ground and Compact HQ where magic feels different
+  - lore/religions
+summary: Ancient forest of silver-leafed trees — sacred ground where magic feels stronger and the air itself hums with power.
 ---
 
 # The Silver Woods
 
-> An ancient forest of silver leaves where the Compact's power feels older than law.
+> An ancient forest of silver leaves where the air itself hums with latent magic.
 
 ## Overview
 
@@ -28,6 +28,7 @@ The Silver Woods induces a persistent sense of being *watched*. This isn't hosti
 - Dreams of old memories while sleeping under silver trees
 - Sudden clarity of thought, followed by dangerous questions
 - Time passing differently (one night = two days outside)
+- An ever-present hum of energy just below hearing
 
 ## Geography
 
@@ -35,49 +36,58 @@ The Silver Woods induces a persistent sense of being *watched*. This isn't hosti
 The upper reaches where sunlight barely penetrates. Home to birds with metallic feathers and insects that glow faintly.
 
 ### The Root Cathedral
-Ancient tree roots twisted into archways and chambers. Popular site for Compact rituals and neutral ground negotiations.
+Ancient tree roots twisted into archways and chambers. Popular site for meditation, negotiations, and arcane rituals.
 
-### Ember-Sister's Pool
-Small lake where Lyra Dawnwhisper's spirit, Ember-Sister, was originally bound. The water is warm year-round and luminescent. **Restricted area** — Compact guards patrol.
+### The Ember Falls
+Small cascade where the water runs warm and glows faintly orange at sunset. Natural ley line convergence point. Scholars believe this is where the forest's unique properties concentrate.
 
 ### The Whisperer's Shrine
-Crumbled stone structure from pre-Sundering era. Unknown deity worshipped here. The Compact claims it's a threat; the Unbound claim it's a *resource*.
+Crumbled stone structure from pre-Sundering era. Unknown deity worshipped here. Travelers report hearing fragments of ancient prayers when near.
 
-## The Silver Compact Connection
+## Arcane Significance
 
-The Compact headquarters is deep within these woods:
-- **Location**: The Clearing of Unmaking
-- **Structure**: White stone tower surrounded by binding circles
-- **Security**: Wards prevent unauthorized spirit binding; visitors register with guards
-- **Culture**: Compact members treat the Woods as holy ground, not just headquarters
+The Silver Woods sits atop the largest known **ley line convergence** in the realm:
+
+- Magic is amplified here — spells cast stronger, last longer
+- Mages from across the world make pilgrimages to study
+- Several arcane academies maintain research stations in the outer woods
+- The Inner Woods remain undeveloped — too dangerous for concentrated study
+
+### The Academy of Silver Leaves
+A loose confederation of mages who maintain permanent presence:
+- **Location**: Eastern edge of the forest
+- **Focus**: Ley line research, magical amplification theory
+- **Policy**: Neutral ground — no faction politics, pure scholarship
+- **Membership**: Open to any mage who passes the entrance trial
 
 ## Inhabitants
 
 | Group | Location | Attitude to Outsiders |
 |-------|----------|----------------------|
-| Compact Enforcers | Headquarters, patrols | Suspicious, may detain |
+| Academy Scholars | Research stations | Curious, may invite study |
 | Tree Singers (cult) | Deep woods | Protective, cryptic |
+| Hermits | Scattered clearings | Varies; generally territorial |
 | Wildlife | Throughout | Unusually intelligent |
 
 ## Current Status
 
-The woods have been **restless** for the past season. Compact scouts report:
+The woods have been **restless** for the past season. Scholars report:
 - Silver leaves falling out of season
-- Unbound spirits appearing near the perimeter
-- Strange sounds at the Whisperer's Shrine
+- Magical surges becoming more frequent and stronger
+- Strange sounds from the Whisperer's Shrine
 
-Archon Vael has doubled patrols. The Tree Singers have stopped speaking to Compact members.
+The Academy has doubled patrols and restricted access to the Inner Woods.
 
 ## Adventure Hooks
 
-1. **The Lost Cartographer**: A map-maker entered to chart forgotten paths, never returned
-2. **The Binding Gone Wrong**: Wild binder spotted near the headquarters, spirit partially manifested
-3. **The Whispers**: Party hears voices promising answers at the Shrine
+1. **The Ley Surge**: A recent magical surge has made the Inner Woods temporarily accessible — and something has awakened there
+2. **The Lost Cartographer**: A map-maker entered to chart forgotten paths, never returned
+3. **The New Voice**: Something is speaking through the ley lines — scholars disagree on whether it's real or dangerous
 
 ## For the GM
 
 **Mood**: Equal parts beautiful and unsettling. The forest rewards curiosity but punishes greed.
 
-**Sounds**: Constant soft chime of silver leaves, distant singing with no source, absolute silence when listening.
+**Sounds**: Constant soft chime of silver leaves, distant singing with no source, the hum of pure magic in the bones.
 
-**Use the Woods as**: A location for moral tests, cryptic exposition, and bonding moments among the party.
+**Use the Woods as**: A location for magical study, ley line exploration, and bonding moments among spellcasters.

@@ -7,7 +7,6 @@ related:
   - lore/origins-of-races
   - lore/abyss
   - lore/religions
-  - factions/silver-compact
   - items/blue-ore
   - items/black-stones-of-ur
   - items/soul-breaker
@@ -42,7 +41,7 @@ After some time, the hero discovers that **elves and naters had been quietly dis
 
 ### Joining the Brotherhood
 
-The hero becomes personally entangled in the intrigue and joins a **secret organization** ([[factions/silver-compact|Silver Compact]]?) specially formed to restore order by one of the kingdoms. They must find allies and resources that will allow them to destroy the cult of the Archmage of Ur before total war begins.
+The hero becomes personally entangled in the intrigue and joins a **secret organization** specially formed to restore order by one of the kingdoms. They must find allies and resources that will allow them to destroy the cult of the Archmage of Ur before total war begins.
 
 ---
 
@@ -61,11 +60,11 @@ After the betrayal, an important clue emerges — **the cult is preparing for a 
 
 ---
 
-## Act III — The Silver Compact
+## Act III — The Association
 
 ### Forming the Association
 
-The hero gathers companions and former members of the organization who share their views, forming a loosely-structured **association** — [[factions/silver-compact|Silver Compact]].
+The hero gathers companions and former members of the organization who share their views, forming a loosely-structured **association**.
 
 Over time, the situation requires going public and establishing a headquarters. The player can obtain 2-3 options through various means:
 - An old, partially destroyed castle
@@ -74,7 +73,7 @@ Over time, the situation requires going public and establishing a headquarters. 
 
 ### Choosing a Patron and Priorities
 
-After initial preparations and the consent of one of the rulers, the hero leads the Compact. They can choose:
+After initial preparations and the consent of one of the rulers, the hero leads the association. They can choose:
 
 **Patrons** (3-6, divided into 2 groups):
 - Each gives different bonuses
@@ -147,7 +146,7 @@ After many years, they stumbled upon **the ruins of one of the Ancients' shelter
 
 | Ally | Description |
 |------|-------------|
-| [[factions/silver-compact|Silver Compact]] | The hero's loosely-structured association |
+| The Association | The hero's loosely-structured organization |
 | Brotherhood (former members) | Betrayed but loyal to the cause |
 
 ---
@@ -161,7 +160,7 @@ After many years, they stumbled upon **the ruins of one of the Ancients' shelter
 
 ### Key Player Decisions
 1. Whom to trust — elves, humans, or no one?
-2. Choose patrons and priorities for the Compact
+2. Choose patrons and priorities for the association
 3. Support the Archmage or destroy him?
 4. Allow a "small" explosion for the greater good?
 

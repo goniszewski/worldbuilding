@@ -4,7 +4,7 @@ type: lore
 category: lore
 tags: [quotes, in-game, humor]
 related: []
-summary: Collection of memorable quotes from the Silver Compact campaign
+summary: Collection of memorable quotes from the fantasy campaign
 ---
 
 # Campaign Quotes

@@ -24,7 +24,7 @@ summary: "Charming, audacious Naterian rogue with hidden magical abilities. Fled
 | **Age** | 25 |
 | **Height** | 174 cm |
 | **Status** | Alive |
-| **Affiliation** | Silver Compact (formerly) |
+| **Affiliation** | None (formerly) |
 
 ## Description
 

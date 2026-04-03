@@ -22,7 +22,7 @@ summary: "Elven mage and priest, devout with extensive knowledge of her faith. S
 | **Sex** | Female |
 | **Age** | 30 |
 | **Status** | Alive |
-| **Affiliation** | Silver Compact (formerly) |
+| **Affiliation** | Elven Temple (formerly) |
 
 ## Description
 
@@ -40,7 +40,7 @@ Deep down, she fears that the goddess has truly turned away from them (as religi
 
 ## Pet: The Burned Bat
 
-She adopts a small bat that nearly died when she accidentally singed its wings trying to light a candle with magic. It flew into her room at night and terrified her (she woke everyone with a scream). Initially disgusted, she fed it only out of pity, but quickly changed her mind, named it, washed it, caressed it, tucked it in to sleep, fed it treats, took it on walks, and even taught it to fly again with magical assistance. The bat becomes her favorite companion; during travels, she often tells stories about what funny thing it did. This represents part of her transformation from a naive girl to a woman who can see beauty even in a terrifying bat.
+She adopts a small bat that nearly died when she accidentally singed its wings trying to light a candle with magic. It flew into her room at night and terrified her (she woke everyone with a scream). Initially disgusted, she fed it only out of pity, but quickly changed her mind, named it, washed it, carassed it, tucked it in to sleep, fed it treats, took it on walks, and even taught it to fly again with magical assistance. The bat becomes her favorite companion; during travels, she often tells stories about what funny thing it did. This represents part of her transformation from a naive girl to a woman who can see beauty even in a terrifying bat.
 
 She even embroidered a small shirt for it, rather clumsily, to keep it warm. Angar's raven would very much like to peck it.
 

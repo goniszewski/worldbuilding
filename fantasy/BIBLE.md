@@ -7,7 +7,7 @@ summary: "Core reference bible for the fantasy setting, covering factions, histo
 
 # Fantasy Universe Bible
 
-> **TL;DR** — High fantasy realm where magic comes from binding elemental spirits. The Silver Compact rules through arcane monopoly. Heroes fight to preserve balance.
+> **TL;DR** — High fantasy realm where magic is an academic discipline. Heroes fight to preserve balance against ancient threats.
 
 ## Origin of the Races
 
@@ -24,27 +24,28 @@ See: [[lore/origins-of-races|Origins of the Races]], [[lore/age-of-light|Age of 
 
 ## Core Rules
 
-### Magic System: Spirit Binding
-- Magic users (Binders) contract with elemental spirits
-- Spirits demand payment: memories, years of life, or servitude
-- The Compact controls spirit access — illegal binding is punishable by "Unmaking"
-- Three tiers: Ember (minor), Storm (major), Void (legendary, only 2 known)
+### Magic System: Arcane Arts
+- Magic users (mages) study mana — pure, unformed magical energy
+- Discipline and knowledge determine magical capability, not innate talent alone
+- Mages require years of training; untrained individuals can barely produce sparks
+- Each race approaches magic differently based on culture and values
+- Demon pacts are possible but require immense power and carry extreme risks
 
 ### Cosmology
 - **The Material Plane**: Where mortals live
-- **The Veil**: Shadow realm where unbound spirits roam
+- **The Void**: Interdimensional space between realms
 - **The Apex**: Divine realm, access sealed since the Sundering
 
 ### The Sundering (500 years ago)
-The last attempt to breach the Apex shattered the continent, created the Ash Wastes, and bound all Void-tier spirits to the Compact.
+The last attempt to breach the Apex shattered the continent, created the Ash Wastes, and left lingering magical residue across the land.
 
 ## Key Factions
 
 | Faction | Leader | Goal | Relation |
 |---------|--------|------|----------|
-| [The Silver Compact](factions/silver-compact.md) | Archon Vael | Maintain magical monopoly and control dangerous magic | Central power bloc |
-| [The Unbound](factions/the-unbound.md) | [The Hushed](characters/the-hushed.md) | Free spirit binding from Compact control | Shadow opposition and uneasy ally potential |
 | [Merchant Tides](factions/merchant-tides.md) | Council of Captains | Profit, neutrality | Stabilizing commercial power |
+| [Naterian Hegemony](factions/naterian-hegemony.md) | Unknown | Expansion, order | Aggressive military power |
+| [Soul-Keeper Brotherhood](factions/soul-keeper-brotherhood.md) | Unknown | Preserve souls, prevent corruption | Mysterious, secretive |
 
 ### Noble Houses of the Human Kingdom
 
@@ -85,12 +86,10 @@ Four major faiths dominate, each with radically different views on the First One
 ## Major Characters
 
 ### Protagonists
-- [Lyra Dawnwhisper](characters/lyra-dawnwhisper.md) — Storm Binder, wanted by Compact
 - [Brother Kael](characters/brother-kael.md) — Monk of the Silent Path
 
 ### Antagonists
 - [Archmage of Ur](characters/archmage-of-ur.md) — Immortal lich and central late-stage antagonist
-- [The Hushed](characters/the-hushed.md) — Unbound leader whose motives remain difficult to read
 
 ## Locations (Summary)
 
@@ -98,12 +97,11 @@ Four major faiths dominate, each with radically different views on the First One
 |-------|-------------|--------|-------|
 | [Torr's Gate](places/torrs-gate.md) | Brama Torra | North | Impassable mountain fortress between humans and Naters |
 | [The Great Bessam](places/great-bessam.md) | Wielka Bessam i jej trzy córki | Central | Largest river with three distinct daughters |
-| [The Silver Woods](places/silver-woods.md) | Srebrne Lasy | Central | Sacred grove, Compact headquarters |
+| [The Silver Woods](places/silver-woods.md) | Srebrne Lasy | Central | Sacred grove, ley line convergence, Academy of Silver Leaves |
 | [Verath](places/verath.md) | Verath | Coast | Merchant hub, likely starting point for intrigue and travel |
 | The Ash Wastes | Popielne Pustkowia | East | Post-Sundering wasteland |
 | [Sky Torch](places/sky-torch.md) | Niebiańska Pochodnia | South | Eternal flame, no magic used — engineering marvel |
 | [Sky Sword](places/sky-torch-sword.md) | Niebiański Miecz | North | Impossible blade, anchors Abyss seal |
-| [The Whispering Ruins](adventures/quest-the-whispering-ruins.md) | Szeptające Ruiny | North | Ancient pre-Sundering city and adventure site |
 
 ## Political Boundaries
 
@@ -169,7 +167,7 @@ Three daughters with distinct personalities:
 ## Current Timeline
 
 - **Current Year**: 523 Post-Sundering (P.S.)
-- **Campaign Hook**: Lyra's past catches up as the Hushed, Merchant Tides, and Compact pressure pull events toward open crisis
+- **Campaign Hook**: Political intrigue as merchant guilds, noble houses, and external threats pull the realm toward crisis
 
 ## Notable Quotes
 

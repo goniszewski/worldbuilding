@@ -15,10 +15,10 @@ summary: "Index of political powers, noble houses, and organized groups in the f
 
 | Faction | Type | Notes |
 |---------|------|-------|
-| [[silver-compact|The Silver Compact]] | Organization | Arcane monopoly regulating legal spirit binding |
 | [[naterian-hegemony|The Naterian Hegemony]] | Nation | Honor-bound northern power |
 | [[soul-keeper-brotherhood|Soul Keeper Brotherhood]] | Secret Order | Guardians of forbidden knowledge and dangerous relics |
 | [[naterian-adjudicator|Naterian Adjudicator]] | Office | Judicial and enforcement authority within Naterian society |
+| [[merchant-tides|Merchant Tides]] | Coalition | Maritime trade network, commercial power |
 
 ## Noble Houses of the Human Kingdom
 
