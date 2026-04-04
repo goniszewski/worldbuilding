@@ -15,7 +15,7 @@ summary: Cosmological diagram depicting the creation of the sapient races accord
 
 > Cosmological diagram depicting the creation of the sapient races according to ancient theological belief.
 
-![[creation-diagram.jpg|The Divine Begetting]]
+![The Divine Begetting](creation-diagram.jpg)
 
 ## Overview
 

@@ -18,10 +18,10 @@ summary: "Lord of Highdam who publicly abandoned the Naterian faith fourteen yea
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/humans|Human]] |
+| Race | [Human](../races/humans.md) |
 | Sex | Male |
 | Age | 54 |
-| House | [[factions/highdam|Highdam]] |
+| House | [Highdam](../factions/highdam.md) |
 | Title | Lord of Highdam, Warden of the Dams |
 
 ## Description
@@ -67,7 +67,7 @@ He is obsessed with making Highdam self-sufficient — dams, water, food, defens
 
 ## Relationships
 
-- **[[factions/highdam|Lorian Highdam]]**: His heir, whose bisexuality he privately accepts but publicly cannot defend
+- **[Lorian Highdam](../factions/highdam.md)**: His heir, whose bisexuality he privately accepts but publicly cannot defend
 - **The Naterian Church**: Hostile — they want his head
 - **His People**: Divided — half follow his reforms, half pray for his downfall
 - **His Dead Wife**: Haunts his dreams

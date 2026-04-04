@@ -46,5 +46,5 @@ As one of the most prominent merchant guilds in dwarven society, Andvari holds c
 
 ## Related
 
-- [[places/gullveig|Gullveig]] — Rival dwarven merchant city
-- [[races/dwarves|Dwarves]] — Parent race
+- [Gullveig](gullveig.md) — Rival dwarven merchant city
+- [Dwarves](../races/dwarves.md) — Parent race

@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, dwarf-trade, mining, grim-castle]
 related:
-  - "[[factions/walldom|Walldom]]"
-  - "[[factions/tiel|Tiel]]"
-  - "[[factions/graz|Graz]]"
+  - "[Walldom](walldom.md)"
+  - "[Tiel](tiel.md)"
+  - "[Graz](graz.md)"
 summary: "Lords of Grim Castle who maintain the only direct trade route with the dwarven kingdoms."
 ---
 
@@ -19,7 +19,7 @@ summary: "Lords of Grim Castle who maintain the only direct trade route with the
 | Field | Value |
 |-------|-------|
 | **Type** | Noble House |
-| **Headquarters** | [[Ponury Zamek (Grim Castle)|ponury-zamek]] |
+| **Headquarters** | [Grim Castle](../places/grim-castle.md) |
 | **Power Status** | Major Power |
 | **Founded** | ~180 P.S. |
 | **Words** | Trade, Loyalty, Ferocity |
@@ -54,10 +54,10 @@ Skjor has maintained the *"Przymierze Kamienia"* (Stone Alliance) with the dwarv
 
 | House | Relationship |
 |-------|--------------|
-| [[factions/tiel|Tiel]] | Commerce — competing for mining expertise |
-| [[factions/graz|Graz]] | Rivalry — competing trade routes |
-| [[factions/walldom|Walldom]] | Cold — Walldom wants control of northern passes |
-| [[factions/naterian-hegemony|Naterian Hegemony]] | Tense — dwarves and Church have doctrinal conflicts |
+| [Tiel](tiel.md) | Commerce — competing for mining expertise |
+| [Graz](graz.md) | Rivalry — competing trade routes |
+| [Walldom](walldom.md) | Cold — Walldom wants control of northern passes |
+| [Naterian Hegemony](naterian-hegemony.md) | Tense — dwarves and Church have doctrinal conflicts |
 | The Dwarves | Alliance — genuine friendship, mutual benefit |
 
 ## Key Figures

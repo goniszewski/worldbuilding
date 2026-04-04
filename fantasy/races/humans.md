@@ -4,9 +4,9 @@ type: sapient-race
 category: races
 tags: [humanoids, dominant, diverse]
 related:
-  - "[[lore/origins-of-races]]"
-  - "[[characters/daraster|Daraster]]"
-  - "[[lore/the-cleansed]]"
+  - "[Origins of the Races](../lore/origins-of-races.md)"
+  - "[Daraster](../characters/daraster.md)"
+  - "[The Cleansed](../lore/the-cleansed.md)"
 summary: "The most widespread race—versatile, ambitious, and adaptable."
 ---
 
@@ -19,7 +19,7 @@ summary: "The most widespread race—versatile, ambitious, and adaptable."
 | Attribute | Value |
 |-----------|-------|
 | **Category** | Sapient Race |
-| **Evolved From** | [[lore/the-cleansed|The Cleansed]] (via [[characters/daraster|Daraster]]) |
+| **Evolved From** | [The Cleansed](../lore/the-cleansed.md) (via [Daraster](../characters/daraster.md)) |
 | **Adult Age** | 20 |
 | **Average Age** | 34 |
 | **Oldest Recorded** | 786 |
@@ -47,13 +47,12 @@ Humans are the dominant race in many regions of the known world. Known for their
 ## Political Structure
 
 ### The Human Kingdom
-- **Location**: Southern side of [[places/torrs-gate|Torr's Gate]]
+- **Location**: Southern side of [Torr's Gate](../places/torrs-gate.md)
 - **Capital**: [TODO]
 - **Ruler**: [TODO]
 
 ### Notable Organizations
-- **Merchant Tides** — Maritime trade coalition and commercial power
-- **Soul-Keeper Brotherhood** — Secretive order preserving souls
+- **The Silver Compact** — Magical monopoly controlling spirit binding
 - **Brotherhood of the Soul Breaker** — Ancient order (now fractured)
 
 ## Relations
@@ -67,7 +66,8 @@ Humans are the dominant race in many regions of the known world. Known for their
 
 ## Known Humans
 
-- [[characters/angar]] — Bearer of the cursed Soul Breaker
+- [Angar](../characters/angar.md) — Bearer of the cursed Soul Breaker
+- [Lyra](../characters/lyra-dawnwhisper.md) — Storm Binder, wanted by the Compact
 
 ## Notes
 

@@ -20,7 +20,7 @@ summary: Mining port city controlled by Tiel, gateway to blue ore mines and the 
 |-------|-------|
 | **Type** | Industrial Port City |
 | **Polish Name** | Port Bezdzietny |
-| **Controlling House** | [[factions/tiel|Tiel]] |
+| **Controlling House** | [Tiel](../factions/tiel.md) |
 | **Region** | Eastern Highlands |
 | **Population** | ~45,000 |
 | **Status** | Mining Capital |

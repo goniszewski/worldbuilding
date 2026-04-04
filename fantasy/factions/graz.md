@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, merchants, trade, wealth]
 related:
-  - "[[factions/czar|Czar]]"
-  - "[[factions/timrel|Timrel]]"
-  - "[[factions/skjor|Skjor]]"
+  - "[Czar](czar.md)"
+  - "[Timrel](timrel.md)"
+  - "[Skjor](skjor.md)"
 summary: "Wealthy merchant house that rose to nobility through commerce, controlling the Redwood trade hub."
 ---
 
@@ -19,7 +19,7 @@ summary: "Wealthy merchant house that rose to nobility through commerce, control
 | Field | Value |
 |-------|-------|
 | **Type** | Noble House (Commercial Origins) |
-| **Headquarters** | [[Redwood (Czerwony Las)|redwood]] |
+| **Headquarters** | [Redwood](../places/redwood.md) |
 | **Power Status** | Major Power |
 | **Founded** | ~360 P.S. (160 years old) |
 | **Words** | Commerce, Pragmatism, Progress |
@@ -50,10 +50,10 @@ Graz controls:
 
 | House | Relationship |
 |-------|--------------|
-| [[factions/timrel|Timrel]] | Strategic alliance — sea trade requires naval cooperation |
-| [[factions/skjor|Skjor]] | Business rivals — competing for trade routes |
-| [[factions/czar|Czar]] | Complex — Czar uses Graz's wealth, but fears their independence |
-| [[factions/tiel|Tiel]] | Customer — Graz finances Tiel's mining operations |
+| [Timrel](timrel.md) | Strategic alliance — sea trade requires naval cooperation |
+| [Skjor](skjor.md) | Business rivals — competing for trade routes |
+| [Czar](czar.md) | Complex — Czar uses Graz's wealth, but fears their independence |
+| [Tiel](tiel.md) | Customer — Graz finances Tiel's mining operations |
 | Most other houses | Creditors — many owe Graz money |
 
 ## Key Figures

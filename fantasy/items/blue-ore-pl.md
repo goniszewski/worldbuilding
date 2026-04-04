@@ -41,7 +41,7 @@ The "song" is described as a low, resonant hum that rises in pitch as the light 
 
 ### Explosive Properties
 
-See: [[characters/martin-guecventrak|Martin Guecventrak's]] notes on explosive processing and the Disruption Bomb mechanism.
+See: [Martin Guecventrak's](../characters/martin-guecventrak.md) notes on explosive processing and the Disruption Bomb mechanism.
 
 ### Uses
 
@@ -51,5 +51,5 @@ See: [[characters/martin-guecventrak|Martin Guecventrak's]] notes on explosive p
 
 ## Related
 
-- [[characters/martin-guecventrak|Martin Guecventrak]] — Researcher and explosive specialist
-- [[items/black-stones-of-ur|Black Stones of Ur]] — Related magical artifacts
+- [Martin Guecventrak](../characters/martin-guecventrak.md) — Researcher and explosive specialist
+- [Black Stones of Ur](black-stones-of-ur.md) — Related magical artifacts

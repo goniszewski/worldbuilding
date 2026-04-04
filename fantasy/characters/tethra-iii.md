@@ -18,7 +18,7 @@ summary: "The current head of a major human religious order, guarding orthodoxy 
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/humans|Human]] |
+| Race | [Human](../races/humans.md) |
 | Sex | Female |
 | Life Stage | Elder |
 | Role | High religious authority |
@@ -37,9 +37,9 @@ She answers this tension not with flexibility, but with careful boundary-setting
 
 ## Relationships
 
-- [[lore/religions|Religious Systems]]: Her position depends on preserving doctrinal coherence
-- [[factions/naterian-hegemony|The Naterian Hegemony]]: Shares interests with institutions of order, though not always methods
-- [[characters/torr|Torr]]: A central symbolic figure in disputes over banishment, duty, and sacred history
+- [Religious Systems](../lore/religions.md): Her position depends on preserving doctrinal coherence
+- [The Naterian Hegemony](../factions/naterian-hegemony.md): Shares interests with institutions of order, though not always methods
+- [Torr](torr.md): A central symbolic figure in disputes over banishment, duty, and sacred history
 
 ## For Story Use
 

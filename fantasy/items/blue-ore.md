@@ -114,6 +114,6 @@ Raw Deposits → Cult Mining → Black Market → Refinement → "The Light"
 
 ## Related Entries
 
-- [[items/black-stones-of-ur|Black Stones of Ur]] — created the refined form
-- [[characters/archmage-of-ur|Archmage of Ur]] — ultimate source
-- [[adventures/campaign-plot|Campaign Plot]] — central to the conflict
+- [Black Stones of Ur](black-stones-of-ur.md) — created the refined form
+- [Archmage of Ur](../characters/archmage-of-ur.md) — ultimate source
+- [Campaign Plot](../adventures/campaign-plot.md) — central to the conflict

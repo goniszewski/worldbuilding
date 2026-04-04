@@ -25,9 +25,9 @@ summary: Four major religious systems dominate the continent — Dorenism, Opren
 
 > Faiths that reinterpret the same sacred lineage into rival truths, duties, and destinies.
 
-Several religions and minor denominations exist across the world, often aligned with specific races. The central figure in all faiths is [[characters/the-first-one|The First One]] and her three children
+Several religions and minor denominations exist across the world, often aligned with specific races. The central figure in all faiths is [The First One](../characters/the-first-one.md) and her three children
 
-> **Inspiration:** [[wppl>Zaratusztrianizm]]
+> **Inspiration:** Zaratusztrianizm
 
 ---
 
@@ -35,10 +35,10 @@ Several religions and minor denominations exist across the world, often aligned 
 
 | Religion | Followers | Type | First One Status |
 |----------|-----------|------|------------------|
-| [[#dorenism|Dorenism]] | Humans (mostly), some elves | Henotheistic | Goddess (reincarnation) |
-| [[#oprenism|Oprenism]] | Humans (ex-continental) | Gnostic | Prophet of the Creator |
-| [[#arthadal|Arth'Adal]] | Naterians (>90%) | Agnostic | Precursor, mortal |
-| [[#alar|Alar]] | Elves, some humans | Monotheistic | Goddess |
+| [Dorenism](#dorenism) | Humans (mostly), some elves | Henotheistic | Goddess (reincarnation) |
+| [Oprenism](#oprenism) | Humans (ex-continental) | Gnostic | Prophet of the Creator |
+| [Arth'Adal](#arthadal) | Naterians (>90%) | Agnostic | Precursor, mortal |
+| [Alar](#alar) | Elves, some humans | Monotheistic | Goddess |
 
 ---
 
@@ -48,9 +48,9 @@ Several religions and minor denominations exist across the world, often aligned 
 
 ### Core Beliefs
 
-Dorenism recognizes [[characters/the-first-one|The First One]] (+ her husband who watches over flora and fauna, and advises her somewhat, while she tends to her grandchildren and celestial bodies) as the reincarnation of a goddess who descended personally to this world to stop the prevailing chaos and corruption, then cleanse all lands (it is unspecified exactly from whom — [[lore/ancient-ones|the Ancients]] or [[lore/demons|demons]]) leaving alive only a group of the chosen.
+Dorenism recognizes [The First One](../characters/the-first-one.md) (+ her husband who watches over flora and fauna, and advises her somewhat, while she tends to her grandchildren and celestial bodies) as the reincarnation of a goddess who descended personally to this world to stop the prevailing chaos and corruption, then cleanse all lands (it is unspecified exactly from whom — [the Ancients](ancient-ones.md) or [demons](demons.md)) leaving alive only a group of the chosen.
 
-The devotion and strong faith of these chosen ones convinced the goddess to give this world one more chance, so she left them her children — [[characters/torr|Tor]], [[characters/daraster|Daraster]], and [[characters/lesandra|Lesandra]] (who hold the status of minor gods) along with the dormant gift of magic within them, which was meant to help them do good and guide the chosen.
+The devotion and strong faith of these chosen ones convinced the goddess to give this world one more chance, so she left them her children — [Tor](../characters/torr.md), [Daraster](../characters/daraster.md), and [Lesandra](../characters/lesandra.md) (who hold the status of minor gods) along with the dormant gift of magic within them, which was meant to help them do good and guide the chosen.
 
 ### The Fall of Tor
 
@@ -120,9 +120,9 @@ According to them, dwarves are something worse — similar to the Naterian faith
 
 ### Core Beliefs
 
-Arth'Adal recognizes the [[characters/the-first-one|First One]] as the first to receive the gift of magic in some unspecified way, and her children (standard), just like in other religions, as precursors of currently living races.
+Arth'Adal recognizes the [First One](../characters/the-first-one.md) as the first to receive the gift of magic in some unspecified way, and her children (standard), just like in other religions, as precursors of currently living races.
 
-They believe in the existence of [[lore/ancient-ones|the Ancients]], their disappearance, the Pure, and the First One and her children — but do **not** believe in the existence of a goddess or god. Instead, they believe in a chaotic being (or an unlimited number of them) located in the abyss.
+They believe in the existence of [the Ancients](ancient-ones.md), their disappearance, the Pure, and the First One and her children — but do **not** believe in the existence of a goddess or god. Instead, they believe in a chaotic being (or an unlimited number of them) located in the abyss.
 
 ### Tor as the Chosen One
 
@@ -157,7 +157,7 @@ Magic is **practical and useful**, even dark magic.
 
 ### Core Beliefs
 
-The Elves believe that the [[characters/the-first-one|First One]] was a goddess who descended to this world to give meaning to the lives of the Pure and show them the right path they should walk.
+The Elves believe that the [First One](../characters/the-first-one.md) was a goddess who descended to this world to give meaning to the lives of the Pure and show them the right path they should walk.
 
 They consider her children blessed, who led their "flocks" entrusted to them by the goddess along designated paths. But first Daraster — and centuries later, Tor — strayed and deviated from their paths.
 

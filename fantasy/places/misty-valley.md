@@ -20,7 +20,7 @@ summary: Fog-shrouded valley controlled by House Daever, where the deadly Milk M
 |-------|-------|
 | **Type** | Geographic Region |
 | **Polish Name** | Dolina Mgieł |
-| **Controlling House** | [[factions/daever|Daever]] |
+| **Controlling House** | [Daever](../factions/daever.md) |
 | **Region** | Eastern Mountains |
 | **Danger Level** | Extreme |
 

@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, agriculture, fertile-lands, rural]
 related:
-  - "[[factions/graz|Graz]]"
-  - "[[factions/czar|Czar]]"
-  - "[[factions/tiel|Tiel]]"
+  - "[Graz](graz.md)"
+  - "[Czar](czar.md)"
+  - "[Tiel](tiel.md)"
 summary: "House of fertile farmlands and agricultural wealth, controlling the realm's breadbasket."
 ---
 
@@ -56,9 +56,9 @@ Whatever the truth, the mark is both pride and shame — proof of Golwynt's rise
 
 | House | Relationship |
 |-------|--------------|
-| [[factions/graz|Graz]] | Commerce — Graz handles their export trade |
-| [[factions/czar|Czar]] | Wary — they know Golwynt could disrupt food supplies |
-| [[factions/tiel|Tiel]] | Trade — food for mining equipment |
+| [Graz](graz.md) | Commerce — Graz handles their export trade |
+| [Czar](czar.md) | Wary — they know Golwynt could disrupt food supplies |
+| [Tiel](tiel.md) | Trade — food for mining equipment |
 | Most houses | Indifferent — "farmers don't matter" (mistake) |
 | Common folk | Respected — Golwynt treats peasants better than most |
 

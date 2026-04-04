@@ -20,7 +20,7 @@ summary: Ice-carved fortress of House Winters, hidden within a glacier, home to 
 |-------|-------|
 | **Type** | Glacier Fortress |
 | **Polish Name** | Zimowy Gród |
-| **Controlling House** | [[factions/winters|Winters]] |
+| **Controlling House** | [Winters](../factions/winters.md) |
 | **Region** | Far North |
 | **Population** | ~8,000 |
 | **Danger Level** | Extreme (climate) |

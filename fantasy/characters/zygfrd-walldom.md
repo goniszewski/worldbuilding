@@ -18,10 +18,10 @@ summary: "Descendant of Lord Korn and the true political power behind Walldom's 
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/humans|Human]] |
+| Race | [Human](../races/humans.md) |
 | Sex | Male |
 | Age | 42 |
-| House | [[factions/walldom|Walldom]] |
+| House | [Walldom](../factions/walldom.md) |
 | Title | Heir to Walldom, Lord-Advisor |
 
 ## Description
@@ -60,8 +60,8 @@ He is not evil, but he is ambitious. He believes Walldom's isolation is a mistak
 
 ## Relationships
 
-- **[[Lord Korn Walldom]]**: Respects his grandfather; knows he must eventually take full control
-- **[[Lonen Czar]]**: Old "friends" — each knows the other is dangerous
+- **[Lord Korn Walldom](lord-korn-walldom.md)**: Respects his grandfather; knows he must eventually take full control
+- **[Lonen Czar](lonen-czar.md)**: Old "friends" — each knows the other is dangerous
 - **His Wife**: Dead these ten years; he has not remarried
 - **Walldom Guards**: Loyal to him more than Korn — he pays better
 

@@ -28,37 +28,37 @@ This section catalogs the influential figures whose actions, decisions, or prese
 | Name | Affiliation | Notes |
 |------|-------------|-------|
 | Elmund Tiel | — | — |
-| [[factions/walldom|Zygfryd Walldom]] | — | — |
-| [[Allena Mort]] | — | — |
-| [[Darien Mort]] | — | — |
-| [[Warren Whitewalker]] | — | — |
-| [[Jikaazar Za]] | — | — |
-| [[Eggar Highdam]] | — | — |
-| [[Teodor Graz]] | — | — |
-| [[Imil Czar]] | — | — |
+| [Zygfryd Walldom](zygfrd-walldom.md) | — | — |
+| Allena Mort | — | — |
+| Darien Mort | — | — |
+| Warren Whitewalker | — | — |
+| Jikaazar Za | — | — |
+| [Lord Eggar Highdam](lord-eggar-highdam.md) | — | — |
+| Teodor Graz | — | — |
+| Imil Czar | — | — |
 
 ### Elves
 
 | Name | Affiliation | Notes |
 |------|-------------|-------|
-| [[Iana Ashan]] | — | — |
-| [[Iodyn Ashan]] | — | — |
+| Iana Ashan | — | — |
+| Iodyn Ashan | — | — |
 
 ### Naterians
 
 | Name | Affiliation | Notes |
 |------|-------------|-------|
-| [[Agharr Vuar]] | — | — |
-| [[Ygtern Da'miazk]] | — | — |
-| [[Uver Ga]] | — | — |
+| Agharr Vuar | — | — |
+| Ygtern Da'miazk | — | — |
+| Uver Ga | — | — |
 
 ### Dwarves
 
 | Name | Affiliation | Notes |
 |------|-------------|-------|
-| [[Uber Mega]] | — | — |
-| [[Jover Sabber]] | — | — |
-| [[Rikok Slah]] | — | — |
+| Uber Mega | — | — |
+| Jover Sabber | — | — |
+| Rikok Slah | — | — |
 
 ---
 

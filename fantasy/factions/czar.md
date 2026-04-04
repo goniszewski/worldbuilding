@@ -4,10 +4,10 @@ type: faction
 category: factions
 tags: [human, noble-house, political, royal-advisor, intrigue]
 related:
-  - "[[factions/walldom|Walldom]]"
-  - "[[factions/graz|Graz]]"
-  - "[[factions/tiel|Tiel]]"
-  - "[[factions/timrel|Timrel]]"
+  - "[Walldom](walldom.md)"
+  - "[Graz](graz.md)"
+  - "[Tiel](tiel.md)"
+  - "[Timrel](timrel.md)"
 summary: "Master manipulators who rose to power through politics, now holding the Royal Advisor position."
 ---
 
@@ -50,15 +50,15 @@ Lonen Czar's rise as Royal Advisor has made the house simultaneously more powerf
 | House | Relationship |
 |-------|--------------|
 | Most houses | Leverage — Czar has something on everyone |
-| [[factions/timrel|Timrel]] | Alliance — naval support for political maneuvering |
-| [[factions/graz|Graz]] | Complex — uses their wealth but fears independence |
-| [[factions/walldom|Walldom]] | Tense — Walldom's honor makes them hard to manipulate |
-| [[factions/mort|Mort]] | Hostile — Mort's directness thwarts manipulation |
-| [[factions/daever|Daever]] | Customer — buys Milk Mist for "special purposes" |
+| [Timrel](timrel.md) | Alliance — naval support for political maneuvering |
+| [Graz](graz.md) | Complex — uses their wealth but fears independence |
+| [Walldom](walldom.md) | Tense — Walldom's honor makes them hard to manipulate |
+| [Mort](mort.md) | Hostile — Mort's directness thwarts manipulation |
+| [Daever](daever.md) | Customer — buys Milk Mist for "special purposes" |
 
 ## Key Figures
 
-- **[[Lonen Czar]]** — Royal Advisor, cunning and ambitious
+- **[Lonen Czar](../characters/lonen-czar.md)** — Royal Advisor, cunning and ambitious
 - **Pani Cienia** (Lady of Shadows) — Lonen's mother, the true intelligence master
 - **Szpieg Młodszy** (Junior Spy) — Codename for the house's field agents
 

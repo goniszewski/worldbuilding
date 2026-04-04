@@ -4,8 +4,10 @@ type: character
 category: characters
 tags: [protagonist, monk, healer, pilgrim, conscience]
 related:
+  - characters/lyra-dawnwhisper
+  - factions/silver-compact
   - lore/religions
-summary: "A wandering monk whose gentleness disguises fierce resolve, serving as a companion, conscience, and one of the few people unafraid to challenge others."
+summary: "A wandering monk whose gentleness disguises fierce resolve, serving as Lyra's companion, conscience, and one of the few people unafraid to challenge her."
 ---
 
 # Brother Kael
@@ -16,7 +18,7 @@ summary: "A wandering monk whose gentleness disguises fierce resolve, serving as
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/humans|Human]] |
+| Race | [Human](../races/humans.md) |
 | Sex | Male |
 | Life Stage | Adult |
 | Role | Itinerant monk, healer, witness |
@@ -38,20 +40,23 @@ He belongs to no great hierarchy anyone can easily verify. Some think he is a tr
 
 Kael spent years walking pilgrimage roads between shrines, villages, and battle-scarred communities. That life taught him that doctrine often reaches the suffering long after hunger, violence, and fear already have. He became less interested in winning arguments about righteousness and more interested in what people become when no one is watching.
 
-During his travels, he encountered evidence of magical persecution and abuse. He began quietly collecting testimonies and stories of those who suffered from unchecked arcane power. This transformed him from a simple pilgrim into someone with a cause.
+At some point in those travels he crossed paths with the Silver Compact's work more than once. The official story never satisfied him. He began quietly collecting testimonies, fragments of doctrine, and stories of vanished children. By the time he met Lyra, he already knew enough to understand she was not merely a fugitive, but a wound in the Compact's narrative.
 
-## Relationship with Companions
+## Relationship with Lyra
 
-Kael travels with the party not because he agrees with all their methods, but because he believes they have seen something real and terrible. He acts as anchor, witness, and occasional obstacle.
+Kael travels with Lyra not because he agrees with all her methods, but because he believes she has seen something real and terrible. He acts as anchor, witness, and occasional obstacle.
 
-- He tempers violent instincts toward more measured responses
-- He forces others to admit that compassion without action can become cowardice
+- He tempers her instinct toward destruction
+- She forces him to admit that compassion without action can become cowardice
 - Each suspects the other is hiding more than they say
+
+He is one of the few people who speaks to her as if she can still become someone other than what the Compact made.
 
 ## Relationships
 
+- **[Lyra Dawnwhisper](lyra-dawnwhisper.md)**: Companion, argument, and quiet source of hope
+- **[The Silver Compact](../factions/silver-compact.md)**: Distrusts their moral claim even when he lacks proof
 - **Village clergy and healers**: Often shelter him, though few truly know him
-- **Those who misuse magic**: He distrusts their moral claims
 
 ## For Story Use
 
@@ -62,7 +67,7 @@ Kael travels with the party not because he agrees with all their methods, but be
 
 ### Story Hooks
 - Kael recognizes a ritual or prayer no one expected him to know
-- Someone from his earlier life insists he is not who they claim to be
+- Someone from his earlier life insists he is not who he claims to be
 - He is forced to choose between preserving a life and preserving evidence
 
 ### Adaptation Notes

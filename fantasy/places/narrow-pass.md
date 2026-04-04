@@ -20,7 +20,7 @@ summary: Treacherous mountain pass controlled by the Mort clans, the narrowest r
 |-------|-------|
 | **Type** | Strategic Mountain Pass |
 | **Polish Name** | Wąski Przesmyk |
-| **Controlling House** | [[factions/mort|Mort]] |
+| **Controlling House** | [Mort](../factions/mort.md) |
 | **Region** | Northern Highlands |
 | **Danger Level** | High (for outsiders) |
 

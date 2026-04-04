@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, highlands, goat-god, ancient-religion]
 related:
-  - "[[factions/winters|Winters]]"
-  - "[[factions/mort|Mort]]"
-  - "[[factions/naterian-hegemony|Naterian Hegemony]]"
+  - "[Winters](winters.md)"
+  - "[Mort](mort.md)"
+  - "[Naterian Hegemony](naterian-hegemony.md)"
 summary: "Mountain clan worshipping the Kozi Bóg (Goat God) for over a millennium, dwelling in the high crags."
 ---
 
@@ -62,11 +62,11 @@ Kolah society is defined by the peaks:
 
 | House | Relationship |
 |-------|--------------|
-| [[factions/winters|Winters]] | Alliance — both mountain folk, shared values |
-| [[factions/mort|Mort]] | Respect — both worship old ways, different gods |
-| [[factions/naterian-hegemony|Naterian Hegemony]] | Hostile — Church demands they convert |
+| [Winters](winters.md) | Alliance — both mountain folk, shared values |
+| [Mort](mort.md) | Respect — both worship old ways, different gods |
+| [Naterian Hegemony](naterian-hegemony.md) | Hostile — Church demands they convert |
 | Most houses | Indifference — "those mountain lunatics" |
-| [[factions/ermynt|Ermynt]] | Cautious — Ermynt respects their right to exist |
+| [Ermynt](ermynt.md) | Cautious — Ermynt respects their right to exist |
 
 ## Key Figures
 

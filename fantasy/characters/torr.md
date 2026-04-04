@@ -49,13 +49,13 @@ According to legend, **Torr** was the most distinct of the First One's three chi
 
 Torr played a central role in the conflict following the First One's death:
 
-1. **War against siblings** — Unable to accept [[characters/daraster|Daraster]] and [[characters/lesandra|Lesandra's]] marriage, he turned against them
+1. **War against siblings** — Unable to accept [Daraster](daraster.md) and [Lesandra's](lesandra.md) marriage, he turned against them
 2. **Unmastered magic** — The war used magical forces none could control, devastating the home island
 3. **Departure** — He left with his followers in search of new lands, establishing his own domain
 
 ## Legacy: The Naterians
 
-Torr's descendants are the **[[races/naterians|Naterians]]** (also called [[races/orcs|Orcs]]).
+Torr's descendants are the **[Naterians](../races/naterians.md)** (also called [Orcs](../races/orcs.md)).
 
 ### Characteristics Inherited
 
@@ -64,7 +64,7 @@ Torr's descendants are the **[[races/naterians|Naterians]]** (also called [[race
 | Dark/rough skin | Naterian pigmentation and skin texture |
 | Scaly patches | Some Naterians display scale-like features |
 | Warrior culture | Honor-bound, prone to violence |
-| Hatred of others | Historical enmity toward [[races/humans|Humans]] and [[races/elves|Elves]] |
+| Hatred of others | Historical enmity toward [Humans](../races/humans.md) and [Elves](../races/elves.md) |
 
 ### Expansion
 
@@ -77,8 +77,8 @@ This rapid expansion allowed the Naterians to become numerous and spread across 
 | Aspect | Influence |
 |--------|-----------|
 | **Warrior Ethos** | Naterian clans honor strength and honor |
-| **Anti-elven Sentiment** | Torr's hatred of [[characters/lesandra|Lesandra]] echoes in Naterian culture |
-| **Anti-human Sentiment** | [[characters/daraster|Daraster]] also viewed with contempt |
+| **Anti-elven Sentiment** | Torr's hatred of [Lesandra](lesandra.md) echoes in Naterian culture |
+| **Anti-human Sentiment** | [Daraster](daraster.md) also viewed with contempt |
 | **Scaly Heritage** | Some Naterians pride in visible scales as "pure Torr blood" |
 
 ## For Writers / Game Designers

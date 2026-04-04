@@ -24,7 +24,7 @@ summary: Windy highland hills where the Tiltman archers have trained for millenn
 |-------|-------|
 | **Type** | Highland Territory |
 | **Polish Name** | Wiatrowe Wzgórza |
-| **Controlling House** | [[factions/tiltman|Tiltman]] |
+| **Controlling House** | [Tiltman](../factions/tiltman.md) |
 | **Region** | Western Highlands |
 | **Danger Level** | Extreme (for intruders) |
 

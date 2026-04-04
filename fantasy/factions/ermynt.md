@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, neutrality, white-road, elven-relations]
 related:
-  - "[[factions/tiltman|Tiltman]]"
-  - "[[factions/czar|Czar]]"
-  - "[[factions/naterian-hegemony|Naterian Hegemony]]"
+  - "[Tiltman](tiltman.md)"
+  - "[Czar](czar.md)"
+  - "[Naterian Hegemony](naterian-hegemony.md)"
 summary: "Guardians of the Biały Trakt who maintain strict neutrality and serve as intermediaries with elven lands."
 ---
 
@@ -56,9 +56,9 @@ Ermynt remembers the time before the Sundering, when elves and humans were allie
 
 | House | Relationship |
 |-------|--------------|
-| [[factions/tiltman|Tiltman]] | Alliance — signal fire communication, shared intelligence |
-| [[factions/naterian-hegemony|Naterian Hegemony]] | Tense — the Church wants Ermynt to take sides |
-| [[factions/czar|Czar]] | Frustrated — Czar cannot buy or manipulate them |
+| [Tiltman](tiltman.md) | Alliance — signal fire communication, shared intelligence |
+| [Naterian Hegemony](naterian-hegemony.md) | Tense — the Church wants Ermynt to take sides |
+| [Czar](czar.md) | Frustrated — Czar cannot buy or manipulate them |
 | All other houses | Neutral — they help everyone equally |
 | Elven Kingdoms | Sacred duty — protectors of the road |
 

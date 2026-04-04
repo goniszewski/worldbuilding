@@ -13,27 +13,27 @@ summary: "Index of regions, cities, strongholds, and landmarks in the fantasy se
 
 ## Overview Map
 
-![[world-map.jpg]]
+![world map](world-map.jpg)
 
 ## Named Locations
 
 | Location | Region | Status |
 |----------|--------|--------|
-| [[great-bessam|The Great Bessam]] | Central | Major river system |
-| [[silver-woods|The Silver Woods]] | Central | Sacred grove and Compact seat |
-| [[torrs-gate|Torr's Gate]] | North | Fortress between humans and Naterians |
-| [[narrow-pass|Narrow Pass]] | Highlands | Mort clan territory |
-| [[misty-valley|Misty Valley]] | East | Daever territory |
-| [[redwood|Redwood]] | Central | Graz trade hub |
-| [[barrenport|Barrenport]] | East | Tiel mining city |
-| [[grim-castle|Grim Castle]] | East | Skjor stronghold and dwarven gateway |
-| [[windy-hills|Windy Hills]] | West | Tiltman archer lands |
-| [[winter-fortress|Winter Fortress]] | Far North | Winters glacier fortress |
-| [[gullveig|Gullveig]] | North | Dwarven trade city |
-| [[andvari|Andvari]] | Underground | Merchant enclave below the surface |
-| [[archipelago-of-light|Archipelago of Light]] | Coast | Mythic ancestral homeland |
-| [[sky-torch|Sky Torch]] | South | Eternal flame and engineering wonder |
-| [[sky-torch-sword|Sky Sword]] | North | Impossible blade sealing deeper threats |
+| [The Great Bessam](great-bessam.md) | Central | Major river system |
+| [The Silver Woods](silver-woods.md) | Central | Sacred grove and Compact seat |
+| [Torr's Gate](torrs-gate.md) | North | Fortress between humans and Naterians |
+| [Narrow Pass](narrow-pass.md) | Highlands | Mort clan territory |
+| [Misty Valley](misty-valley.md) | East | Daever territory |
+| [Redwood](redwood.md) | Central | Graz trade hub |
+| [Barrenport](barrenport.md) | East | Tiel mining city |
+| [Grim Castle](grim-castle.md) | East | Skjor stronghold and dwarven gateway |
+| [Windy Hills](windy-hills.md) | West | Tiltman archer lands |
+| [Winter Fortress](winter-fortress.md) | Far North | Winters glacier fortress |
+| [Gullveig](gullveig.md) | North | Dwarven trade city |
+| [Andvari](andvari.md) | Underground | Merchant enclave below the surface |
+| [Archipelago of Light](archipelago-of-light.md) | Coast | Mythic ancestral homeland |
+| [Sky Torch](sky-torch.md) | South | Eternal flame and engineering wonder |
+| [Sky Sword](sky-torch-sword.md) | North | Impossible blade sealing deeper threats |
 
 ---
 

@@ -10,8 +10,8 @@ tags:
   - ancient-technology
 related:
   - lore/abyss
-  - "[[lore/ancient-ones|Pradawni]]"
-  - "[[characters/martin-guecventrak|Martin Halgrom]]"
+  - "[Pradawni](ancient-ones.md)"
+  - "[Martin Halgrom](../characters/martin-guecventrak.md)"
 summary: Mana is pure energy emanating from the Well in the Abyss that serves as the fundamental fuel for all magic. Its density decreases with distance from the source, and most practitioners confuse it with "magic" itself. The Ancients mastered its use through specialized device
 ---
 
@@ -20,7 +20,7 @@ summary: Mana is pure energy emanating from the Well in the Abyss that serves as
 > *"They speak of magic as if it were a force unto itself. But fire does not exist without fuel—and mana is that fuel."*
 > — Martin Halgrom, *On the Nature of Arcane Energy*
 
-Mana is the fundamental energy that permeates the world and serves as the fuel for all magical phenomena. Unlike traditional understandings of magic, mana represents a distinct, measurable energy that flows from a single cosmic source: the Well in the depths of [[lore/abyss]].
+Mana is the fundamental energy that permeates the world and serves as the fuel for all magical phenomena. Unlike traditional understandings of magic, mana represents a distinct, measurable energy that flows from a single cosmic source: the Well in the depths of [Abyss](abyss.md).
 
 > ⚠️ **Game Note:** At the beginning of the campaign, mana exists only as theory. Player characters and most NPCs do not know of its existence—they simply call it "magic."
 
@@ -30,7 +30,7 @@ Mana is the fundamental energy that permeates the world and serves as the fuel f
 
 ### Origin
 
-Mana is pure energy emanating from the Well at the deepest level of [[lore/abyss]]. This cosmic source continuously releases mana into the surrounding void, where it then disperses outward through unknown mechanisms into the world of the living.
+Mana is pure energy emanating from the Well at the deepest level of [Abyss](abyss.md). This cosmic source continuously releases mana into the surrounding void, where it then disperses outward through unknown mechanisms into the world of the living.
 
 ### Density Gradient
 
@@ -60,7 +60,7 @@ To ordinary mages—and indeed to most of the world's population—there is no d
 
 ### The Pioneers
 
-A small number of scholars, most notably [[characters/martin-guecventrak|Martin Halgrom]], recognize this fundamental misunderstanding. They work to spread awareness that magic is merely the *effect*—mana is the *cause*.
+A small number of scholars, most notably [Martin Halgrom](../characters/martin-guecventrak.md), recognize this fundamental misunderstanding. They work to spread awareness that magic is merely the *effect*—mana is the *cause*.
 
 > *"Call it ignorance. Call it tradition. But when a fire burns, you do not say the flame *is* the energy. You know better."*
 > — Martin Halgrom
@@ -69,7 +69,7 @@ A small number of scholars, most notably [[characters/martin-guecventrak|Martin 
 
 ## The Ancients' Mastery
 
-The [[lore/ancient-ones|Pradawni]] (Ancients) understood mana's true nature and exploited it at a highly advanced technological level. To them, mana was treated much like humans treat **electricity**—a fundamental resource to be harnessed, controlled, and distributed.
+The [Pradawni](ancient-ones.md) (Ancients) understood mana's true nature and exploited it at a highly advanced technological level. To them, mana was treated much like humans treat **electricity**—a fundamental resource to be harnessed, controlled, and distributed.
 
 ### Absorbers
 
@@ -137,8 +137,8 @@ Trained mages can perceive variations in mana density, though they interpret thi
 | Element | Connection |
 |---------|------------|
 | **The Well** | The source—where does it lead? |
-| **[[lore/ancient-ones|Pradawni]]** | Masters of mana technology—what happened to them? |
-| **[[characters/martin-guecventrak|Martin Halgrom]]** | Living pioneer—ally or complication? |
+| **[Pradawni](ancient-ones.md)** | Masters of mana technology—what happened to them? |
+| **[Martin Halgrom](../characters/martin-guecventrak.md)** | Living pioneer—ally or complication? |
 | **The Abyss** | Dangerous expedition site—rewards and risks |
 
 ### Mechanical Notes (Optional)
@@ -156,5 +156,5 @@ If adapting this system for TTRPG mechanics:
 - [ ] Detail the structure of the Well and its relationship to the Abyss
 - [ ] Create entry for Pradawni absorbers (potential artifacts)
 - [ ] Develop the "mana density" map of the known world
-- [ ] Write [[characters/martin-guecventrak|Martin Halgrom]]'s research notes as in-game documents
+- [ ] Write [Martin Halgrom](../characters/martin-guecventrak.md)'s research notes as in-game documents
 - [ ] Explore why the Ancients treated mana like electricity—what were they powering?

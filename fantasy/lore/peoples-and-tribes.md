@@ -27,7 +27,7 @@ Each major race has produced offshoots, exiles, and isolated communities that ha
 
 | Race | Tribe | Status |
 |------|-------|--------|
-| [[races/juuhroni|Juuhroni]] | — | Documented |
+| [Juuhroni](../races/juuhroni.md) | — | Documented |
 
 ---
 
@@ -41,7 +41,7 @@ Each major race has produced offshoots, exiles, and isolated communities that ha
 
 The Juuhroni represent an extreme example of racial divergence. Once perhaps related to other peoples, centuries of isolation in the fetid wetlands have transformed them into something entirely other. They worship the blood-soaked stones of their territory and practice sacrificial rituals that leave victims blackened and *changed*.
 
-See: [[races/juuhroni|Juuhroni]]
+See: [Juuhroni](../races/juuhroni.md)
 
 ---
 

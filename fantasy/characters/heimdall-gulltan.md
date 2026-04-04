@@ -18,7 +18,7 @@ summary: "The aging but formidable king of the dwarven underkingdoms, who rules 
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/dwarves|Dwarf]] |
+| Race | [Dwarf](../races/dwarves.md) |
 | Sex | Male |
 | Life Stage | Elder |
 | Role | King of the underkingdoms |
@@ -45,9 +45,9 @@ Among dwarves, Heimdall is respected, argued with, and obeyed. Among surface lor
 
 ## Relationships
 
-- [[places/gullveig|Gullveig]]: One of the key outward faces of dwarven wealth and negotiation
-- [[places/andvari|Andvari]]: Crucial to the commercial networks that connect dwarven craft to surface markets
-- [[races/dwarves|Dwarves]]: Symbol of continuity, pride, and endurance
+- [Gullveig](../places/gullveig.md): One of the key outward faces of dwarven wealth and negotiation
+- [Andvari](../places/andvari.md): Crucial to the commercial networks that connect dwarven craft to surface markets
+- [Dwarves](../races/dwarves.md): Symbol of continuity, pride, and endurance
 
 ## For Story Use
 

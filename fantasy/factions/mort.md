@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, berserkers, tribal, old-gods]
 related:
-  - "[[factions/tiel|Tiel]]"
-  - "[[factions/czar|Czar]]"
-  - "[[factions/naterian-hegemony|Naterian Hegemony]]"
+  - "[Tiel](tiel.md)"
+  - "[Czar](czar.md)"
+  - "[Naterian Hegemony](naterian-hegemony.md)"
 summary: "Fierce berserker clan descended from humanity's original Five Clans, dwelling on the Narrow Pass."
 ---
 
@@ -19,7 +19,7 @@ summary: "Fierce berserker clan descended from humanity's original Five Clans, d
 | Field | Value |
 |-------|-------|
 | **Type** | Noble House (Clan Confederation) |
-| **Headquarters** | [[places/narrow-pass|Narrow Pass]] (*Wąski Przesmyk*) |
+| **Headquarters** | [Narrow Pass](../places/narrow-pass.md) (*Wąski Przesmyk*) |
 | **Power Status** | Major Power |
 | **Founded** | Ancient (Pre-Unification) |
 | **Words** | Fury, Faith, Freedom |
@@ -51,16 +51,16 @@ Before a warrior may wield a ceremonial war axe, they must survive the *Próba O
 
 | House | Relationship |
 |-------|--------------|
-| [[factions/tiel|Tiel]] | Mortal enemies — disputed valley claims for centuries |
-| [[factions/czar|Czar]] | Hostile — Czar's political machinations offend Mort sensibilities |
-| [[factions/naterian-hegemony|Naterian Hegemony]] | Hostile — the Church considers their old gods heretical |
-| [[factions/walldom|Walldom]] | Distrust — Walldom's orthodox religion views Mort practices with contempt |
-| [[factions/daever|Daever]] | Cautious respect — both value the old ways |
+| [Tiel](tiel.md) | Mortal enemies — disputed valley claims for centuries |
+| [Czar](czar.md) | Hostile — Czar's political machinations offend Mort sensibilities |
+| [Naterian Hegemony](naterian-hegemony.md) | Hostile — the Church considers their old gods heretical |
+| [Walldom](walldom.md) | Distrust — Walldom's orthodox religion views Mort practices with contempt |
+| [Daever](daever.md) | Cautious respect — both value the old ways |
 
 ## Key Figures
 
-- **[[characters/chieftain-borin-mort|Chieftain Borin Mort]]** — Supreme chieftain, ancient and scarred, leads from the front
-- **[[characters/hera-of-vengeance|Hera of Vengeance]]** — Female berserker champion, undefeated in single combat for 20 years
+- **[Chieftain Borin Mort](../characters/chieftain-borin-mort.md)** — Supreme chieftain, ancient and scarred, leads from the front
+- **[Hera of Vengeance](../characters/hera-of-vengeance.md)** — Female berserker champion, undefeated in single combat for 20 years
 
 ## For Writers / Game Designers
 

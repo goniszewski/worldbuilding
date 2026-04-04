@@ -2,12 +2,13 @@
 name: Mighty Eight
 type: character
 category: characters
-tags: [heroes, ur, antagonists, history, legendary]
+tags: [heroes, ur, antagonists, history, legendary, compact]
 related:
   - characters/archmage-of-ur
   - items/soul-breaker
   - items/black-stones-of-ur
-summary: Eight legendary heroes who defeated the Archmage of Ur. Their story serves as backstory and inspiration for the campaign.
+  - factions/silver-compact
+summary: Eight legendary heroes who defeated the Archmage of Ur. Their story serves as backstory and inspiration for the campaig
 ---
 
 # Mighty Eight (Potężna Ósemka)
@@ -16,7 +17,7 @@ summary: Eight legendary heroes who defeated the Archmage of Ur. Their story ser
 
 ## Overview
 
-The Mighty Eight were a legendary band of eight heroes who, five centuries ago, defeated the [[characters/archmage-of-ur|Archmage of Ur]] and sealed away his power. Their victory ended the Age of Darkness and ushered in the current era.
+The Mighty Eight were a legendary band of eight heroes who, five centuries ago, defeated the [Archmage of Ur](archmage-of-ur.md) and sealed away his power. Their victory ended the Age of Darkness and ushered in the current era.
 
 > *"Eight mortals stood against a god. Only eight could have done what one could not."*
 > — The Chronicle of the Sundering
@@ -26,7 +27,7 @@ The Mighty Eight were a legendary band of eight heroes who, five centuries ago, 
 ### Circumstances
 As the Archmage grew more powerful and his cult spread chaos:
 - Nations fell one by one
-- The [[lore/ancient-ones|Ancients]] withdrew from the world
+- The [Ancients](../lore/ancient-ones.md) withdrew from the world
 - Desperate times called for desperate measures
 
 ### The Gathering
@@ -43,7 +44,7 @@ A seeress named **Mira of the Pale Moon** gathered eight individuals:
 | Second | Courage | Unbreakable Will | Front-line fighter |
 | Third | Compassion | Healing Touch | Support, medic |
 | Fourth | Truth | Word of Binding | Mage hunter |
-| Fifth | Sacrifice | Death's Bargain | Made deals with the Void |
+| Fifth | Sacrifice | Death's Bargain | Made deals with spirits |
 | Sixth | Shadow | Unseen Step | Infiltrator, assassin |
 | Seventh | Justice | The Final Strike | Delivered the killing blow |
 | Eighth | Hope | The Last Light | Kept the team together |
@@ -71,9 +72,16 @@ The key to defeating the Archmage was **Soul Breaker** — only this weapon coul
 **The Aftermath**:
 - Four survived
 - They sealed the Archmage's remains
-- Their descendants carry the burden to this day
+- They founded what would become the [Silver Compact](../factions/silver-compact.md)
+- Their bloodline carries the burden to this day
 
 ## Legacy
+
+### The Compact's Origin
+The Silver Compact traces its lineage directly to the Mighty Eight:
+- First generation: The survivors and their families
+- Purpose: Guard against the Archmage's return
+- Evolution: From hunters to political power
 
 ### The Survivors
 
@@ -84,10 +92,10 @@ The key to defeating the Archmage was **Soul Breaker** — only this weapon coul
 | Fifth | Returned to the spirit realm |
 | Sixth | Faded into legend, became a cautionary tale |
 
-### Bloodline Legacy
+### Bloodline Curse
 Some believe descendants of the Mighty Eight are:
 - Protected by the virtue of their ancestor
-- Cursed if they betray the memory of their ancestors
+- Cursed if they betray the Compact's purpose
 - Marked for greatness... or doom
 
 ## Current Campaign Relevance
@@ -95,7 +103,7 @@ Some believe descendants of the Mighty Eight are:
 ### Hidden Secrets
 - One of the Eight may have had a hidden agenda
 - Possible survivor bloodline among current NPCs
-- History may have been rewritten over centuries
+- The Compact may have strayed from the original purpose
 
 ### The Archmage's Perspective
 The Archmage remembers the Eight:
@@ -107,7 +115,7 @@ The Archmage remembers the Eight:
 The Eight left behind:
 - Their weapons (scattered, lost, or sealed)
 - Personal journals (treasures of knowledge)
-- The original charter of their oath (in their blood)
+- The original Compact charter (in their blood)
 
 ## For Writers / Game Designers
 
@@ -121,7 +129,7 @@ The Eight left behind:
 The Mighty Eight weren't perfect:
 - Collateral damage in their battles
 - Difficult choices, desperate measures
-- Their legacy shaped history in ways they never intended
+- Their methods shaped the Compact they created
 
 ### Inspiration vs. Burden
 Heroes can:
@@ -141,6 +149,7 @@ Heroes can:
 
 ## Related Entries
 
-- [[characters/archmage-of-ur|Archmage of Ur]] — their enemy
-- [[items/soul-breaker|Soul Breaker]] — the killing weapon
-- [[adventures/campaign-plot|Campaign Plot]] — the continuing story
+- [Archmage of Ur](archmage-of-ur.md) — their enemy
+- [Soul Breaker](../items/soul-breaker.md) — the killing weapon
+- [Silver Compact](../factions/silver-compact.md) — their legacy
+- [Campaign Plot](../adventures/campaign-plot.md) — the continuing story

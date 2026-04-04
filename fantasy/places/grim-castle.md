@@ -20,7 +20,7 @@ summary: Grim Castle at the mouth of the underground passage to dwarven lands, s
 |-------|-------|
 | **Type** | Fortress-City |
 | **Polish Name** | Ponury Zamek |
-| **Controlling House** | [[factions/skjor|Skjor]] |
+| **Controlling House** | [Skjor](../factions/skjor.md) |
 | **Region** | Eastern Mountains |
 | **Population** | ~25,000 |
 | **Status** | Trade Gateway |

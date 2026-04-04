@@ -8,10 +8,10 @@ tags:
   - tentacle-appendages
   - socialist
 related:
-  - "[[lore/origins-of-races]]"
-  - "[[characters/torr|Torr]]"
-  - "[[lore/the-cleansed|The Cleansed]]"
-  - "[[races/humans|Humans]]"
+  - "[Origins of the Races](../lore/origins-of-races.md)"
+  - "[Torr](../characters/torr.md)"
+  - "[The Cleansed](../lore/the-cleansed.md)"
+  - "[Humans](humans.md)"
 summary: "Tall humanoids with tentacle-like appendages and scale-like skin. The most diverse-looking race."
 ---
 
@@ -25,7 +25,7 @@ summary: "Tall humanoids with tentacle-like appendages and scale-like skin. The 
 |-----------|-------|
 | **Category** | Sapient Race |
 | **Polish Name** | Naterianie, Naterowie |
-| **Evolved From** | [[lore/the-cleansed|The Cleansed]] (via [[characters/torr|Torr]]) |
+| **Evolved From** | [The Cleansed](../lore/the-cleansed.md) (via [Torr](../characters/torr.md)) |
 | **Adult Age** | 17 |
 | **Average Age** | 110 |
 | **Type** | Humanoid, Mammal |
@@ -44,14 +44,14 @@ Naterians are tall and well-built humanoids that differ notably from other races
 
 ### Diversity
 Naterians are the most **diverse-looking race**:
-- Most "pure" descendants of [[characters/torr|Torr]] have prominent, mobile tentacles (sometimes forming a crown-like shape) and very dark skin
+- Most "pure" descendants of [Torr](../characters/torr.md) have prominent, mobile tentacles (sometimes forming a crown-like shape) and very dark skin
 - More "mixed" individuals appear similar to humans or elves but retain subtle tentacle bumps and warmer skin tones
 - Lack of tentacles is a rare mutation (comparable to albinism in humans)
 
 ## Political Structure
 
 ### The Nater Hegemony
-- **Location**: Northern side of [[places/torrs-gate|Torr's Gate]]
+- **Location**: Northern side of [Torr's Gate](../places/torrs-gate.md)
 - **Capital**: [TODO]
 - **Ruler**: [TODO]
 - **System**: Dominant social system resembles efficient Soviet-style socialism
@@ -82,7 +82,7 @@ Naterians are the most **diverse-looking race**:
 - Skeptical of legends about the Beginning
 - Still **venerate Torr**, the legendary First One
 - View magic as a **useful tool**, not tied to faith
-- Practical approach to arcane magic — mages serve the state
+- Practical approach to spirit binding through the Compact
 
 ## Relations with Other Races
 
@@ -109,5 +109,5 @@ Dwarven kingdoms are located underground between human and Naterian territories,
 
 ## Known Naterians
 
-- [[characters/velan-kivar-zan-ehkovok]] — Warrior of Kharatar clan
-- [[characters/gwenn-youkto-imah-vueten]] — [TODO]
+- [Velan Kivar Zan Ehkovok](../characters/velan-kivar-zan-ehkovok.md) — Warrior of Kharatar clan
+- [Gwenn Youkto Imah Vueten](../characters/gwenn-youkto-imah-vueten.md) — [TODO]

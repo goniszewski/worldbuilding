@@ -65,8 +65,8 @@ Velan's true origin is tragic and layered:
 
 ## Relationships
 
-- **[[damara-loehen|Damara Lo'Ehen]]**: Teaches him magic; potential romance
-- **[[characters/erin-telion-from-mert|Erin Telion z Mert]]**: Wary protective dynamic regarding Damara
+- **[Damara Lo'Ehen](damara-loehen.md)**: Teaches him magic; potential romance
+- **[Erin Telion z Mert](erin-telion-from-mert.md)**: Wary protective dynamic regarding Damara
 - **Parents**: Complicated; can potentially save them or condemn them
 
 ## For Writers / Game Designers

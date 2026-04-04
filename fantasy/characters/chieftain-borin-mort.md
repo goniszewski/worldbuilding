@@ -4,8 +4,8 @@ type: character
 category: characters
 tags: [human, mort, chieftain, berserker, warrior]
 related:
-  - "[[factions/mort|Mort]]"
-  - "[[characters/hera-of-vengeance|Hera of Vengeance]]"
+  - "[Mort](../factions/mort.md)"
+  - "[Hera of Vengeance](hera-of-vengeance.md)"
 summary: "Supreme chieftain of the Mort clans, ancient and scarred, who leads from the front lines."
 ---
 
@@ -17,10 +17,10 @@ summary: "Supreme chieftain of the Mort clans, ancient and scarred, who leads fr
 
 | Field | Value |
 |-------|-------|
-| Race | [[races/humans|Human]] |
+| Race | [Human](../races/humans.md) |
 | Sex | Male |
 | Age | 67 |
-| House | [[factions/mort|Mort]] |
+| House | [Mort](../factions/mort.md) |
 | Title | Chieftain (*Wódz*), Leader of the Five Clans |
 
 ## Description
@@ -64,9 +64,9 @@ He respects strength above all else and despises weakness, treachery, and false 
 
 ## Relationships
 
-- **[[characters/hera-of-vengeance|Hera of Vengeance]]**: His champion; they have a complicated relationship
+- **[Hera of Vengeance](hera-of-vengeance.md)**: His champion; they have a complicated relationship
 - **The Five Clans**: Rules through consensus, not decree
-- **[[factions/tiel|Tiel]]**: Mortal enemies; the valley dispute is personal
+- **[Tiel](../factions/tiel.md)**: Mortal enemies; the valley dispute is personal
 - **The chieftain's line**: Three wives over the years; all dead of childbirth
 
 ## For Writers / Game Designers

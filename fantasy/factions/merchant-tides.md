@@ -22,7 +22,7 @@ summary: "A loose but influential maritime trade coalition that profits from neu
 | **Character** | Polished, pragmatic, calculating |
 | **Scale** | Coastal and interregional |
 | **Status** | Active, wealthy, internally competitive |
-| **Center of Gravity** | [[places/verath|Verath]] and allied harbors |
+| **Center of Gravity** | [Verath](../places/verath.md) and allied harbors |
 
 ## Description
 
@@ -61,10 +61,10 @@ Their greatest strength is not wealth alone, but plausibility. Everyone believes
 
 | Power | Relationship | Notes |
 |-------|--------------|-------|
-| [[factions/naterian-hegemony|The Naterian Hegemony]] | Competitive | Naval influence creates recurring friction |
-| [[factions/timrel|Timrel]] | Competitive overlap | Naval influence and sea control create recurring friction |
-| [[factions/graz|Graz]] | Strong commercial ties | Shared interest in commerce and distribution |
-| [[places/verath|Verath]] | Foundational | One of the coalition's most useful anchor ports |
+| [The Silver Compact](silver-compact.md) | Cautious cooperation | Trade requires peace, but the Compact is bad for free movement |
+| [Timrel](timrel.md) | Competitive overlap | Naval influence and sea control create recurring friction |
+| [Graz](graz.md) | Strong commercial ties | Shared interest in commerce and distribution |
+| [Verath](../places/verath.md) | Foundational | One of the coalition's most useful anchor ports |
 
 ## For Story Use
 
@@ -74,10 +74,11 @@ Their greatest strength is not wealth alone, but plausibility. Everyone believes
 - Trade networks that become political actors
 
 ### Story Hooks
-- A merchant convoy disappears after carrying sealed arcane cargo
+- A merchant convoy disappears after carrying sealed Compact cargo
 - The Council of Captains fractures over whether to back a rebellion
 - A port ledger contains proof that one house funded both sides of a conflict
 
 ### Adaptation Notes
 - Merchant Tides work well as an unreliable stabilizing force
 - They should feel too practical to love and too necessary to ignore
+

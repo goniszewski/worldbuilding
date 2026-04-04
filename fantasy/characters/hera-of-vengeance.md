@@ -22,7 +22,7 @@ summary: "Female berserker champion of Mort, undefeated in single combat for twe
 | **Sex** | Female |
 | **Age** | 34 |
 | **Status** | Alive |
-| **Affiliation** | [[factions/mort|Mort]] — She-Wolf Clan |
+| **Affiliation** | [Mort](../factions/mort.md) — She-Wolf Clan |
 
 ## Description
 
@@ -60,9 +60,9 @@ She has no patience for politics, diplomacy, or compromise. If something angers 
 
 ## Relationships
 
-- **[[characters/chieftain-borin-mort|Chieftain Borin Mort]]**: Complicated — respects him, challenges him, needs him
+- **[Chieftain Borin Mort](chieftain-borin-mort.md)**: Complicated — respects him, challenges him, needs him
 - **Klan Wilczycy**: She is their champion and voice
-- **[[factions/tiel|Tiel]]**: Personal hatred — a Tiel mining accident killed her first love
+- **[Tiel](../factions/tiel.md)**: Personal hatred — a Tiel mining accident killed her first love
 - **The Other Clans**: Respected but watched warily
 
 ## For Writers / Game Designers
