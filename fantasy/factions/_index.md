@@ -2,9 +2,10 @@
 name: Factions Index
 type: index
 category: factions
-summary: "Index of political powers, noble houses, and organized groups in the fantasy setting."
+summary: Index of political powers, noble houses, and organized groups in the fantasy setting.
+title: Factions
+updatedAt: 1775306672326
 ---
-
 # Factions
 
 > Powers, houses, and orders competing to shape the realm.
@@ -14,7 +15,7 @@ summary: "Index of political powers, noble houses, and organized groups in the f
 ## Major Powers
 
 | Faction | Type | Notes |
-|---------|------|-------|
+| --- | --- | --- |
 | [The Silver Compact](silver-compact.md) | Organization | Arcane monopoly regulating legal spirit binding |
 | [The Naterian Hegemony](naterian-hegemony.md) | Nation | Honor-bound northern power |
 | [Soul Keeper Brotherhood](soul-keeper-brotherhood.md) | Secret Order | Guardians of forbidden knowledge and dangerous relics |
@@ -25,7 +26,7 @@ summary: "Index of political powers, noble houses, and organized groups in the f
 ## Noble Houses of the Human Kingdom
 
 | House | Seat | Specialty |
-|-------|------|----------|
+| --- | --- | --- |
 | [House Walldom](walldom.md) | Brama Torra | Guardians of the Gate |
 | [Clan Mort](mort.md) | Wąski Przesmyk | Berserker clan |
 | [House Daever](daever.md) | Dolina Mgieł | Mist and alchemy |

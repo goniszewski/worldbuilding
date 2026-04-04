@@ -2,20 +2,29 @@
 name: Campaign Plot
 type: adventure
 category: adventures
-tags: [plot, campaign, main-story, cult, ur, black-stones, terrorism, war]
+tags:
+  - "plot"
+  - "campaign"
+  - "main-story"
+  - "cult"
+  - "ur"
+  - "black-stones"
+  - "terrorism"
+  - "war"
 related:
-  - lore/origins-of-races
-  - lore/abyss
-  - lore/religions
-  - factions/silver-compact
-  - items/blue-ore
-  - items/black-stones-of-ur
-  - items/soul-breaker
-  - characters/archmage-of-ur
-  - characters/mighty-eight
+  - "lore/origins-of-races"
+  - "lore/abyss"
+  - "lore/religions"
+  - "factions/silver-compact"
+  - "items/blue-ore"
+  - "items/black-stones-of-ur"
+  - "items/soul-breaker"
+  - "characters/archmage-of-ur"
+  - "characters/mighty-eight"
 summary: "The main campaign arc: stopping the Archmage's cult, preventing a racial war, and finding the Black Stones of Ur."
+title: Campaign Plot
+updatedAt: 1775315890759
 ---
-
 # Campaign Plot
 
 > A campaign arc of cult terror, political fracture, and the race to reach Ur's relics first.
@@ -51,6 +60,7 @@ The hero becomes personally entangled in the intrigue and joins a **secret organ
 ### The Brotherhood's Betrayal
 
 The hero fails to prevent the conflict. War begins earlier than anticipated, and the organization is torn apart by internal disputes:
+
 - They became corrupt and puppet-like
 - They betrayed the king, switching sides to the occupier — another human king seeking to exploit the chaos and sign a treaty with the elves
 - They abandoned their original purpose
@@ -68,6 +78,7 @@ After the betrayal, an important clue emerges — **the cult is preparing for a 
 The hero gathers companions and former members of the organization who share their views, forming a loosely-structured **association** — [Silver Compact](../factions/silver-compact.md).
 
 Over time, the situation requires going public and establishing a headquarters. The player can obtain 2-3 options through various means:
+
 - An old, partially destroyed castle
 - An abandoned fortress located in inaccessible mountains
 - The residence of one of the declining noble houses
@@ -77,11 +88,13 @@ Over time, the situation requires going public and establishing a headquarters. 
 After initial preparations and the consent of one of the rulers, the hero leads the Compact. They can choose:
 
 **Patrons** (3-6, divided into 2 groups):
+
 - Each gives different bonuses
 - Attracts a specific group (warriors, mages, spies)
 - May alienate others
 
 **Priorities** (from most important):
+
 - Military strength
 - Political influence and intelligence network
 - Religion, knowledge, and magic
@@ -101,6 +114,7 @@ At some point in the game, the cultists succeed in **destroying the binding spel
 The Archmage of Ur created something similar to **Voldemort's horcrux** and merged his soul with a **chaotic entity** — most likely a demon — becoming immortal, independent of the body, and an unimaginably powerful being.
 
 **The Price of Immortality:**
+
 - Defilement of the soul
 - Loss of senses
 - Partial lack of control over consciousness (feels as if constantly drowning)
@@ -136,7 +150,7 @@ After many years, they stumbled upon **the ruins of one of the Ancients' shelter
 ## Key Enemies
 
 | Enemy | Description |
-|-------|-------------|
+| --- | --- |
 | [Archmage of Ur](../characters/archmage-of-ur.md) | Immortal demigod, merged his soul with the Void |
 | Zealots | Fanatical suicide bombers |
 | The Cult | Organization striving for the Revelation |
@@ -146,7 +160,7 @@ After many years, they stumbled upon **the ruins of one of the Ancients' shelter
 ## Key Allies
 
 | Ally | Description |
-|------|-------------|
+| --- | --- |
 | [Silver Compact](../factions/silver-compact.md) | The hero's loosely-structured association |
 | Brotherhood (former members) | Betrayed but loyal to the cause |
 
@@ -155,17 +169,20 @@ After many years, they stumbled upon **the ruins of one of the Ancients' shelter
 ## For the GM — Staging Notes
 
 ### Campaign Tone
+
 - **Political thriller** with cosmic horror elements
 - Emphasis on **intrigue, moral choices, and consequences**
 - Racial war as background, not the main goal
 
 ### Key Player Decisions
+
 1. Whom to trust — elves, humans, or no one?
 2. Choose patrons and priorities for the Compact
 3. Support the Archmage or destroy him?
 4. Allow a "small" explosion for the greater good?
 
 ### Climactic Point
+
 The Archmage offers the hero partnership — much like the Emperor offers Vader. This is not an easy choice between good and evil, but between two visions of the future.
 
 ---

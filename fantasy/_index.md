@@ -4,12 +4,11 @@ type: guide
 category: meta
 summary: "Quick navigation index for the fantasy campaign setting."
 ---
-
 # Fantasy Universe
 
 > High fantasy world where ancient magic, political intrigue, and forgotten gods shape the fate of mortals. Heroes uncover secrets buried since the Sundering.
 
-**[Master Bible](BIBLE.md)** — Full campaign reference
+**[Master Bible](BIBLE.md)** — Full campaign reference  
 **[Style Guide](STYLE.md)** — Documentation conventions
 
 ---
@@ -17,8 +16,9 @@ summary: "Quick navigation index for the fantasy campaign setting."
 ## Quick Navigation
 
 ### Races
+
 | Race | Polish Name | Notes |
-|------|-------------|-------|
+| --- | --- | --- |
 | [Naterians](races/naterians.md) | Naterowie | Warrior culture, honor-bound |
 | [Humans](races/humans.md) | Ludzie | Diverse, politically fractured |
 | [Elves](races/elves.md) | Elfowie | Pure blood, magical affinity |
@@ -28,8 +28,9 @@ summary: "Quick navigation index for the fantasy campaign setting."
 | [Juuhroni](races/juuhroni.md) | Juuhroni | Mysterious nomads |
 
 ### Characters
+
 | Character | Race | Role | House/Faction |
-|-----------|------|------|---------------|
+| --- | --- | --- | --- |
 | [Velan Kivar Zan-Ehkovok](characters/velan-kivar-zan-ehkovok.md) | Human | Protagonist | Silver Compact |
 | [Erin Telion](characters/erin-telion-from-mert.md) | Human | Protagonist | — |
 | [Damara Loehen](characters/damara-loehen.md) | Elven | Protagonist | Silver Compact |
@@ -39,6 +40,7 @@ summary: "Quick navigation index for the fantasy campaign setting."
 | [The First One](characters/the-first-one.md) | — | Divine | — |
 
 **Notable Figures:**
+
 - [Torr](characters/torr.md) — Ancestor of Naterians
 - [Lesandra](characters/lesandra.md) — Ancestor of Elves
 - [Daraster](characters/daraster.md) — Ancestor of Humans
@@ -46,6 +48,7 @@ summary: "Quick navigation index for the fantasy campaign setting."
 - [The Mighty Eight](characters/mighty-eight.md) — Slayers of the Archmage
 
 **Human Noble Houses:**
+
 - [Lord Korn Walldom](factions/walldom.md) — Guardians of Torr's Gate
 - [Chieftain Borin Mort](characters/chieftain-borin-mort.md) — Berserker Clan
 - [Lady Morwena Daever](factions/daever.md) — Mist & Alchemy
@@ -59,8 +62,9 @@ summary: "Quick navigation index for the fantasy campaign setting."
 - Królowa Śniegu Hedda (Snow Queen Hedda) — Northern Isolation
 
 ### Factions
+
 | Faction | Type | Notes |
-|---------|------|-------|
+| --- | --- | --- |
 | [The Silver Compact](factions/silver-compact.md) | Organization | Magical monopoly, player faction |
 | [The Naterian Hegemony](factions/naterian-hegemony.md) | Nation | Honor-bound warriors |
 | [House Walldom](factions/walldom.md) | Noble House | Mountain guardians |
@@ -78,8 +82,9 @@ summary: "Quick navigation index for the fantasy campaign setting."
 | [Soul-Keeper Brotherhood](factions/factions/soul-keeper-brotherhood.md) | Secret Society | Mysterious, preserves souls |
 
 ### Places
+
 | Place | Region | Notes |
-|-------|--------|-------|
+| --- | --- | --- |
 | [Torr's Gate](places/torrs-gate.md) (Brama Torra) | North | Impassable mountain fortress |
 | [The Silver Woods](places/silver-woods.md) (Srebrne Lasy) | Central | Sacred grove, Compact HQ |
 | [Sky Torch](places/sky-torch.md) (Niebiańska Pochodnia) | South | Eternal flame, no magic |
@@ -98,20 +103,23 @@ summary: "Quick navigation index for the fantasy campaign setting."
 | [Verath](verath.md) | Coast | Merchant hub, neutral ground |
 
 ### Creatures
+
 | Creature | Danger | Notes |
-|----------|--------|-------|
+| --- | --- | --- |
 | [Yazghur](creatures/yazghur.md) | Deadly | Shadow-stalking apex predator |
 
 ### Items
+
 | Item | Type | Notes |
-|------|------|-------|
+| --- | --- | --- |
 | [Black Stones of Ur](items/black-stones-of-ur.md) | Legendary | Three exist, grant godlike power |
 | [Blue Ore](items/blue-ore.md) (Błękitna Ruda) | Material | Explosive when processed; "sings" at sunrise |
 | [Soul Breaker](items/soul-breaker.md) (Łamacz Dusz) | Weapon | Kills without damaging body |
 
 ### Lore
+
 | Topic | Summary |
-|-------|---------|
+| --- | --- |
 | [Spirit Binding](lore/magic-system.md) | Core magic system — contract with spirits, pay with memories/life |
 | [Mana](lore/mana.md) | The lifeblood of magic |
 | [Aspects](lore/aspects.md) | Divine beings, children of the First One |
@@ -127,8 +135,9 @@ summary: "Quick navigation index for the fantasy campaign setting."
 | [Virtuti Vincere](lore/virtuti-vincere.md) | Martial philosophy |
 
 ### Adventures
+
 | Adventure | Summary |
-|-----------|---------|
+| --- | --- |
 | [Campaign Plot](adventures/campaign-plot.md) | Stop a suicide cult, find a Black Stone, face the immortal Archmage |
 
 ---

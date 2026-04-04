@@ -2,9 +2,10 @@
 name: Fantasy Universe Bible
 type: guide
 category: meta
-summary: "Core reference bible for the fantasy setting, covering factions, history, religion, and campaign framing."
+summary: Core reference bible for the fantasy setting, covering factions, history, religion, and campaign framing.
+title: Fantasy Universe Bible
+updatedAt: 1775318760380
 ---
-
 # Fantasy Universe Bible
 
 > **TL;DR** — High fantasy realm where magic is an academic discipline. Heroes fight to preserve balance against ancient threats.
