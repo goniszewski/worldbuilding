@@ -4,8 +4,8 @@ type: location
 category: places
 tags: [torrs-gate, mountains, natural-fortress, border, impassable]
 related:
-  - "[Naterian Hegemony](../factions/naterian-hegemony)"
-  - "[Walldom](../factions/walldom)"
+  - ../factions/naterian-hegemony
+  - ../factions/walldom
 summary: "A massive mountain range acting as a natural wall between the Human Kingdom and the Nater Hegemony"
 ---
 

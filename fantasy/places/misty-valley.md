@@ -4,9 +4,9 @@ type: location
 category: places
 tags: [valley, fog, daever, milk-mist, dangerous]
 related:
-  - "[Daever](../factions/daever)"
-  - "[Winters](../factions/winters)"
-  - "[Czar](../factions/czar)"
+  - ../factions/daever
+  - ../factions/winters
+  - ../factions/czar
 summary: Fog-shrouded valley controlled by House Daever, where the deadly Milk Mist makes invasion impossibl
 ---
 

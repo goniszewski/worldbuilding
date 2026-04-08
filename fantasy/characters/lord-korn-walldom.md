@@ -4,8 +4,8 @@ type: character
 category: characters
 tags: [human, noble, ancient, immortal, black-blood]
 related:
-  - "[Walldom](walldom)"
-  - "[Zygfryd Walldom](zygfryd-walldom)"
+  - walldom
+  - zygfryd-walldom
 summary: "Ancient lord of Walldom rumored to be over three centuries old, keeper of the forbidden Black Blood Ritual"
 ---
 

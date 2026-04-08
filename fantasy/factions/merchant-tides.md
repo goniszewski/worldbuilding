@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [trade, naval, merchants, coalition, neutral]
 related:
-  - "[Verath](../places/verath)"
-  - "[Timrel](timrel)"
-  - "[Graz](graz)"
+  - ../places/verath
+  - timrel
+  - graz
 summary: "A loose but influential maritime trade coalition that profits from neutrality, information, and keeping ports open during political crisis"
 ---
 

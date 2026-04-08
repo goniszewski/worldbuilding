@@ -4,7 +4,7 @@ type: character
 category: characters
 tags: [human, daever, matriarch, alchemist, cold]
 related:
-  - "[Daever](../factions/daever)"
+  - ../factions/daever
 summary: "Cold, calculating matriarch of Daever who rarely leaves her tower, controlling the Milk Mist empire"
 ---
 

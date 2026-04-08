@@ -4,8 +4,8 @@ type: character
 category: characters
 tags: [protagonist, human, mercenary, eridann]
 related:
-  - "[Angar](angar)"
-  - "[Damara Lo'Ehen](damara-loehen)"
+  - angar
+  - damara-loehen
 summary: "Black-skinned human mercenary with strange, green eyes. Pleasant but calculating. Avoids conversations about her past"
 ---
 

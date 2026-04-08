@@ -4,9 +4,9 @@ type: character
 category: characters
 tags: [dwarf, king, ruler, tradition, underkingdom]
 related:
-  - "[Gullveig](../places/gullveig)"
-  - "[Andvari](../places/andvari)"
-  - "[Dwarves](../races/dwarves)"
+  - ../places/gullveig
+  - ../places/andvari
+  - ../races/dwarves
 summary: "The aging but formidable king of the dwarven underkingdoms, who rules through memory, ceremony, and an iron refusal to let the surface forget dwarven power"
 ---
 

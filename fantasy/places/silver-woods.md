@@ -8,8 +8,8 @@ tags:
   - mysterious
   - arcane
 related:
-  - "[Whisperer Shrine](places/whisperer-shrine)"
-  - "[Religious Systems](../lore/religions)"
+  - places/whisperer-shrine
+  - ../lore/religions
 summary: Ancient forest of silver-leafed trees — sacred ground where magic feels stronger and the air itself hums with power.
 ---
 

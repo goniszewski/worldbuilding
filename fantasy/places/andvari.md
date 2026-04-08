@@ -9,8 +9,8 @@ tags:
   - guild
   - trading-post
 related:
-  - "[Dwarves](../races/dwarves)"
-  - "[Gullveig](gullveig)"
+  - ../races/dwarves
+  - gullveig
 summary: Dwarven merchant guild headquartered in the wealthy underground city of Advaranat
 ---
 

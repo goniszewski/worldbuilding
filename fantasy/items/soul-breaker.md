@@ -4,12 +4,12 @@ type: item
 category: items
 tags: [weapon, sword, cursed, artifact, soul-destroying, legendary, ur]
 related:
-  - "[The Soul Keeper Brotherhood](../factions/soul-keeper-brotherhood)"
-  - "[Archmage of Ur](../characters/archmage-of-ur)"
-  - "[Mighty Eight](../characters/mighty-eight)"
-  - "[Black Stones of Ur](black-stones-of-ur)"
-  - "[The Abyss](../lore/abyss)"
-  - "[Dreadwinter](artifacts/dreadwinter)"
+  - ../factions/soul-keeper-brotherhood
+  - ../characters/archmage-of-ur
+  - ../characters/mighty-eight
+  - black-stones-of-ur
+  - ../lore/abyss
+  - artifacts/dreadwinter
 summary: "A cursed blade forged in darkness that devours souls and corrupts its wielder, exploited by the Archmage of Ur for centuries"
 ---
 

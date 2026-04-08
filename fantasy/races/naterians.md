@@ -8,10 +8,10 @@ tags:
   - tentacle-appendages
   - socialist
 related:
-  - "[Origins of the Races](../lore/origins-of-races)"
-  - "[Torr](../characters/torr)"
-  - "[The Cleansed](../lore/the-cleansed)"
-  - "[Humans](humans)"
+  - ../lore/origins-of-races
+  - ../characters/torr
+  - ../lore/the-cleansed
+  - humans
 summary: "Tall humanoids with tentacle-like appendages and scale-like skin. The most diverse-looking race"
 ---
 

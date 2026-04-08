@@ -4,10 +4,10 @@ type: sapient-race
 category: races
 tags: [humanoids, strong, fierce, tribal]
 related:
-  - "[Humans](humans)"
-  - "[Naterians](naterians)"
-  - "[Dwarves](dwarves)"
-  - "[Elves](elves)"
+  - humans
+  - naterians
+  - dwarves
+  - elves
 summary: "Strong, fierce humanoids with shorter lifespans, organized primarily in tribes that vary widely in culture and disposition"
 ---
 

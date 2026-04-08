@@ -4,9 +4,9 @@ type: sapient-race
 category: races
 tags: [swamp-dwellers, mysterious, predator, blood-cult, distant-lands]
 related:
-  - "[Arven Doyne](../characters/arven-doyne)"
-  - "[The Abyss](../lore/abyss)"
-  - "[Juuhroni Fens](places/juuhroni-fens)"
+  - ../characters/arven-doyne
+  - ../lore/abyss
+  - places/juuhroni-fens
 summary: "A terrifying, swamp-dwelling race of black-skinned predators worshipped in fringe explorer tales as 'swamp ghosts,' dwelling in timeless ruins beyond the known map"
 ---
 

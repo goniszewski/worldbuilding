@@ -4,9 +4,9 @@ type: magic-system
 category: lore
 tags: [magic, arcana, demons, mana]
 related:
-  - "[Archmage of Ur](../characters/archmage-of-ur)"
-  - "[Naterian Hegemony](../factions/naterian-hegemony)"
-  - "[Mana](mana)"
+  - ../characters/archmage-of-ur
+  - ../factions/naterian-hegemony
+  - mana
 summary: The universal system of arcane arts, practiced differently by each race — from disciplined human universities to elf magin councils and dwarven blue ore engineerin
 ---
 

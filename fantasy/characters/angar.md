@@ -4,8 +4,8 @@ type: character
 category: characters
 tags: [protagonist, human, warrior, soul-keeper-brotherhood, eridann]
 related:
-  - "[Damara Lo'Ehen](damara-loehen)"
-  - "[Velan-Kivar-Zan-Ehkovok](velan-kivar-zan-ehkovok)"
+  - damara-loehen
+  - velan-kivar-zan-ehkovok
 summary: "Black-skinned member of the Brotherhood of the Soul Breaker. Honorable and steadfast, carrying the cursed sword Łamacz Dusz"
 ---
 

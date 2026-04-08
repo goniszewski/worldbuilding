@@ -4,9 +4,9 @@ type: character
 category: characters
 tags: [human, noble, politician, strategist]
 related:
-  - "[Walldom](walldom)"
-  - "[Lord Korn Walldom](lord-korn-walldom)"
-  - "[Czar](czar)"
+  - walldom
+  - lord-korn-walldom
+  - czar
 summary: "Descendant of Lord Korn and the true political power behind Walldom's throne"
 ---
 

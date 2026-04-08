@@ -4,9 +4,9 @@ type: character
 category: characters
 tags: [human, czar, royal-advisor, politician, cunning]
 related:
-  - "[Czar](czar)"
-  - "[Lady Morwena Daever](lady-morwena-daever)"
-  - "[Walldom](walldom)"
+  - czar
+  - lady-morwena-daever
+  - walldom
 summary: "Royal Advisor to the throne, the first non-noble to hold the position, and the realm's most dangerous manipulator"
 ---
 

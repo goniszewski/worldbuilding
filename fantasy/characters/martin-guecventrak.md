@@ -4,7 +4,7 @@ type: character
 category: characters
 tags: [protagonist, dwarf, inventor, swordsman, eridann]
 related:
-  - "[Damara Lo'Ehen](damara-loehen)"
+  - damara-loehen
 summary: "Dwarven inventor and decent swordsman. Pragmatic solutions. Main translator of scientific concepts, uses technical methodology"
 ---
 

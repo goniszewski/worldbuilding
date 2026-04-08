@@ -9,12 +9,12 @@ tags:
   - miners
   - forbidden-unions
 related:
-  - "[Origins of the Races](../lore/origins-of-races)"
-  - "[Torr](../characters/torr)"
-  - "[Daraster](../characters/daraster)"
-  - "[Lesandra](../characters/lesandra)"
-  - "[Humans](humans)"
-  - "[Naterians](naterians)"
+  - ../lore/origins-of-races
+  - ../characters/torr
+  - ../characters/daraster
+  - ../characters/lesandra
+  - humans
+  - naterians
 summary: "Short, sturdy underground craftsmen and miners. Descendants of forbidden unions between children of Torr and Daraster, punished and driven underground by the other races"
 ---
 

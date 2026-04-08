@@ -9,11 +9,11 @@ tags:
   - magic
   - first-generation
 related:
-  - "[Origins of the Races](../lore/origins-of-races)"
-  - "[The First One](the-first-one)"
-  - "[Torr](torr)"
-  - "[Daraster](daraster)"
-  - "[Elves](../races/elves)"
+  - ../lore/origins-of-races
+  - the-first-one
+  - torr
+  - daraster
+  - ../races/elves
 summary: "The third child of Pierwsza, only one who could fully control magic, mother of the Elves through her marriage to Daraster"
 ---
 

@@ -4,8 +4,8 @@ type: character
 category: characters
 tags: [natherian-pantheon, divine, archer, martyr, protector]
 related:
-  - "[Natherian Pantheon](lore/natherian-pantheon)"
-  - "[Orzekacz Naterian](../factions/naterian-adjudicator)"
+  - lore/natherian-pantheon
+  - ../factions/naterian-adjudicator
 summary: "Divine patron of defenders of faith and archers. Killed a barbarian warlord with a single shot, then died to his son's treachery"
 ---
 

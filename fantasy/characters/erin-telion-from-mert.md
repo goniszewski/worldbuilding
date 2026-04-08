@@ -4,8 +4,8 @@ type: character
 category: characters
 tags: [protagonist, human, archer, soldier, eridann]
 related:
-  - "[Damara Lo'Ehen](damara-loehen)"
-  - "[Velan-Kivar-Zan-Ehkovok](velan-kivar-zan-ehkovok)"
+  - damara-loehen
+  - velan-kivar-zan-ehkovok
 summary: "Former city guard, skilled archer with trust issues. Cold exterior masks past trauma"
 ---
 

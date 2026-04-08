@@ -9,10 +9,10 @@ tags:
   - homeland
   - origin
 related:
-  - "[Origins of the Races](../lore/origins-of-races)"
-  - "[The Cleansed](../lore/the-cleansed)"
-  - "[Age of Light](../lore/age-of-light)"
-  - "[The First One](../characters/the-first-one)"
+  - ../lore/origins-of-races
+  - ../lore/the-cleansed
+  - ../lore/age-of-light
+  - ../characters/the-first-one
 summary: The island chain that was home to the Cleansed before magic was discovered and the civilization destroye
 ---
 

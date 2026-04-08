@@ -4,9 +4,9 @@ type: character
 category: characters
 tags: [elf, queen, ruler, court, lineage]
 related:
-  - "[Elves](../races/elves)"
-  - "[Lesandra](lesandra)"
-  - "[Religious Systems](../lore/religions)"
+  - ../races/elves
+  - lesandra
+  - ../lore/religions
 summary: "The reigning queen of the elves, balancing inherited ideals of purity and grace against a changing world that no longer permits distance without consequence"
 ---
 

@@ -4,10 +4,10 @@ type: sapient-race
 category: races
 tags: [humanoids, long-lived, traditional, principled]
 related:
-  - "[Origins of the Races](../lore/origins-of-races)"
-  - "[Daraster](../characters/daraster)"
-  - "[Lesandra](../characters/lesandra)"
-  - "[The Cleansed](../lore/the-cleansed)"
+  - ../lore/origins-of-races
+  - ../characters/daraster
+  - ../characters/lesandra
+  - ../lore/the-cleansed
 summary: "Ancient, long-lived humanoids known for their strict principles and adherence to tradition. Direct descendants of Daraster and Lesandra"
 ---
 

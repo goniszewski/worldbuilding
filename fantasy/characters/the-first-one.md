@@ -4,12 +4,12 @@ type: character
 category: characters
 tags: [ancestor, origin, first, magic, transformation, cleansed]
 related:
-  - "[Origins of the Races](../lore/origins-of-races)"
-  - "[The Cleansed](../races/the-cleansed)"
-  - "[Torr](torr)"
-  - "[Daraster](daraster)"
-  - "[Lesandra](lesandra)"
-  - "[The Abyss](../lore/abyss)"
+  - ../lore/origins-of-races
+  - ../races/the-cleansed
+  - torr
+  - daraster
+  - lesandra
+  - ../lore/abyss
 summary: "The last ruler of the Cleansed whose curiosity led to the discovery of magic, the birth of three ancestral beings, and the end of the Age of Light"
 ---
 

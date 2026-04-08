@@ -4,8 +4,8 @@ type: character
 category: characters
 tags: [protagonist, elf, mage, priest, eridann]
 related:
-  - "[Velan-Kivar-Zan-Ehkovok](velan-kivar-zan-ehkovok)"
-  - "[Martin Guecventrak](martin-guecventrak)"
+  - velan-kivar-zan-ehkovok
+  - martin-guecventrak
 summary: "Elven mage and priest, devout with extensive knowledge of her faith. Sent to convert others, treats hero as a bodyguard during her missions"
 ---
 

@@ -9,10 +9,10 @@ tags:
   - cleansed
   - pre-magic
 related:
-  - "[Origins of the Races](origins-of-races)"
-  - "[The Cleansed](the-cleansed)"
-  - "[Archipelago of Light](../places/archipelago-of-light)"
-  - "[The First One](../characters/the-first-one)"
+  - origins-of-races
+  - the-cleansed
+  - ../places/archipelago-of-light
+  - ../characters/the-first-one
 summary: The mythical Age of Light — a period of peace and paradise enjoyed by the Cleansed before the discovery of magic
 ---
 

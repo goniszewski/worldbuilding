@@ -4,8 +4,8 @@ type: lore
 category: lore
 tags: [alchemy, fog, concealment, military, substance]
 related:
-  - "[Mana](mana)"
-  - "[Orzekacz Naterian](../factions/naterian-adjudicator)"
+  - mana
+  - ../factions/naterian-adjudicator
 summary: "A dense, milky fog used to obscure entire areas, beloved by militaries and those with secrets to keep"
 ---
 

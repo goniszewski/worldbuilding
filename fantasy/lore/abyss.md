@@ -11,10 +11,10 @@ tags:
   - ancient-ones
   - first-one
 related:
-  - "[The Ancient Ones](ancient-ones)"
-  - "[Religious Systems](religions)"
-  - "[Origins of the Races](origins-of-races)"
-  - "[The First One](../characters/the-first-one)"
+  - ancient-ones
+  - religions
+  - origins-of-races
+  - ../characters/the-first-one
 summary: Multi-layered dimension home to Aspects and demons, separated from the mortal world by the Bulwark. Accessible only through magic
 ---
 

@@ -4,7 +4,7 @@ type: faction
 category: factions
 tags: [secret, order, guardian, cursed, warrior]
 related:
-  - "[Soul Breaker](../items/soul-breaker)"
+  - ../items/soul-breaker
 summary: "A secretive order dedicated to containing the Soul Breaker and protecting the world from its corruption"
 ---
 

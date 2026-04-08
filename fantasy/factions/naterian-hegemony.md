@@ -12,7 +12,7 @@ tags:
   - iron-discipline
   - labor-camps
 related:
-  - "[Naterians](../races/naterians)"
+  - ../races/naterians
 summary: "A tri-dominium political structure uniting Naterian mages, warriors, and a parliamentary body under coordinated sovereignty — the closest thing to a unified Naterian nation"
 ---
 

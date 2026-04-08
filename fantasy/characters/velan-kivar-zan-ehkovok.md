@@ -4,9 +4,9 @@ type: character
 category: characters
 tags: [protagonist, naterian, rogue, mage, eridann]
 related:
-  - "[Damara Lo'Ehen](damara-loehen)"
-  - "[Angar](angar)"
-  - "[Gwenn Youkto Imah Vueten](gwenn-youkto-imah-vueten)"
+  - damara-loehen
+  - angar
+  - gwenn-youkto-imah-vueten
 summary: "Charming, audacious Naterian rogue with hidden magical abilities. Fled his homeland after discovering his arcane talents"
 ---
 

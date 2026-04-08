@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, agriculture, fertile-lands, rural]
 related:
-  - "[Graz](graz)"
-  - "[Czar](czar)"
-  - "[Tiel](tiel)"
+  - graz
+  - czar
+  - tiel
 summary: "House of fertile farmlands and agricultural wealth, controlling the realm's breadbasket"
 ---
 

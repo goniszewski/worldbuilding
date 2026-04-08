@@ -4,9 +4,9 @@ type: item
 category: items
 tags: [artifact, ur, legendary, blue-ore, magic, world-shaping]
 related:
-  - "[The Abyss](../lore/abyss)"
-  - "[Archmage of Ur](../characters/archmage-of-ur)"
-  - "[Blue Ore](blue-ore)"
+  - ../lore/abyss
+  - ../characters/archmage-of-ur
+  - blue-ore
 summary: Three mythical artifacts created by the Archmage of Ur, each capable of shaping reality — modeled after the Infinity Stones
 ---
 

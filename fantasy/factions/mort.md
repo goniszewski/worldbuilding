@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, berserkers, tribal, old-gods]
 related:
-  - "[Tiel](tiel)"
-  - "[Czar](czar)"
-  - "[Naterian Hegemony](naterian-hegemony)"
+  - tiel
+  - czar
+  - naterian-hegemony
 summary: "Fierce berserker clan descended from humanity's original Five Clans, dwelling on the Narrow Pass"
 ---
 

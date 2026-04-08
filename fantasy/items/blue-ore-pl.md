@@ -4,8 +4,8 @@ type: item
 category: items
 tags: [ore, mineral, explosive, magic, singing]
 related:
-  - "[Martin Guecventrak](../characters/martin-guecventrak)"
-  - "[Black Stones of Ur](black-stones-of-ur)"
+  - ../characters/martin-guecventrak
+  - black-stones-of-ur
 summary: "Volatile mineral that explodes when processed. When exposed to rising light, it begins to 'sing.'"
 ---
 

@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, mining, ore, blue-ore]
 related:
-  - "[Mort](mort)"
-  - "[Highdam](highdam)"
-  - "[Czar](czar)"
+  - mort
+  - highdam
+  - czar
 summary: "Mining house controlling the precious błękitna ruda (blue ore) deposits and the port of Barrenport"
 ---
 

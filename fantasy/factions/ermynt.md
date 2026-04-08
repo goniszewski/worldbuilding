@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, neutrality, white-road, elven-relations]
 related:
-  - "[Tiltman](tiltman)"
-  - "[Czar](czar)"
-  - "[Naterian Hegemony](naterian-hegemony)"
+  - tiltman
+  - czar
+  - naterian-hegemony
 summary: "Guardians of the Biały Trakt who maintain strict neutrality and serve as intermediaries with elven lands"
 ---
 

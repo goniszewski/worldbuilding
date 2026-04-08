@@ -4,8 +4,8 @@ type: character
 category: characters
 tags: [human, mort, warrior, champion]
 related:
-  - "[Mort](../factions/mort)"
-  - "[Chieftain Borin Mort](chieftain-borin-mort)"
+  - ../factions/mort
+  - chieftain-borin-mort
 summary: "Female berserker champion of Mort, undefeated in single combat for twenty years"
 ---
 

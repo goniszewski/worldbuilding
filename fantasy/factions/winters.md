@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, north, isolation, cold]
 related:
-  - "[Daever](daever)"
-  - "[Czar](czar)"
-  - "[Kolah](kolah)"
+  - daever
+  - czar
+  - kolah
 summary: "Isolated northern house dwelling in the frozen Zimowy Gród, surviving through cold and isolation"
 ---
 

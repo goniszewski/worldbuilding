@@ -8,10 +8,10 @@ tags:
   - pre-magic
   - archipelago-of-light
 related:
-  - "[Origins of the Races](../lore/origins-of-races)"
-  - "[The First One](../characters/the-first-one)"
-  - "[Age of Light](../lore/age-of-light)"
-  - "[Archipelago of Light](../places/archipelago-of-light)"
+  - ../lore/origins-of-races
+  - ../characters/the-first-one
+  - ../lore/age-of-light
+  - ../places/archipelago-of-light
 summary: "The original inhabitants of the Archipelago of Light — a peaceful, magic-free people who lived during the Age of Light before their transformation into the ancestor races"
 ---
 

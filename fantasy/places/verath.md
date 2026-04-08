@@ -4,9 +4,9 @@ type: location
 category: places
 tags: [port, trade, coast, merchants, cosmopolitan]
 related:
-  - "[Merchant Tides](../factions/merchant-tides)"
-  - "[Lyra Dawnwhisper](characters/lyra-dawnwhisper)"
-  - "[Graz](../factions/graz)"
+  - ../factions/merchant-tides
+  - characters/lyra-dawnwhisper
+  - ../factions/graz
 summary: "A busy coastal trade city where merchant law, rumor, and opportunity matter almost as much as crowns and banners"
 ---
 

@@ -4,7 +4,7 @@ type: faction
 category: factions
 tags: [nater-hegemony, justice, executioner, authority, judiciary]
 related:
-  - "[Torr's Gate](../places/torrs-gate)"
+  - ../places/torrs-gate
 summary: "Feared one-person courts of the Nater Hegemony, wielding absolute judicial authority with lethal efficiency"
 ---
 

@@ -4,9 +4,9 @@ type: location
 category: places
 tags: [castle, underground, skjor, dwarf-trade, grim]
 related:
-  - "[Skjor](../factions/skjor)"
-  - "[Tiel](../factions/tiel)"
-  - "[Graz](../factions/graz)"
+  - ../factions/skjor
+  - ../factions/tiel
+  - ../factions/graz
 summary: Grim Castle at the mouth of the underground passage to dwarven lands, sole gateway between humans and dwarves
 ---
 

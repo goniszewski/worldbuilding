@@ -10,7 +10,7 @@ tags:
   - ranged
   - legendary
 related:
-  - "[Soul Breaker](../soul-breaker)"
+  - ../soul-breaker
 summary: An ancient longbow carved from the frozen heart of a winter titan, its arrows leave wounds that never heal.
 ---
 

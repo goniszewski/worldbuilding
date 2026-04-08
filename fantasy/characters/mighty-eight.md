@@ -4,10 +4,10 @@ type: character
 category: characters
 tags: [heroes, ur, antagonists, history, legendary, compact]
 related:
-  - "[Archmage of Ur](archmage-of-ur)"
-  - "[Soul Breaker](../items/soul-breaker)"
-  - "[Black Stones of Ur](../items/black-stones-of-ur)"
-  - "[Silver Compact](factions/silver-compact)"
+  - archmage-of-ur
+  - ../items/soul-breaker
+  - ../items/black-stones-of-ur
+  - factions/silver-compact
 summary: Eight legendary heroes who defeated the Archmage of Ur. Their story serves as backstory and inspiration for the campaig
 ---
 

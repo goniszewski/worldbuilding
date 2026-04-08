@@ -4,9 +4,9 @@ type: location
 category: places
 tags: [city, mining, port, tiel, blue-ore]
 related:
-  - "[Tiel](../factions/tiel)"
-  - "[Highdam](../factions/highdam)"
-  - "[Graz](../factions/graz)"
+  - ../factions/tiel
+  - ../factions/highdam
+  - ../factions/graz
 summary: Mining port city controlled by Tiel, gateway to blue ore mines and the realm's industrial heart
 ---
 

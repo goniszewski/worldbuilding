@@ -4,9 +4,9 @@ type: sapient-race
 category: races
 tags: [humanoids, dominant, diverse]
 related:
-  - "[Origins of the Races](../lore/origins-of-races)"
-  - "[Daraster](../characters/daraster)"
-  - "[The Cleansed](../lore/the-cleansed)"
+  - ../lore/origins-of-races
+  - ../characters/daraster
+  - ../lore/the-cleansed
 summary: "The most widespread race—versatile, ambitious, and adaptable"
 ---
 

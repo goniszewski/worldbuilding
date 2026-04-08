@@ -9,10 +9,10 @@ tags:
   - dangerous
   - magic
 related:
-  - "[The Abyss](abyss)"
-  - "[Aspects](aspects)"
-  - "[The First One](../characters/the-first-one)"
-  - "[Origins of the Races](origins-of-races)"
+  - abyss
+  - aspects
+  - ../characters/the-first-one
+  - origins-of-races
 summary: Chaotic beings born from fragments of Aspects — shaped by emotions and drawn to violent contact with living beings
 ---
 

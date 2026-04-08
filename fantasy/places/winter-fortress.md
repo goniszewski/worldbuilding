@@ -4,9 +4,9 @@ type: location
 category: places
 tags: [fortress, ice, winters, north, glacier]
 related:
-  - "[Winters](../factions/winters)"
-  - "[Kolah](../factions/kolah)"
-  - "[Daever](../factions/daever)"
+  - ../factions/winters
+  - ../factions/kolah
+  - ../factions/daever
 summary: Ice-carved fortress of House Winters, hidden within a glacier, home to the frost-adapted northern lord
 ---
 

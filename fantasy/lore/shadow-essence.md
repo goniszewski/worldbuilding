@@ -4,10 +4,10 @@ type: lore
 category: lore
 tags: [corruption, void, shadow, essence, soul-breaker, curse, material]
 related:
-  - "[Soul Breaker](items/soul-breaker)"
-  - "[Soul Keeper Brotherhood](factions/soul-keeper-brotherhood)"
-  - "[The Abyss](abyss)"
-  - "[Mana](mana)"
+  - items/soul-breaker
+  - factions/soul-keeper-brotherhood
+  - abyss
+  - mana
 summary: "A corrupting substance drawn from the Void that manifests as living darkness, capable of devouring light, souls, and sanity"
 ---
 

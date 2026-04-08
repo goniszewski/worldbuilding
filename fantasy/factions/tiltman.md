@@ -4,8 +4,8 @@ type: faction
 category: factions
 tags: [human, noble-house, archers, isolation, highlands]
 related:
-  - "[Ermynt](ermynt)"
-  - "[Naterian Hegemony](naterian-hegemony)"
+  - ermynt
+  - naterian-hegemony
 summary: "Ancient house of legendary archers dwelling in the Windy Hills, isolated for millennia"
 ---
 

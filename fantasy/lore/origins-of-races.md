@@ -11,14 +11,14 @@ tags:
   - Lesandra
   - Age of Light
 related:
-  - "[The Cleansed](the-cleansed)"
-  - "[The First One](../characters/the-first-one)"
-  - "[Torr](../characters/torr)"
-  - "[Daraster](../characters/daraster)"
-  - "[Lesandra](../characters/lesandra)"
-  - "[Age of Light](age-of-light)"
-  - "[Archipelago of Light](../places/archipelago-of-light)"
-  - "[The Abyss](abyss)"
+  - the-cleansed
+  - ../characters/the-first-one
+  - ../characters/torr
+  - ../characters/daraster
+  - ../characters/lesandra
+  - age-of-light
+  - ../places/archipelago-of-light
+  - abyss
 summary: The mythological history of creation, from the peaceful Age of Light through the First's discovery of magic and the birth of the three ancestral beings
 ---
 

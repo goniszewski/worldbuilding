@@ -9,9 +9,9 @@ tags:
   - abyss
   - ancient-technology
 related:
-  - "[The Abyss](abyss)"
-  - "[The Ancient Ones](ancient-ones)"
-  - "[Martin Guecventrak](../characters/martin-guecventrak)"
+  - abyss
+  - ancient-ones
+  - ../characters/martin-guecventrak
 summary: Mana is pure energy emanating from the Well in the Abyss that serves as the fundamental fuel for all magic. Its density decreases with distance from the source, and most practitioners confuse it with "magic" itself. The Ancients mastered its use through specialized device
 ---
 
