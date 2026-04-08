@@ -4,10 +4,10 @@ type: faction
 category: factions
 tags: [human, noble-house, dwarf-trade, mining, grim-castle]
 related:
-  - "[Walldom](walldom.md)"
-  - "[Tiel](tiel.md)"
-  - "[Graz](graz.md)"
-summary: "Lords of Grim Castle who maintain the only direct trade route with the dwarven kingdoms."
+  - "[Walldom](walldom)"
+  - "[Tiel](tiel)"
+  - "[Graz](graz)"
+summary: "Lords of Grim Castle who maintain the only direct trade route with the dwarven kingdoms"
 ---
 
 # Skjor

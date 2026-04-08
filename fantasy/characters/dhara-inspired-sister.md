@@ -4,9 +4,9 @@ type: character
 category: characters
 tags: [natherian-pantheon, divine, archer, martyr, protector]
 related:
-  - lore/natherian-pantheon
-  - factions/naterian-adjudicator
-summary: "Divine patron of defenders of faith and archers. Killed a barbarian warlord with a single shot, then died to his son's treachery."
+  - "[Natherian Pantheon](lore/natherian-pantheon)"
+  - "[Orzekacz Naterian](../factions/naterian-adjudicator)"
+summary: "Divine patron of defenders of faith and archers. Killed a barbarian warlord with a single shot, then died to his son's treachery"
 ---
 
 # Dhara, The Inspired Sister

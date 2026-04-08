@@ -4,7 +4,7 @@ type: lore
 category: lore
 tags: [motto, inscription, latin, heroics, death]
 related:
-  - lore/military-traditions
+  - "[Military Traditions](lore/military-traditions)"
 summary: Latin inscription found in ruins, castles, and heraldry — a motto celebrating martial virtue and glory through deat
 ---
 

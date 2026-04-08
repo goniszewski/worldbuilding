@@ -9,8 +9,8 @@ tags:
   - isolation
   - windy
 related:
-  - factions/tiltman
-  - factions/ermynt
+  - "[Tiltman](../factions/tiltman)"
+  - "[Ermynt](../factions/ermynt)"
 summary: Windy highland hills where the Tiltman archers have trained for millennia, with winds that shape everything
 ---
 

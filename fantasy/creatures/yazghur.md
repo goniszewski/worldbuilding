@@ -4,9 +4,9 @@ type: creature
 category: creatures
 tags: [creature, shadow, predator, undead-feel, apex-predator]
 related:
-  - races/the-cleansed
-  - lore/abyss
-summary: "Shadow-dwelling apex predator that hunts in total darkness, feared across the known world for its terrible patience and soul-devouring nature."
+  - "[The Cleansed](../races/the-cleansed)"
+  - "[The Abyss](../lore/abyss)"
+summary: "Shadow-dwelling apex predator that hunts in total darkness, feared across the known world for its terrible patience and soul-devouring nature"
 ---
 
 # Yazghur

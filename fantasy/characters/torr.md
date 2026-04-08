@@ -4,12 +4,12 @@ type: character
 category: characters
 tags: [ancestor, torr-lineage, naterians, orcs, first-generation]
 related:
-  - lore/origins-of-races
-  - characters/the-first-one
-  - characters/daraster
-  - characters/lesandra
-  - races/naterians
-summary: "The firstborn of the First One, ancestor of the Naterians, characterized by dark scaled skin, warrior honor, and hatred for his siblings' union."
+  - "[Origins of the Races](../lore/origins-of-races)"
+  - "[The First One](the-first-one)"
+  - "[Daraster](daraster)"
+  - "[Lesandra](lesandra)"
+  - "[Naterians](../races/naterians)"
+summary: "The firstborn of the First One, ancestor of the Naterians, characterized by dark scaled skin, warrior honor, and hatred for his siblings' union"
 ---
 
 # Torr

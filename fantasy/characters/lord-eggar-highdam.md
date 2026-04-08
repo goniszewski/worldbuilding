@@ -4,10 +4,10 @@ type: character
 category: characters
 tags: [human, highdam, lord, apostate, rationalist]
 related:
-  - highdam
-  - lorian-highdam
-  - naterian-hegemony
-summary: "Lord of Highdam who publicly abandoned the Naterian faith fourteen years ago, sparking a house-wide schism."
+  - "[Highdam](highdam)"
+  - "[Lorian Highdam](lorian-highdam)"
+  - "[Naterian Hegemony](naterian-hegemony)"
+summary: "Lord of Highdam who publicly abandoned the Naterian faith fourteen years ago, sparking a house-wide schism"
 ---
 
 # Lord Eggar Highdam

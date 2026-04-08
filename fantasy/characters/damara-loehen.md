@@ -4,9 +4,9 @@ type: character
 category: characters
 tags: [protagonist, elf, mage, priest, eridann]
 related:
-  - characters/velan-kivar-zan-ehkovok
-  - characters/martin-guecventrak
-summary: "Elven mage and priest, devout with extensive knowledge of her faith. Sent to convert others, treats hero as a bodyguard during her missions."
+  - "[Velan-Kivar-Zan-Ehkovok](velan-kivar-zan-ehkovok)"
+  - "[Martin Guecventrak](martin-guecventrak)"
+summary: "Elven mage and priest, devout with extensive knowledge of her faith. Sent to convert others, treats hero as a bodyguard during her missions"
 ---
 
 # Damara Lo'Ehen
@@ -50,7 +50,7 @@ After the explosion of the Sacred Lighthouse in the elven capital (and a signifi
 
 ## Relationships
 
-- **[Velan Kivar Zan Ehkovok](velan-kivar-zan-ehkovok.md)**: Teaches him magic; potential romance (or helps him despite player romancing him)
+- **[Velan-Kivar-Zan-Ehkovok](velan-kivar-zan-ehkovok.md)**: Teaches him magic; potential romance (or helps him despite player romancing him)
 - **[Erin Telion z Mert](erin-telion-from-mert.md)**: Treated like a younger sister; Erin may share her trauma with Damara in secret late-game
 - **[Martin Guecventrak](martin-guecventrak.md)**: Intellectual sparring partner (science vs. faith)
 

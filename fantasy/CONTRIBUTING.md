@@ -2,7 +2,7 @@
 name: Contributing Guide
 type: guide
 category: meta
-summary: "Technical reference for adding new content to the fantasy wiki."
+summary: "Technical reference for adding new content to the fantasy wiki"
 ---
 
 # Contributing Guide
@@ -62,6 +62,8 @@ worldbuilding/fantasy/
 |-------|-------------|------------|
 | `tags` | Searchable keywords (array) | All entries |
 | `related` | Related file paths (array) | All entries |
+| `title` | Display title override (if different from `name`) | Index pages, guides |
+| `updatedAt` | Unix timestamp of last edit (milliseconds) | All entries |
 | `summary` | Already listed above | — |
 
 ### Frontmatter Examples
@@ -79,7 +81,7 @@ summary: "A century-long conflict that reshaped the known world."
 **Full (complex entry):**
 ```yaml
 ---
-name: Velan Kivar Zan Ehkovok
+name: Velan-Kivar-Zan-Ehkovok
 type: character
 category: characters
 tags: [warrior, orc, mercenary, iron-fist]

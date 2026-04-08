@@ -4,11 +4,11 @@ type: sapient-race
 category: races
 tags: [humanoids, long-lived, traditional, principled]
 related:
-  - "[Origins of the Races](../lore/origins-of-races.md)"
-  - "[Daraster](../characters/daraster.md)"
-  - "[Lesandra](../characters/lesandra.md)"
-  - "[The Cleansed](../lore/the-cleansed.md)"
-summary: "Ancient, long-lived humanoids known for their strict principles and adherence to tradition. Direct descendants of Daraster and Lesandra."
+  - "[Origins of the Races](../lore/origins-of-races)"
+  - "[Daraster](../characters/daraster)"
+  - "[Lesandra](../characters/lesandra)"
+  - "[The Cleansed](../lore/the-cleansed)"
+summary: "Ancient, long-lived humanoids known for their strict principles and adherence to tradition. Direct descendants of Daraster and Lesandra"
 ---
 
 # Elves
@@ -50,8 +50,7 @@ Their bloodline is considered the **purest** of the races — direct descendants
 
 ## Philosophy
 
-Elves believe in the following principles:
-- [TODO: Add specific principles based on your setting]
+Elves believe in the preservation of knowledge, the sanctity of bloodlines, and the long view — that decisions should consider centuries, not years. Their principles of restraint and patience sometimes border on arrogance, but they see it as responsibility rather than pride.
 
 ## Notable Figures
 

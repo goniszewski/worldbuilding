@@ -4,9 +4,9 @@ type: character
 category: characters
 tags: [survivor, explorer, lost-sanity, juuhroni, verdance]
 related:
-  - races/juuhroni
-  - places/nameless-bay
-summary: "The sole sane survivor of the Verdance expedition, Arven Doyne bears witness to the Juuhroni—but never fully returns from what he saw."
+  - "[Juuhroni](../races/juuhroni)"
+  - "[Nameless Bay](places/nameless-bay)"
+summary: "The sole sane survivor of the Verdance expedition, Arven Doyne bears witness to the Juuhroni—but never fully returns from what he saw"
 ---
 
 # Arven Doyne

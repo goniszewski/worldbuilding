@@ -12,12 +12,12 @@ tags:
   - lesandra
   - first-one
 related:
-  - lore/origins-of-races
-  - characters/the-first-one
-  - characters/torr
-  - characters/daraster
-  - characters/lesandra
-  - lore/abyss
+  - "[Origins of the Races](origins-of-races)"
+  - "[The First One](../characters/the-first-one)"
+  - "[Torr](../characters/torr)"
+  - "[Daraster](../characters/daraster)"
+  - "[Lesandra](../characters/lesandra)"
+  - "[The Abyss](abyss)"
 summary: Four major religious systems dominate the continent — Dorenism, Oprenism, Arth'Adal, and Alar — each with radically different interpretations of the First One and her children
 ---
 

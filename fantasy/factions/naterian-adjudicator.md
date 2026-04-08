@@ -4,8 +4,8 @@ type: faction
 category: factions
 tags: [nater-hegemony, justice, executioner, authority, judiciary]
 related:
-  - places/torrs-gate
-summary: "Feared one-person courts of the Nater Hegemony, wielding absolute judicial authority with lethal efficiency."
+  - "[Torr's Gate](../places/torrs-gate)"
+summary: "Feared one-person courts of the Nater Hegemony, wielding absolute judicial authority with lethal efficiency"
 ---
 
 # Orzekacz Naterian (Naterian Adjudicator)

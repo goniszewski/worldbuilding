@@ -12,16 +12,16 @@ tags:
   - "terrorism"
   - "war"
 related:
-  - "lore/origins-of-races"
-  - "lore/abyss"
-  - "lore/religions"
-  - "factions/silver-compact"
-  - "items/blue-ore"
-  - "items/black-stones-of-ur"
-  - "items/soul-breaker"
-  - "characters/archmage-of-ur"
-  - "characters/mighty-eight"
-summary: "The main campaign arc: stopping the Archmage's cult, preventing a racial war, and finding the Black Stones of Ur."
+  - "[Origins Of Races](lore/origins-of-races)"
+  - "[Abyss](lore/abyss)"
+  - "[Religions](lore/religions)"
+  - "[Silver Compact](factions/silver-compact)"
+  - "[Blue Ore](items/blue-ore)"
+  - "[Black Stones Of Ur](items/black-stones-of-ur)"
+  - "[Soul Breaker](items/soul-breaker)"
+  - "[Archmage Of Ur](characters/archmage-of-ur)"
+  - "[Mighty Eight](characters/mighty-eight)"
+summary: "The main campaign arc: stopping the Archmage's cult, preventing a racial war, and finding the Black Stones of Ur"
 title: Campaign Plot
 updatedAt: 1775315890759
 ---

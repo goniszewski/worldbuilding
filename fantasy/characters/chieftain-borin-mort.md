@@ -4,9 +4,9 @@ type: character
 category: characters
 tags: [human, mort, chieftain, berserker, warrior]
 related:
-  - "[Mort](../factions/mort.md)"
-  - "[Hera of Vengeance](hera-of-vengeance.md)"
-summary: "Supreme chieftain of the Mort clans, ancient and scarred, who leads from the front lines."
+  - "[Mort](../factions/mort)"
+  - "[Hera of Vengeance](hera-of-vengeance)"
+summary: "Supreme chieftain of the Mort clans, ancient and scarred, who leads from the front lines"
 ---
 
 # Chieftain Borin Mort (Wódz Borin Mort)

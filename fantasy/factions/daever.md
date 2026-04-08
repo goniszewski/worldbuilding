@@ -4,10 +4,10 @@ type: faction
 category: factions
 tags: [human, noble-house, alchemy, mist, heretical]
 related:
-  - "[Winters](winters.md)"
-  - "[Czar](czar.md)"
-  - "[Naterian Hegemony](naterian-hegemony.md)"
-summary: "Masters of the Mist Valley who weaponize the legendary Milk Mist against all who enter."
+  - "[Winters](winters)"
+  - "[Czar](czar)"
+  - "[Naterian Hegemony](naterian-hegemony)"
+summary: "Masters of the Mist Valley who weaponize the legendary Milk Mist against all who enter"
 ---
 
 # Daever

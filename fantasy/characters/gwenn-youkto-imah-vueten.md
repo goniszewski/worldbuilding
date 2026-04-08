@@ -4,9 +4,9 @@ type: character
 category: characters
 tags: [protagonist, human, mercenary, eridann]
 related:
-  - characters/angar
-  - characters/damara-loehen
-summary: "Black-skinned human mercenary with strange, green eyes. Pleasant but calculating. Avoids conversations about her past."
+  - "[Angar](angar)"
+  - "[Damara Lo'Ehen](damara-loehen)"
+summary: "Black-skinned human mercenary with strange, green eyes. Pleasant but calculating. Avoids conversations about her past"
 ---
 
 # Gwenn Youkto Imah Vueten

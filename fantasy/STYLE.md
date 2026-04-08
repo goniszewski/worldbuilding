@@ -2,7 +2,7 @@
 name: Fantasy Worldbuilding Style Guide
 type: guide
 category: meta
-summary: "Conventions and standards for the fantasy setting documentation."
+summary: "Conventions and standards for the fantasy setting documentation"
 ---
 
 # Fantasy Worldbuilding Style Guide
@@ -55,6 +55,8 @@ tags: [relevant, tags]
 related:
   - related-file
   - another-file
+title: [Display title if different from name]        # optional
+updatedAt: 1234567890000                              # optional
 summary: "[Brief description in English, one sentence max.]"
 ---
 

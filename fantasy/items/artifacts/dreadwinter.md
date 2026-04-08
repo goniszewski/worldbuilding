@@ -10,7 +10,7 @@ tags:
   - ranged
   - legendary
 related:
-  - items/artifacts/soul-breaker
+  - "[Soul Breaker](../soul-breaker)"
 summary: An ancient longbow carved from the frozen heart of a winter titan, its arrows leave wounds that never heal.
 ---
 

@@ -9,9 +9,9 @@ tags:
   - religious
   - sky-torch
 related:
-  - places/sky-torch-sword
-  - lore/religions
-  - lore/the-cleansed
+  - "[Sky Sword](sky-torch-sword)"
+  - "[Religious Systems](../lore/religions)"
+  - "[The Cleansed](../lore/the-cleansed)"
 summary: A monumental torch built without magic — an engineering masterpiece that burns eternally over natural gas deposits. One of two great landmarks on the Sacred Peninsul
 ---
 

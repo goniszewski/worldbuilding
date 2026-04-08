@@ -2,7 +2,7 @@
 name: Creatures Index
 type: index
 category: creatures
-summary: "Index of non-sapient creatures in the fantasy setting."
+summary: "Index of non-sapient creatures in the fantasy setting"
 ---
 
 # Creatures

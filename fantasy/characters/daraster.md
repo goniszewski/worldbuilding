@@ -4,13 +4,13 @@ type: character
 category: characters
 tags: [ancestor, daraster-lineage, humans, elves, first-generation]
 related:
-  - lore/origins-of-races
-  - characters/the-first-one
-  - characters/torr
-  - characters/lesandra
-  - races/humans
-  - races/elves
-summary: "The second child of the First One, progenitor of both Humans and Elves through his legitimate union with Lesandra and numerous illegitimate children."
+  - "[Origins of the Races](../lore/origins-of-races)"
+  - "[The First One](the-first-one)"
+  - "[Torr](torr)"
+  - "[Lesandra](lesandra)"
+  - "[Humans](../races/humans)"
+  - "[Elves](../races/elves)"
+summary: "The second child of the First One, progenitor of both Humans and Elves through his legitimate union with Lesandra and numerous illegitimate children"
 ---
 
 # Daraster

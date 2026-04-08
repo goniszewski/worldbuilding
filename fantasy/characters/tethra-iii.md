@@ -4,10 +4,10 @@ type: character
 category: characters
 tags: [human, religious, hierarch, doctrine, authority]
 related:
-  - lore/religions
-  - factions/naterian-hegemony
-  - characters/torr
-summary: "The current head of a major human religious order, guarding orthodoxy with ritual dignity and a deep fear of the chaos that might follow doctrinal weakness."
+  - "[Religious Systems](../lore/religions)"
+  - "[Naterian Hegemony](../factions/naterian-hegemony)"
+  - "[Torr](torr)"
+summary: "The current head of a major human religious order, guarding orthodoxy with ritual dignity and a deep fear of the chaos that might follow doctrinal weakness"
 ---
 
 # Tethra III

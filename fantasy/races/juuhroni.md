@@ -4,10 +4,10 @@ type: sapient-race
 category: races
 tags: [swamp-dwellers, mysterious, predator, blood-cult, distant-lands]
 related:
-  - characters/arven-doyne
-  - lore/abyss
-  - places/juuhroni-fens
-summary: "A terrifying, swamp-dwelling race of black-skinned predators worshipped in fringe explorer tales as 'swamp ghosts,' dwelling in timeless ruins beyond the known map."
+  - "[Arven Doyne](../characters/arven-doyne)"
+  - "[The Abyss](../lore/abyss)"
+  - "[Juuhroni Fens](places/juuhroni-fens)"
+summary: "A terrifying, swamp-dwelling race of black-skinned predators worshipped in fringe explorer tales as 'swamp ghosts,' dwelling in timeless ruins beyond the known map"
 ---
 
 # Juuhroni
@@ -121,7 +121,7 @@ Doyne's account places these events at a "bagnista zatoka"—a bog bay—on the 
 
 ### World-Building Notes
 
-- The Juuhroni can serve as a source of horror beyond comprehension—creatures that *swim from water and阴影*, that drain blood through untouched skin
+- The Juuhroni can serve as a source of horror beyond comprehension—creatures that *swim from shadow and water*, that drain blood through untouched skin
 - The transformation aspect suggests a deeper connection between the Juuhroni and their environment—are they former humans? Refugees from catastrophe? Something else entirely?
 - Their distant habitat makes them useful as a threat that cannot simply be *defeated*—they exist beyond reach, and the danger is them *reaching toward you*
 - The floating stone raises questions: is it the Juuhroni's god? A dimensional anchor? A prison for something that the blood sacrifices keep sealed?

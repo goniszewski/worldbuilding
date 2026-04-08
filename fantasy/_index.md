@@ -2,7 +2,7 @@
 name: Fantasy Universe
 type: guide
 category: meta
-summary: "Quick navigation index for the fantasy campaign setting."
+summary: "Quick navigation index for the fantasy campaign setting"
 ---
 # Fantasy Universe
 
@@ -31,7 +31,7 @@ summary: "Quick navigation index for the fantasy campaign setting."
 
 | Character | Race | Role | House/Faction |
 | --- | --- | --- | --- |
-| [Velan Kivar Zan-Ehkovok](characters/velan-kivar-zan-ehkovok.md) | Human | Protagonist | Silver Compact |
+| [Velan-Kivar-Zan-Ehkovok](characters/velan-kivar-zan-ehkovok.md) | Human | Protagonist | Silver Compact |
 | [Erin Telion](characters/erin-telion-from-mert.md) | Human | Protagonist | — |
 | [Damara Loehen](characters/damara-loehen.md) | Elven | Protagonist | Silver Compact |
 | [Martin Guecventrak](characters/martin-guecventrak.md) | Dwarven | Ally | — |
@@ -79,7 +79,7 @@ summary: "Quick navigation index for the fantasy campaign setting."
 | [House Winters](factions/winters.md) | Noble House | Northern isolation |
 | [House Ermynt](factions/ermynt.md) | Noble House | Neutrality |
 | [Merchant Tides](factions/merchant-tides.md) | Guild | Commercial power, naval dominance |
-| [Soul-Keeper Brotherhood](factions/factions/soul-keeper-brotherhood.md) | Secret Society | Mysterious, preserves souls |
+| [Soul Keeper Brotherhood](factions/factions/soul-keeper-brotherhood.md) | Secret Society | Mysterious, preserves souls |
 
 ### Places
 
@@ -100,7 +100,7 @@ summary: "Quick navigation index for the fantasy campaign setting."
 | [Narrow Pass](places/narrow-pass.md) (Wąski Przesmyk) | North | Clan Mort territory |
 | [Windy Hills](places/windy-hills.md) (Wiatrowe Wzgórza) | North | House Tiltman territory |
 | [Winter Fortress](places/winter-fortress.md) (Zimowy Gród) | Far North | House Winters seat |
-| [Verath](verath.md) | Coast | Merchant hub, neutral ground |
+| [Verath](places/verath.md) | Coast | Merchant hub, neutral ground |
 
 ### Creatures
 

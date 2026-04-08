@@ -2,9 +2,7 @@
 name: Factions Index
 type: index
 category: factions
-summary: Index of political powers, noble houses, and organized groups in the fantasy setting.
-title: Factions
-updatedAt: 1775306672326
+summary: "Index of political powers, noble houses, and organized groups in the fantasy setting"
 ---
 # Factions
 
@@ -20,8 +18,7 @@ updatedAt: 1775306672326
 | [The Naterian Hegemony](naterian-hegemony.md) | Nation | Honor-bound northern power |
 | [Soul Keeper Brotherhood](soul-keeper-brotherhood.md) | Secret Order | Guardians of forbidden knowledge and dangerous relics |
 | [Naterian Adjudicator](naterian-adjudicator.md) | Office | Judicial and enforcement authority within Naterian society |
-| [Soul Keeper Brotherhood](factions/soul-keeper-brotherhood.md) | Secret Order | Guardians of forbidden knowledge and dangerous relics |
-| [Merchant Tides](factions/merchant-tides.md) | Coalition | Maritime trade network, commercial power |
+| [Merchant Tides](merchant-tides.md) | Coalition | Maritime trade network, commercial power |
 
 ## Noble Houses of the Human Kingdom
 

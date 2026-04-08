@@ -2,7 +2,7 @@
 name: Items Index
 type: index
 category: items
-summary: "Index of all items in the fantasy setting."
+summary: "Index of all items in the fantasy setting"
 ---
 
 # Items
@@ -17,10 +17,8 @@ summary: "Index of all items in the fantasy setting."
 |------|------|-------|
 | [Black Stones of Ur](black-stones-of-ur.md) | Relic | Three stones tied to overwhelming power |
 | [Blue Ore](blue-ore.md) | Material | Volatile ore central to industry and conflict |
-| [Blue Ore Source Draft](blue-ore-pl.md) | Item Draft | Legacy translation source kept for reference |
-| [Soul Breaker](soul-breaker.md) | Weapon | Root item entry for the cursed blade |
-| [Dreadwinter](artifacts/dreadwinter.md) | Artifact | Ancient weapon preserved as a dedicated artifact entry |
-| [Soul Breaker (Artifact Entry)](artifacts/soul-breaker.md) | Artifact | Expanded artifact-focused version of Soul Breaker |
+| [Soul Breaker](soul-breaker.md) | Weapon | Cursed blade that devours souls and corrupts its wielder |
+| [Dreadwinter](artifacts/dreadwinter.md) | Artifact | Ancient longbow preserved as a dedicated artifact entry |
 
 ---
 

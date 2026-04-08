@@ -8,11 +8,11 @@ tags:
   - tentacle-appendages
   - socialist
 related:
-  - "[Origins of the Races](../lore/origins-of-races.md)"
-  - "[Torr](../characters/torr.md)"
-  - "[The Cleansed](../lore/the-cleansed.md)"
-  - "[Humans](humans.md)"
-summary: "Tall humanoids with tentacle-like appendages and scale-like skin. The most diverse-looking race."
+  - "[Origins of the Races](../lore/origins-of-races)"
+  - "[Torr](../characters/torr)"
+  - "[The Cleansed](../lore/the-cleansed)"
+  - "[Humans](humans)"
+summary: "Tall humanoids with tentacle-like appendages and scale-like skin. The most diverse-looking race"
 ---
 
 # Naterians
@@ -52,8 +52,8 @@ Naterians are the most **diverse-looking race**:
 
 ### The Nater Hegemony
 - **Location**: Northern side of [Torr's Gate](../places/torrs-gate.md)
-- **Capital**: [TODO]
-- **Ruler**: [TODO]
+- **Capital**: Not yet documented
+- **Ruler**: Not yet documented
 - **System**: Dominant social system resembles efficient Soviet-style socialism
 
 ## Society & Culture
@@ -96,18 +96,12 @@ Naterians are the most **diverse-looking race**:
 ### Border Tensions
 Dwarven kingdoms are located underground between human and Naterian territories, creating ongoing border tensions.
 
-## Major Clans
-
-| Clan | Notes |
-|------|-------|
-| Kharatar | [TODO] |
-| Vathar | [TODO] |
-| Utar | [TODO] |
-| Zorzad | [TODO] |
-| Uto | [TODO] |
-| Kor | [TODO] |
-
 ## Known Naterians
 
-- [Velan Kivar Zan Ehkovok](../characters/velan-kivar-zan-ehkovok.md) — Warrior of Kharatar clan
-- [Gwenn Youkto Imah Vueten](../characters/gwenn-youkto-imah-vueten.md) — [TODO]
+- [Velan-Kivar-Zan-Ehkovok](../characters/velan-kivar-zan-ehkovok.md) — Warrior of Kharatar clan
+- [Gwenn Youkto Imah Vueten](../characters/gwenn-youkto-imah-vueten.md)
+
+## TODO
+
+- [ ] Document the six major clans (Kharatar, Vathar, Utar, Zorzad, Uto, Kor)
+- [ ] Develop Gwenn's role and background

@@ -8,7 +8,7 @@ tags:
   - factions
   - distant
 related:
-  - races/juuhroni
+  - "[Juuhroni](../races/juuhroni)"
 summary: An index of distant, lesser-known peoples and tribes scattered across the world — groups who dwell far from civilization, in the margins between mapped territories, or in realms beyond conventional understanding
 ---
 

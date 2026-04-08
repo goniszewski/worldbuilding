@@ -2,14 +2,12 @@
 name: The Great Bessam
 type: location
 category: places
-tags:
-  - great-bessam
-  - river
+tags: [great-bessam, river, tri-part, flood]
 related: []
-summary: The largest river in the Delathor lands, and one of the greatest in the known world — a tri-part river system with three distinct daughter
+summary: "The largest river in the known world — a tri-part river system with three distinct daughters"
 ---
 
-# The Great Bessam
+# The Great Bessam (Wielka Bessam)
 
 > A vast river of three tempers, each daughter shaping the lands around her in a different way.
 
@@ -17,7 +15,7 @@ summary: The largest river in the Delathor lands, and one of the greatest in the
 
 ## Overview
 
-The Great Bessam is the largest river in the Delathor lands — and one of the greatest in the known world. Fed by mountain springs and seasonal rains, it carves through the landscape in three distinct sections, each with its own character and dangers.
+The Great Bessam is the largest river in the known world. Fed by mountain springs and seasonal rains, it carves through the landscape in three distinct sections, each with its own character and dangers.
 
 ## The Three Daughters
 
@@ -47,9 +45,6 @@ Flowing downward, already less winding than her sister, the river gains strength
 | Terrain | Open valleys, floodplains |
 | Danger Level | Extreme (flooding) |
 
-**Known Flood Events:**
-- [TODO: List notable floods, dates, cities affected]
-
 ---
 
 ### The Lazy Bess *(Leniwa Bess)*
@@ -67,29 +62,26 @@ The widest and shallowest section of the river — the third sister stretches ac
 **Economic Importance:**
 - Trade routes
 - Fishing communities
-- [TODO: Cities along this stretch]
 
 ---
 
 ## Geography
 
-- **Total Length**: [TODO]
+- **Total Length**: Not yet documented
 - **Source**: Northern hills (Hidden Bessme)
-- **Mouth**: [TODO: Sea/bay name]
-- **Major Tributaries**: [TODO]
+- **Mouth**: Not yet documented
+- **Major Tributaries**: Not yet documented
 
 ## Key Cities & Settlements
 
-| City | Daughter | Significance |
-|------|----------|--------------|
-| [TODO] | [Which section] | [TODO] |
+Not yet documented.
 
 ## Uses
 
-- **Transportation**: [TODO]
-- **Agriculture**: [TODO]
+- **Transportation**: The Lazy Bess is the primary trade artery
+- **Agriculture**: Floodplains of the Frenzied Bessie provide fertile soil (at great risk)
 - **Fishing**: Primarily on Lazy Bess
-- **Defense**: [Frenzied Bessie as natural barrier]
+- **Defense**: The Frenzied Bessie serves as a natural barrier
 
 ## Hazards
 
@@ -97,12 +89,14 @@ The widest and shallowest section of the river — the third sister stretches ac
 - **Underground Currents** (Hidden Bessme)
 - **Seasonal Swells** (all sections)
 
-## Adventure Hooks
-
-- [TODO: Quest ideas]
-
 ## Connections
 
 - Part of: Delathor lands
-- Flows through: [TODO]
-- Feeds into: [TODO]
+
+## TODO
+
+- [ ] List notable flood events, dates, and cities affected
+- [ ] Document cities along the Lazy Bess
+- [ ] Determine total length, mouth, and major tributaries
+- [ ] Map key settlements along each daughter
+- [ ] Develop adventure hooks connected to the river

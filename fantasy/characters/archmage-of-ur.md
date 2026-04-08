@@ -4,12 +4,12 @@ type: character
 category: characters
 tags: [antagonist, lich, godlike, immortal, ur, cult, cosmic-horror]
 related:
-  - items/black-stones-of-ur
-  - items/soul-breaker
-  - lore/abyss
-  - characters/mighty-eight
-  - lore/ancient-ones
-summary: "An immortal archmage who merged his soul with the Void, seeking to become a god by offering the hero partnership or destruction."
+  - "[Black Stones of Ur](../items/black-stones-of-ur)"
+  - "[Soul Breaker](../items/soul-breaker)"
+  - "[The Abyss](../lore/abyss)"
+  - "[Mighty Eight](mighty-eight)"
+  - "[The Ancient Ones](../lore/ancient-ones)"
+summary: "An immortal archmage who merged his soul with the Void, seeking to become a god by offering the hero partnership or destruction"
 ---
 
 # Archmage of Ur

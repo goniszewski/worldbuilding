@@ -4,9 +4,9 @@ type: faction
 category: factions
 tags: [human, noble-house, archers, isolation, highlands]
 related:
-  - "[Ermynt](ermynt.md)"
-  - "[Naterian Hegemony](naterian-hegemony.md)"
-summary: "Ancient house of legendary archers dwelling in the Windy Hills, isolated for millennia."
+  - "[Ermynt](ermynt)"
+  - "[Naterian Hegemony](naterian-hegemony)"
+summary: "Ancient house of legendary archers dwelling in the Windy Hills, isolated for millennia"
 ---
 
 # Tiltman

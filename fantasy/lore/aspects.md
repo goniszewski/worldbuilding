@@ -9,10 +9,10 @@ tags:
   - origin
   - magic
 related:
-  - lore/abyss
-  - characters/the-first-one
-  - lore/demons
-  - lore/origins-of-races
+  - "[The Abyss](abyss)"
+  - "[The First One](../characters/the-first-one)"
+  - "[Demons](demons)"
+  - "[Origins of the Races](origins-of-races)"
 summary: Beings of immense power within the Void — entities of indeterminate consciousness that influenced the First and gave rise to demons
 ---
 

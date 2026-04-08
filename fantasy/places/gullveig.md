@@ -4,8 +4,8 @@ type: location
 category: places
 tags: [dwarves, merchant, underground, city, trading-post]
 related:
-  - races/dwarves
-  - places/andvari
+  - "[Dwarves](../races/dwarves)"
+  - "[Andvari](andvari)"
 summary: Dwarven merchant city known for commerce and trade — also called Gullvig
 ---
 

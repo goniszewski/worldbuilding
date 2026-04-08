@@ -4,10 +4,10 @@ type: item
 category: items
 tags: [material, explosive, cult, ur, blue-ore, weapon, terrorism]
 related:
-  - items/black-stones-of-ur
-  - characters/archmage-of-ur
-  - items/soul-breaker
-  - lore/abyss
+  - "[Black Stones of Ur](black-stones-of-ur)"
+  - "[Archmage of Ur](../characters/archmage-of-ur)"
+  - "[Soul Breaker](soul-breaker)"
+  - "[The Abyss](../lore/abyss)"
 summary: A rare crystalline material with devastating explosive properties. The foundation of the cult's terror campaign
 ---
 

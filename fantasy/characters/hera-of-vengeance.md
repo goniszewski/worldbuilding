@@ -4,9 +4,9 @@ type: character
 category: characters
 tags: [human, mort, warrior, champion]
 related:
-  - factions/mort
-  - characters/chieftain-borin-mort
-summary: "Female berserker champion of Mort, undefeated in single combat for twenty years."
+  - "[Mort](../factions/mort)"
+  - "[Chieftain Borin Mort](chieftain-borin-mort)"
+summary: "Female berserker champion of Mort, undefeated in single combat for twenty years"
 ---
 
 # Hera of Vengeance (Hera Zemsty)

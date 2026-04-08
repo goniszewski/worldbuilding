@@ -4,10 +4,10 @@ type: faction
 category: factions
 tags: [human, noble-house, agriculture, fertile-lands, rural]
 related:
-  - "[Graz](graz.md)"
-  - "[Czar](czar.md)"
-  - "[Tiel](tiel.md)"
-summary: "House of fertile farmlands and agricultural wealth, controlling the realm's breadbasket."
+  - "[Graz](graz)"
+  - "[Czar](czar)"
+  - "[Tiel](tiel)"
+summary: "House of fertile farmlands and agricultural wealth, controlling the realm's breadbasket"
 ---
 
 # Golwynt

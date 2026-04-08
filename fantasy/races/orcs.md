@@ -4,7 +4,10 @@ type: sapient-race
 category: races
 tags: [humanoids, strong, fierce, tribal]
 related:
-  - races/humans
+  - "[Humans](humans)"
+  - "[Naterians](naterians)"
+  - "[Dwarves](dwarves)"
+  - "[Elves](elves)"
 summary: "Strong, fierce humanoids with shorter lifespans, organized primarily in tribes that vary widely in culture and disposition"
 ---
 
@@ -57,9 +60,9 @@ Orcish society is primarily tribal, but tribes vary widely:
 - **Shamanic circles**: Spirit-focused, more mystical
 
 ### Values
-- [TODO: Values vary by tribe—add specific tribal variations]
+- Values vary widely by tribe — warrior clans prize strength, hunter bands value self-reliance, trader tribes honor fair dealing, and shamanic circles revere the spirit world
 
-## Relations with Other Races
+## Relations
 
 | Race | Relationship |
 |------|--------------|
@@ -76,10 +79,24 @@ Orcs are often misunderstood by other races. While some tribes are indeed violen
 Based on Orcs from Gothic 1:
 ![Orc Reference](https://static.wikia.nocookie.net/gothic/images/1/15/Orc_Rockefeller.png/revision/latest/scale-to-width-down/590?cb=20200406021459&path-prefix=pl)
 
-## Known Orcs
-
-- [TODO: Add known orcish characters]
-
 ## Notes
 
 Orcish tribes exist throughout the continent, from the northern wastes to the southern jungles. Their relationship with other races depends heavily on the specific tribe and its current leadership. Some tribes have established peaceful trade routes, while others raid settlements without warning.
+
+## For Story Use
+
+### Themes to Explore
+- The danger of judging a people by their worst examples
+- Tribal diversity vs. monolithic stereotypes
+- What happens when a "savage" culture encounters "civilized" politics
+
+### Story Hooks
+- A trader tribe seeks peaceful contact but is mistaken for raiders
+- Two orc tribes at war each approach the party for alliance
+- An orc shaman possesses knowledge lost to other races
+
+## TODO
+
+- [ ] Add known orcish characters
+- [ ] Detail specific tribal variations (names, customs, territories)
+- [ ] Develop shamanic circle practices

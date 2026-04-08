@@ -4,10 +4,10 @@ type: faction
 category: factions
 tags: [human, noble-house, guardians, northern]
 related:
-  - "[Czar](czar.md)"
-  - "[Highdam](highdam.md)"
-  - "[Skjor](skjor.md)"
-summary: "Ancient sentinel house guarding the realm's threshold for over a millennium."
+  - "[Czar](czar)"
+  - "[Highdam](highdam)"
+  - "[Skjor](skjor)"
+summary: "Ancient sentinel house guarding the realm's threshold for over a millennium"
 ---
 
 # Walldom

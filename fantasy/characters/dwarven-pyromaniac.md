@@ -4,8 +4,8 @@ type: character
 category: characters
 tags: [dwarf, pyromaniac, burns, mask, comedic]
 related:
-  - races/dwarves
-summary: "Dwarven inventor severely burned in a pyrotechnic accident, now masked and more enthusiastic than ever about fire."
+  - "[Dwarves](../races/dwarves)"
+summary: "Dwarven inventor severely burned in a pyrotechnic accident, now masked and more enthusiastic than ever about fire"
 ---
 
 # Dwarven Pyromaniac (Krasnoludzki Pyromaniak)

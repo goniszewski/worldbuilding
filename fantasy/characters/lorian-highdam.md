@@ -4,9 +4,9 @@ type: character
 category: characters
 tags: [human, highdam, heir, bisexual, conflicted]
 related:
-  - highdam
-  - lord-eggar-highdam
-summary: "Heir to Highdam, torn between his father's rationalism and his mother's faith, whose bisexuality creates scandal."
+  - "[Highdam](highdam)"
+  - "[Lord Eggar Highdam](lord-eggar-highdam)"
+summary: "Heir to Highdam, torn between his father's rationalism and his mother's faith, whose bisexuality creates scandal"
 ---
 
 # Lorian Highdam

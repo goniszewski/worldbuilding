@@ -9,13 +9,13 @@ tags:
   - slaves
   - refugees
 related:
-  - lore/ancient-ones
-  - lore/age-of-light
-  - places/archipelago-of-light
-  - characters/the-first-one
-  - characters/torr
-  - characters/daraster
-  - characters/lesandra
+  - "[The Ancient Ones](ancient-ones)"
+  - "[Age of Light](age-of-light)"
+  - "[Archipelago of Light](../places/archipelago-of-light)"
+  - "[The First One](../characters/the-first-one)"
+  - "[Torr](../characters/torr)"
+  - "[Daraster](../characters/daraster)"
+  - "[Lesandra](../characters/lesandra)"
 summary: The Cleansed — refugees from the Ancient One catastrophe who forgot their past and built a new civilization on the Archipelago of Light, only to rediscover magic and trigger the cycle again
 ---
 

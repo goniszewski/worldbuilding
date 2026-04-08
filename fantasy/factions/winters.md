@@ -4,10 +4,10 @@ type: faction
 category: factions
 tags: [human, noble-house, north, isolation, cold]
 related:
-  - "[Daever](daever.md)"
-  - "[Czar](czar.md)"
-  - "[Kolah](kolah.md)"
-summary: "Isolated northern house dwelling in the frozen Zimowy Gród, surviving through cold and isolation."
+  - "[Daever](daever)"
+  - "[Czar](czar)"
+  - "[Kolah](kolah)"
+summary: "Isolated northern house dwelling in the frozen Zimowy Gród, surviving through cold and isolation"
 ---
 
 # Winters

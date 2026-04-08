@@ -2,9 +2,7 @@
 name: Fantasy Universe Bible
 type: guide
 category: meta
-summary: Core reference bible for the fantasy setting, covering factions, history, religion, and campaign framing.
-title: Fantasy Universe Bible
-updatedAt: 1775318760380
+summary: "Core reference bible for the fantasy setting, covering factions, history, religion, and campaign framing"
 ---
 # Fantasy Universe Bible
 
@@ -46,7 +44,7 @@ The last attempt to breach the Apex shattered the continent, created the Ash Was
 |---------|--------|------|----------|
 | [Merchant Tides](factions/merchant-tides.md) | Council of Captains | Profit, neutrality | Stabilizing commercial power |
 | [Naterian Hegemony](factions/naterian-hegemony.md) | Unknown | Expansion, order | Aggressive military power |
-| [Soul-Keeper Brotherhood](factions/soul-keeper-brotherhood.md) | Unknown | Preserve souls, prevent corruption | Mysterious, secretive |
+| [Soul Keeper Brotherhood](factions/soul-keeper-brotherhood.md) | Unknown | Preserve souls, prevent corruption | Mysterious, secretive |
 
 ### Noble Houses of the Human Kingdom
 

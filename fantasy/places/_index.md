@@ -2,7 +2,7 @@
 name: Places Index
 type: index
 category: places
-summary: "Index of regions, cities, strongholds, and landmarks in the fantasy setting."
+summary: "Index of regions, cities, strongholds, and landmarks in the fantasy setting"
 ---
 
 # Places

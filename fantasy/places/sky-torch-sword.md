@@ -9,9 +9,9 @@ tags:
   - engineering
   - religious
 related:
-  - places/sky-torch
-  - lore/religions
-  - lore/the-cleansed
+  - "[Sky Torch](sky-torch)"
+  - "[Religious Systems](../lore/religions)"
+  - "[The Cleansed](../lore/the-cleansed)"
 summary: A monumental sword driven into the earth at the northern tip of the Sacred Peninsula — an engineering marvel without equal, its purpose shrouded in myster
 ---
 

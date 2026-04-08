@@ -4,10 +4,10 @@ type: faction
 category: factions
 tags: [trade, naval, merchants, coalition, neutral]
 related:
-  - places/verath
-  - factions/timrel
-  - factions/graz
-summary: "A loose but influential maritime trade coalition that profits from neutrality, information, and keeping ports open during political crisis."
+  - "[Verath](../places/verath)"
+  - "[Timrel](timrel)"
+  - "[Graz](graz)"
+summary: "A loose but influential maritime trade coalition that profits from neutrality, information, and keeping ports open during political crisis"
 ---
 
 # Merchant Tides

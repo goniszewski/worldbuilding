@@ -4,10 +4,10 @@ type: faction
 category: factions
 tags: [human, noble-house, highlands, dams, religious-conflict]
 related:
-  - "[Walldom](walldom.md)"
-  - "[Czar](czar.md)"
-  - "[Naterian Hegemony](naterian-hegemony.md)"
-summary: "Highland house controlling the great dams, now torn between faith and the new order."
+  - "[Walldom](walldom)"
+  - "[Czar](czar)"
+  - "[Naterian Hegemony](naterian-hegemony)"
+summary: "Highland house controlling the great dams, now torn between faith and the new order"
 ---
 
 # Highdam

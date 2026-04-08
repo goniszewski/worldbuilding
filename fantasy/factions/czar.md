@@ -4,11 +4,11 @@ type: faction
 category: factions
 tags: [human, noble-house, political, royal-advisor, intrigue]
 related:
-  - "[Walldom](walldom.md)"
-  - "[Graz](graz.md)"
-  - "[Tiel](tiel.md)"
-  - "[Timrel](timrel.md)"
-summary: "Master manipulators who rose to power through politics, now holding the Royal Advisor position."
+  - "[Walldom](walldom)"
+  - "[Graz](graz)"
+  - "[Tiel](tiel)"
+  - "[Timrel](timrel)"
+summary: "Master manipulators who rose to power through politics, now holding the Royal Advisor position"
 ---
 
 # Czar

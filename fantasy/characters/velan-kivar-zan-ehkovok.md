@@ -1,16 +1,16 @@
 ---
-name: Velan Kivar Zan Ehkovok
+name: Velan-Kivar-Zan-Ehkovok
 type: character
 category: characters
 tags: [protagonist, naterian, rogue, mage, eridann]
 related:
-  - characters/damara-loehen
-  - characters/angar
-  - characters/gwenn-youkto-imah-vueten
-summary: "Charming, audacious Naterian rogue with hidden magical abilities. Fled his homeland after discovering his arcane talents."
+  - "[Damara Lo'Ehen](damara-loehen)"
+  - "[Angar](angar)"
+  - "[Gwenn Youkto Imah Vueten](gwenn-youkto-imah-vueten)"
+summary: "Charming, audacious Naterian rogue with hidden magical abilities. Fled his homeland after discovering his arcane talents"
 ---
 
-# Velan Kivar Zan Ehkovok
+# Velan-Kivar-Zan-Ehkovok
 
 > A charming exile whose wit, nerve, and hidden magic keep pushing him past safe decisions.
 

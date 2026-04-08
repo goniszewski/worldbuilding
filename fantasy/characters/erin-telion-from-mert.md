@@ -4,9 +4,9 @@ type: character
 category: characters
 tags: [protagonist, human, archer, soldier, eridann]
 related:
-  - characters/damara-loehen
-  - characters/velan-kivar-zan-ehkovok
-summary: "Former city guard, skilled archer with trust issues. Cold exterior masks past trauma."
+  - "[Damara Lo'Ehen](damara-loehen)"
+  - "[Velan-Kivar-Zan-Ehkovok](velan-kivar-zan-ehkovok)"
+summary: "Former city guard, skilled archer with trust issues. Cold exterior masks past trauma"
 ---
 
 # Erin Telion from Mert
@@ -40,7 +40,7 @@ In her youth, she was assaulted (by someone she had feelings for), which caused 
 ## Relationships
 
 - **[Damara Lo'Ehen](damara-loehen.md)**: Treats her like a younger sister; potential late-game secret sharing
-- **[Velan Kivar Zan Ehkovok](velan-kivar-zan-ehkovok.md)**: Watches him closely regarding Damara; has mixed feelings about him from the start
+- **[Velan-Kivar-Zan-Ehkovok](velan-kivar-zan-ehkovok.md)**: Watches him closely regarding Damara; has mixed feelings about him from the start
 
 ## For Writers / Game Designers
 

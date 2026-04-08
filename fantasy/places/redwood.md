@@ -4,9 +4,9 @@ type: location
 category: places
 tags: [city, trade, commerce, graz, merchant]
 related:
-  - factions/graz
-  - factions/timrel
-  - factions/czar
+  - "[Graz](../factions/graz)"
+  - "[Timrel](../factions/timrel)"
+  - "[Czar](../factions/czar)"
 summary: The realm's second-greatest trading hub, controlled by House Graz and home to the famous Redwood Trade Fair
 ---
 

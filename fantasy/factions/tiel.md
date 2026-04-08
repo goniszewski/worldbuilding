@@ -4,10 +4,10 @@ type: faction
 category: factions
 tags: [human, noble-house, mining, ore, blue-ore]
 related:
-  - "[Mort](mort.md)"
-  - "[Highdam](highdam.md)"
-  - "[Czar](czar.md)"
-summary: "Mining house controlling the precious błękitna ruda (blue ore) deposits and the port of Barrenport."
+  - "[Mort](mort)"
+  - "[Highdam](highdam)"
+  - "[Czar](czar)"
+summary: "Mining house controlling the precious błękitna ruda (blue ore) deposits and the port of Barrenport"
 ---
 
 # Tiel

@@ -4,9 +4,9 @@ type: lore
 category: lore
 tags: [ancient-civilization, precursors, dwarves, abyss, cataclysm]
 related:
-  - lore/mana
-  - lore/abyss
-  - races/naterians
+  - "[Mana](mana)"
+  - "[The Abyss](abyss)"
+  - "[Naterians](../races/naterians)"
 summary: The true ancestors of dwarvenkind — a continent-spanning civilization that fell 10-12 thousand years ago when they sealed the Abyss, sacrificing their own magic and lives to protect the world
 ---
 

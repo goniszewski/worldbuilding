@@ -4,10 +4,10 @@ type: sapient-race
 category: races
 tags: [humanoids, dominant, diverse]
 related:
-  - "[Origins of the Races](../lore/origins-of-races.md)"
-  - "[Daraster](../characters/daraster.md)"
-  - "[The Cleansed](../lore/the-cleansed.md)"
-summary: "The most widespread race—versatile, ambitious, and adaptable."
+  - "[Origins of the Races](../lore/origins-of-races)"
+  - "[Daraster](../characters/daraster)"
+  - "[The Cleansed](../lore/the-cleansed)"
+summary: "The most widespread race—versatile, ambitious, and adaptable"
 ---
 
 # Humans
@@ -48,8 +48,8 @@ Humans are the dominant race in many regions of the known world. Known for their
 
 ### The Human Kingdom
 - **Location**: Southern side of [Torr's Gate](../places/torrs-gate.md)
-- **Capital**: [TODO]
-- **Ruler**: [TODO]
+- **Capital**: Not yet documented
+- **Ruler**: Not yet documented
 
 ### Notable Organizations
 - **The Silver Compact** — Magical monopoly controlling spirit binding

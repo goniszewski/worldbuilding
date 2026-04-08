@@ -4,10 +4,10 @@ type: character
 category: characters
 tags: [protagonist, monk, healer, pilgrim, conscience]
 related:
-  - characters/lyra-dawnwhisper
-  - factions/silver-compact
-  - lore/religions
-summary: "A wandering monk whose gentleness disguises fierce resolve, serving as Lyra's companion, conscience, and one of the few people unafraid to challenge her."
+  - "[Lyra Dawnwhisper](characters/lyra-dawnwhisper)"
+  - "[Silver Compact](factions/silver-compact)"
+  - "[Religious Systems](../lore/religions)"
+summary: "A wandering monk whose gentleness disguises fierce resolve, serving as Lyra's companion, conscience, and one of the few people unafraid to challenge her"
 ---
 
 # Brother Kael

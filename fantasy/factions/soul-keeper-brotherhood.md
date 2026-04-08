@@ -4,9 +4,8 @@ type: faction
 category: factions
 tags: [secret, order, guardian, cursed, warrior]
 related:
-  - items/artifacts/soul-breaker
-  - lore/shadow-essence
-summary: "A secretive order dedicated to containing the Soul Breaker and protecting the world from its corruption."
+  - "[Soul Breaker](../items/soul-breaker)"
+summary: "A secretive order dedicated to containing the Soul Breaker and protecting the world from its corruption"
 ---
 
 # The Soul Keeper Brotherhood (Bractwo Strażników Dusz)
@@ -20,7 +19,7 @@ summary: "A secretive order dedicated to containing the Soul Breaker and protect
 | **Category** | Faction |
 | **Founded** | Ancient (exact date unknown) |
 | **Headquarters** | The Vault of Last Resort, location unknown |
-| **Alignment** | Neutral Good (corrupted members shift toward Chaotic Evil) |
+| **Character** | Protective, secretive; corrupted members become dangerous |
 | **Membership** | 7 active members, 1 bearer, council of 3 |
 | **Status** | Active, in recruitment phase |
 

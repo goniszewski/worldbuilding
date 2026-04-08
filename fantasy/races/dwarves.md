@@ -9,13 +9,13 @@ tags:
   - miners
   - forbidden-unions
 related:
-  - "[Origins of the Races](../lore/origins-of-races.md)"
-  - "[Torr](../characters/torr.md)"
-  - "[Daraster](../characters/daraster.md)"
-  - "[Lesandra](../characters/lesandra.md)"
-  - "[Humans](humans.md)"
-  - "[Naterians](naterians.md)"
-summary: "Short, sturdy underground craftsmen and miners. Descendants of forbidden unions between children of Torr and Daraster, punished and driven underground by the other races."
+  - "[Origins of the Races](../lore/origins-of-races)"
+  - "[Torr](../characters/torr)"
+  - "[Daraster](../characters/daraster)"
+  - "[Lesandra](../characters/lesandra)"
+  - "[Humans](humans)"
+  - "[Naterians](naterians)"
+summary: "Short, sturdy underground craftsmen and miners. Descendants of forbidden unions between children of Torr and Daraster, punished and driven underground by the other races"
 ---
 
 # Dwarves
@@ -33,7 +33,6 @@ summary: "Short, sturdy underground craftsmen and miners. Descendants of forbidd
 | **Adult Age** | 22 |
 | **Average Age** | 85 |
 | **Oldest Recorded** | 150 |
-| **Adult Age** | 22 |
 | **Height** | ~130 cm |
 | **Type** | Humanoid |
 | **Sentience** | Sapient |

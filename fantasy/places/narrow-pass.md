@@ -4,9 +4,9 @@ type: location
 category: places
 tags: [mountains, narrow-pass, mort, tribal, highland]
 related:
-  - factions/mort
-  - factions/tiel
-  - factions/walldom
+  - "[Mort](../factions/mort)"
+  - "[Tiel](../factions/tiel)"
+  - "[Walldom](../factions/walldom)"
 summary: Treacherous mountain pass controlled by the Mort clans, the narrowest route between north and sout
 ---
 

@@ -2,7 +2,7 @@
 name: Lore Index
 type: index
 category: lore
-summary: "Index of cosmology, history, belief systems, and core world concepts in the fantasy setting."
+summary: "Index of cosmology, history, belief systems, and core world concepts in the fantasy setting"
 ---
 
 # Lore
@@ -19,6 +19,7 @@ summary: "Index of cosmology, history, belief systems, and core world concepts i
 | [Mana](mana.md) | The substance and flow of magical power |
 | [Aspects](aspects.md) | Divine beings tied to cosmic order |
 | [The Abyss](abyss.md) | The hostile realm beyond the world |
+| [Shadow Essence](shadow-essence.md) | Corrupting substance drawn from the Void |
 
 ## History and Origins
 
