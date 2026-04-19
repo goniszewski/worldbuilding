@@ -318,7 +318,7 @@ This lore changes everything:
 | **Martin** | Validation — his "scientific" approach to magic was always right |
 | **Damara** | Crisis of faith — her goddess may be a refugee's myth |
 | **Angar** | Confusion — his entire identity as a Pure is based on a lie |
-| **The Compact** | Hostility — they control magic, and magic was the enemy |
+| **Institutional mages** | Hostility — they control magic, and magic was the enemy |
 
 ### Playing the Revelation
 

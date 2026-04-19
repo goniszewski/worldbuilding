@@ -73,7 +73,7 @@ Their greatest strength is not wealth alone, but plausibility. Everyone believes
 - Trade networks that become political actors
 
 ### Story Hooks
-- A merchant convoy disappears after carrying sealed Compact cargo
+- A merchant convoy disappears after carrying sealed cargo from an unknown patron
 - The Council of Captains fractures over whether to back a rebellion
 - A port ledger contains proof that one house funded both sides of a conflict
 

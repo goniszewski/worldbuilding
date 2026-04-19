@@ -54,7 +54,7 @@ Because so much passes through the port, the city has become a place of thin loy
 
 ## Story Connections
 
-Verath is remembered as Lyra Dawnwhisper's birthplace and as a natural point of contact between rebels, merchants, and Compact observers. It is the kind of place where a story can begin without anyone immediately realizing how dangerous it is.
+Verath is remembered as Lyra Dawnwhisper's birthplace and as a natural point of contact between rebels, merchants, and spies from every faction. It is the kind of place where a story can begin without anyone immediately realizing how dangerous it is.
 
 ## For Story Use
 

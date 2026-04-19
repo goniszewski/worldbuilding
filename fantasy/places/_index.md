@@ -20,7 +20,7 @@ summary: "Index of regions, cities, strongholds, and landmarks in the fantasy se
 | Location | Region | Status |
 |----------|--------|--------|
 | [The Great Bessam](great-bessam.md) | Central | Major river system |
-| [The Silver Woods](silver-woods.md) | Central | Sacred grove and Compact seat |
+| [The Silver Woods](silver-woods.md) | Central | Sacred grove |
 | [Torr's Gate](torrs-gate.md) | North | Fortress between humans and Naterians |
 | [Narrow Pass](narrow-pass.md) | Highlands | Mort clan territory |
 | [Misty Valley](misty-valley.md) | East | Daever territory |

@@ -84,7 +84,7 @@ Over time, the situation requires going public and establishing a headquarters. 
 
 ### Choosing a Patron and Priorities
 
-After initial preparations and the consent of one of the rulers, the hero leads the Compact. They can choose:
+After initial preparations and the consent of one of the rulers, the hero leads the Association. They can choose:
 
 **Patrons** (3-6, divided into 2 groups):
 
@@ -176,7 +176,7 @@ After many years, they stumbled upon **the ruins of one of the Ancients' shelter
 ### Key Player Decisions
 
 1. Whom to trust — elves, humans, or no one?
-2. Choose patrons and priorities for the Compact
+2. Choose patrons and priorities for the Association
 3. Support the Archmage or destroy him?
 4. Allow a "small" explosion for the greater good?
 

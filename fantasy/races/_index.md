@@ -53,7 +53,7 @@ Races known only through fragmentary accounts, explorer logs, or secondhand lege
 
 ### Central Regions
 - Mixed populations, major cities
-- [The Silver Woods](../places/silver-woods.md) — Compact territory
+- [The Silver Woods](../places/silver-woods.md) — Sacred grove
 
 ### Underground
 - Dwarven kingdoms between human and Naterian lands

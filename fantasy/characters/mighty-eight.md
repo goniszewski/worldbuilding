@@ -2,7 +2,7 @@
 name: Mighty Eight
 type: character
 category: characters
-tags: [heroes, ur, antagonists, history, legendary, compact]
+tags: [heroes, ur, antagonists, history, legendary]
 related:
   - archmage-of-ur
   - ../items/soul-breaker
@@ -93,7 +93,7 @@ Their bloodline carries the burden to this day:
 ### Bloodline Curse
 Some believe descendants of the Mighty Eight are:
 - Protected by the virtue of their ancestor
-- Cursed if they betray the Compact's purpose
+- Cursed if they betray the order's purpose
 - Marked for greatness... or doom
 
 ## Current Campaign Relevance
@@ -101,7 +101,7 @@ Some believe descendants of the Mighty Eight are:
 ### Hidden Secrets
 - One of the Eight may have had a hidden agenda
 - Possible survivor bloodline among current NPCs
-- The Compact may have strayed from the original purpose
+- The order may have strayed from the original purpose
 
 ### The Archmage's Perspective
 The Archmage remembers the Eight:
@@ -113,7 +113,7 @@ The Archmage remembers the Eight:
 The Eight left behind:
 - Their weapons (scattered, lost, or sealed)
 - Personal journals (treasures of knowledge)
-- The original Compact charter (in their blood)
+- The original charter (in their blood)
 
 ## For Writers / Game Designers
 
@@ -127,7 +127,7 @@ The Eight left behind:
 The Mighty Eight weren't perfect:
 - Collateral damage in their battles
 - Difficult choices, desperate measures
-- Their methods shaped the Compact they created
+- Their methods shaped the order they created
 
 ### Inspiration vs. Burden
 Heroes can:

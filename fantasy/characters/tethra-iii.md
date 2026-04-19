@@ -31,7 +31,7 @@ Her authority rests on more than theology. In a fractured political world, Tethr
 
 ## Doctrine and Politics
 
-Tethra publicly teaches duty, order, and sacred memory. Privately, she is said to understand how close every great order lives to contradiction. The rise of the Compact, the persistence of heresies, and the endurance of rival interpretations all threaten the idea that one religious structure can still explain the world cleanly.
+Tethra publicly teaches duty, order, and sacred memory. Privately, she is said to understand how close every great order lives to contradiction. The rise of new orders, the persistence of heresies, and the endurance of rival interpretations all threaten the idea that one religious structure can still explain the world cleanly.
 
 She answers this tension not with flexibility, but with careful boundary-setting. To Tethra, accommodation must never look like surrender.
 

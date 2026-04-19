@@ -40,7 +40,7 @@ Her court is famous for splendor, but Aesa herself is less interested in luxury 
 
 ## Relationship to the Wider World
 
-Aesa is neither isolationist nor open-hearted. She understands that the human houses, merchant ports, and Compact structures cannot simply be ignored, but she refuses to let elven diplomacy look like dependence. This makes her appear aloof to outsiders and frustratingly cautious to reformers within her own realm.
+Aesa is neither isolationist nor open-hearted. She understands that the human houses, merchant ports, and institutional structuresures cannot simply be ignored, but she refuses to let elven diplomacy look like dependence. This makes her appear aloof to outsiders and frustratingly cautious to reformers within her own realm.
 
 ## Relationships
 

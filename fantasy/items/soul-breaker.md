@@ -132,7 +132,7 @@ The Brotherhood's bearer was called to battle. The enemy army fled at the mere s
 ### The Mighty Eight and the Archmage
 The [Mighty Eight](../characters/mighty-eight.md) stole Soul Breaker from the Archmage's vault and turned it against him. The Seventh Hero — a warrior — delivered the final blow. It was the only way to kill his physical form, severing the soul-anchor that bound him to the Void.
 
-### Sealed by the Compact
+### Sealed by the Brotherhood
 After the Archmage's temporary death, the sword was sealed in the [Soul Keeper Brotherhood's](../factions/soul-keeper-brotherhood.md) vaults, guarded by Silent Monks. Forgotten for centuries.
 
 ### The Cult's Theft

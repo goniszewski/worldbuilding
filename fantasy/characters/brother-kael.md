@@ -49,7 +49,7 @@ Kael travels with Lyra not because he agrees with all her methods, but because h
 - She forces him to admit that compassion without action can become cowardice
 - Each suspects the other is hiding more than they say
 
-He is one of the few people who speaks to her as if she can still become someone other than what the Compact made.
+He is one of the few people who speaks to her as if she can still become someone other than what the hunt has made her.
 
 ## Relationships
 

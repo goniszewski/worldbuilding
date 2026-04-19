@@ -487,7 +487,7 @@ category: races
 tags: [orc, humanoid, green]
 related:
   - example-faction
-summary: "A warrior culture of the Silver Woods, bound by the Compact"
+summary: "A warrior culture of the Silver Woods, bound by ancient oaths"
 ---
 ```
 
