@@ -411,7 +411,7 @@ summary: "[One sentence describing what it is]"
 ```markdown
 - [Pierwsi](races/pierwsi.md)
 - [Yazghur](creatures/yazghur.md)
-- [Velan Kivar](characters/velan-kivar.md)
+- [Velan-Kivar-Zan-Ehkovok](characters/velan-kivar-zan-ehkovok.md)
 ```
 
 ---

@@ -20,12 +20,30 @@ summary: "Strong, fierce humanoids with shorter lifespans, organized primarily i
 | Attribute | Value |
 |-----------|-------|
 | **Category** | Sapient Race |
+| **Ancestor** | Unknown |
+| **Origin** | Disputed — see below |
 | **Adult Age** | 14 |
 | **Average Age** | 26 |
 | **Oldest Recorded** | 81 |
 | **Height** | ~180 cm |
 | **Type** | Humanoid |
 | **Sentience** | Sapient |
+
+
+## Origin
+
+The ancestry of the Orcs is unknown. No creation myth accounts for them, and they appear in no genealogy alongside the other races descended from [Torr](../characters/torr.md), [Daraster](../characters/daraster.md), or [Lesandra](../characters/lesandra.md).
+
+Some scholars have theorized that Orcs may descend from early, isolated predecessors of the [Naterians](naterians.md) — less evolved branches of Torr's bloodline that split off before the Naterian civilization took shape. This theory is popular among Naterian supremacists who seek to distance themselves from Orcs by framing them as a degenerate offshoot. Most serious researchers consider it rather untrue; the physiological differences are too great, and Orcish cultures show no recognizable echoes of Naterian tradition.
+
+Orcs themselves do not speak of their origins. Whether they know and refuse to share, or have genuinely lost the knowledge, is unclear.
+
+> *"Calling an Orc a 'less evolved Naterian' is like calling a horse a 'less evolved dog.' They breathe the same air. That is where the similarity ends."*
+> — Martin Guecventrak
+
+## Orcs and Other Races
+
+The term **"Orc"** is sometimes used as a slur against [Naterians](naterians.md) by the ignorant or the hostile — a conflation that insults both species. Naterians find the comparison deeply offensive. Orcs, when they learn of it, are amused or indifferent depending on temperament.
 
 ## Description
 

@@ -101,6 +101,13 @@ Dwarven kingdoms are located underground between human and Naterian territories,
 - [Velan-Kivar-Zan-Ehkovok](../characters/velan-kivar-zan-ehkovok.md) — Warrior of Kharatar clan
 - [Gwenn Youkto Imah Vueten](../characters/gwenn-youkto-imah-vueten.md)
 
+
+## Orcs and the "Orc" Slur
+
+Naterians are sometimes mistakenly called **"Orcs"** by outsiders — a term used as a slur by the ignorant or the hostile. The confusion likely stems from Naterians' imposing physique, tribal social structures, and the mountain territories they share in proximity to Orcish bands.
+
+In truth, [Orcs](orcs.md) are an entirely different species with no known connection to Naterian bloodlines. The comparison is considered deeply offensive by Naterians, who view it as a deliberate insult to their civilization and heritage.
+
 ## TODO
 
 - [ ] Document the six major clans (Kharatar, Vathar, Utar, Zorzad, Uto, Kor)

@@ -94,7 +94,7 @@ Over millennia, the [The Cleansed](the-cleansed.md) ceased to exist, and their p
 
 | Race | Polish | Ancestor | Notes |
 |------|--------|----------|-------|
-| **Naterians** | Naterowie | [Torr](../characters/torr.md) | Wild mountain tribes also called Orcs |
+| **Naterians** | Naterowie | [Torr](../characters/torr.md) | Warrior culture, honor-bound |
 | **Humans** | Ludzie | [Daraster](../characters/daraster.md) | Conceived through his affairs; later partially mixed with legitimate children |
 | **Elves** | Elfy | [Daraster](../characters/daraster.md) + [Lesandra](../characters/lesandra.md) | Direct lineage only; did not mix with others |
 | **Dwarves** | Krasnoludy | Forbidden unions | Descendants of [Torr's](../characters/torr.md) children with [Daraster's](../characters/daraster.md) children; punished and driven underground |
