@@ -52,7 +52,6 @@ Humans are the dominant race in many regions of the known world. Known for their
 - **Ruler**: Not yet documented
 
 ### Notable Organizations
-- **The Silver Compact** — Magical monopoly controlling spirit binding
 - **Brotherhood of the Soul Breaker** — Ancient order (now fractured)
 
 ## Relations

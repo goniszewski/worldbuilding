@@ -5,7 +5,6 @@ category: characters
 tags: [protagonist, monk, healer, pilgrim, conscience]
 related:
   - characters/lyra-dawnwhisper
-  - factions/silver-compact
   - ../lore/religions
 summary: "A wandering monk whose gentleness disguises fierce resolve, serving as Lyra's companion, conscience, and one of the few people unafraid to challenge her"
 ---
@@ -40,7 +39,7 @@ He belongs to no great hierarchy anyone can easily verify. Some think he is a tr
 
 Kael spent years walking pilgrimage roads between shrines, villages, and battle-scarred communities. That life taught him that doctrine often reaches the suffering long after hunger, violence, and fear already have. He became less interested in winning arguments about righteousness and more interested in what people become when no one is watching.
 
-At some point in those travels he crossed paths with the Silver Compact's work more than once. The official story never satisfied him. He began quietly collecting testimonies, fragments of doctrine, and stories of vanished children. By the time he met Lyra, he already knew enough to understand she was not merely a fugitive, but a wound in the Compact's narrative.
+During those travels he encountered powerful organizations whose official stories never satisfied him. He began quietly collecting testimonies, fragments of doctrine, and stories of vanished children. By the time he met Lyra, he already knew enough to understand she was not merely a fugitive.
 
 ## Relationship with Lyra
 
@@ -55,7 +54,6 @@ He is one of the few people who speaks to her as if she can still become someone
 ## Relationships
 
 - **[Lyra Dawnwhisper](lyra-dawnwhisper.md)**: Companion, argument, and quiet source of hope
-- **[The Silver Compact](../factions/silver-compact.md)**: Distrusts their moral claim even when he lacks proof
 - **Village clergy and healers**: Often shelter him, though few truly know him
 
 ## For Story Use

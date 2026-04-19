@@ -15,7 +15,6 @@ related:
   - lore/origins-of-races
   - lore/abyss
   - lore/religions
-  - factions/silver-compact
   - items/blue-ore
   - items/black-stones-of-ur
   - items/soul-breaker
@@ -51,7 +50,7 @@ After some time, the hero discovers that **elves and naters had been quietly dis
 
 ### Joining the Brotherhood
 
-The hero becomes personally entangled in the intrigue and joins a **secret organization** ([Silver Compact](../factions/silver-compact.md)?) specially formed to restore order by one of the kingdoms. They must find allies and resources that will allow them to destroy the cult of the Archmage of Ur before total war begins.
+The hero becomes personally entangled in the intrigue and joins a **secret organization** (the Association?) specially formed to restore order by one of the kingdoms. They must find allies and resources that will allow them to destroy the cult of the Archmage of Ur before total war begins.
 
 ---
 
@@ -71,11 +70,11 @@ After the betrayal, an important clue emerges — **the cult is preparing for a 
 
 ---
 
-## Act III — The Silver Compact
+## Act III — The Association
 
 ### Forming the Association
 
-The hero gathers companions and former members of the organization who share their views, forming a loosely-structured **association** — [Silver Compact](../factions/silver-compact.md).
+The hero gathers companions and former members of the organization who share their views, forming a loosely-structured **association**.
 
 Over time, the situation requires going public and establishing a headquarters. The player can obtain 2-3 options through various means:
 
@@ -161,7 +160,7 @@ After many years, they stumbled upon **the ruins of one of the Ancients' shelter
 
 | Ally | Description |
 | --- | --- |
-| [Silver Compact](../factions/silver-compact.md) | The hero's loosely-structured association |
+| the Association | The hero's loosely-structured association |
 | Brotherhood (former members) | Betrayed but loyal to the cause |
 
 ---

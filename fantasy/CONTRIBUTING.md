@@ -87,7 +87,7 @@ category: characters
 tags: [warrior, orc, mercenary, iron-fist]
 related:
   - gwenn-lysel-the-warden
-  - silver-compact
+  - example-faction
   - angmar-ironfist-warband
 summary: "A battle-scarred orc warrior leading the Iron Fist warband."
 ---
@@ -423,7 +423,7 @@ summary: "[One sentence describing what it is]"
 | Race | English name | `pierwsi.md` |
 | Creature | Common name | `yazghur.md` |
 | Character | Full name, hyphens | `velan-kivar-zan-ehkovok.md` |
-| Faction | Short name | `silver-compact.md` |
+| Faction | Short name | `example-faction.md` |
 | Location | Common name | `torrs-gate.md` |
 | Item | Item name, hyphens | `spirit-blade.md` |
 | Lore | Topic name | `magic-systems.md` |
@@ -486,7 +486,7 @@ type: sapient-race
 category: races
 tags: [orc, humanoid, green]
 related:
-  - silver-compact
+  - example-faction
 summary: "A warrior culture of the Silver Woods, bound by the Compact"
 ---
 ```

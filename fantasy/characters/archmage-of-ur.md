@@ -70,7 +70,6 @@ The Archmage noticed that the Void (chaos) needs a **conscious, orderly mind** t
 The cult believes in the **Revelation** — the moment when the Archmage fully returns to the world. They prepare for this through:
 - Collecting [blue ore](../items/blue-ore.md)
 - Searching for [Black Stones](../items/black-stones-of-ur.md)
-- Sabotaging the [Silver Compact](../factions/silver-compact.md) from within
 
 ## The Offer to the Hero
 

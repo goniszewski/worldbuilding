@@ -31,9 +31,9 @@ summary: "Quick navigation index for the fantasy campaign setting"
 
 | Character | Race | Role | House/Faction |
 | --- | --- | --- | --- |
-| [Velan-Kivar-Zan-Ehkovok](characters/velan-kivar-zan-ehkovok.md) | Human | Protagonist | Silver Compact |
+| [Velan-Kivar-Zan-Ehkovok](characters/velan-kivar-zan-ehkovok.md) | Human | Protagonist | — |
 | [Erin Telion](characters/erin-telion-from-mert.md) | Human | Protagonist | — |
-| [Damara Loehen](characters/damara-loehen.md) | Elven | Protagonist | Silver Compact |
+| [Damara Loehen](characters/damara-loehen.md) | Elven | Protagonist | — |
 | [Martin Guecventrak](characters/martin-guecventrak.md) | Dwarven | Ally | — |
 | [Gwenn](characters/gwenn-youkto-imah-vueten.md) | Human | Mercenary | — |
 | [Archmage of Ur](characters/archmage-of-ur.md) | — | Antagonist | — |
@@ -65,7 +65,6 @@ summary: "Quick navigation index for the fantasy campaign setting"
 
 | Faction | Type | Notes |
 | --- | --- | --- |
-| [The Silver Compact](factions/silver-compact.md) | Organization | Magical monopoly, player faction |
 | [The Naterian Hegemony](factions/naterian-hegemony.md) | Nation | Honor-bound warriors |
 | [House Walldom](factions/walldom.md) | Noble House | Mountain guardians |
 | [Clan Mort](factions/mort.md) | Noble House | Berserkers |
@@ -79,14 +78,14 @@ summary: "Quick navigation index for the fantasy campaign setting"
 | [House Winters](factions/winters.md) | Noble House | Northern isolation |
 | [House Ermynt](factions/ermynt.md) | Noble House | Neutrality |
 | [Merchant Tides](factions/merchant-tides.md) | Guild | Commercial power, naval dominance |
-| [Soul Keeper Brotherhood](factions/factions/soul-keeper-brotherhood.md) | Secret Society | Mysterious, preserves souls |
+| [Soul Keeper Brotherhood](factions/soul-keeper-brotherhood.md) | Secret Society | Mysterious, preserves souls |
 
 ### Places
 
 | Place | Region | Notes |
 | --- | --- | --- |
 | [Torr's Gate](places/torrs-gate.md) (Brama Torra) | North | Impassable mountain fortress |
-| [The Silver Woods](places/silver-woods.md) (Srebrne Lasy) | Central | Sacred grove, Compact HQ |
+| [The Silver Woods](places/silver-woods.md) (Srebrne Lasy) | Central | Sacred grove |
 | [Sky Torch](places/sky-torch.md) (Niebiańska Pochodnia) | South | Eternal flame, no magic |
 | [Sky Sword](places/sky-torch-sword.md) (Niebiański Miecz) | North | Impossible blade, seals the Abyss |
 | [The Great Bessam](places/great-bessam.md) (Wielka Bessam) | Central | River with three daughters |

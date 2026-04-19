@@ -274,7 +274,6 @@ The Sword doesn't just pierce the earth. It **anchors the Abyss seal**.
 If proven, this theory would:
 - **Destroy** all creation myths based on the Cleansed as original humans
 - **Elevate** dwarves as the true oldest civilization
-- **Expose** the Silver Compact's ancestors as destroyers
 - **Reveal** magic as the cause of all catastrophe
 
 ### The Seal

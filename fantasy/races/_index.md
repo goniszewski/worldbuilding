@@ -64,7 +64,6 @@ Races known only through fragmentary accounts, explorer logs, or secondhand lege
 |---------|---------------|-------|
 | Human Kingdom | [Humans](humans.md) | Southern territories |
 | Nater Hegemony | [Naterians](naterians.md) | Northern territories |
-| Silver Compact | Mixed | Magical monopoly |
 
 ## Related Topics
 

@@ -14,7 +14,6 @@ summary: "Index of political powers, noble houses, and organized groups in the f
 
 | Faction | Type | Notes |
 | --- | --- | --- |
-| [The Silver Compact](silver-compact.md) | Organization | Arcane monopoly regulating legal spirit binding |
 | [The Naterian Hegemony](naterian-hegemony.md) | Nation | Honor-bound northern power |
 | [Soul Keeper Brotherhood](soul-keeper-brotherhood.md) | Secret Order | Guardians of forbidden knowledge and dangerous relics |
 | [Naterian Adjudicator](naterian-adjudicator.md) | Office | Judicial and enforcement authority within Naterian society |

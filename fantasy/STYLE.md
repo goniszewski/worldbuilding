@@ -35,7 +35,7 @@ You may include **adaptation notes** for story or game usage, but they must stay
 | Races | `lowercase.md` | `the-cleansed.md`, `orcs.md` |
 | Characters | `name-lowercase-dashes.md` | `velan-kivar-zan-ehkovok.md` |
 | Locations | `lowercase-dashes.md` | `torrs-gate.md`, `silver-woods.md` |
-| Factions | `lowercase-dashes.md` | `silver-compact.md` |
+| Factions | `lowercase-dashes.md` | `example-faction.md` |
 | Lore | `lowercase-dashes.md` | `magic-systems.md` |
 | Creatures | `lowercase-dashes.md` | `yazghur.md` |
 | Items | `lowercase-dashes.md` | `soul-breaker.md`, `dreadwinter.md` |

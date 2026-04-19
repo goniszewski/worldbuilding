@@ -7,7 +7,6 @@ related:
   - archmage-of-ur
   - ../items/soul-breaker
   - ../items/black-stones-of-ur
-  - factions/silver-compact
 summary: Eight legendary heroes who defeated the Archmage of Ur. Their story serves as backstory and inspiration for the campaig
 ---
 
@@ -72,13 +71,12 @@ The key to defeating the Archmage was **Soul Breaker** — only this weapon coul
 **The Aftermath**:
 - Four survived
 - They sealed the Archmage's remains
-- They founded what would become the [Silver Compact](../factions/silver-compact.md)
 - Their bloodline carries the burden to this day
 
 ## Legacy
 
-### The Compact's Origin
-The Silver Compact traces its lineage directly to the Mighty Eight:
+### Legacy
+Their bloodline carries the burden to this day:
 - First generation: The survivors and their families
 - Purpose: Guard against the Archmage's return
 - Evolution: From hunters to political power
@@ -151,5 +149,4 @@ Heroes can:
 
 - [Archmage of Ur](archmage-of-ur.md) — their enemy
 - [Soul Breaker](../items/soul-breaker.md) — the killing weapon
-- [Silver Compact](../factions/silver-compact.md) — their legacy
 - [Campaign Plot](../adventures/campaign-plot.md) — the continuing story

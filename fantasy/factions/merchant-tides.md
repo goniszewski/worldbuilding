@@ -61,7 +61,6 @@ Their greatest strength is not wealth alone, but plausibility. Everyone believes
 
 | Power | Relationship | Notes |
 |-------|--------------|-------|
-| [The Silver Compact](silver-compact.md) | Cautious cooperation | Trade requires peace, but the Compact is bad for free movement |
 | [Timrel](timrel.md) | Competitive overlap | Naval influence and sea control create recurring friction |
 | [Graz](graz.md) | Strong commercial ties | Shared interest in commerce and distribution |
 | [Verath](../places/verath.md) | Foundational | One of the coalition's most useful anchor ports |

@@ -286,4 +286,3 @@ Some scholars propose the Cleansed were **not survivors** but **escaped slaves**
 - [ ] Develop Cleansed cultural remnants
 - [ ] Add counter-evidence for skeptics
 - [ ] Write Cleansed creation myths (both versions)
-- [ ] Connect to the Silver Compact's agenda

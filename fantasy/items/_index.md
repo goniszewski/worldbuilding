@@ -25,5 +25,4 @@ summary: "Index of all items in the fantasy setting"
 ## Related Topics
 
 - [Spirit Binding](../lore/magic-system.md) — Primary magical framework affecting crafted items
-- [The Silver Compact](../factions/silver-compact.md) — Regulates dangerous relics and magical materials
 - [Contributing Guide](../CONTRIBUTING.md) — Process for adding new entries
