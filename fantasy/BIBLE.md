@@ -16,7 +16,7 @@ According to legend, the world was once inhabited by the **[The Cleansed](lore/t
 |----------|--------|
 | **[Torr](characters/torr.md)** | [Naterians](races/naterians.md) — warrior culture, honor-bound |
 | **[Daraster](characters/daraster.md)** | [Humans](races/humans.md) — diverse, ambitious |
-| **[Lesandra](characters/lesandra.md)** | [Elves](races/elves.md) — pure blood, magical affinity |
+| **[Daraster](characters/daraster.md) + [Lesandra](characters/lesandra.md)** | [Elves](races/elves.md) — pure blood, magical affinity |
 | **Forbidden unions** | [Dwarves](races/dwarves.md) — driven underground |
 
 See: [Origins of the Races](lore/origins-of-races.md), [Age of Light](lore/age-of-light.md), [Archipelago of Light](places/archipelago-of-light.md)
