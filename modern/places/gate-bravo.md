@@ -39,7 +39,9 @@ It is the hard-luck assignment in JPC: everything about the site is hostile. The
 
 ## The Second Crossing
 
-On **29 September 2033**, Gate Command Bravo executed the second crossing: a smaller force than Alpha's, through a narrower door, into a perimeter that has never been fully comfortable. The Salt Gate's far side opens onto the **Bone Yards' edge** — territory of the Pale Thresher — and the perimeter has been probed, scouted, and once besieged, briefly, by hosts that came and went without explanation.
+On **29 September 2033**, Gate Command Bravo executed the second crossing: a smaller force than Alpha's, through a narrower door, into a perimeter that has never been fully comfortable. The Salt Gate's far side opens onto the **Bone Yards' edge** — territory of the Pale Thresher.
+
+The Salt Gate stayed open by the same accident as the Deep Gate: its horde was broken by the desert on the March and never returned through the mouth, and the far side was taken before the lords could seal it. The perimeter has been probed and scouted since; the brief siege of Camp Brimstone, in the year that followed the crossing, was understood later as the Thresher's attempt to retake the far mouth and shut the gate for good. The perimeter held. The attempt has not been repeated.
 
 The Salt Gate's value is positional: it is the only gate whose far side is not claimed by a major lord's heartland, which makes it the only place humanity can move without immediately fighting a lord's army. The garrison's standing order is to keep it that way.
 

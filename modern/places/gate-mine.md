@@ -14,18 +14,18 @@ related:
   - ../factions/joint-portal-command
   - the-ural-scar
   - gate-ice
-summary: "The portal a Siberian mine broke into — sealed under a collapsed shaft, still humming, and counting."
+summary: "The portal a Siberian mine broke into — sealed under a collapsed shaft, still humming, and refusing to die."
 ---
 
 # Gate Golf — the Mine Gate
 
-> They buried the door. The door is keeping time.
+> They buried the door. The door did not stop.
 
 ## Overview
 
 **Gate Golf** — JPC designation **G-07**, known as **the Mine Gate** — is a portal the human race broke into by accident. The site is a permafrost mine in eastern Siberia, worked for a century for minerals that no longer matter. On Day One, a deep heading broke through into a **buried shaft** — a vertical passage lined with not-stone, descending past the depth of any survey. The hordes came up through the workings. The mine became a battlefield, then a graveyard, then a sealed shaft.
 
-The Scouring's attempt to destroy it was the most thorough of any gate: the shaft was collapsed with the anchor inside it, buried under a mountain of rubble, steel, and frozen ground. The demolition teams reported success. The sensors on the surface report otherwise: **the gate still hums**, through a hundred metres of collapsed ground, on schedule.
+The Scouring's attempt to destroy it was the most thorough of any gate: the shaft was collapsed with the anchor inside it, buried under a mountain of rubble, steel, and frozen ground. The demolition teams reported success. The sensors on the surface report otherwise: **the gate still hums**, through a hundred metres of collapsed ground, and it has not stopped.
 
 ## Why It Is Contained
 
@@ -45,7 +45,7 @@ It is the gate Denial Command worries about most, for the simplest reason: it is
 - The mine as **the grave that was also a door**.
 
 ### Story Hooks
-- The hum has a **rhythm** — a count. A bored signals analyst runs the numbers through every key the garrison has: it is a countdown. No one can agree on what it is counting to, or when it started.
+- The hum is **unchanged** — the same pitch, the same note, the same volume, through every storm and every reinforcement since 2031. The garrison's engineers stopped reporting it as a fault long ago, because a fault eventually stops. The hum is not a fault. It is a fact.
 - A seismograph records a **second source** of vibration under the collapse zone — moving, and moving closer to the surface.
 - The mine's original shaft survey is found in a regional archive, misfiled: it shows the shaft going **deeper than any mine in the world has a right to go** — and the last three hundred metres are not stone.
 

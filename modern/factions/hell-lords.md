@@ -48,6 +48,10 @@ The dead world has no industry to speak of — only **reclamation**. The lords' 
 - **Slaves.** The Bound are the economy. Worked to death in the ash fields, spent in the wars, traded like currency. A lord's power is measured in hosts, and a host is measured in how much Bound labor it can burn.
 - **The gates.** A gate is a mine, a farm, and an exit. The lords who do not hold a gate are the lords who will die first when the world finally gives out.
 
+## The Lost Knowledge
+
+The lords are the empire's heirs, and like most heirs they have the property and not the plan. The empire's machines still run across the dead world — reclamation rigs, war-frames, the anchors themselves — but the knowledge that built them died with the empire, and the lords keep the inheritance alive by rote: rituals, routines, and half-understood manuals preserved like scripture. The gates are the sharpest example. Waking an anchor is a procedure the lords perform with confidence and do not understand; sealing one is slower, exacting work, and the few who still tend the classical texts guard the procedure jealously. The Reopening was an experiment — the first successful act of reconstruction since the fall — and it succeeded beyond the lords' hopes. That they misjudged what waited on the far side of the door is the war's only comfort.
+
 ## Politics
 
 There is no diplomacy among the lords — only **tribute, truce, and betrayal**. Alliances form for a campaign and dissolve at its first success. Every lord's real goal is to leave the dead world, and every lord knows the others know it; the only question is who leaves with a host intact and who leaves as cargo.

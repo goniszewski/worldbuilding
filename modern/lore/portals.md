@@ -29,6 +29,10 @@ When an anchor wakes, the space inside its frame stops behaving like space. What
 
 Every gate confirmed to date — all 47 — opens onto the **same far side**: the dead world. No second destination has ever been found, and the empire-era inscriptions Babel has read describe a network that once reached other worlds; if anchors to those worlds exist on Earth, none has been found. Whether that is luck, design, or the difference between what the empire built and what it left is an open question.
 
+## The Devils' Own Ignorance
+
+The empire built the gates, but the empire is dead — and it took the knowledge with it. The Ash-Born who woke the anchors in 2031 are the empire's fallen heirs: they can **wake** a gate, and with effort and ceremony they can **seal** one, but the principles behind either are as lost to them as they are to Babel. The Reopening was an experiment — their first successful act of reconstruction since the fall — and it ran better than they hoped. They chose Earth believing it the easiest distant world the old network still reached. They were not prepared for what had changed on the far side of the door: a species that had spent the Silence getting very good at killing things that march.
+
 ## Where They Open
 
 The pattern is consistent and unexplained:
@@ -92,10 +96,11 @@ For the nine that remain, JPC doctrine is simple and absolute:
 - **Denial** — firepower arrayed at the mouth, on both sides of the doorway where possible. Anything that emerges is destroyed inside the kill zone; anything that tries to enter is destroyed in the same way.
 - **Surveillance** — every gate is watched continuously, by every means available. Gates do not signal. They do not announce. The only warning is the change in the air pressure and the sound of the script beginning to **hum**.
 - **No experiments** — no civilian research within the containment perimeter; no unilateral national programs. The gates are a shared asset and a shared risk.
+- **The far side is the lock** — a gate can be sealed from either side, and whoever holds the ground behind the doorway decides whether the door stays open. The Scouring's kills were won on the near side; the two doors that remain open are held from the far side.
 
 ## The Two-Way Doctrine
 
-Two gates are held open deliberately: [Gate Alpha](../places/gate-alpha.md) and [Gate Bravo](../places/gate-bravo.md). The rationale, argued through three months of closed sessions:
+Two gates are held open deliberately: [Gate Alpha](../places/gate-alpha.md) and [Gate Bravo](../places/gate-bravo.md). Both became two-way doors by accident of war before they became doctrine: each gate's emergence horde was destroyed in the March before it could return through the mouth, and each far mouth was seized and fortified before the lords could shut it from the far side. A gate can be closed by whoever holds the country behind it — the doors that remain open are open because their far sides are held. The rationale, argued through three months of closed sessions:
 
 1. The far side is a **world**, not a pit — and worlds have flanks.
 2. The war cannot be won by defending a doorstep forever; at some point the line has to move.

@@ -35,6 +35,8 @@ The creatures came in columns. They did not run — they marched, with a patienc
 
 The spring and summer of 2031 is remembered as **the March**: sieges that became massacres, evacuations that became routs, and then, slowly, the first coordinated stands. The creatures could be killed. That was the discovery that ended the first phase of the war — they bled, they burned, and they died in the same numbers as any army. What they did not do was stop.
 
+Only later did humanity learn how much of the March had been an experiment. The empire that built the gates had been dead for millennia; the lords who woke them had lost the knowledge of how their inheritance worked, and reopening the network was their first successful act of reconstruction. They had chosen Earth believing it the easiest distant world within reach. They were not prepared for such evolved humans — the backwater had spent the Silence getting very good at killing things that march.
+
 By September, the hordes had been halted on every front. The cost was high enough that no government on Earth said the word "victory" out loud.
 
 ## The Scouring
@@ -56,6 +58,8 @@ On **14 February 2032**, the nations of Earth chartered **Joint Portal Command**
 JPC's mandate said *stop everything coming from them*. It did not say anything about going through. The special commands sent through the gates in late 2032 came back with photographs, samples, and casualties — and with the knowledge that the far side was a **place**, a world, not a pit.
 
 In **June 2033**, soldiers moved through [Gate Alpha](../places/gate-alpha.md) in force and secured the first perimeter on the far side. In **September 2033**, [Gate Bravo](../places/gate-bravo.md) followed. The perimeters are held today — the first human settlements on another world, built on the ash of a dead one.
+
+The two doors stayed open by accident before they became doctrine: their hordes were destroyed in the March before they could return through the mouths, and the far mouths were seized before the lords could shut them from the far side. JPC would later codify the lesson — a gate can be locked from either side, and the only reliable lock is a defended far mouth.
 
 ## Why "Reopening"
 

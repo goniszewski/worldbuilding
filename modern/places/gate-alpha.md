@@ -45,6 +45,8 @@ The gate is held in three layers:
 
 On **18 June 2033**, Gate Command Alpha executed the first deliberate armed crossing of the Reopening: an insertion company of mixed national forces, led by then-Captain Nowak, moved through the gate in the dark, secured the far mouth, and held it while the engineers built the perimeter. The crossing cost eleven dead and is taught at every JPC staff college as the textbook case of a **decision with no way back**.
 
+The Deep Gate is a two-way door by accident before it was one by doctrine. Its horde was destroyed in the land campaign before it could return through the mouth, and the far anchor sat unclaimed through 2031 and 2032 — in country no lord called home — while the lords, slow and uncertain with an inheritance they barely understand, prepared to seal it. The special commands of late 2032 found the preparations underway; the crossing of June 2033 won the race. JPC knows now that a gate can be locked from either side. The Deep Gate is open because its far side was taken first — and Camp Ashfall has never let go.
+
 Since then, the Deep Gate has moved people, supplies, and equipment in both directions continuously. It is the busiest logistics node in the war — and the most watched, by everyone, including things that do not report to JPC.
 
 ## For Story Use

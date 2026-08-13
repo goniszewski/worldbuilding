@@ -13,7 +13,7 @@ related:
   - ../factions/joint-portal-command
   - gate-high
   - ../factions/hell-lords
-summary: "The portal fused into a Congo plateau cave system — whose horde did not march, but dispersed, and whose gate answers when spoken to."
+summary: "The portal fused into a Congo plateau cave system — whose horde did not march, but dispersed into the forest, leaving its garrison to hold a jungle full of voices."
 ---
 
 # Gate Hotel — the Jungle Gate
@@ -31,13 +31,13 @@ The anchor is **unbreakable**. The 2032 demolition attempt collapsed a cave cham
 ## Holding It
 
 - **The Plateau Garrison** — a multinational force under JPC colors with a local contingent that knows the forest; checkpoints, drone patrols, and the standing rule that no patrol goes into the caves alone.
-- **The Voices** — the cave system carries sound for kilometres. Patrols report Devil Tongue spoken **in reply** to the garrison's own broadcasts — the gate answers when spoken to, in the language Babel is still learning.
+- **The Voices** — the cave system carries sound for kilometres, and patrols report Devil Tongue drifting out of the dark: the dispersed remnant's voices, never the gate's. The gate itself is silent. The garrison's standing order is to answer nothing.
 
 ## For Story Use
 
 ### Themes to Explore
 - **An invasion that dissolved** — the war the enemy chose not to fight, and the garrison left holding the jungle.
-- **A gate that talks** — the only portal known to respond to language.
+- **Voices in the dark** — an enemy that speaks while the door stays silent.
 
 ### Story Hooks
 - A patrol records the cave voices counting in **Human** — mispronounced, but counting: the dispersed horde has been learning, not hiding.

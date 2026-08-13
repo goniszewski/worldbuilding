@@ -43,7 +43,7 @@ It is also the **quietest** gate: nothing has emerged since the first week, and 
 - The **subglacial horror** — a warm pocket of water under a kilometre of ice, with a door at the bottom of it.
 
 ### Story Hooks
-- The borehole array records the script **singing** — a sustained tone where the usual hum used to be. The change happened the same week the Babel Initiative published its first verified translations. The Ice Gate is the only one that appears to listen.
+- The borehole array records the script humming in a **lower** pitch than any recording on file. The change happened in a single night — no emergence, no seismic event, no explanation — and it has not changed back.
 - A meltwater sample from the subglacial lake contains **spores** — not alien, not dead: a pollen from no plant on Earth's current record.
 - The margin garrison's new lieutenant asks what the evacuation reports actually say about the emergence. The archive contains no reports. It contains a **single photograph**, and the officer who catalogued it retired the next day.
 

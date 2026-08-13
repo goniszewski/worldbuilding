@@ -15,7 +15,7 @@ summary: "Core reference bible for the Modern Earth setting — the Reopening, t
 On **17 March 2031** — Day One — portals began opening across the planet. Some stood inside ancient ruins; others yawned open underground, beneath the sea, or in places no one had reached in human memory. From them came hordes of creatures that history had only ever described as devils. Within a week, forty-seven gates were confirmed active. Within a year, humanity had fought, bombed, and finally **nuked** its way to a standstill. The event is called **the Reopening** — because the world has been through this before.
 
 ### The Truth About Hell
-The realm behind the gates is not a dimension of punishment. It is a **distant planet, devastated by weapons of mass destruction** in a war that ended an empire. The devils are its survivors — broken lords fighting over the ruins of their world, raiding other worlds for resources and slaves. Everything humanity ever feared about Hell — fire, ash, hunger, chains, angelic wrath — was inherited from real events, told and retold across tens of thousands of years of cycles, until only myth remained.
+The realm behind the gates is not a dimension of punishment. It is a **distant planet, devastated by weapons of mass destruction** in a war that ended an empire. The devils are its survivors — broken lords fighting over the ruins of their world, raiding other worlds for resources and slaves. The empire's knowledge died with it: the lords can wake a gate and, with effort, seal one, but they no more understand their inheritance than we do. The Reopening was their experiment — they chose Earth expecting the easiest world the old network reached, and met a species that had evolved past their records. Everything humanity ever feared about Hell — fire, ash, hunger, chains, angelic wrath — was inherited from real events, told and retold across tens of thousands of years of cycles, until only myth remained.
 
 ### The Observers
 Humanity is not the first civilization to face the devils. An older one — the species we call the **Angels** — burned the devils' empire nearly to nothing. They do not conquer; they **observe**, and they keep young civilizations beneath a ceiling they call the Threshold. Today, with humanity crossing gates, holding ground on a foreign world, and deciphering a language older than its own, the Observers' silence has begun to look less like mercy and more like patience.
@@ -54,7 +54,7 @@ Humanity is not the first civilization to face the devils. An older one — the 
 | [The Ice Gate](places/gate-ice.md) | Contained portal | Greenland; 800 m under the ice, never seen |
 | [The White Gate](places/gate-white.md) | Contained portal | Antarctica; sealed cave, tracks in the snow |
 | [The Mine Gate](places/gate-mine.md) | Contained portal | Siberia; buried, still humming |
-| [The Jungle Gate](places/gate-jungle.md) | Contained portal | Congo; fused into the plateau, answers when spoken to |
+| [The Jungle Gate](places/gate-jungle.md) | Contained portal | Congo; fused into the plateau, its horde dispersed into the forest |
 | [The High Gate](places/gate-high.md) | Contained portal | Peru; a window in a cliff at 4,700 m |
 | [The Ural Scar](places/the-ural-scar.md) | Destroyed gate | Russia; nuclear crater |
 | [The Saharan Glass](places/the-saharan-glass.md) | Destroyed gate | North Africa; a mirror of black glass |
@@ -69,6 +69,7 @@ The creatures behind the gates are not one species but the **remnant of a civili
 - **No gate unguarded.** Every active gate sits under joint command with enough firepower to deny anything that emerges — and anything that tries to enter.
 - **Denial first, knowledge second.** Gates are destroyed when they can be; only the nine whose anchors cannot be reached remain active.
 - **The Crossing is doctrine now.** Two gates are held as two-way doors. The perimeters on the far side are humanity's first colonies on another world — and its first exposure to the Observers.
+- **The far side is the lock.** A gate can be sealed from either side. The two doors that stay open do so because their hordes were destroyed before they could return, and their far mouths were seized first.
 
 ## For Story Use
 

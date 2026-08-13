@@ -30,11 +30,11 @@ Every civilization that endured a cycle described the same place: fire, ash, dar
 
 Hell is a **planet**. A distant world, shattered by **weapons of mass destruction** in a war so comprehensive that its surface is a patchwork of glassed plains, cinder fields, and dead seas. Its atmosphere is thin, cold, and bitter with ash. Its oceans are frozen salt and brine. It has no ecology left to speak of — only ruins, and the things that live in them.
 
-The civilization that built Hell is gone. What remains are its survivors: the lords who carved up the corpse of their world and now fight each other for what is left — fuel, water, metal, weapons, and, above all, **labor**. They do not farm. They do not build. They **scavenge**, and they **raid**.
+The civilization that built Hell is gone — and it took its knowledge with it. What remains are its survivors: the lords who carved up the corpse of their world and now fight each other for what is left — fuel, water, metal, weapons, and, above all, **labor**. They do not farm. They do not build. They **scavenge**, and they **raid** — and they operate the empire's machines the way an heir operates an inheritance: by habit, not by understanding. The gates are the clearest example. Waking an anchor is within the lords' power; explaining one is not. The Reopening was an experiment — their first successful act of reconstruction after the fall — and it worked beyond their hopes.
 
 ## Why They Came
 
-The raids on Earth were not conquest. They were logistics.
+The raids on Earth were not conquest. They were logistics — and, at first, an experiment. To the lords, Earth was the **easiest distant world** the old network still reached: a backwater, in the empire's own records, whose previous cycles had been met with older weapons and older fear. They were not prepared for what had changed on the far side of the door — a species that had spent the Silence getting very good at killing things that march.
 
 - **Resources.** The dead world has almost nothing left. Earth has everything: water, biomass, metal, a working biosphere. To the lords, a gate to Earth is a mine with weather.
 - **Slaves.** The lords' wars are fought and run on slave labor. The Bound — creatures from worlds the empire conquered before its fall — are worked to death in the ash fields. Fresh stock walks in through the gates.
