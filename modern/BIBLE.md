@@ -49,6 +49,13 @@ Humanity is not the first civilization to face the devils. An older one — the 
 |-------|------|-------|
 | [Gate Alpha — the Deep Gate](places/gate-alpha.md) | Portal (underwater) | Norwegian Trench; first far-side beachhead |
 | [Gate Bravo — the Salt Gate](places/gate-bravo.md) | Portal (remote) | Danakil Depression; second beachhead |
+| [The Zagros Gate](places/gate-zagros.md) | Contained portal | Iran; unbreakable — the gate politics saved |
+| [The Dune Gate](places/gate-dune.md) | Contained portal | Rub' al Khali; buried under moving sand |
+| [The Ice Gate](places/gate-ice.md) | Contained portal | Greenland; 800 m under the ice, never seen |
+| [The White Gate](places/gate-white.md) | Contained portal | Antarctica; sealed cave, tracks in the snow |
+| [The Mine Gate](places/gate-mine.md) | Contained portal | Siberia; buried, still humming |
+| [The Jungle Gate](places/gate-jungle.md) | Contained portal | Congo; fused into the plateau, answers when spoken to |
+| [The High Gate](places/gate-high.md) | Contained portal | Peru; a window in a cliff at 4,700 m |
 | [The Ural Scar](places/the-ural-scar.md) | Destroyed gate | Russia; nuclear crater |
 | [The Saharan Glass](places/the-saharan-glass.md) | Destroyed gate | North Africa; a mirror of black glass |
 | [The Far Side](places/the-far-side.md) | The dead world | Ash, cold, ruins, and the two human perimeters |
@@ -88,6 +95,6 @@ The creatures behind the gates are not one species but the **remnant of a civili
 ## TODO
 
 - [ ] Add named nations' responses to the Reopening (who refused JPC, who kept their own gate)
-- [ ] Detail the seven containment gates
+- [x] Detail the seven containment gates — done: G-03 through G-09 are named and mapped
 - [ ] Add the Observers' "visitations" as encounter scenes
 - [ ] Write the first full Devil Tongue primer

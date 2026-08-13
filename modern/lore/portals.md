@@ -23,9 +23,11 @@ summary: "What the gates are, where they open, how they are destroyed or held �
 
 ## What a Gate Is
 
-A gate is a **structure**, not an event. Every portal consists of an **anchor** — a frame of stone that is not stone, arranged as an arch, a ring, a well, or a lintel — inscribed with bands of script in the [Devil Tongue](devil-tongue.md). The anchors predate human civilization. Some are older than the species that built the empire behind them; the Babel Initiative's best translation of the oldest inscriptions is a set of **instructions**, as if the anchors were not built but **set up**, like tripwires.
+A gate is a **structure**, not an event. Every portal consists of an **anchor** — a frame of stone that is not stone, arranged as an arch, a ring, a well, or a lintel — inscribed with bands of script in the [Devil Tongue](devil-tongue.md). The anchors were laid down by the **devil empire at the height of its reach**, when it moved between worlds the way we move between ports. They predate human civilization by a wide margin — and the oldest stand inside ruins older than the empire itself, as if the empire set its doors in the bones of older worlds. The Babel Initiative's best translation of the oldest inscriptions is a set of **instructions**, as if the anchors were not built but **set up** — like tripwires — at the doorstep of a world it meant to take.
 
 When an anchor wakes, the space inside its frame stops behaving like space. What emerges is not a tunnel but a **doorway onto a place** — the far side is a real location on the dead world, and the gate is a fixed two-way passage between two fixed points. Gates do not drift. Gates do not close on their own. The Reopening has produced exactly one confirmed case of a gate going dormant, and it was an anchor that had been **deliberately shut** — the far side had been sealed against it.
+
+Every gate confirmed to date — all 47 — opens onto the **same far side**: the dead world. No second destination has ever been found, and the empire-era inscriptions Babel has read describe a network that once reached other worlds; if anchors to those worlds exist on Earth, none has been found. Whether that is luck, design, or the difference between what the empire built and what it left is an open question.
 
 ## Where They Open
 
@@ -38,6 +40,18 @@ The pattern is consistent and unexplained:
 
 Analysts note that the pattern is not random: the anchors were placed where **people were not**. Whatever set them up did not want them found.
 
+## Sizes
+
+Anchors come in many sizes, and JPC classifies the active ones by what can fit through the mouth:
+
+| Class | Mouth | What fits |
+|-------|-------|-----------|
+| **Door-class** | up to ~2 m | a man, crouched |
+| **Hall-class** | ~4–7 m | a slightly compacted Black Hawk — rotors removed, blades folded — which is JPC's standard measure of a gate worth fighting for |
+| **Gate-class** | 10 m and up | the monsters; rare, and — per the classical texts, which Babel treats cautiously — deeper anchors tend to be larger |
+
+Most anchors found are door-class. The two held-open gates are hall-class or larger — [Gate Bravo](../places/gate-bravo.md) is the narrower of the two — and [Gate Alpha](../places/gate-alpha.md) is the largest confirmed, larger than any gate on land.
+
 ## The 47
 
 The Reopening produced **47 confirmed active gates** worldwide. Of those:
@@ -46,8 +60,24 @@ The Reopening produced **47 confirmed active gates** worldwide. Of those:
 |---------|-------|-------|
 | Destroyed in the Scouring | 36 | Anchors broken by demolition, naval fire, or airstrikes |
 | Destroyed by nuclear weapons | 2 | [The Ural Scar](../places/the-ural-scar.md), [The Saharan Glass](../places/the-saharan-glass.md) |
-| Contained (no-go, garrisoned) | 7 | Anchors unreachable or unbreakable by conventional means |
+| Contained (no-go, garrisoned) | 7 | [The Containment Seven](#the-containment-seven) |
 | Held open (two-way) | 2 | [Gate Alpha](../places/gate-alpha.md), [Gate Bravo](../places/gate-bravo.md) |
+
+### The Containment Seven
+
+Seven anchors survived the Scouring because they could not be reached or could not be broken. All are garrisoned, watched, and quarantined under Denial Command — no crossings, no experiments, no exceptions:
+
+| Desig. | Gate | Location | Why contained |
+|--------|------|----------|---------------|
+| G-03 | [The Zagros Gate](../places/gate-zagros.md) | Zagros Mountains, Iran | Unbreakable — frame fused into the ridge; politics forbid the yield |
+| G-04 | [The Dune Gate](../places/gate-dune.md) | Rub' al Khali, Saudi Arabia | Unreachable — buried under migrating sand |
+| G-05 | [The Ice Gate](../places/gate-ice.md) | Greenland ice sheet | Unreachable — 800 m under the ice; no borehole survives |
+| G-06 | [The White Gate](../places/gate-white.md) | Transantarctic Mountains | Unreachable — cave sealed; JPC chose not to go back |
+| G-07 | [The Mine Gate](../places/gate-mine.md) | Eastern Siberia | Unreachable — shaft collapsed over it; it did not die |
+| G-08 | [The Jungle Gate](../places/gate-jungle.md) | Congo Basin | Unbreakable — frame fused into the plateau rock |
+| G-09 | [The High Gate](../places/gate-high.md) | Peruvian Andes | Unreachable — a window in a cliff at 4,700 m |
+
+The seven are not quiet. They are **held**, which is different — and Denial Command's entire doctrine rests on the difference.
 
 ## Destroying a Gate
 
@@ -77,7 +107,7 @@ The doctrine is controversial. The seven containment gates are garrisoned by com
 
 ### Themes to Explore
 - The **door as a strategic asset** — portals turn geography into a liability and logistics into a weapon.
-- The horror of a structure with **instructions** — something set these up, and it is still around.
+- The horror of a structure with **instructions** — the empire set these up like tripwires, and the tripwires are still loaded.
 - The politics of **shared weapons** — nine doors, two hundred nations, one command.
 
 ### Story Hooks

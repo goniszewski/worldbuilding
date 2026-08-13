@@ -35,9 +35,25 @@ Its authority is narrow and absolute. Member nations contribute forces, funding,
 | **Supreme Command** | Overall authority; [Gen. Adaora Mensah](../characters/adaora-mensah.md) |
 | **Gate Command Alpha** | The Deep Gate — two-way door, far-side perimeter |
 | **Gate Command Bravo** | The Salt Gate — two-way door, far-side perimeter |
-| **Denial Command** | The seven containment gates — garrison, firepower, surveillance |
+| **Denial Command** | The seven containment gates — garrison, firepower, surveillance ([the roster](#the-nine)) |
 | **The Babel Initiative** | Linguistic and archaeological research on the [Devil Tongue](../lore/devil-tongue.md) |
 | **Far-Side Logistics** | Everything that crosses a gate in both directions |
+
+## The Nine
+
+The command's whole structure hangs on nine doors. Gate Commands Alpha and Bravo hold the two that are open; Denial Command holds the other seven shut:
+
+| Desig. | Gate | Status |
+|--------|------|--------|
+| G-01 | [Gate Alpha — the Deep Gate](../places/gate-alpha.md) | Held open; first crossing |
+| G-02 | [Gate Bravo — the Salt Gate](../places/gate-bravo.md) | Held open; second crossing |
+| G-03 | [The Zagros Gate](../places/gate-zagros.md) | Contained — unbreakable |
+| G-04 | [The Dune Gate](../places/gate-dune.md) | Contained — unreachable |
+| G-05 | [The Ice Gate](../places/gate-ice.md) | Contained — unreachable |
+| G-06 | [The White Gate](../places/gate-white.md) | Contained — unreachable |
+| G-07 | [The Mine Gate](../places/gate-mine.md) | Contained — unreachable |
+| G-08 | [The Jungle Gate](../places/gate-jungle.md) | Contained — unbreakable |
+| G-09 | [The High Gate](../places/gate-high.md) | Contained — unreachable |
 
 ## Doctrine
 
