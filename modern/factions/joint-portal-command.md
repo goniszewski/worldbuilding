@@ -37,6 +37,7 @@ Its authority is narrow and absolute. Member nations contribute forces, funding,
 | **Gate Command Bravo** | The Salt Gate — two-way door, far-side perimeter |
 | **Denial Command** | The seven containment gates — garrison, firepower, surveillance ([the roster](#the-nine)) |
 | **The Babel Initiative** | Linguistic and archaeological research on the [Devil Tongue](../lore/devil-tongue.md) |
+| **Project Lattice** | Network reconstruction with Babel — finding and securing the dormant anchors the pattern predicts ([the Lattice](../lore/the-lattice.md)) |
 | **Far-Side Logistics** | Everything that crosses a gate in both directions |
 
 ## The Nine

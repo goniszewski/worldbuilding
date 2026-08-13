@@ -42,7 +42,7 @@ The pattern is consistent and unexplained:
 - **Underwater** — deep trenches and shelves, out of reach of anything but submersibles.
 - **Remote places** — deserts, permafrost, deep forest; places with no settlement, no road, no reason for anyone to be there.
 
-Analysts note that the pattern is not random: the anchors were placed where **people were not**. Whatever set them up did not want them found.
+Analysts note that the pattern is not random: the anchors were placed where **people were not**. Whatever set them up did not want them found. In 2034, that suspicion became the [Lattice](the-lattice.md): corrected for a million years of continental drift, the anchors' positions resolve into a deliberate pattern — and the pattern has been finding the anchors the Reopening never woke.
 
 ## Sizes
 
@@ -58,7 +58,7 @@ Most anchors found are door-class. The two held-open gates are hall-class or lar
 
 ## The 47
 
-The Reopening produced **47 confirmed active gates** worldwide. Of those:
+The Reopening produced **47 confirmed active gates** worldwide. Forty-seven is the number that woke; it is not the number that exists — the [Lattice](the-lattice.md) reconstruction of 2034 found the network is nearly twice as large. Of those:
 
 | Outcome | Count | Notes |
 |---------|-------|-------|
@@ -118,7 +118,7 @@ The doctrine is controversial. The seven containment gates are garrisoned by com
 ### Story Hooks
 - A containment gate's surveillance team hears the script humming for the first time in a year. It is humming in a **different** pitch.
 - An anchor that was destroyed in the Scouring has been photographed by a commercial satellite — **rebuilt**, in a different location, in the same script.
-- A JPC analyst files a report on the 47 gates' placement pattern. The pattern, projected onto a globe, resolves into a **line** — and the line points somewhere specific.
+- A dormant anchor wakes. Nothing comes through. JPC cannot decide whether that is a warning or an invitation.
 
 ## Related
 
