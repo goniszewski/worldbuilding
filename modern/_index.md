@@ -24,7 +24,7 @@ summary: "Quick navigation index for the Modern Earth setting — the Reopening,
 | [Hell](lore/hell.md) | The truth: a dead world, destroyed by weapons of mass destruction |
 | [Portals](lore/portals.md) | What the gates are, where they open, how they are held |
 | [The Devil Tongue](lore/devil-tongue.md) | The ancient language — and its decipherment with AI |
-| [The Lattice](lore/the-lattice.md) | The placement pattern — 85 anchors; 47 woke, 31 found dormant |
+| [The Lattice](lore/the-lattice.md) | The placement pattern — 85 anchors; 47 woke, most of the rest destroyed, 6 dormant |
 
 ### Factions
 

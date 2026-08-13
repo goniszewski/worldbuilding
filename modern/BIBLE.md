@@ -33,7 +33,7 @@ Humanity is not the first civilization to face the devils. An older one — the 
 | 14 February 2032 | **The Containment** — nine gates remain. **Joint Portal Command** is chartered. |
 | June 2033 | **The Crossing** — soldiers pushed through **Gate Alpha** (the Deep Gate) and secured the first perimeter on the far side. |
 | September 2033 | **Gate Bravo** (the Salt Gate) — second crossing; a second perimeter. |
-| 2034 | **The Lattice** — Project Lattice reconstructs the anchors' placement pattern; 31 dormant anchors (D-sites) confirmed on Earth. |
+| 2034 | **The Lattice** — Project Lattice reconstructs the anchors' placement pattern; 85 anchors total, 38 never woke — most destroyed, 6 dormant (D-sites) confirmed on Earth. |
 | 2034 | **Now** — stalemate. The Babel Initiative translates the Devil Tongue. A hell-lord speaks to humanity for the first time. The Observers' silence grows harder to ignore. |
 
 ## Key Factions
@@ -71,7 +71,7 @@ The creatures behind the gates are not one species but the **remnant of a civili
 - **Denial first, knowledge second.** Gates are destroyed when they can be; only the nine whose anchors cannot be reached remain active.
 - **The Crossing is doctrine now.** Two gates are held as two-way doors. The perimeters on the far side are humanity's first colonies on another world — and its first exposure to the Observers.
 - **The far side is the lock.** A gate can be sealed from either side. The two doors that stay open do so because their hordes were destroyed before they could return, and their far mouths were seized first.
-- **The network is bigger than the Reopening.** The [Lattice](lore/the-lattice.md) reconstruction of 2034 predicts 85 anchors; 47 woke, 31 more were found dormant. Every dormant anchor is a door the lords could wake from the far side.
+- **The network is bigger than the Reopening.** The [Lattice](lore/the-lattice.md) reconstruction of 2034 predicts 85 anchors; 47 woke, 38 never did — most of them destroyed over deep time, 6 dormant, 9 unmade without a trace. Every dormant anchor is a door the lords could wake from the far side.
 
 ## For Story Use
 
