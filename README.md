@@ -43,6 +43,25 @@ Original campaign settings for tabletop RPGs — high fantasy and far-future sci
 
 📚 [Full Sci-Fi Index](scifi/_index.md)
 
+### 🌍 Modern Earth
+
+> *Present-day Earth, 2034. Ancient portals wake across the world and the armies of a dead planet march through them. Humanity holds the gates, pushes two beachheads onto the enemy's world — and learns that Hell was never a place of the soul.*
+
+**Setting**: Today's Earth, three years into the Reopening — the latest cycle of an apocalypse that has been recurring for tens of thousands of years.
+
+**Core Conflict**: Nine active gates under joint military command; two held open as doors into the dead world. The fractured remnants of a destroyed empire on one side — and the silent civilization that destroyed them, watching humanity rise, on the other.
+
+**Player Tone**: Military thriller meets cosmic horror — logistics, politics, and the slow dread of a universe with rules.
+
+| Category | Examples |
+|----------|---------|
+| Lore | The Reopening, The Cycles, Hell, Portals, The Devil Tongue |
+| Factions | Joint Portal Command, The Hell-Lords, The Observers |
+| Places | Gate Alpha (the Deep Gate), Gate Bravo (the Salt Gate), The Far Side |
+| Characters | Gen. Adaora Mensah, Dr. Emrys Lindqvist, Maj. Katarzyna Nowak |
+
+📚 [Full Modern Earth Index](modern/_index.md) · [Master Bible](modern/BIBLE.md)
+
 ## Repository Structure
 
 ```
@@ -65,6 +84,14 @@ worldbuilding/
     ├── characters/         # Protagonists and antagonists
     ├── factions/           # Corporations and movements
     └── places/             # Systems and stations
+modern/
+    ├── BIBLE.md            # Master setting reference
+    ├── _index.md           # Navigation index
+    ├── characters/         # Humans and hell-lords
+    ├── creatures/          # Devil-kind bestiary
+    ├── factions/           # JPC, hell-lords, observers
+    ├── lore/               # The Reopening, Hell, portals, the Devil Tongue
+    └── places/             # Gates, craters, the far side
 ```
 
 ## Conventions

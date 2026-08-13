@@ -1,0 +1,67 @@
+---
+name: Gate Alpha — the Deep Gate
+type: location
+category: places
+tags:
+  - portal
+  - underwater
+  - norwegian-trench
+  - crossing
+  - far-side-perimeter
+related:
+  - ../lore/portals
+  - ../factions/joint-portal-command
+  - gate-bravo
+  - the-far-side
+  - ../characters/katarzyna-nowak
+summary: "The underwater portal in the Norwegian Trench — humanity's first two-way door and its first beachhead on the dead world."
+---
+
+# Gate Alpha — the Deep Gate
+
+> A doorway on the sea floor, a fortress on the surface, and a perimeter on the far side of the world.
+
+## Overview
+
+**Gate Alpha** — JPC designation **G-01**, known as **the Deep Gate** — is the portal that stands in the Norwegian Trench, roughly 1,900 meters below the surface of the North Atlantic. It is the deepest confirmed gate on Earth, the first gate humanity crossed in force, and the anchor of the entire two-way doctrine.
+
+The gate woke on Day One, reported as a seismic anomaly by a hydrophone array, then confirmed by a passing submarine as a **column of light rising from the trench floor** — a shaft of something that the water did not bend or dim. The first horde to emerge was the one that taught the world the March was not a coastal phenomenon: it came up through the water column and walked ashore on the Norwegian coast, still dripping.
+
+## The Anchor
+
+The anchor is an **arch ring** of the familiar not-stone, standing upright on a shelf of the trench, its base buried in sediment. It is larger than any gate on land — the classical texts suggest depth correlates with anchor size — and its script bands are cut with a precision the Babel Initiative still cannot replicate. The ring is intact, unreachable by any conventional weapon, and fully active.
+
+What makes the Deep Gate unique is its mouth. A gate that opens underwater does not discriminate: the doorway leads to the far side's surface, which is to say that **entering it from the sea floor deposits you in the air of another world**. The first survey probes through Gate Alpha reported a horizon. The second reported the horizon was ash.
+
+## Holding It
+
+The gate is held in three layers:
+
+- **The Ring** — a floating fortress anchored over the trench: sensors, guns, and a submersible picket that watches the gate from every angle. Nothing emerges without being recorded, tracked, and, if it is not ours, destroyed.
+- **The Gatehouse** — the surface complex: logistics, barracks, the crews that rotate down to the anchor itself. Everything that goes through the gate is checked, catalogued, and weighed — on the way out and the way in.
+- **Camp Ashfall** — the far-side perimeter, commanded by [Maj. Katarzyna Nowak](../characters/katarzyna-nowak.md): the first permanent human settlement on another world, dug into the ash of the dead world a kilometer from the gate's far mouth.
+
+## The Crossing
+
+On **18 June 2033**, Gate Command Alpha executed the first deliberate armed crossing of the Reopening: an insertion company of mixed national forces, led by then-Captain Nowak, moved through the gate in the dark, secured the far mouth, and held it while the engineers built the perimeter. The crossing cost eleven dead and is taught at every JPC staff college as the textbook case of a **decision with no way back**.
+
+Since then, the Deep Gate has moved people, supplies, and equipment in both directions continuously. It is the busiest logistics node in the war — and the most watched, by everyone, including things that do not report to JPC.
+
+## For Story Use
+
+### Themes to Explore
+- The **logistics of the impossible** — a harbor that opens onto another world's air.
+- The sea as **the last unguarded frontier** — the deep gate proves the anchors were placed where people were not.
+- The weight of being **first** — the Deep Gate's garrison carries the doctrine's reputation.
+
+### Story Hooks
+- A submersible picket reports the gate's light **changing color** — a hue not in the visible spectrum, and not in any recording from Day One.
+- The far-side perimeter's water supply comes from a melt-shaft the engineers drilled. The water table below Camp Ashfall is not empty — and something is tapping the pipe from the other end.
+- A rotation crew returns from the far side short one soldier and refuses, uniformly, to explain where he is.
+
+## Related
+
+- [Portals](../lore/portals.md) — how the gates work
+- [Gate Bravo — the Salt Gate](gate-bravo.md) — the second two-way door
+- [The Far Side](the-far-side.md) — what lies beyond the doorway
+- [Maj. Katarzyna Nowak](../characters/katarzyna-nowak.md) — commander of Camp Ashfall
