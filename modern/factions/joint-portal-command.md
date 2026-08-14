@@ -34,8 +34,8 @@ Its authority is narrow and absolute. Member nations contribute forces, funding,
 | Component | Role |
 |-----------|------|
 | **Supreme Command** | Overall authority; [Gen. Adaora Mensah](../characters/adaora-mensah.md) |
-| **Gate Command Alpha** | The Deep Gate — two-way door, far-side perimeter |
-| **Gate Command Bravo** | The Salt Gate — two-way door, far-side perimeter |
+| **Gate Command Alpha** | The Deep Gate — two-way door, far-side perimeter; the **European pillar** (EU-led in practice, Norway the host) |
+| **Gate Command Bravo** | The Salt Gate — two-way door, far-side perimeter; the **American pillar** (US-led, Gulf states the partners) |
 | **Denial Command** | The seven containment gates — garrison, firepower, surveillance ([the roster](#the-nine)) |
 | **The Babel Initiative** | Linguistic and archaeological research on the [Devil Tongue](../lore/devil-tongue.md) |
 | **Project Lattice** | Network reconstruction with Babel — finding and securing the dormant anchors the pattern predicts ([the Lattice](../lore/the-lattice.md)) |
@@ -84,8 +84,8 @@ JPC is a coalition of armies, navies, air forces, and space commands that had ne
 
 | Entity | Relationship |
 |--------|--------------|
-| [Gate Alpha — the Deep Gate](../places/gate-alpha.md) | Held open; first crossing; the prestige assignment |
-| [Gate Bravo — the Salt Gate](../places/gate-bravo.md) | Held open; second crossing; the hard-luck assignment |
+| [Gate Alpha — the Deep Gate](../places/gate-alpha.md) | Held open; first crossing; the prestige assignment; the European pillar |
+| [Gate Bravo — the Salt Gate](../places/gate-bravo.md) | Held open; second crossing; the hard-luck assignment; the American pillar |
 | [The Hell-Lords](hell-lords.md) | The enemy — and, since 2034, an interlocutor |
 | [The Observers](the-observers.md) | Unknown; monitored; the reason the perimeters carry orbital surveillance |
 | [The Babel Initiative](../lore/devil-tongue.md) | The Command's eyes in the archives; loved, feared, overfunded |

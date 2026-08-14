@@ -39,8 +39,8 @@ summary: "Quick navigation index for the Modern Earth setting — the Reopening,
 
 | Place | Type | Notes |
 | --- | --- | --- |
-| [Gate Alpha — the Deep Gate](places/gate-alpha.md) | Underwater portal | Norwegian Trench; first crossing, first perimeter |
-| [Gate Bravo — the Salt Gate](places/gate-bravo.md) | Remote portal | Danakil Depression; second crossing |
+| [Gate Alpha — the Deep Gate](places/gate-alpha.md) | Underwater portal | Norwegian Trench; first crossing, first perimeter; the European pillar's door |
+| [Gate Bravo — the Salt Gate](places/gate-bravo.md) | Remote portal | Danakil Depression; second crossing; the American pillar's door |
 | [The Containment Seven](lore/portals.md#the-containment-seven) | Contained portals | G-03 Zagros · G-04 Dune · G-05 Ice · G-06 White · G-07 Mine · G-08 Jungle · G-09 High |
 | [The Ural Scar](places/the-ural-scar.md) | Destroyed gate | Russia — nuked to dust |
 | [The Saharan Glass](places/the-saharan-glass.md) | Destroyed gate | North Africa — a plain of black glass |

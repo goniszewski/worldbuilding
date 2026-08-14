@@ -107,7 +107,7 @@ Two gates are held open deliberately: [Gate Alpha](../places/gate-alpha.md) and 
 2. The war cannot be won by defending a doorstep forever; at some point the line has to move.
 3. The perimeters on the far side are the only place humanity can learn what the Observers are — and the only place it can learn what the empire knew.
 
-The doctrine is controversial. The seven containment gates are garrisoned by commanders who believe the two-way doors are a slow-motion catastrophe. The commanders of the perimeters believe the containment gates are a slow-motion surrender. Both are correct, which is why the argument never ends.
+The doctrine is controversial. The seven containment gates are garrisoned by commanders who believe the two-way doors are a slow-motion catastrophe. The commanders of the perimeters believe the containment gates are a slow-motion surrender. Both are correct, which is why the argument never ends. The argument has a geography too: the Deep Gate is the European pillar's door, the Salt Gate the American pillar's — and the two-way doctrine is not so much a policy as a balance of power with a flag on it.
 
 ## For Story Use
 

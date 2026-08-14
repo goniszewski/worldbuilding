@@ -14,7 +14,10 @@ related:
   - ../lore/the-reopening
   - ../places/the-ural-scar
   - ../places/gate-zagros
-summary: "How the nations of Earth answered the Reopening — the charter that gave every gate to one command, the hosts who surrendered their own doors, and the states that never joined."
+  - ../places/gate-alpha
+  - ../places/gate-bravo
+  - ../places/gate-mine
+summary: "How the nations of Earth answered the Reopening — the charter that gave every gate to one command, the hosts who surrendered their own doors, the states that never joined, and the two open gates the great powers hold."
 ---
 
 # The Nations
@@ -33,19 +36,42 @@ The charter was signed by most of the world in the first year, and by almost all
 
 ## The Gate Hosts
 
-Nine gates survived the Scouring. Six of the nine stand on the territory of a member state, and those six states carry the war's strangest burden: a foreign garrison, permanently, on their own soil, guarding a door they could not destroy and were not allowed to keep.
+Nine gates survived the Scouring. Eight of the nine stand on the territory of a member state, and those eight states carry the war's strangest burden: a foreign garrison, permanently, on their own soil, guarding a door they could not destroy and were not allowed to keep.
 
 | Nation | Gate | Posture |
 |--------|------|---------|
 | **Russia** | The Ural Scar (destroyed) | Charter member, unquiet. Nuked its own gate rather than lose it; the Scar is sovereign territory and national memory. Its generals never forgave the charter for what the March cost them — and never stopped arguing that Russia saved the world first. |
-| **Norway** | Gate Alpha (held) | Charter member, host. The horde walked ashore on its coast; it hosts the busiest node in the war and the prestige garrison. The most pro-JPC state in Europe, and the one with the least choice in the matter. |
+| **Russia** | The Mine Gate (contained) | Host of the second Russian gate — the eastern Siberian shaft, collapsed and sealed. Moscow's containment is a black box: the site is closed to all but Russian personnel, the garrison reports are summaries of summaries, and the command has learned to stop asking. |
+| **Norway** | Gate Alpha (held) | Charter member, host. The horde walked ashore on its coast; it hosts the busiest node in the war and the prestige garrison. The most pro-JPC state in Europe, and the one with the least choice in the matter. In practice the Deep Gate is Europe's door — the EU provides the bulk of the force and the funding, and Norway the soil and the flag. |
+| **Ethiopia** | Gate Bravo (held) | Charter member, host. The Salt Gate stands in its Danakil; the coalition is US-led, with the kingdom, the Emirates, and Qatar as principal partners. Addis Ababa is a host on paper and a bystander in practice — paid, consulted, and never in command. |
 | **Iran** | The Zagros Gate (contained) | Charter member, resentful. Hosts an unbreakable gate in its own mountains; "politics forbid the yield" is JPC's polite way of saying Tehran has a veto over its own destruction. The status-of-forces agreement is renegotiated annually and expires every December, on purpose. |
 | **Saudi Arabia** | The Dune Gate (contained) | Charter member, quiet. Hosts the gate under the sand, pays for logistics, and has never once commented on it publicly. The garrison's standing joke is that the kingdom's official position on the Reopening is "no comment". |
 | **DR Congo** | The Jungle Gate (contained) | Charter member, strained. The JPC garrison is the largest armed presence in the country; Kinshasa resents it, depends on it, and has twice demanded its size be cut. The gate's dispersed horde is still in the forest, which nobody in either capital likes to say out loud. |
 | **Peru** | The High Gate (contained) | Charter member, minor. A window in a cliff at 4,700 m; contributes mountaineers, radio operators, and the country's highest permanent military post. The garrison is small, the mysticism is local, and the rope work is world-class. |
 | **Denmark (Greenland)** | The Ice Gate (contained) | Charter member, outmatched. A small state hosting an unreachable gate under its own ice. The garrison answers to JPC, the territory to Copenhagen, and the ice to no one. Denmark's contribution is disproportionately large for its size, which is its quiet way of proving it is not afraid. |
 
-Three more gates survive on ground no member state can claim: the White Gate in Antarctica, watched by the coldest rotation in JPC; and the two held-open doors, whose far sides are the only ground the charter governs absolutely. The nations that host a contained gate tend to resent the charter; the nations that host nothing tend to envy the hosts, which is the argument nobody ever finishes.
+One gate survives on ground no member state can claim: the White Gate in Antarctica, watched by the coldest rotation in JPC. The two held-open doors stand on member soil — Norway's shelf and Ethiopia's Danakil — but their far sides are the only ground the charter governs absolutely. The nations that host a contained gate tend to resent the charter; the nations that host nothing tend to envy the hosts, which is the argument nobody ever finishes.
+
+## The Open Doors
+
+The world knows exactly two gates are open, and it knows who holds them — because the charter's answer to "whose door is it?" is the same in every capital: *everyone's, jointly*. In practice the two held-open gates are each spoken for, and the command's jointness is the polite fiction that makes the arrangement work:
+
+| Gate | Sphere | In practice |
+|------|--------|-------------|
+| **Gate Alpha** — [the Deep Gate](../places/gate-alpha.md) | **The European Union** | Norway hosts; the EU provides the bulk of the force, the funding, and the argument. The command rotation moves through European capitals. Analysts call it *the European pillar*. |
+| **Gate Bravo** — [the Salt Gate](../places/gate-bravo.md) | **The United States, with the Gulf states** | Ethiopia hosts; the force is US-led, with the kingdom, the Emirates, and Qatar as principal partners. Supply runs through Djibouti. Analysts call it *the American pillar*. |
+
+The fiction survives because it is useful: Europe's door keeps the European members in the charter, America's door keeps the Gulf states in the charter, and the charter keeps the peace between them. What the fiction hides is that the two open gates are the war's two biggest prizes — and that the powers holding them are the ones who decided, in 2033, that crossing was doctrine. The argument that never ends in JPC has a shadow argument running in the chancelleries: not whether the doors should be open, but who they are open *for*.
+
+### The Unknown Doors
+
+And then there is the question the charter does not answer. Officially, exactly two gates are open and accounted for. Whether **Russia — or any other major power — has access to an open gate is not known**. Not denied, not confirmed: unknown, and kept unknown with care.
+
+- Russia hosts the **Mine Gate**, a contained site closed to all but Russian personnel — and the command has learned to stop asking what happens behind the seal. The charter's own records note the gap without closing it.
+- The **unilateral programs** in the charter's classified files suggest at least one major power has been tempted — but the programs are sealed, the nations unnamed, and the audits that might settle the question are the one class of document no member has ever requested.
+- Whether any third state holds a working door — bought, built, or bargained from a lord — is a question JPC's analysts file under *unconfirmed*, where it has sat since 2033.
+
+The unknown is a feature, not a gap: it is the charter's most carefully maintained mystery, because an answer in either direction would end the alliance. Ask what Russia is doing behind the Mine Gate's seal and the answer from every capital is the same: *we don't know, and we have agreed not to find out together.*
 
 ## The Holdouts
 
@@ -81,6 +107,7 @@ None of the three produced anything JPC wanted. All three produced something JPC
 - The "training exercise" archives are declassified by accident, and the records show the town was evacuated, bombed, and erased from the map in the same week — with the evacuation logged before the bombing, and both before the horde arrived.
 - One of the three unilateral programs is exposed: a member nation has been running a gate program under a civilian agency's budget line for two years, and the line item has a name.
 - A gate host state threatens to withdraw from the charter and garrison its own gate alone — and Mensah's response, delivered in one line, becomes the thing the command repeats for a generation.
+- A Russian officer on the Mine Gate rotation defects, and the first thing she says is that the shaft behind the seal is not contained — that it has been open for a year, and that Moscow has been trading. (See [the unknown doors](#the-unknown-doors).)
 
 ## Related
 
@@ -88,6 +115,9 @@ None of the three produced anything JPC wanted. All three produced something JPC
 - [The Reopening](../lore/the-reopening.md) — the war that made the charter necessary
 - [The Ural Scar](../places/the-ural-scar.md) — the gate a nation killed itself
 - [The Zagros Gate](../places/gate-zagros.md) — the gate politics saved
+- [Gate Alpha — the Deep Gate](../places/gate-alpha.md) — the European pillar's door
+- [Gate Bravo — the Salt Gate](../places/gate-bravo.md) — the American pillar's door
+- [The Mine Gate](../places/gate-mine.md) — the Russian gate behind the seal
 
 ## TODO
 

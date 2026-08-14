@@ -49,8 +49,8 @@ Humanity is not the first civilization to face the devils. An older one — the 
 
 | Place | Type | Notes |
 |-------|------|-------|
-| [Gate Alpha — the Deep Gate](places/gate-alpha.md) | Portal (underwater) | Norwegian Trench; first far-side beachhead |
-| [Gate Bravo — the Salt Gate](places/gate-bravo.md) | Portal (remote) | Danakil Depression; second beachhead |
+| [Gate Alpha — the Deep Gate](places/gate-alpha.md) | Portal (underwater) | Norwegian Trench; first far-side beachhead; the European pillar's door |
+| [Gate Bravo — the Salt Gate](places/gate-bravo.md) | Portal (remote) | Danakil Depression; second beachhead; the American pillar's door |
 | [The Zagros Gate](places/gate-zagros.md) | Contained portal | Iran; unbreakable — the gate politics saved |
 | [The Dune Gate](places/gate-dune.md) | Contained portal | Rub' al Khali; buried under moving sand |
 | [The Ice Gate](places/gate-ice.md) | Contained portal | Greenland; 800 m under the ice, never seen |
@@ -90,6 +90,7 @@ The creatures behind the gates are not one species but the **remnant of a civili
 - The "second moon" over the Far Side perimeters is not a moon, and it is moving.
 - A bound creature, freed, tells its captors that the Ash-Born were not the first ones to knock — and the Observers **let** the others through.
 - Project Lattice's map has two holes — anchors the pattern demands that do not exist, with no geological explanation. Either the pattern is wrong, or something moved them in a way plates do not.
+- A Russian officer on the Mine Gate rotation defects — and claims the gate behind the seal is not contained at all, and has not been for a year.
 
 ## Related
 

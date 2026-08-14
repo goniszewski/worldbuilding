@@ -37,6 +37,8 @@ It is the hard-luck assignment in JPC: everything about the site is hostile. The
 - **The Camp** — a hardened base on the salt plain, built low against both the heat and the horizon. Water is flown in; fuel is rationed; morale is a logistics problem.
 - **The Plug** — the far-side perimeter, Camp Brimstone, on the dead world's surface opposite the well. Smaller than Camp Ashfall, more exposed, and — the garrison insists — **watched** by something that does not come close.
 
+The coalition that holds the Salt Gate is **America's door, with the Gulf holding the rope**. The host state is Ethiopia — the gate stands in the Ethiopian Danakil — but the force is US-led: the United States commands the camp and the plug, and the kingdom, the Emirates, and Qatar are its principal partners, funding the logistics and contributing the contingents that make the "penance" rotation survivable. Supply runs through Djibouti, and the politics are Gulf politics conducted in English. JPC's colors fly over the camp; everyone inside knows whose door it really is.
+
 ## The Second Crossing
 
 On **29 September 2033**, Gate Command Bravo executed the second crossing: a smaller force than Alpha's, through a narrower door, into a perimeter that has never been fully comfortable. The Salt Gate's far side opens onto the **Bone Yards' edge** — territory of the Pale Thresher.
