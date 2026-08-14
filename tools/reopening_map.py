@@ -449,21 +449,25 @@ def main():
         y += 26
 
     # ---- legend (bottom-right)
-    lx, ly = W - 330, H - 270
+    lx, ly = W - 360, H - 300
     rows = [
-        ("swatch", HOST, HOST_STROKE, "Gate host nation (8 of 9 surviving gates; Russia hosts two)"),
-        ("swatch", COOP, COOP_STROKE, "Cooperating nation — EU-27 · US · Gulf partners · Djibouti"),
-        ("glyph", "open", None, "Open gate — held two-way (2)"),
-        ("glyph", "contained", None, "Contained gate (6)"),
-        ("glyph", "blackbox", None, "Black box — status unknown (1)"),
-        ("glyph", "destroyed", None, "Destroyed gate (2)"),
-        ("glyph", "dsite", None, "Dormant anchor — D-site (6 of the 38 that never woke)"),
+        ("swatch", HOST, HOST_STROKE, "Gate host nation (8 of 9 surviving gates)",
+         ["Russia · Norway · Ethiopia · Iran", "Saudi Arabia · DR Congo · Peru · Greenland"]),
+        ("swatch", COOP, COOP_STROKE, "Cooperating nation",
+         ["EU-27 · United States · Djibouti · Qatar · UAE"]),
+        ("glyph", "open", None, "Open gate — held two-way (2)", None),
+        ("glyph", "contained", None, "Contained gate (6)", None),
+        ("glyph", "blackbox", None, "Black box — status unknown (1)", None),
+        ("glyph", "destroyed", None, "Destroyed gate (2)", None),
+        ("glyph", "dsite", None, "Dormant anchor — D-site (6 of the 38 that never woke)", None),
     ]
-    parts.append(f'<rect x="{lx}" y="{ly}" width="322" height="{34 + len(rows) * 27 + 10}" '
+    heights = [27 + 13 * len(r[4]) if r[4] else 27 for r in rows]
+    panel_h = 34 + sum(heights) + 12
+    parts.append(f'<rect x="{lx}" y="{ly}" width="340" height="{panel_h}" '
                  f'rx="6" fill="{PANEL}" stroke="{PANEL_STROKE}" stroke-width="1" opacity="0.94"/>')
     parts.append(text(lx + 16, ly + 26, "LEGEND", 11, SUB, "start", 700, 3))
     y = ly + 52
-    for kind, a, b, label in rows:
+    for (kind, a, b, label, subs), rh in zip(rows, heights):
         if kind == "swatch":
             parts.append(f'<rect x="{lx+16}" y="{y-9}" width="16" height="10" rx="2" fill="{a}" stroke="{b}" stroke-width="0.8"/>')
         elif a == "open":
@@ -479,7 +483,12 @@ def main():
         elif a == "dsite":
             parts.append(f'<path d="M{lx+24},{y-8.6}L{lx+27.6},{y-4}L{lx+24},{y+0.6}L{lx+20.4},{y-4}Z" fill="none" stroke="{DSITE}" stroke-width="1.1"/>')
         parts.append(text(lx + 42, y, label, 10.5, "#b9c6da", "start", 400, 0.2))
-        y += 27
+        if subs:
+            sy = y + 14
+            for s in subs:
+                parts.append(text(lx + 42, sy, s, 9, DIM, "start", 400, 0.4))
+                sy += 13
+        y += rh
 
     # ---- footer counts
     foot = ("THE 47 — 2 HELD · 6 CONTAINED · 1 BLACK BOX · 1 DORMANT · 2 NUKED · 35 DESTROYED   |   "
