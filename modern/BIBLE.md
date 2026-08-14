@@ -9,6 +9,12 @@ summary: "Core reference bible for the Modern Earth setting — the Reopening, t
 
 > **TL;DR** — Present-day Earth, 2034. Ancient portals that slept for millennia wake across the world, and the armies of a dead planet march through them. Humanity holds the gates with joint military command, pushes two beachheads onto the enemy's world, and slowly learns that Hell was never a place of the soul — it is a ruined world, and the angels who burned it are still watching.
 
+## Situation Map
+
+![The Gates of Earth — JPC situation map, 2034](../art/generated/gates-of-earth-2034.svg)
+
+*A JPC public-briefing map of the Reopening: the two held-open doors and their pillars, the containment gates, the Siberian black box, the two nuked gates, and the nations that host or cooperate on them. Generated from canon — hosts and spheres in [The Nations](factions/nations.md), the dormant D-sites and the Denied in [The Lattice](lore/the-lattice.md).*
+
 ## Core Premise
 
 ### The Reopening

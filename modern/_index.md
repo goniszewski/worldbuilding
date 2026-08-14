@@ -78,5 +78,6 @@ summary: "Quick navigation index for the Modern Earth setting — the Reopening,
 ## Key Links
 
 - [Master Bible](BIBLE.md) — full reference with detailed lore
+- [Situation map](../art/generated/gates-of-earth-2034.svg) — the gates, hosts, and pillars in one view
 - [Fantasy Universe](../fantasy/_index.md) — the high-fantasy setting
 - [Sci-Fi Universe](../scifi/_index.md) — the far-future setting

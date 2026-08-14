@@ -36,6 +36,8 @@ The charter was signed by most of the world in the first year, and by almost all
 
 ## The Gate Hosts
 
+> 🗺️ Situation map: [The Gates of Earth](../../art/generated/gates-of-earth-2034.svg) — hosts, pillars, and doors at a glance (also in the [Bible](../BIBLE.md#situation-map)).
+
 Nine gates survived the Scouring. Eight of the nine stand on the territory of a member state, and those eight states carry the war's strangest burden: a foreign garrison, permanently, on their own soil, guarding a door they could not destroy and were not allowed to keep.
 
 | Nation | Gate | Posture |
