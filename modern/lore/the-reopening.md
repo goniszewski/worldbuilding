@@ -23,9 +23,9 @@ summary: "The 2031 event: ancient portals waking worldwide, the March of the hor
 
 ## Day One
 
-**17 March 2031.** The first confirmed portal opened at 03:41 UTC inside a ring of standing stones in a forest preserve in the Russian Far East — a site locals had called "the Wolf's Door" and archaeologists had dated, provisionally, to somewhere before recorded time. The second opened beneath a flooded copper mine in Chile. The third was a shaft that tore upward through the floor of the South China Sea, forty kilometres from the nearest shipping lane.
+**17 March 2031.** The first confirmed portal opened at 03:41 UTC inside a ring of standing stones in a forest preserve in the Russian Far East — a site the locals called the Still Ring, and the world would come to call the First Gate; archaeologists had dated it, provisionally, to somewhere before recorded time. The second opened beneath a flooded copper mine in Chile. The third was a shaft that tore upward through the floor of the South China Sea, forty kilometres from the nearest shipping lane.
 
-By the end of the week, **forty-seven gates** were confirmed active on every inhabited continent. Most opened in places humans had abandoned or never reached: ruins, caves, trenches, deserts, deep water. The oldest were structures that predated human civilization itself.
+By the end of the first week, roughly half of the **forty-seven gates** that would eventually be confirmed were already active, on every inhabited continent; the rest were found over the following months as sweeps, satellites, and ground teams caught up. The last — [the White Gate](../places/gate-white.md) — was not confirmed until the austral summer of 2031. Most opened in places humans had abandoned or never reached: ruins, caves, trenches, deserts, deep water. The oldest were structures that predated human civilization itself.
 
 For the first three days, the world watched. Then the first horde crested the treeline.
 
@@ -49,7 +49,7 @@ The craters are still there. The world calls them [the Ural Scar](../places/the-
 
 ## The Containment
 
-When the dust settled, **nine gates remained**. All nine had anchors that could not be reached or could not be broken — one stood a kilometre and a half underwater, one in the heart of the Danakil Depression, the rest in places that made either assault or demolition effectively impossible.
+When the dust settled, **nine gates remained**. All nine had anchors that could not be reached or could not be broken — one stood shallow in the sea off Norway, close enough to work and impossible to destroy from the surface, one in the heart of the Danakil Depression, the rest in places that made either assault or demolition effectively impossible.
 
 On **14 February 2032**, the nations of Earth chartered **Joint Portal Command**: a unified military authority with a single mandate — no gate unguarded, no gate unaccounted for, and enough firepower at every mouth to stop anything that came through, or tried to go in.
 
@@ -64,6 +64,8 @@ The two doors stayed open by accident before they became doctrine: their hordes 
 ## Why "Reopening"
 
 The name came from the historians, who arrived at the same conclusion the theologians had reached first: this had happened before. The gates were not new. The monsters were not new. Humanity's myths were the memory of previous cycles, worn smooth by retelling — and the current event was simply the latest verse of an old song.
+
+The saying that opens every account of the Reopening — *for ten thousand years the gates slept* — is itself part of the myth. The record places the last great cycle within the last five millennia, not ten; the rounder figure survived because it is the figure that feels true. The gates slept long enough for the memory of them to become a story, and long enough for the story to grow.
 
 ## For Story Use
 

@@ -12,7 +12,7 @@ summary: "Core reference bible for the Modern Earth setting — the Reopening, t
 ## Core Premise
 
 ### The Reopening
-On **17 March 2031** — Day One — portals began opening across the planet. Some stood inside ancient ruins; others yawned open underground, beneath the sea, or in places no one had reached in human memory. From them came hordes of creatures that history had only ever described as devils. Within a week, forty-seven gates were confirmed active. Within a year, humanity had fought, bombed, and finally **nuked** its way to a standstill. The event is called **the Reopening** — because the world has been through this before.
+On **17 March 2031** — Day One — portals began opening across the planet. Some stood inside ancient ruins; others yawned open underground, beneath the sea, or in places no one had reached in human memory. From them came hordes of creatures that history had only ever described as devils. Within a week, roughly half of the forty-seven gates that would eventually be confirmed were already active; the rest were found over the following months as sweeps caught up. Within a year, humanity had fought, bombed, and finally **nuked** its way to a standstill. The event is called **the Reopening** — because the world has been through this before.
 
 ### The Truth About Hell
 The realm behind the gates is not a dimension of punishment. It is a **distant planet, devastated by weapons of mass destruction** in a war that ended an empire. The devils are its survivors — broken lords fighting over the ruins of their world, raiding other worlds for resources and slaves. The empire's knowledge died with it: the lords can wake a gate and, with effort, seal one, but they no more understand their inheritance than we do. The Reopening was their experiment — they chose Earth expecting the easiest world the old network reached, and met a species that had evolved past their records. Everything humanity ever feared about Hell — fire, ash, hunger, chains, angelic wrath — was inherited from real events, told and retold across tens of thousands of years of cycles, until only myth remained.
@@ -26,7 +26,7 @@ Humanity is not the first civilization to face the devils. An older one — the 
 |------|-------|
 | c. 40,000–5,000 years ago | **The Cycles** — gates wake periodically; hordes invade; each age remembers it as an end of the world. The final great cycle fades into religion. |
 | c. 2,000+ years ago (uncertain) | **The Silence** — the gates stop waking. Reason later inferred: the Angels' war destroyed the devils' empire. |
-| 17 March 2031 | **Day One** — 47 gates confirmed active worldwide within 96 hours. |
+| 17 March 2031 | **Day One** — the first gates open; about half of the eventual 47 confirmed within the first week, the rest over months of sweeps. |
 | Spring–autumn 2031 | **The March** — hordes pour out; sieges, evacuations, first victories. |
 | October 2031 | **The Scouring** — coordinated counteroffensive; gates destroyed one by one. |
 | October / December 2031 | **The Nukes** — the Ural gate (Russia) and the Saharan gate (North Africa) are destroyed with nuclear weapons. |
@@ -43,6 +43,7 @@ Humanity is not the first civilization to face the devils. An older one — the 
 | [Joint Portal Command](factions/joint-portal-command.md) | [Gen. Adaora Mensah](characters/adaora-mensah.md) | Contain the gates, hold the far-side perimeters | Humanity's shield |
 | [The Hell-Lords](factions/hell-lords.md) | Warring remnant warlords | Resources, slaves, dominance — escape the dead world | Existential enemy, fractured |
 | [The Observers](factions/the-observers.md) | Unknown | Keep young civilizations beneath the Threshold | Unknown; feared |
+| [The Nations](factions/nations.md) | The member states | Sovereignty, survival, and the fight over who owns the doors | Reluctant partners |
 
 ## Key Places
 
@@ -88,7 +89,7 @@ The creatures behind the gates are not one species but the **remnant of a civili
 - The Babel Initiative translates a Devil Tongue inscription found in the Ural crater: a **list of names** — and the last one is Earth's.
 - The "second moon" over the Far Side perimeters is not a moon, and it is moving.
 - A bound creature, freed, tells its captors that the Ash-Born were not the first ones to knock — and the Observers **let** the others through.
-- Project Lattice's map has two holes — anchors the pattern demands that do not exist. Either the pattern is wrong, or someone removed them.
+- Project Lattice's map has two holes — anchors the pattern demands that do not exist, with no geological explanation. Either the pattern is wrong, or something moved them in a way plates do not.
 
 ## Related
 
@@ -98,7 +99,7 @@ The creatures behind the gates are not one species but the **remnant of a civili
 
 ## TODO
 
-- [ ] Add named nations' responses to the Reopening (who refused JPC, who kept their own gate)
+- [x] Add named nations' responses to the Reopening — done: [The Nations](factions/nations.md) covers the charter, the gate hosts, and the holdouts
 - [x] Detail the seven containment gates — done: G-03 through G-09 are named and mapped
 - [ ] Add the Observers' "visitations" as encounter scenes
 - [ ] Write the first full Devil Tongue primer

@@ -15,6 +15,7 @@ related:
   - ../places/gate-bravo
   - ../characters/adaora-mensah
   - ../characters/katarzyna-nowak
+  - nations
 summary: "The unified multinational military authority chartered to contain the active gates and hold humanity's perimeters on the far side."
 ---
 
@@ -60,7 +61,7 @@ The command's whole structure hangs on nine doors. Gate Commands Alpha and Bravo
 
 ### The Three Rules
 1. **No gate unguarded.** Every active gate is garrisoned, watched, and zeroed. The garrison is rotated; the surveillance is not.
-2. **Denial at the mouth.** Firepower is arrayed so that anything emerging is destroyed inside the kill zone. The hordes learned this the hard way in 2032; the gates have been quiet on the emergence side since.
+2. **Denial at the mouth.** Firepower is arrayed so that anything emerging is destroyed inside the kill zone. The hordes learned this the hard way in 2031; the gates have been quiet on the emergence side since.
 3. **Nothing unilateral.** No member nation experiments, mines, or negotiates on its own. The rule exists because three nations tried, and the results are classified.
 
 ### The Argument That Never Ends
@@ -105,5 +106,6 @@ JPC is a coalition of armies, navies, air forces, and space commands that had ne
 
 - [The Reopening](../lore/the-reopening.md) — the event that created the Command
 - [Portals](../lore/portals.md) — what the Command holds
+- [The Nations](nations.md) — the charter's members, hosts, and holdouts
 - [Gen. Adaora Mensah](../characters/adaora-mensah.md) — Supreme Commander
 - [Maj. Katarzyna Nowak](../characters/katarzyna-nowak.md) — far-side command

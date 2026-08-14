@@ -31,6 +31,7 @@ summary: "Quick navigation index for the Modern Earth setting — the Reopening,
 | Faction | Type | Notes |
 | --- | --- | --- |
 | [Joint Portal Command](factions/joint-portal-command.md) | Military coalition | Contains the gates, holds the far-side perimeters |
+| [The Nations](factions/nations.md) | The member states | The charter's signatories, the gate hosts, and the holdouts |
 | [The Hell-Lords](factions/hell-lords.md) | Remnant warlords | Warring over the ruins of their dead world |
 | [The Observers](factions/the-observers.md) | Unknown civilization | "Angels" — they burned the devils' empire and watch the young |
 

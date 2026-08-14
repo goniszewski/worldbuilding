@@ -25,7 +25,7 @@ summary: "What the gates are, where they open, how they are destroyed or held �
 
 A gate is a **structure**, not an event. Every portal consists of an **anchor** — a frame of stone that is not stone, arranged as an arch, a ring, a well, or a lintel — inscribed with bands of script in the [Devil Tongue](devil-tongue.md). The anchors were laid down by the **devil empire at the height of its reach**, when it moved between worlds the way we move between ports. They predate human civilization by a wide margin — and the oldest stand inside ruins older than the empire itself, as if the empire set its doors in the bones of older worlds. The Babel Initiative's best translation of the oldest inscriptions is a set of **instructions**, as if the anchors were not built but **set up** — like tripwires — at the doorstep of a world it meant to take.
 
-When an anchor wakes, the space inside its frame stops behaving like space. What emerges is not a tunnel but a **doorway onto a place** — the far side is a real location on the dead world, and the gate is a fixed two-way passage between two fixed points. Gates do not drift. Gates do not close on their own. The Reopening has produced exactly one confirmed case of a gate going dormant, and it was an anchor that had been **deliberately shut** — the far side had been sealed against it.
+When an anchor wakes, the space inside its frame stops behaving like space. What emerges is not a tunnel but a **doorway onto a place** — the far side is a real location on the dead world, and the gate is a fixed two-way passage between two fixed points. Gates do not drift. Gates do not close on their own. The Reopening produced exactly one confirmed case of a gate going dormant, and it is one of the 47: an anchor that had been **deliberately shut**, its far side sealed against it, and logged as a kill in the Scouring without ever being destroyed. JPC's records have come to call it the quiet kill (see [The 47](#the-47)).
 
 Every gate confirmed to date — all 47 — opens onto the **same far side**: the dead world. No second destination has ever been found, and the empire-era inscriptions Babel has read describe a network that once reached other worlds; if anchors to those worlds exist on Earth, none has been found. Whether that is luck, design, or the difference between what the empire built and what it left is an open question.
 
@@ -52,7 +52,7 @@ Anchors come in many sizes, and JPC classifies the active ones by what can fit t
 |-------|-------|-----------|
 | **Door-class** | up to ~2 m | a man, crouched |
 | **Hall-class** | ~4–7 m | a slightly compacted Black Hawk — rotors removed, blades folded — which is JPC's standard measure of a gate worth fighting for |
-| **Gate-class** | 10 m and up | the monsters; rare, and — per the classical texts, which Babel treats cautiously — deeper anchors tend to be larger |
+| **Gate-class** | 10 m and up | the monsters; rare, and — per the classical texts, which Babel treats cautiously — deeper anchors tend to be larger (Gate Alpha is the standing exception: the largest confirmed anchor, and far from the deepest) |
 
 Most anchors found are door-class. The two held-open gates are hall-class or larger — [Gate Bravo](../places/gate-bravo.md) is the narrower of the two — and [Gate Alpha](../places/gate-alpha.md) is the largest confirmed, larger than any gate on land.
 
@@ -62,7 +62,8 @@ The Reopening produced **47 confirmed active gates** worldwide. Forty-seven is t
 
 | Outcome | Count | Notes |
 |---------|-------|-------|
-| Destroyed in the Scouring | 36 | Anchors broken by demolition, naval fire, or airstrikes |
+| Destroyed in the Scouring | 35 | Anchors broken by demolition, naval fire, or airstrikes |
+| Went dormant | 1 | A Scouring "kill" that was never a kill — sealed from the far side, logged as destroyed; the only confirmed case of a gate going dormant |
 | Destroyed by nuclear weapons | 2 | [The Ural Scar](../places/the-ural-scar.md), [The Saharan Glass](../places/the-saharan-glass.md) |
 | Contained (no-go, garrisoned) | 7 | [The Containment Seven](#the-containment-seven) |
 | Held open (two-way) | 2 | [Gate Alpha](../places/gate-alpha.md), [Gate Bravo](../places/gate-bravo.md) |
@@ -85,7 +86,7 @@ The seven are not quiet. They are **held**, which is different — and Denial Co
 
 ## Destroying a Gate
 
-An anchor can be broken. The Scouring proved it: enough force, applied to the frame itself, kills the passage — the doorway collapses in a burst of heat and light, and the far side is sealed for the foreseeable future. The difficulty is **reaching** the anchor. Gates in open ground died to artillery and airstrikes. Gates in tunnels, under ice, or beneath a kilometre of water could only be approached through their own mouth — which is exactly where the hordes were waiting.
+An anchor can be broken. The Scouring proved it: enough force, applied to the frame itself, kills the passage — the doorway collapses in a burst of heat and light, and the far side is sealed for the foreseeable future. The difficulty is **reaching** the anchor. Gates in open ground died to artillery and airstrikes. Gates in tunnels, under ice, or beneath deep water could only be approached through their own mouth — which is exactly where the hordes were waiting.
 
 The two nuclear strikes were the command's admission that some doors refuse to be shut politely.
 

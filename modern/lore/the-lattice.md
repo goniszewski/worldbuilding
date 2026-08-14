@@ -43,7 +43,7 @@ The complete lattice predicts **85 anchors** on Earth. The Reopening woke **47**
 
 | Outcome | Count | Notes |
 |---------|-------|-------|
-| Woke in the Reopening | 47 | The active gates — destroyed, contained, or held |
+| Woke in the Reopening | 47 | The active gates — destroyed, dormant, contained, or held |
 | Destroyed — traces remain | 21 | Natural destruction across a million years: subducted (2), crushed by glaciation (1), buried by volcanic collapse (1), drowned (1), and more broken by deep time; wreckage still surveyable |
 | Destroyed — no trace | 9 | **The Denied** — the lattice demands a node; the site holds nothing. No wreckage, no scar, nothing that weathered away. Removal, and the removal was clean |
 | Found dormant | 6 | **D-sites** — confirmed where the lattice predicted, cold and silent |
@@ -63,7 +63,7 @@ The analyses are inconclusive. The leading theory at Project Lattice is delibera
 
 ## The D-Sites
 
-Six dormant anchors, designated **D-01** onward, in the same concealment pattern as the active gates — ruins, underground, underwater, remote. Most are unremarkable watched sites: a sealed shaft, a reef, a folded hillside with a fence around it. A few are not:
+Six dormant anchors, designated **D-01** through **D-08** — the gaps in the numbering are retired designations, not missing doors — in the same concealment pattern as the active gates: ruins, underground, underwater, remote. Most are unremarkable watched sites: a sealed shaft, a reef, a folded hillside with a fence around it. A few are not:
 
 | Desig. | Site | Notes |
 |--------|------|-------|
@@ -71,10 +71,12 @@ Six dormant anchors, designated **D-01** onward, in the same concealment pattern
 | D-02 | The Fought-Back | A Victorian alpine rail tunnel abandoned when "the rock fought back"; the heading had struck a buried lintel |
 | D-04 | The Lagoon Arch | A Pacific atoll; an 1890s expedition's report of a "black arch" was filed as fiction — the arch is the anchor |
 | D-06 | The Gobi Anomaly | A density anomaly mapped by a geophysical survey; the anomaly is older than the instruments that found it |
+| D-07 | The Cenote | A Yucatán sinkhole; a not-stone lintel hangs in the dark water below the dive line, in a pool Maya folklore called "the door that drinks" |
+| D-08 | The Knocking Mine | An abandoned Cornish tin mine; a sealed heading the old miners left "when the knocking started" — the survey's ground-penetrating radar found a buried lintel behind the seal |
 
-The designations carry scars of their own: D-01 through D-06 were assigned from the lattice's predictions, and several numbers were **retired** when ground truth arrived. D-03, D-05, and others closed their files as the survey found not a dormant door but a destroyed one — a node the lattice had marked as sleeping that had been dead for longer than human time. The map predicts; the ground decides.
+The designations carry scars of their own: D-01 through D-08 were assigned from the lattice's predictions, and two numbers were **retired** when ground truth arrived. D-03 and D-05 closed their files as the survey found not a dormant door but a destroyed one — nodes the lattice had marked as sleeping that had been dead for longer than human time. The map predicts; the ground decides.
 
-The **two missing anchors** are Project Lattice's most wanted objects. The lattice demands them; the survey finds nothing — no ruin, no not-stone, no geology that explains an empty node. Either the pattern is wrong at exactly two points (nothing else suggests it is), or something moved them in a way plates do not.
+The **two missing anchors** are Project Lattice's most wanted objects. The lattice demands them; the survey finds nothing — no ruin, no not-stone, no geology that explains an empty node. Either the pattern is wrong at exactly two points (nothing else suggests it is), or something moved them in a way plates do not. They are distinct from the Denied: the Denied were removed, and the removal was clean; the missing were never at the coordinates the pattern assigns them — moved, if anything, in a way the geology cannot produce.
 
 ## Why It Matters
 

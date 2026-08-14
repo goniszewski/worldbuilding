@@ -23,13 +23,17 @@ summary: "The underwater portal in the Norwegian Trench — humanity's first two
 
 ## Overview
 
-**Gate Alpha** — JPC designation **G-01**, known as **the Deep Gate** — is the portal that stands in the Norwegian Trench, roughly 1,900 meters below the surface of the North Atlantic. It is the deepest confirmed gate on Earth, the first gate humanity crossed in force, and the anchor of the entire two-way doctrine.
+**Gate Alpha** — JPC designation **G-01**, known as **the Deep Gate** — is the portal that stands on the drowned shelf at the edge of the Norwegian Trench, roughly fifty meters below the surface of the North Atlantic. It is the largest confirmed gate on Earth, the first gate humanity crossed in force, and the anchor of the entire two-way doctrine.
 
-The gate woke on Day One, reported as a seismic anomaly by a hydrophone array, then confirmed by a passing submarine as a **column of light rising from the trench floor** — a shaft of something that the water did not bend or dim. The first horde to emerge was the one that taught the world the March was not a coastal phenomenon: it came up through the water column and walked ashore on the Norwegian coast, still dripping.
+Fifty meters is the whole argument. It is deep enough that the Scouring's stand-off weapons never reached the frame — and shallow enough to be worked: saturation divers service the anchor, work bells and small submersibles shuttle crews and cargo, and the mouth itself is visible from the surface by eye. The same shallowness that kept it out of the Scouring's reach made it the most workable gate on Earth.
+
+The gate woke on Day One, reported as a seismic anomaly by a hydrophone array, then confirmed by a coastal patrol craft as a **column of light standing in the water** over the shelf — a shaft of something that the sea did not bend or dim. The first horde to emerge was the one that taught the world the March was not a coastal phenomenon: it came up through the water column and walked ashore on the Norwegian coast, still dripping.
 
 ## The Anchor
 
-The anchor is an **arch ring** of the familiar not-stone, standing upright on a shelf of the trench, its base buried in sediment. It is larger than any gate on land — the classical texts suggest depth correlates with anchor size — and its script bands are cut with a precision the Babel Initiative still cannot replicate. The ring is intact, unreachable by any conventional weapon, and fully active.
+The anchor is an **arch ring** of the familiar not-stone, standing upright on the drowned shelf, its base buried in sediment. It is larger than any gate on land — the classical texts' suggestion that depth correlates with anchor size fails here, and Babel has not agreed on why — and its script bands are cut with a precision the Babel Initiative still cannot replicate. The ring is intact, unreachable by any conventional weapon, and fully active.
+
+Surveyors note where it stands: the shelf was coastline when the network was laid, and the sea has risen over it since. It may be the one anchor the empire placed at a working shore — a door built for use, not concealment — that the rising ocean then hid for a million years. Nothing about that is proven, and the analysts who believe it cannot say why the empire would build Earth a harbor. That is precisely why they believe it.
 
 What makes the Deep Gate unique is its mouth. A gate that opens underwater does not discriminate: the doorway leads to the far side's surface, which is to say that **entering it from the sea floor deposits you in the air of another world**. The first survey probes through Gate Alpha reported a horizon. The second reported the horizon was ash.
 
