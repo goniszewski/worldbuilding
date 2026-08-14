@@ -63,6 +63,8 @@ The world knows exactly two gates are open, and it knows who holds them — beca
 | **Gate Alpha** — [the Deep Gate](../places/gate-alpha.md) | **The European Union** | Norway hosts; the EU provides the bulk of the force, the funding, and the argument. The command rotation moves through European capitals. Analysts call it *the European pillar*. |
 | **Gate Bravo** — [the Salt Gate](../places/gate-bravo.md) | **The United States, with the Gulf states** | Ethiopia hosts; the force is US-led, with the kingdom, the Emirates, and Qatar as principal partners. Supply runs through Djibouti. Analysts call it *the American pillar*. |
 
+*England is in the Union.* The United Kingdom sits at the European table — English flags in the Ring's picket rotation, English contracts in the Gatehouse's ledgers, English seats in the rotation of command. It also holds the only dormant door on member soil: [the Knocking Mine](../lore/the-lattice.md) in Cornwall, one of the six D-sites, watched the way a host watches a guest it does not trust.
+
 The fiction survives because it is useful: Europe's door keeps the European members in the charter, America's door keeps the Gulf states in the charter, and the charter keeps the peace between them. What the fiction hides is that the two open gates are the war's two biggest prizes — and that the powers holding them are the ones who decided, in 2033, that crossing was doctrine. The argument that never ends in JPC has a shadow argument running in the chancelleries: not whether the doors should be open, but who they are open *for*.
 
 ### The Unknown Doors

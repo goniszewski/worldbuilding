@@ -45,7 +45,7 @@ The gate is held in three layers:
 - **The Gatehouse** — the surface complex: logistics, barracks, the crews that rotate down to the anchor itself. Everything that goes through the gate is checked, catalogued, and weighed — on the way out and the way in.
 - **Camp Ashfall** — the far-side perimeter, commanded by [Maj. Katarzyna Nowak](../characters/katarzyna-nowak.md): the first permanent human settlement on another world, dug into the ash of the dead world a kilometer from the gate's far mouth.
 
-The garrison is JPC in name; in practice the Deep Gate is **Europe's door**. Norway hosts the anchor, and the European Union provides the bulk of the force, the funding, and the argument: the Ring's picket is overwhelmingly European-flagged, the Gatehouse's logistics run on EU contracts, and the command rotation moves through European capitals. The prestige of the first crossing is Europe's prestige, and every other capital knows it — the analysts' shorthand for the arrangement is simply *the European pillar*.
+The garrison is JPC in name; in practice the Deep Gate is **Europe's door**. Norway hosts the anchor, and the European Union provides the bulk of the force, the funding, and the argument: the Ring's picket is overwhelmingly European-flagged, the Gatehouse's logistics run on EU contracts, and the command rotation moves through European capitals, England's among them. The prestige of the first crossing is Europe's prestige, and every other capital knows it — the analysts' shorthand for the arrangement is simply *the European pillar*.
 
 ## The Crossing
 

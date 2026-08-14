@@ -139,18 +139,18 @@ HOSTS = {
     "Russia", "Norway", "Ethiopia", "Iran", "Saudi Arabia",
     "Dem. Rep. Congo", "Peru", "Denmark", "Greenland",
 }
-EU27 = {
+EU28 = {
     "Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czechia",
     "Estonia", "Finland", "France", "Germany", "Greece", "Hungary",
     "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta",
     "Netherlands", "Poland", "Portugal", "Romania", "Slovakia",
-    "Slovenia", "Spain", "Sweden",
+    "Slovenia", "Spain", "Sweden", "United Kingdom",  # England is in the Union
 }
 # Fill groups — the cooperation spheres. A fill answers "who does this
 # country cooperate with?"; the gate glyphs and ⊕ badges answer "what does
 # it hold?". The spheres do not overlap: the pillars do not cooperate
 # with each other.
-PILLAR_EU27 = EU27 | {"Norway"}     # Norway hosts Alpha; the EU supplies it
+PILLAR_EU28 = EU28 | {"Norway"}     # Norway hosts Alpha; the EU (incl. England) supplies it
 PILLAR_US = {"United States of America", "Ethiopia", "Saudi Arabia",
              "United Arab Emirates", "Qatar", "Djibouti"}
 PILLAR_RU = {"Russia"}               # the black box: no known cooperation
@@ -212,6 +212,7 @@ COUNTRY_LABELS = [
     (-48.0, 75.5, "GREENLAND", "middle", "host"),
     (-101.0, 38.0, "UNITED STATES", "middle", "us"),
     (9.0, 49.3, "EUROPEAN UNION", "middle", "eu"),
+    (0.8, 54.8, "UNITED KINGDOM", "end", "eu"),
     (45.2, 12.8, "DJIBOUTI", "start", "us_small"),
     (52.5, 27.5, "GULF PARTNERS", "start", "us_small"),
     (75.0, -78.0, "ANTARCTICA — NO STATE CLAIMS IT", "middle", "dim"),
@@ -386,7 +387,7 @@ def main():
         d = path_for_feature(f)
         if not d:
             continue
-        if name in PILLAR_EU27:
+        if name in PILLAR_EU28:
             groups["eu"].append(d)
         elif name in PILLAR_US:
             groups["us"].append(d)
@@ -492,7 +493,7 @@ def main():
         ("swatch", PILLAR_EU, PILLAR_EU_STROKE,
          "EUROPEAN PILLAR — cooperates on Alpha (Deep Gate)",
          ["Norway ⊕ — holds the gate",
-          "EU-27 — the force, the funding, the rotation"]),
+          "EU-28 — incl. England · the force, the funding, the rotation"]),
         ("swatch", PILLAR_US, PILLAR_US_STROKE,
          "AMERICAN PILLAR — cooperates on Bravo (Salt Gate)",
          ["Ethiopia ⊕ — holds the gate",
