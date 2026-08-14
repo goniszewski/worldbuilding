@@ -30,7 +30,7 @@ OUT = os.path.join(
     os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
     "art", "generated", "gates-of-earth-2034.svg",
 )
-W, H = 1600, 940
+W, H = 2100, 940
 PAD = 70
 
 # ---------------------------------------------------------------- projection
@@ -47,7 +47,12 @@ def fit_points(points):
     ys = [p[1] for p in points]
     x0, x1, y0, y1 = min(xs), max(xs), min(ys), max(ys)
     scale = min((W - 2 * PAD) / (x1 - x0), (H - 2 * PAD) / (y1 - y0))
-    ox = (W - (x1 - x0) * scale) / 2 - x0 * scale
+    # Left-align the globe (PAD margin) instead of centering, so the right
+    # side of the canvas becomes a panel rail for the register and legend.
+    if (x1 - x0) * scale < W - 2 * PAD:
+        ox = PAD - x0 * scale
+    else:
+        ox = (W - (x1 - x0) * scale) / 2 - x0 * scale
     oy = (H - (y1 - y0) * scale) / 2 - y0 * scale
     return scale, ox, oy
 
@@ -98,12 +103,18 @@ LAND = "#1e2a3d"
 LAND_STROKE = "#33445e"
 ANTARCTICA = "#26354c"
 ANTARCTICA_STROKE = "#3d5378"
-HOST = "#96692b"
+HOST = "#96692b"          # independent host (contained gate, no pillar)
 HOST_STROKE = "#d4a952"
 HOST_LABEL = "#e0c898"
-COOP = "#2c4c74"
-COOP_STROKE = "#5a8fc4"
-COOP_LABEL = "#a9c6e8"
+PILLAR_EU = "#2c4c74"
+PILLAR_EU_STROKE = "#5a8fc4"
+PILLAR_EU_LABEL = "#a9c6e8"
+PILLAR_US = "#1f5a45"
+PILLAR_US_STROKE = "#4f9c7e"
+PILLAR_US_LABEL = "#8fd4b6"
+PILLAR_RU = "#3c2a5e"
+PILLAR_RU_STROKE = "#8f6fc4"
+PILLAR_RU_LABEL = "#c4b0e8"
 TEXT = "#e8eef7"
 SUB = "#8fa3c0"
 DIM = "#6d7f9c"
@@ -123,6 +134,7 @@ FONT = "'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif"
 
 # ---------------------------------------------------------------- country sets
 # NAME values follow Natural Earth 110m admin_0 naming.
+# Every country that HOLDS a gate (drives the map's ⊕ badges and legend rows).
 HOSTS = {
     "Russia", "Norway", "Ethiopia", "Iran", "Saudi Arabia",
     "Dem. Rep. Congo", "Peru", "Denmark", "Greenland",
@@ -134,8 +146,18 @@ EU27 = {
     "Netherlands", "Poland", "Portugal", "Romania", "Slovakia",
     "Slovenia", "Spain", "Sweden",
 }
-COOPS = EU27 | {"United States of America", "United Arab Emirates",
-                "Qatar", "Djibouti"}
+# Fill groups — the cooperation spheres. A fill answers "who does this
+# country cooperate with?"; the gate glyphs and ⊕ badges answer "what does
+# it hold?". The spheres do not overlap: the pillars do not cooperate
+# with each other.
+PILLAR_EU27 = EU27 | {"Norway"}     # Norway hosts Alpha; the EU supplies it
+PILLAR_US = {"United States of America", "Ethiopia", "Saudi Arabia",
+             "United Arab Emirates", "Qatar", "Djibouti"}
+PILLAR_RU = {"Russia"}               # the black box: no known cooperation
+INDEPENDENT_HOSTS = {"Iran", "Dem. Rep. Congo", "Peru", "Denmark", "Greenland"}
+# country labels that carry a ⊕ "holds a gate" badge (label text -> badge)
+BADGED_LABELS = {"RUSSIA", "NORWAY", "ETHIOPIA", "IRAN",
+                 "DEM. REP. CONGO", "PERU", "GREENLAND"}
 
 # ---------------------------------------------------------------- markers
 # lon, lat, tag, kind (open|contained|blackbox|destroyed)
@@ -179,18 +201,19 @@ REGISTER = [
 ]
 
 # country labels: lon, lat, text, anchor, class
+# class = fill sphere: host (independent) | eu | us | blackbox | us_small | dim
 COUNTRY_LABELS = [
-    (96.0, 61.0, "RUSSIA", "middle", "host"),
-    (8.5, 64.0, "NORWAY", "middle", "host"),
-    (36.5, 7.5, "ETHIOPIA", "middle", "host"),
-    (59.0, 30.5, "IRAN", "middle", "host"),
+    (96.0, 61.0, "RUSSIA", "middle", "blackbox"),
+    (8.5, 64.0, "NORWAY", "middle", "eu"),
+    (36.5, 7.5, "ETHIOPIA", "middle", "us"),
+    (61.5, 33.0, "IRAN", "middle", "host"),
     (23.5, 0.5, "DEM. REP. CONGO", "middle", "host"),
     (-72.0, -12.0, "PERU", "middle", "host"),
     (-48.0, 75.5, "GREENLAND", "middle", "host"),
-    (-101.0, 38.0, "UNITED STATES", "middle", "coop"),
+    (-101.0, 38.0, "UNITED STATES", "middle", "us"),
     (9.0, 49.3, "EUROPEAN UNION", "middle", "eu"),
-    (45.2, 12.8, "DJIBOUTI", "start", "coop_small"),
-    (52.5, 27.5, "GULF PARTNERS", "start", "coop_small"),
+    (45.2, 12.8, "DJIBOUTI", "start", "us_small"),
+    (52.5, 27.5, "GULF PARTNERS", "start", "us_small"),
     (75.0, -78.0, "ANTARCTICA — NO STATE CLAIMS IT", "middle", "dim"),
 ]
 
@@ -282,11 +305,16 @@ def qa(data):
         boxes.append((tag_s, x0, y - h, x1, y + h * 0.35))
 
     for lon, lat, s, anchor, cls in COUNTRY_LABELS:
-        size = {"host": 10.5, "coop": 10.5, "eu": 9.5, "coop_small": 9,
-                "dim": 9.5}[cls]
-        spacing = 1.6 if cls in ("host", "coop") else 1.2 if cls == "eu" \
-            else 1.2 if cls == "coop_small" else 1.4
+        size = {"host": 10.5, "eu": 10.5, "us": 10.5, "blackbox": 10.5,
+                "us_small": 9, "dim": 9.5}[cls]
+        spacing = 1.6 if cls in ("host", "eu", "us", "blackbox") else 1.2 \
+            if cls == "us_small" else 1.4
         add_box(s, lon, lat, size, anchor, 600, spacing)
+        if s in BADGED_LABELS:  # the ⊕ "holds a gate" ring floats left of it
+            tw = len(s) * size * 0.62 + spacing * max(len(s) - 1, 0)
+            x, y = px(lon, lat)
+            bx = x - tw / 2 - 14 if anchor == "middle" else x - 14
+            boxes.append((s + "⊕", bx - 5, y - 12, bx + 5, y + 4))
     for lon, lat, desig, name, dx, anchor in DSITES:
         add_box(desig, lon, lat, 8, anchor, 500, 1, dx=dx, dy=3)
     for lon, lat, tag, kind in GATES:
@@ -352,16 +380,20 @@ def main():
         qa(data)
         return
 
-    groups = {"host": [], "coop": [], "land": [], "antarctica": []}
+    groups = {"eu": [], "us": [], "ru": [], "host": [], "land": [], "antarctica": []}
     for f in feats:
         name = f["properties"].get("NAME", "")
         d = path_for_feature(f)
         if not d:
             continue
-        if name in HOSTS:
+        if name in PILLAR_EU27:
+            groups["eu"].append(d)
+        elif name in PILLAR_US:
+            groups["us"].append(d)
+        elif name in PILLAR_RU:
+            groups["ru"].append(d)
+        elif name in INDEPENDENT_HOSTS:
             groups["host"].append(d)
-        elif name in COOPS:
-            groups["coop"].append(d)
         elif name == "Antarctica":
             groups["antarctica"].append(d)
         else:
@@ -382,23 +414,29 @@ def main():
     parts.append(build_graticule())
     parts.append(land_paths(groups["antarctica"], ANTARCTICA, ANTARCTICA_STROKE, 1))
     parts.append(land_paths(groups["land"], LAND, LAND_STROKE, 0.75))
-    parts.append(land_paths(groups["coop"], COOP, COOP_STROKE, 0.9))
     parts.append(land_paths(groups["host"], HOST, HOST_STROKE, 0.9))
+    parts.append(land_paths(groups["ru"], PILLAR_RU, PILLAR_RU_STROKE, 0.9))
+    parts.append(land_paths(groups["us"], PILLAR_US, PILLAR_US_STROKE, 0.9))
+    parts.append(land_paths(groups["eu"], PILLAR_EU, PILLAR_EU_STROKE, 0.9))
 
-    # country labels
+    # country labels (+ ⊕ "holds a gate" badge rings on host states)
     for lon, lat, s, anchor, cls in COUNTRY_LABELS:
         x, y = px(lon, lat)
-        if cls == "host":
-            fill, size, w, sp = HOST_LABEL, 10.5, 600, 1.6
-        elif cls == "coop":
-            fill, size, w, sp = COOP_LABEL, 10.5, 600, 1.6
-        elif cls == "eu":
-            fill, size, w, sp = COOP_LABEL, 9.5, 600, 1.2
-        elif cls == "coop_small":
-            fill, size, w, sp = COOP_LABEL, 9, 500, 1.2
-        else:
-            fill, size, w, sp = DIM, 9.5, 500, 1.4
+        style = {"host": (HOST_LABEL, 10.5, 600, 1.6),
+                 "eu": (PILLAR_EU_LABEL, 10.5, 600, 1.6),
+                 "us": (PILLAR_US_LABEL, 10.5, 600, 1.6),
+                 "blackbox": (PILLAR_RU_LABEL, 10.5, 600, 1.6),
+                 "us_small": (PILLAR_US_LABEL, 9, 500, 1.2),
+                 "dim": (DIM, 9.5, 500, 1.4)}[cls]
+        fill, size, w, sp = style
         parts.append(text(x, y, s, size, fill, anchor, w, sp))
+        if s in BADGED_LABELS:
+            tw = len(s) * size * 0.62 + sp * max(len(s) - 1, 0)
+            bx = x - tw / 2 - 14 if anchor == "middle" else x - 14
+            parts.append(f'<circle cx="{fmt(bx)}" cy="{fmt(y - 4)}" r="4.5" fill="none" '
+                         f'stroke="#eef4ff" stroke-width="1.3" opacity="0.95"/>')
+            parts.append(f'<circle cx="{fmt(bx)}" cy="{fmt(y - 4)}" r="1.4" '
+                         f'fill="#eef4ff" opacity="0.95"/>')
 
     # D-sites
     for lon, lat, desig, name, dx, anchor in DSITES:
@@ -425,15 +463,15 @@ def main():
     parts.append(text(44, 52, "THE REOPENING", 34, TEXT, "start", 700, 8))
     parts.append(text(45, 74, "GATES OF EARTH — SITUATION MAP · 2034", 13.5, SUB, "start", 600, 4))
     parts.append(text(45, 90, "JOINT PORTAL COMMAND · PUBLIC BRIEFING · ROBINSON PROJECTION", 9.5, DIM, "start", 500, 2.4))
-    # compass
-    cx, cy = W - 60, 56
+    # compass (top-right of the map area, over the Bering Strait)
+    cx, cy = 1595, 56
     parts.append(f'<circle cx="{cx}" cy="{cy}" r="24" fill="none" stroke="{SUB}" stroke-width="1" opacity="0.8"/>')
     parts.append(f'<line x1="{cx}" y1="{cy+18}" x2="{cx}" y2="{cy-18}" stroke="{SUB}" stroke-width="1.2" opacity="0.8"/>')
     parts.append(f'<polygon points="{cx},{cy-22} {cx-4.5},{cy-12} {cx+4.5},{cy-12}" fill="{OPEN}"/>')
     parts.append(text(cx, cy + 36, "N", 12, SUB, "middle", 600, 1))
 
-    # ---- gate register (bottom-left)
-    rx, ry, rw = 44, 556, 356
+    # ---- gate register (right rail, below the legend)
+    rx, ry, rw = 1664, 530, 412
     rh = 30 + len(REGISTER) * 26 + 12
     parts.append(f'<rect x="{rx}" y="{ry}" width="{rw}" height="{rh}" rx="6" '
                  f'fill="{PANEL}" stroke="{PANEL_STROKE}" stroke-width="1" opacity="0.94"/>')
@@ -448,52 +486,76 @@ def main():
         parts.append(text(rx + 34, y + 13, line2, 8.5, SUB, "start", 400, 0.4))
         y += 26
 
-    # ---- legend (bottom-right)
-    lx, ly = W - 360, H - 300
+    # ---- legend (right rail, top) — fill = cooperation sphere, ⊕ = holds a gate
+    lx, ly, lw = 1664, 60, 412
     rows = [
-        ("swatch", HOST, HOST_STROKE, "Gate host nation (8 of 9 surviving gates)",
-         ["Russia · Norway · Ethiopia · Iran", "Saudi Arabia · DR Congo · Peru · Greenland"]),
-        ("swatch", COOP, COOP_STROKE, "Cooperating nation",
-         ["EU-27 · United States · Djibouti · Qatar · UAE"]),
+        ("swatch", PILLAR_EU, PILLAR_EU_STROKE,
+         "EUROPEAN PILLAR — cooperates on Alpha (Deep Gate)",
+         ["Norway ⊕ — holds the gate",
+          "EU-27 — the force, the funding, the rotation"]),
+        ("swatch", PILLAR_US, PILLAR_US_STROKE,
+         "AMERICAN PILLAR — cooperates on Bravo (Salt Gate)",
+         ["Ethiopia ⊕ — holds the gate",
+          "United States (lead) · Saudi Arabia ⊕ (Dune) · UAE",
+          "Qatar · Djibouti (supply hub)"]),
+        ("swatch", PILLAR_RU, PILLAR_RU_STROKE,
+         "RUSSIAN BLACK BOX — the Mine Gate",
+         ["Russia ⊕ — sole operator, no cooperation"]),
+        ("swatch", HOST, HOST_STROKE,
+         "INDEPENDENT HOSTS — contained under JPC",
+         ["Iran ⊕ · DR Congo ⊕ · Peru ⊕",
+          "Denmark/Greenland ⊕ — the Ice Gate"]),
         ("glyph", "open", None, "Open gate — held two-way (2)", None),
         ("glyph", "contained", None, "Contained gate (6)", None),
         ("glyph", "blackbox", None, "Black box — status unknown (1)", None),
         ("glyph", "destroyed", None, "Destroyed gate (2)", None),
         ("glyph", "dsite", None, "Dormant anchor — D-site (6 of the 38 that never woke)", None),
+        ("note", None, None, "⊕ = HOLDS A GATE · fill = who it cooperates with",
+         ["The pillars do not cooperate with each other.",
+          "Russia's access to an open gate: unknown, not denied."]),
     ]
     heights = [27 + 13 * len(r[4]) if r[4] else 27 for r in rows]
     panel_h = 34 + sum(heights) + 12
-    parts.append(f'<rect x="{lx}" y="{ly}" width="340" height="{panel_h}" '
-                 f'rx="6" fill="{PANEL}" stroke="{PANEL_STROKE}" stroke-width="1" opacity="0.94"/>')
-    parts.append(text(lx + 16, ly + 26, "LEGEND", 11, SUB, "start", 700, 3))
+    parts.append(f'<rect x=\"{lx}\" y=\"{ly}\" width=\"{lw}\" height=\"{panel_h}\" '
+                 f'rx=\"6\" fill=\"{PANEL}\" stroke=\"{PANEL_STROKE}\" stroke-width=\"1\" opacity=\"0.94\"/>')
+    parts.append(text(lx + 16, ly + 26, "LEGEND — HOW TO READ THE MAP", 11, SUB, "start", 700, 3))
     y = ly + 52
     for (kind, a, b, label, subs), rh in zip(rows, heights):
         if kind == "swatch":
-            parts.append(f'<rect x="{lx+16}" y="{y-9}" width="16" height="10" rx="2" fill="{a}" stroke="{b}" stroke-width="0.8"/>')
+            parts.append(f'<rect x=\"{lx+16}\" y=\"{y-9}\" width=\"16\" height=\"10\" rx=\"2\" '
+                         f'fill=\"{a}\" stroke=\"{b}\" stroke-width=\"0.8\"/>')
+            tx = lx + 42
+        elif kind == "note":
+            tx = lx + 16
         elif a == "open":
-            parts.append(f'<circle cx="{lx+24}" cy="{y-4}" r="5.5" fill="{OPEN}" stroke="{MARK_HALO}" stroke-width="1.2"/>')
+            parts.append(f'<circle cx=\"{lx+24}\" cy=\"{y-4}\" r=\"5.5\" fill=\"{OPEN}\" stroke=\"{MARK_HALO}\" stroke-width=\"1.2\"/>')
+            tx = lx + 42
         elif a == "contained":
-            parts.append(f'<circle cx="{lx+24}" cy="{y-4}" r="5" fill="#0e2238" stroke="{CONT}" stroke-width="1.8"/>')
+            parts.append(f'<circle cx=\"{lx+24}\" cy=\"{y-4}\" r=\"5\" fill=\"#0e2238\" stroke=\"{CONT}\" stroke-width=\"1.8\"/>')
+            tx = lx + 42
         elif a == "blackbox":
-            parts.append(f'<rect x="{lx+20}" y="{y-9}" width="8" height="8" fill="#221140" stroke="{BLACKBOX}" stroke-width="1.4"/>')
+            parts.append(f'<rect x=\"{lx+20}\" y=\"{y-9}\" width=\"8\" height=\"8\" fill=\"#221140\" stroke=\"{BLACKBOX}\" stroke-width=\"1.4\"/>')
+            tx = lx + 42
         elif a == "destroyed":
-            parts.append(f'<circle cx="{lx+24}" cy="{y-4}" r="5" fill="{DEST_FILL}" stroke="{DEST}" stroke-width="1.3"/>')
-            parts.append(f'<line x1="{lx+21.2}" y1="{y-6.8}" x2="{lx+26.8}" y2="{y-1.2}" stroke="{DEST}" stroke-width="1.5"/>')
-            parts.append(f'<line x1="{lx+26.8}" y1="{y-6.8}" x2="{lx+21.2}" y2="{y-1.2}" stroke="{DEST}" stroke-width="1.5"/>')
+            parts.append(f'<circle cx=\"{lx+24}\" cy=\"{y-4}\" r=\"5\" fill=\"{DEST_FILL}\" stroke=\"{DEST}\" stroke-width=\"1.3\"/>')
+            parts.append(f'<line x1=\"{lx+21.2}\" y1=\"{y-6.8}\" x2=\"{lx+26.8}\" y2=\"{y-1.2}\" stroke=\"{DEST}\" stroke-width=\"1.5\"/>')
+            parts.append(f'<line x1=\"{lx+26.8}\" y1=\"{y-6.8}\" x2=\"{lx+21.2}\" y2=\"{y-1.2}\" stroke=\"{DEST}\" stroke-width=\"1.5\"/>')
+            tx = lx + 42
         elif a == "dsite":
-            parts.append(f'<path d="M{lx+24},{y-8.6}L{lx+27.6},{y-4}L{lx+24},{y+0.6}L{lx+20.4},{y-4}Z" fill="none" stroke="{DSITE}" stroke-width="1.1"/>')
-        parts.append(text(lx + 42, y, label, 10.5, "#b9c6da", "start", 400, 0.2))
+            parts.append(f'<path d=\"M{lx+24},{y-8.6}L{lx+27.6},{y-4}L{lx+24},{y+0.6}L{lx+20.4},{y-4}Z\" fill=\"none\" stroke=\"{DSITE}\" stroke-width=\"1.1\"/>')
+            tx = lx + 42
+        parts.append(text(tx, y, label, 10.5, "#b9c6da", "start", 400, 0.2))
         if subs:
             sy = y + 14
             for s in subs:
-                parts.append(text(lx + 42, sy, s, 9, DIM, "start", 400, 0.4))
+                parts.append(text(tx, sy, s, 9, DIM, "start", 400, 0.4))
                 sy += 13
         y += rh
 
     # ---- footer counts
     foot = ("THE 47 — 2 HELD · 6 CONTAINED · 1 BLACK BOX · 1 DORMANT · 2 NUKED · 35 DESTROYED   |   "
             "THE LATTICE — 85 ANCHORS · 9 DENIED · 6 D-SITES · 2 MISSING")
-    parts.append(text(W / 2, H - 22, foot, 9.5, DIM, "middle", 500, 1.2))
+    parts.append(text(862, H - 22, foot, 9.5, DIM, "middle", 500, 1.2))
 
     parts.append("</svg>")
     os.makedirs(os.path.dirname(OUT), exist_ok=True)

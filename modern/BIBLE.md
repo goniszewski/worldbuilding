@@ -13,7 +13,7 @@ summary: "Core reference bible for the Modern Earth setting — the Reopening, t
 
 ![The Gates of Earth — JPC situation map, 2034](../art/generated/gates-of-earth-2034.svg)
 
-*A JPC public-briefing map of the Reopening: the two held-open doors and their pillars, the containment gates, the Siberian black box, the two nuked gates, and the nations that host or cooperate on them. Generated from canon — hosts and spheres in [The Nations](factions/nations.md), the dormant D-sites and the Denied in [The Lattice](lore/the-lattice.md).*
+*A JPC public-briefing map of the Reopening: the two held-open doors and their pillars, the containment gates, the Siberian black box, the two nuked gates, and the nations that hold or cooperate on them. Fill color shows who each nation cooperates with — the European pillar (blue), the American pillar (teal), the Russian black box (violet), and the independent hosts (amber); the ⊕ badge marks the states that hold a gate. Generated from canon — hosts and spheres in [The Nations](factions/nations.md), the dormant D-sites and the Denied in [The Lattice](lore/the-lattice.md).*
 
 ## Core Premise
 
